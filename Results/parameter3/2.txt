@@ -1,0 +1,256 @@
+{
+  "took" : 13,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 2651,
+    "max_score" : 21.066332,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1133",
+        "_score" : 11.463701,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Modelling the European data economy The Modelling the European Data Economy EuDEco project will assist European science and industry in understanding and exploiting the potentials of data reuse in the context of Big and Open Data big data The aim isto establish a self sustaining data market and thereby increase the competitiveness of Europe To be able to extract the benefits of data reuse it is crucial to know how to understand the underlying economic societal legal and technological framework conditions and challenges to build useful applications and services Despite the amount of activities in this domain an effort is missing to develop use cases and business models that are economic viable legally certain and taking societal needs and concerns into accountEuDEco will accomplish this by leveraging the engagement of other projects conducting pilots on data reuse as well as by the engagement of external experts and stakeholders EuDEco moves beyond the classical approaches by applying the approach of complex adaptive systems to model the data economy in order to indentify value networks use cases and business models for data reuse In the course of the project will develop and refine the data economy model in several steps further by case studies on previous pilots on data reuse by indepth analysis from legal socioeconomic and technological point of view and by extensive tests of use cases and business models with other projects Therefore it will analyse framework conditions relevant and challenges related to data reuse and the emergence of a selfsustaining data marketFinally EuDEco will deliver a model of the data economy including viable use cases and business models as well as suggestions and recommendations addressing the main legal contractual societal and technological concerns and challenges such as contractual framework or data protection Above that EuDEco will develop an observatory for policy makers enabling them to track the development of the data economy",
+          "Rcn" : "194301",
+          "Acronym" : "EuDEco"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "444",
+        "_score" : 11.206811,
+        "_source" : {
+          "identifier" : "ERC2014STG",
+          "Text" : "Distributed Optimization Methods for Smart CyberPhysical Networks The combination of embedded electronics and communication capability in almost any mobile or portable device has turned this century into the age of cyberphysical networks Smart communicating devices with their sensing computing and control capabilities promise to make our cities transportation systems factories and living environments more intelligent energyefficient safe and secure This extremely complex system has raised a number of new challenges involving ICT disciplines In particular a novel peertopeer distributed computational model is appearing as a new opportunity in which a service is builtup cooperatively by peers rather than by a unique provider that knows and owns all data The interdisciplinary Optimization Community is facing this revolution sharing a common need to find new theories methodologies and tools to optimize over this complex network system With this in mind OPT4SMART has a twofold objective First to provide a comprehensive theoretical framework to solve distributed optimization problems over peertopeer networks Second to develop effective numerical tools based on this framework to solve estimation learning decision and control problems in cyberphysical networks To achieve this twofold objective we will take a systemstheory perspective Specific problems from these four areas will be abstracted to a common mathematical setup and addressed by means of interdisciplinary methodologies arising from a synergic combination of optimization controls and graph theories In particular OPT4SMART will face the challenge of solving optimization problems under severe communication limitations verylargescale problem and data size and realtime computational constraints The expected result will be a combination of strong theoretical methods and effective numerical toolboxes available to people in Engineering Computer Science Mathematics and other areas who are facing optimization in cyberphysical networks",
+          "Rcn" : "193612",
+          "Acronym" : "OPT4SMART"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10423",
+        "_score" : 10.851352,
+        "_source" : {
+          "identifier" : "ERC2016STG",
+          "Text" : "Symmetric Cryptography in the PostQuantum World As years go by the existence of quantum computers becomes more tangible and the scientific community is already anticipating the enormous consequences of the induced breakthrough in computational power Cryptology is one of the affected disciplines Indeed the current stateoftheart asymmetric cryptography would become insecure and we are actively searching for alternatives Symmetric cryptography essential for enabling secure communications seems much less affected at first sight its biggest known threat is Grovers algorithm which allows exhaustive key searches in the square root of the normal complexity Thus so far it is believed that doubling key lengths suffices to maintain an equivalent security in the postquantum worldThe security of symmetric cryptography is completely based on cryptanalysis we only gain confidence in the security of a symmetric primitive through extensive and continuous scrutiny It is therefore not possible to determine whether a symmetric primitive might be secure or not in a postquantum world without first understanding how a quantum adversary could attack it Correctly evaluating the security of symmetric primitives in the postquantum world cannot be done without a corresponding cryptanalysis toolbox which neither exists nor has ever been studied This is the big gap I have identified and that I plan to fill with this projectNext doubling the key length is not a trivial task and needs to be carefully studied My ultimate aim is to propose efficient solutions secure in the postquantum world with the help of our previously obtained quantum symmetric cryptanalysis toolbox This will help prevent the chaos that big quantum computers would generate being ready in advance will definitely save a great amount of time and money while protecting our current and future communicationsThe main challenge of QUASYModo is to redesign symmetric cryptography for the postquantum world",
+          "Rcn" : "206720",
+          "Acronym" : "QUASYModo"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3106",
+        "_score" : 10.636287,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Point of care medical device enabling patient selfassessment for acne diagnosis support mySkin aims to offer a medically certified skin imaging point of care device for acne diagnosis support ScanZ The product is available in two forms a consumer electronic version for patients to perform a selfanalysis and track the health of their skin away outside the clinic a premium version for use by health care professionals doctorsnurses to speed up the assessment and support diagnosis ScanZ is easytouse handheld device and connects to the users smart device enabling instant viewing and realtime info sharing between the patient and the doctor replacing follow ups The device also remotely connects with the data server for data of images creating a large catalogue of clinical traces enabling big data analytics of acneThe ScanZ tool is able to understand what is happening under the skin and take measurements in the sebaceous glands and the various layers of the epidermis It is selflearning and gets to know the user over time improving its recommendations and predictions the more it is usedFor patients ScanZ means they can save time by not having to attend follow up vistis yet get the same service and for doctors it means they can concentrate on patients with more severe problems and reduce the waiting list timeScanZ has reached TRL 7 and now requires funding to get it medically certified allowing it to be used by doctors support their diagnosisScanZ project is proposed by a Serbian SME mySkin specialised on skin diagnostic tools",
+          "Rcn" : "196277",
+          "Acronym" : "ScanZ"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10232",
+        "_score" : 10.152607,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "PrEstoCloud  Proactive Cloud Resources Management at the Edge for Efficient RealTime Big Data Processing PrEstoCloud project will make substantial research contributions in the cloud computing and realtime data intensive applications domains in order to provide a dynamic distributed selfadaptive and proactively configurable architecture for processing Big Data streams In particular PrEstoCloud aims to combine realtime Big Data mobile processing and cloud computing research in a unique way that entails proactiveness of cloud resources use and extension of the fog computing paradigm to the extreme edge of the network The envisioned PrEstoCloud solution is driven by the microservices paradigm and has been structured across five different conceptual layers i Metamanagement ii Control iii Cloud infrastructure iv CloudEdge communication and v Devices layers This innovative solution will address the challenge of cloudbased selfadaptive realtime Big Data processing including mobile stream processing and will be demonstrated and assessed in several challenging complementary and commerciallypromising pilots There will be three PrEstoCloud pilots from the logistics mobile journalism and security surveillance application domains The objective is to validate the PrEstoCloud solution prove that it is domain agnostic and demonstrate its addedvalue for attracting early adopters thus initialising the exploitation process early on",
+          "Rcn" : "206360",
+          "Acronym" : "PrEstoCloud"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15594",
+        "_score" : 10.127127,
+        "_source" : {
+          "identifier" : "ERC2017STG",
+          "Text" : "Data Assimilation for AgentBased Models Applications to Civil Emergencies Civil emergencies such as flooding terrorist attacks fire etc can have devastating impacts on people infrastructure and economies Knowing how to best respond to an emergency can be extremely difficult because building a clear picture of the emerging situation is challenging with the limited data and modelling capabilities that are available Agentbased modelling ABM is a field that excels in its ability to simulate human systems and has therefore become a popular tool for simulating disasters and for modelling strategies that are aimed at mitigating developing problems However the field suffers from a serious drawback models are not able to incorporate uptodate data eg social media mobile telephone use public transport records etc Instead they are initialised with historical data and therefore their forecasts diverge rapidly from realityTo address this major shortcoming this research will develop dynamic data assimilation methods for use in ABMs These techniques have already revolutionised weather forecasts and could offer the same advantages for ABMs of social systems There are serious methodological barriers that must be overcome but this research has the potential to produce a step change in the ability of models to create accurate shortterm forecasts of social systems The project is largely methodological and will evidence the efficacy of the new methods by developing a cuttingedge simulation of a city  entitled the Dynamic Urban Simulation Technique DUST  that can be dynamically optimised with streaming big data The model will ultimately be used in three areas of important policy impact 1 as a tool for understanding and managing cities 2 as a planning tool for exploring and preparing for potential emergency situations and 3 as a realtime management tool drawing on current data as they emerge to create the most reliable picture of the current situation",
+          "Rcn" : "212715",
+          "Acronym" : "DUST"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10069",
+        "_score" : 10.116458,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "QROWD  Because Big Data Integration is Humanly Possible Big Data integration in European cities is of utmost importance for municipalities and companies to offer effective information services enable efficient datadriven transportation and mobility reduce CO2 emissions assess the efficiency of infrastructure as well as enhance the quality of life of citizens At present this integration is substantially limited due to the following factors 1 Urban Big Data is locked in isolated industrial and public sectors and 2 The actual Big Data integration is an extremely hard technical problem due to the heterogeneity of data sources variety of formats sizes quality as well as update rates such that the integration requires significant human intervention QROWD addresses these challenges by offering methods to perform crosssectoral streaming Big Data integration including geographic transport meteorological cross domain and news data while capitalizing on human feedback channels The main objectives of QROWD are 1 Facilitating crosssectoral Big Data stream integration for urban mobility including realtime data on individual and public transportation combined with further available sources such as weather conditions and infrastructure information to create a comprehensive overview of the city traffic 2 Supporting participation and feedback of various stakeholder groups to foster datadriven innovation in cities and 3 Building a platform providing hybrid computational methods relying on efficient algorithms complemented with human computation and feedback The main outcomes of QROWD are 1 Two data value chains in the sectors of urban mobility and public transportation using a mix of large scale heterogeneous multilingual datasets and 2 Crosssectoral and crosslingual technology including algorithms and tools covering all phases of the crosssectoral Big Data Value Chain building on W3C standards and capitalizing on a flexible and efficient combination of human and machinebased computation",
+          "Rcn" : "206181",
+          "Acronym" : "QROWD"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1737",
+        "_score" : 9.982261,
+        "_source" : {
+          "identifier" : "H2020DRS2014",
+          "Text" : "Optimising timetoFLY and enhancing airport SECurity Complementing the ACIIATA efforts FLYSEC project aims to develop and demonstrate an innovative integrated and endtoend airport security process for passengers enabling a guided and streamlined procedure from the landside to airside and into the boarding gates and offering for the first time an operationally validated innovative concept for endtoend aviation security On the technical side FLYSEC achieves its ambitious goals by integrating new technologies on video surveillance intelligent remote image processing and biometrics combined with big data analysis opensource intelligence and crowdsourcing Repurposing existing technologies is also in the FLYSEC objectives such as mobile application technologies for improved passenger experience and positive boarding applications ie services to facilitate boarding and landsideairside wayfinding as well as RFID for carryon luggage tracking and quick unattended luggage handling Besides more efficient background checks and passenger profiling FLYSEC aims to implement a seamless riskbased security process within FLYSEC combining the aforementioned technologies with behavioural analysis and innovative cognitive algorithms A key aspect in the design of FLYSEC riskbased security is applying  ethicalbydesign patterns  maximizing the efficiency of security controls through passenger differentiation ranging from unknown to trusted while remaining ethical and fair in the process Policy regulatory and standardisation aspects will also be examined in the context of FLYSEC innovative security concept",
+          "Rcn" : "194906",
+          "Acronym" : "FLYSEC"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "16413",
+        "_score" : 9.975605,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "Prediction and optimisation platform for the mobile assets management Everysens a French SME company expert in IoT and Software as a Service SaaS solutions for the traceability and logistic sectors proposes the next generation of intelligent based tracking solution for the market niches that face the challenges of mobile assets management More precisely this project targets business holding or renting highvalue assets such as construction and public work equipment dumpster of waste and transport and logistic companies eg rail freight logistics Today most mobile tracking systems are addressed to motorised mobile assets and do not have enough autonomy to operate on nonmotorised items as wagons or dumpsters They ensure a so called continuous tracking which practically is limited to sending periodic alerts with no realtime tracking and are not based on intelligent analysis and statistics that allows forecasting Besides current technologies experiment from inefficient data transmission coverage challenges in remote areas and high energy consumption for the sensors Everysens will offer them OMNISCIENT a prediction SaaS platform based on bespoke artificial intelligence not only for inventory but also to allow the realtime mobile asset localisation management and accurate forecasting and planning to enhance operational efficiency of our clients and increase their revenues Our technology presents a data transmission reliability of 98 and its modular structure allows to easily apply different business rules for different market applications In this way our customers will be able to contribute to European Initiatives to improve railway competitiveness such as the Shift2Rail Joint Undertaking S2R JU initiative or the Waste Directive Framework to buildup the traceability capacity along the recycling value chain With the commercialization of OMNISICIENT Everysens expects 103 million of accumulated revenues in 2024 which will require to dimension the company structure with 40 additional employees",
+          "Rcn" : "213660",
+          "Acronym" : "OMNISCIENT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13321",
+        "_score" : 9.875029,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : """GNSS for massmarket InternetofThings tracking applications Our project intends to foster InternetofThings tracking applications by delivering a breakthrough GNSSbased sensing technology that is lowpower and lowcostGNSS are historically designed for autonomous positioning such as car navigation systems and imply high battery needs for the receivers Observing that tracking applications do not require the asset to know its own position but rather the application itself our innovation introduces a new system approach for small batterypowered electronic devices using lowpower wireless connectivity With our solution they can only sense the GNSS signals and the position is computed in a cloudbased server whereby power consumption is not an issueBy offering a 10X decrease in power consumption compared to stateoftheart technologies and matching with IoT networks constraints our technology meets the crucial requirements in terms of power consumption costs and services in order to address the most significant opportunities in the assets pallets trailers livestock and personal people belongings pets tracking marketsDelivered as geolocation cloud services the solution under development will enable the tracking system providers to tackle massmarkets needs on top of which	For professional usecases Insuring ReturnonInvestment by achieving a costeffective tracker that lasts as long as the object without replacing cells	For consumer usecases Managing enduser acceptance by reaching a compact design while showcasing sufficient autonomyThe feasibility assessment will focus on the economic viability and on the necessary steps for a successful gotomarket strategy While this project covers worldwide challenges in different verticals logistics manufacturing agriculture consumers Europe is at the heart of our developments because1	Europe is currently the de facto cradle of IoT wireless networks2	It will contribute to make Galileo the default option for IoT tracking applications""",
+          "Rcn" : "210106",
+          "Acronym" : "UBIGNSS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3327",
+        "_score" : 9.80821,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "BIG DATA using SECOND SCREEN AND CONTENT RECOGNITION BDuSSCR TV Viewers demand a personalized and richer experience while watching TV Broadcast TV and producers try to develop interactive products to build a stronger engagement with their audiences Advertisers are tired of ad strategies that are not measurable nor resultsoriented Most of the broadcasting agents TVradio broadcasters content producers advertisers and their agencies have poor information about the current behavior of their audiences To improve the quality of such information they need to incorporate on a personalized way Big Data tools that help develop new strategies into their business activitiesBridge Mediatech SL from now on BMT a Spanish technology company has developed a Cloudbased Platform embedding its patented Automatic Content Recognition ACR technology in order to provide a richer experience to the audience It also provides the broadcasting players with an easy to install and operate Big Data Platform to improve the engagement with their audience It helps getting to know them better and it allows to offer customized contents tailored to their needs product and servicesAfter having proved the core of the technology in the worlds largest Spanish speaking broadcasting player like Televisa its time to start thinking about large scale solution deployment and international expansion For that reason BMT applies to this call to develop the Feasibility study needed to accomplish the technology consolidation and large scale deployment which will let BMT become the global leader in this emerging and innovative marketplace",
+          "Rcn" : "196518",
+          "Acronym" : "BDuSSCR"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11587",
+        "_score" : 9.725083,
+        "_source" : {
+          "identifier" : "H2020SwafS20161",
+          "Text" : "Enhancing Research Careers and mobility in Macedonia The main goal of the project ENCRICLE is to organize an ERA Career and Mobility Days event in the Republic of Macedonia with the vision to better inform the generation of young researchers in the country about their career prospects in Europe The focus will be on the jobs provided by the EURAXESS jobs portal but other groups are targeted as well The project contains three major objectives 1 To provide targeted mobility information on jobs funding and research positions to 3050 students in each of the following tracks Engineering Sciences Medicine and Life Sciences Social Sciences Innovation and Enterpreneurship and Natural Sciences2 To provide targeted career development and mobility information on jobs funding and research positions to 515 R2 researchers in each of the following tracks Engineering Sciences Medicine and Life Sciences Social Sciences Innovation and Enterpreneurship and Natural Sciences3 To engage at least 30 companies from the industrial sector in using the capabilities of the EURAXESS jobs portalThe event will contain 7 different activities including plenary sessions science tracks student opportunity lab an open source lab a career fair a community fair and a poster session",
+          "Rcn" : "208192",
+          "Acronym" : "ENCIRCLE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15373",
+        "_score" : 9.695717,
+        "_source" : {
+          "identifier" : "H2020SCC2017",
+          "Text" : "Integrated and Replicable Solutions for CoCreation in Sustainable Cities The IRIS project supports the Lighthouse cities of Utrecht NL Gteborg SE and Nice Cte dAzur FR and their Follower cities Vaasa FI Alexandroupolis GR Santa Cruz de Tenerife ES and Focsani RO to address their urgent need to deliver energy and mobility services in their cities that are cheaper better accessible reliable and that contribute to a better and more sustainable urban quality of lifeBy demonstrating smart solutions that integrate energy mobility and ict rooted in a City Innovation Platform IRIS quantifies their value and connects interests of many different stakeholders in innovative business models allowing for upscale and replication of integrated solutions for sustainable cities across Europe and worldwideTo achieve this IRIS works along five Transition Tracks based on common challenges encompassing 16 integrated solutions that cities can mix and match according to their characteristics and district specific needs Track 1 2 and 3 enhance energy efficiency and utilize grid flexibility by balancing supply and demand dynamically and by 2nd life battery and V2G storage to allow increase of renewable energy production and rollout of ecars and ebuses Track 4 supports this by data sharing a common architecture use of standards and governance practices accelerating innovation standardisation and implementation of affordable smart applications Track 5 integrates interdisciplinary citizen engagement and cocreation in Tracks 1 to 4 connecting the needs of endusers with those of other stakeholders in further support of innovative business models The expected impacts of IRIS are an open innovation ecosystem motivating citizens to act as prosumers more effective urban planning and governance of integrated solutions exploitation of validated innovative business models based on multistakeholder collaboration more stable secure and affordable energy and mobility services for citizens with improved air quality",
+          "Rcn" : "212411",
+          "Acronym" : "IRIS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14754",
+        "_score" : 9.657616,
+        "_source" : {
+          "identifier" : "H2020MG2017SingleStageINEA",
+          "Text" : "NOvel Decision Support tool for Evaluating Strategic Big Data investments in Transport and Intelligent Mobility Services NOESIS project will identify the critical factorsfeatures which lead to successful implementation of Big Data technologies and services in the field of transport and logistics with significant value generation from a socioeconomic viewpoint This will be achieved through the examination of areas and contexts throughout Europe in which ICT investments and exploitation of data should be implemented The impact of Big Data will be evaluated in a series of transportation use cases Big Data in Transport Library by developing and applying a Learning framework and a Value Capture mechanism which will estimate the expected benefits and costs",
+          "Rcn" : "211706",
+          "Acronym" : "NOESIS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5497",
+        "_score" : 9.561119,
+        "_source" : {
+          "identifier" : "H2020SMEINST12015",
+          "Text" : "Feasibility Study for the CBT Academy  Several market trends have resulted in a decreasing availability of workers fit for andor interested in positions which require mediumtohigh skills in the ICT sector as code programming All the while ICT companies grow exponentially and increasingly other sectors need programming for their daily activities Big Data This has caused a Skills Gap which by 2020 will result in the shortage of 85 million mediumtohigh skilled workers and a surplus of 90 million low skilled workers The identification of this market failure which has tremendous impact on the performance and growth of companies lost revenue and higher costs throughout the EU motivated CBT to develop an innovative business model to commercially explore this opportunity with the CBT Academy project Its business model and concept are based on organizing training courses to upskill capable lowskilled workers into mediumtohigh skills code programmers The courses content will be defined by the effective needs of CBT Groups ICT clients thus increasing the employment potential of the Academys trainees This concept can be summarized as JustinTime Skills where potential candidates enter a course knowing that a job opportunity will be waiting for them if they finish it successfully More than 15 years of experience in the recruitment sector in various countries have validated the need and willingnesstopay of companies for the results the CBT Academy wants to achieve regular groups of motivated capable and mobile workers to fill the growing positions with programming tasks Although the concept is considered promising the company feels the need to further explore detail and quantify the business model For this it will develop a Feasibility Study focusing on defining and studying critical variables of the business the deliverable to the Phase 1 of the SME Instrument Thus this proposal inserts itself in the INSO1020151 call SME Business model innovation",
+          "Rcn" : "199229",
+          "Acronym" : "CBTA"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11540",
+        "_score" : 9.554022,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "PROXITRAK  next generation IoT tracking solution for a connected logistics  collect analyse and visualise big data in a true real time ProxiGroup delivers innovative cloud software solutions for effective and inexpensive deployment and management of Internet of Things IoT asset tracking systems exploiting live and actionable Big Data analytics We are a team of experienced entrepreneurs highlyqualified engineers and commercialisation experts Our knowledge experience from the previous projects and a support of investors and business partners providing distribution channels will enable us to introduce disruptive PROXITRAK solution to the marketThe problem we are addressing is limited visibility of assets throughout the enterprise and in the supply chain which generates billions EUR lost every year in the EU The emerging Internet of Things IoT concept is providing opportunity for efficient management of the company assets more than 64 billion connected things will be in use worldwide in 2016 On the other hand expensive site surveys large IT infrastructure requirements deployment cost etc are holding the growth of IoT ProxiGroup is taking this opportunity by offering an innovative software solution which enables 1 true real time tracking of assets enabling immediately identifying and reacting for any potential bottlenecks in the operation globally 2 virtual 3D site surveys for the connected logistics systems providing 5fold decrease in deployment cost 3 full warehouse inventory available anytime in a realtime 4 realtime tracking of multiple locations globally from the cloud PROXITRAK will be offered in a SoftwareasaService model which significantly reduces price for the enduser it will be especially beneficial for the SMEsWithin the proposed Phase 1 SME Instrument project we will conduct a comprehensive feasibility study including a detailed business plan The Phase 2 project will be focused on bringing PROXITRAK from the current TRL 6 to TRL 9 and confirm its technological excellence through pilot deployment with the business partner",
+          "Rcn" : "208145",
+          "Acronym" : "PROXITRAK"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3880",
+        "_score" : 9.536152,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Mobile Positioning Data as a Source for Aggregated Human Mobility Statistics Mobile positioning data can increase our understanding of movements in society and for businesses it helps map the locations of its customers In an industry worth 11 billion in a few short years there are few competitors Positium positions itself between the client and mobile network operator to analyze Big Data of mobile phone locations providing clients with faster and more costeffective analysis based on a large population rather than a sampleThere are multiple domains where such data is directly relevant The objective of the business plan is to conduct domainspecific market research assess the requirements for development of the technology and specify the business model for Positium Data Mediator  a product to extract process and deliver the insights from mobile big data to users globally At current stage Positium Data Mediator works in Estonia in domains like urban planning transportation planning geomarketing tourism statistics Positium is transforming from a global market leader in its home market to a global player in multiple markets in the EU and emerging countriesThe business plan will be vital to narrow down the focus for expansion and determine strategies to pick the lowhanging fruit In the business plan the selection of domains geographical regions and development requirements will be investigated using surveys and interviews among potential customers market research and financial calculations The outcome of the business plan is a recommendation on the geographic expansion business model and the need for technology development and a business plan",
+          "Rcn" : "197167",
+          "Acronym" : "MOBPOSSTAT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1679",
+        "_score" : 9.504847,
+        "_source" : {
+          "identifier" : "H2020BES2014",
+          "Text" : "effective Container inspection at BORDer control points Efficient NII nonintrusive inspection of containerised freight is critical to trade and society Freight containers are potential means for smuggling eg tobacco illegal immigration trafficking of drugs misdeclared goods and dangerous illicit substances including explosives nuclear material chemical and biological warfare agents and radioactively contaminated goods One inspection NII technology cannot cope with all these targets The CBORD Toolbox and Framework will address all these targets and enable customs to deploy comprehensive costeffective container NII solutions to potentially protect all EU sea and landborders satisfying a large range of container NII needs The CBORD Toolbox will include 5 complementary innovative detection technologies delivering improved Xrays Target Neutron Interrogation Photofission Sniffing and Passive Detection User interfaces and data will be integrated to optimise effectiveness and efficiency of endusers and systems The CBORD Framework will help customs analyse their needs design integrated solutions and optimise the container inspection chain it will address detection levels false alarm levels throughput health  safety logistics and cost  benefitsCBORD will increase the probability of finding illicit or dangerous content with at least equal throughput of containers per time unit reduce the need for costly timeconsuming and dangerous manual container inspections by customs officials and in case a container is opened increase the probability of finding illicit materials CBORD involves stakeholders from 8 EU countries as partners 5 and advisory group members 3 On 3 custom sites integrated solutions will be trialled respectively addressing the needs of big seaports small seaports and mobile landborders To optimise sustainable impact CBORD will actively engage with a large community will support policy implementation evolution and start early exploitation planning",
+          "Rcn" : "194848",
+          "Acronym" : "C-BORD"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3859",
+        "_score" : 9.470485,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "QuickTicket Mobile app for sell tickets for live shows with discounts and buy in two tapsQuickticket is a smartphone app where you can buy last minute tickets with big discounts The main target of Quickticket is to make a success of every live show by selling all their tickets Concert and theatre halls do not sell all their tickets on a daily basis The European crisis has made the situation worse the bigger the venue bigger the amount of empty seats around 40 is empty during week days The market of unsold tickets in Spain alone is bigger than 170 M EURThis outcome provokes many theatres and concert halls to close due to the lack of businessThe solution that Quickticket is proposing is to solve this problem by providing event promoters a tool to upload their spare tickets to the platform when they realize they will not sell out Our aim is to optimize the capacity of their event and revenues from one side and from the other we provide to our users the best offers on live events on the marketAdvantages QuickTicket For venues Do not sell all their tickets  Having fix costs the market of unsold tickets is really big Users Looking for activities for today and tomorrow 80 of tickets sold the day of the show Looking for the best offer cash sensitive Smaller prices incentivize trying new things Quickticket  Allows venues to optimize their capacity Fast user activation via personalized push notifications Best prices in the marketQuickticket intends to bring something new to Europe by developing an app will let its users to know what is happening in your city and also other European cities since swapping between cities is very easy and if you are travelling to another European city you will be able to buy tickets from the same app Quickticket is changing the way of people make plans in Spain and its prepared to do it all around Europe and the world The novelty of our innovation is that we can sell last minute tickets in a very short time thanks to our push notifications in such a way that we can give out tickets that would not have been sold otherwise and making theatres and concert halls make some profit from spare tickets We are giving the event promoters a tool to upload their spare tickets and give them a last chance to be soldMobile apps are used for last minute decisions such as Where is the closest Starbucks   How do I get from here to the metro Station We are talking about a new generation of customers that make last minute decisions where Quickticket fits perfectly since it answers the question What do I do tonight",
+          "Rcn" : "197146",
+          "Acronym" : "QuickTicket"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5954",
+        "_score" : 9.25844,
+        "_source" : {
+          "identifier" : "ERC2014ADG",
+          "Text" : "Bioengineered autonomous cellbiomaterials devices for generating humanised microtissues for regenerative medicine New generations of devices for tissue engineering TE should rationalize better the physical and biochemical cues operating in tandem during native regeneration in particular at the scaleorganizationallevel of the stem cell niche The understanding and the deconstruction of these factors eg multiple cell types exchanging both paracrine and direct signals structural and chemical arrangement of the extracellular matrix mechanical signals should be then incorporated into the design of truly biomimetic biomaterials ATLAS proposes rather unique toolboxes combining smart biomaterials and cells for the groundbreaking advances of engineering fully timeselfregulated complex 2D and 3D devices able to adjust the cascade of processes leading to faster highquality new tissue formation with minimum preprocessing of cells Versatile biomaterials based on marineorigin macromolecules will be used namely in the supramolecular assembly of instructive multilayers as nanostratified buildingblocks for engineer such structures The backbone of these biopolymers will be equipped with a variety of biochemical elements permitting postprocessing chemistry and micropatterning specificnonspecific cell attachment and cellcontrolled degradation Aiming at being applied in bone TE ATLAS will integrate cells from different units of tissue physiology namely bone and hematopoietic basic elements and consider the interactions between the immune and skeletal systems These ingredients will permit to architect innovative films with highlevel dialogue control with cells but in particular sophisticated quasiclosed 3D capsules able to compartmentalise such components in a globelike organization providing local and longrange order for in vitro microtissue development and function Such hybrid devices could be used in more generalised frontedge applications including as disease models for drug discovery or test new therapies in vitro",
+          "Rcn" : "199773",
+          "Acronym" : "ATLAS"
+        }
+      }
+    ]
+  }
+}

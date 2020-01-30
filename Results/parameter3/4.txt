@@ -1,0 +1,256 @@
+{
+  "took" : 35,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 5266,
+    "max_score" : 40.877235,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13322",
+        "_score" : 14.574917,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "PROVENTA Smart Database Transformation Framework The execution of database migrations traditionally involves costs and risks that are difficult to evaluate previously 40 of all migrations fail or exceed their budget and schedules This prevents many organizations from implementing necessary changes to integrate better technologies resulting in an extremely negative effect on their competitiveness in the long termMajor database vendors offer database migration tools to facilitate the adoption of their newest products however these tools focus only on database transformations to the vendors products and are only commercialized attached to the vendor package which reinforces the vendor lockin Furthermore migration tools focus on minimizing the impact of the migration process without taking appropriate actions to avoid postmigration operational risksAt Proventa we have gradually developed a series of custom utilities based on commercial Open Source software specifically for the purpose of database transformations These tools have been progressively bundled into one single standalone package called Datatrans Datatrans constitutes a revolutionary standalone framework that drastically facilitates the transformation process for all the major database management systemsBy releasing Datatrans as a commercial product we will minimize migration project risks and encourage database transformations towards stateofthe art Open Source across all industries This will result in a reduction of license costs an improvement of general productivity and costefficiency Additionally this will also contribute to the general sustainability of Open Source database management softwareFor Proventa on top of boosting our product revenues it will also attract new customers and complement our current offer of consulting services We estimate that Datatrans will allow us to double our revenue to almost 40 million by 2024 requiring us to hire at least 40 additional full time professionals",
+          "Rcn" : "210107",
+          "Acronym" : "DATATRANS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15743",
+        "_score" : 14.260119,
+        "_source" : {
+          "identifier" : "H2020SC6REVINEQUAL2017",
+          "Text" : "Current European and CrossNational Comparative Research and Research Actions on Migration Migration and the characteristics which constitute its parameters dynamics and complexities comprises one of the most paramount matters in contemporary Europe Under these designated circumstances the necessity of relevant concise and useful knowledge are prerequisites for the design of efficient and constructive policies Although particular databases such as EUROSTAT and OECD offer valuable insights into these migratory dynamics a comprehensive efficient and integrative database which synthesizes categorizes and maps out the vast analytical accounts on migration throughout Europe is nonexistent This project bringing together 16 leading research institutions networks and policy institutes throughout Europe aims to proficiently fulfill this gap crucial for policypurposes through the construction of a central migration hub This hub will be of instrumental value due to its capability to operate as a key grammar in the design of current and future policy Essentially it accumulates and consolidates past present and future migration research through providing an extensive yet succinct overview of migration drivers infrastructures flows and policies allowing for an improved systematic understanding of the factors that constitute the interaction between these analytical categories The accessibility accumulation and integration of research in one hub will be an integral element for improved policy making as it concentrates and visualizes relevant data  thereby facilitating information acquisition in pursuance of policy oriented goals As of such a continuous researchpolicy dialogue is prevalent throughout the construction of the hub an insight which enables its users to visualize and develop migration scenarios entailing a classification system for migration research  Consequently the project aims to shape a strategic research agenda on migration as it will identify gaps overlaps and connections within the available stock of migration research",
+          "Rcn" : "212877",
+          "Acronym" : "CROSS-MIGRATION"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1079",
+        "_score" : 14.0372715,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "A Holistic Data Privacy and Security by Design PlatformasaService Framework Introducing Distributed Encrypted Persistence in Cloudbased Applications The vision of PaaSword is to maximize and fortify the trust of individual professional and corporate customers to Cloud enabled services and applications to safeguard both corporate and personal sensitive data stored on Cloud infrastructures and Cloudbased storage services and to accelerate the adoption of Cloud computing technologies and paradigm shift from the European industry Thus PaaSword will introduce a holistic data privacy and security by design framework enhanced by sophisticated contextaware policy access models and robust policy access decision enforcement and governance mechanisms which will enable the implementation of secure and transparent Cloudbased applications and services that will maintain a fully distributed and totally encrypted data persistence layer and thus will foster customers data protection integrity and confidentiality even in the case wherein there is no control over the underlying thirdparty Cloud resources utilizedIn particular PaaSword intends not only to adopt the CSA Cloud security principles but also to extend them by capitalizing on recent innovations on a distributed encryption and virtual database middleware technologies that introduce a scalable secure Cloud database abstraction layer combined with sophisticated distribution and encryption methods into the processing and querying of data stored in the Cloud b contextaware access control that incorporate the dynamically changing contextual information into novel group policies implementing configurable contextbased access control policies and contextdependent access rights to the stored data at various different levels and c policy governance modelling and annotation techniques that allows application developers to specify an appropriate level of protection for the applications data while the evaluation of whether an incoming request should be granted access to the target data takes dynamically place during application runtime",
+          "Rcn" : "194247",
+          "Acronym" : "PaaSword"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11313",
+        "_score" : 13.602942,
+        "_source" : {
+          "identifier" : "ERC2016COG",
+          "Text" : "The Computational Database for Real World Awareness Two major hardware trends have a significant impact on the architecture of database management systems DBMSs First main memory sizes continue to grow significantly Machines with 1TB of main memory and more are readily available at a relatively low price Second the number of cores in a system continues to grow from currently 64 and more to hundreds in the near future This trend offers radically new opportunities for both business and science  It promises to allow for informationatyourfingertips ie large volumes of data can be analyzed and deeply explored online in parallel to regular transaction processing Currently deep data exploration is performed outside of the database system which necessitates huge data transfers This impedes the processing such that realtime interactive exploration is impossible  These new hardware capabilities now allow to build a true computational database system that integrates deep exploration functionality at the source of the data This will lead to a drastic shift in how users interact with data as for the first time interactive data exploration becomes possible at a massive scaleUnfortunately traditional DBMSs are simply not capable to tackle these new challengesTraditional techniques like interpreted code execution for query processing become a severe bottleneck in the presence of such massive parallelism causing poor utilization of the hardware I pursue a radically different approach Instead of adapting the traditional diskbased approaches I am integrating a new justintime compilation framework into the inmemory database that directly exploits the abundant parallel hardware for largescale data processing and exploration By explicitly utilizing cores I will be able to build a powerful computational database engine that scales the entire spectrum of data processing  from transactional to analytical to exploration workflows  far beyond traditional architectures",
+          "Rcn" : "207899",
+          "Acronym" : "CompDB"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5505",
+        "_score" : 13.148415,
+        "_source" : {
+          "identifier" : "H2020EO2015",
+          "Text" : "Platform for wildlife monitoring integrating Copernicus and ARGOS data EO4wildlife main objective is to bring large number of multidisciplinary scientists such as biologists ecologists and ornithologists around the world to collaborate closely together while using European Sentinel Copernicus Earth Observation more heavily and efficientlyIn order to reach such important objective an open service platform and interoperable toolbox will be designed and developed It will offer high level services that can be accessed by scientists to perform their respective research The platform front end will be easytouse access and offer dedicated services that will enable them process their geospatial environmental stimulations using Sentinel Earth Observation data that are intelligently combined with other observation sourcesSpecifically the EO4wildlife platform will enable the integration of Sentinel data ARGOS archive databases and real time thematic databank portals including Wildlifetrackingorg Seabirdtrackingorg and other Earth Observation and MetOcean databases locally or remotely and simultaneouslyEO4wildlife research specialises in the intelligent management big data processing advanced analytics and a Knowledge Base for wildlife migratory behaviour and trends forecast The research will lead to the development of webenabled open services using OGC standards for sensor observation and measurements and data processing of heterogeneous geospatial observation data and uncertaintiesEO4wildlife will design implement and validate various scenarios based on real operational use case requirements in the field of wildlife migrations habitats and behaviour These include 1 Management tools for regulatory authorities to achieve realtime advanced decisionmaking on the protection of protect seabird species 2 Enhancing scientific knowledge of pelagic fish migrations routes reproduction and feeding behaviours for better species management and 3 Setting up tools to assist marine protected areas and management",
+          "Rcn" : "199237",
+          "Acronym" : "EO4wildlife"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "7714",
+        "_score" : 12.174638,
+        "_source" : {
+          "identifier" : "ERC2015PoC",
+          "Text" : "European Union Case Law Corpus creating a multilingual and searchable corpus of case law from EU member state courts and the European Court of Justice The idea to be taken to proof of concept is to develop and test an innovative EU Case Law Corpus EUCLCORP EUCLCORP will be a standardised multidimensional and multilingual corpus of the case law of the Court of Justice of the European Union CJEU and of the constitutionalsupreme courts of EU member states Unlike databases in which users can carry out only relatively straightforward searches for the occurrence of specific terms or keywords corpora allow users to search and track how particular linguistic expressions and features are used in context The corpus will be coded linguistically and with metadata to enable stakeholders such as lawyers legal translators lexicographers and linguists as well as academics to compare meanings of terms across languages and legal systems to compare translation options and monitor the consistency of translation in EU case law Furthermore EUCLCORP will allow users to track the migration of terms between legal systems and to create datadriven legal dictionaries and terminological databases No such corpus currently exists  By adding to the big data currently available in legal databases EUCLCORP will contribute to a better understanding of EU law and of the Europeanisation of law as well as improved administration of justice",
+          "Rcn" : "202645",
+          "Acronym" : "EUCLCORP"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11263",
+        "_score" : 11.629803,
+        "_source" : {
+          "identifier" : "ERC2016STG",
+          "Text" : "Processing Citizenship Digital registration of migrants as coproduction of citizens territory and Europe Intensifying migration waves are changing EU policieswith Hotspots being set up in frontline countriesbut also the way knowledge about migrants institutions and territory is created Information systems are key enablers of this knowledge They materialize legislative political administrative dynamics in which citizenship state and territory are coproducedProcessingCitizenship aims to establish information systems as interfaces that make visible changes in the modern nation state It aims to develop a history of the present that accounts for contemporary materiallyembedded practices of registration of migrants at Hotspots as activities of governance formation It addresses three research questions How are migrants identities shaped in information systemsmediated registration practices and how do migrants adapt or resist it How are Member States and Europe reenacted by data infrastructures for migration processing How is territory reshapedThe project combines globalization and border studies and surveillance studies in IT and migration with a materialist performative approach derived from science and technology studies and media geography It analyses information systems registration practices data architectures and territorial patterns Data will be collected via qualitative script analysis interviews participant observation discourse analysis and computational analysis of ontologies and algorithms new method for web services tracking techniquesThe research is groundbreaking in three ways 1 by focusing on alienage and on the technicalities of data infrastructures it sets the basis for detecting incipient changes in the order of authority 2it develops brand new software methods for web services analysis that is expected to set a new promising field of technosociological research 3by combining contiguous disciplines rarely interacting it amplifies their ability to understand the coproduction of technology society knowledge",
+          "Rcn" : "207849",
+          "Acronym" : "ProcessCitizenship"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14534",
+        "_score" : 11.614263,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "Newgeneration database capacity planning optimization Megatrends of outsourcing virtualization and migration of data to the cloud lead companies to invest massively in IT infrastructure This is due to current capacity planning techniques being based on manual estimations with very limited automatization to anticipate necessary growth Based on their estimates they invest in excess resources leading to an over dimensioned infrastructure in which 30 to 50 of capacity is not used DB PRO have developed a unique and patented newgeneration solution that allows capacity optimisation of large scale data platforms achieving savings above 50 from traditional approaches Governor Our tool is based on server consolidation an approach to the efficient use of computer server resources to reduce the total number of servers than an organisation requires Governor software enables companies to save in licensing and services fees by giving an accurate systems capacity optimization without compromising databases performance Since 2015 we have been able to test a Beta version of our technology at a real company client In 2016 we developed Governor50 a version with new features applicable to physical environments which has also been tested at another company In both cases the companies achieved savings of 50 We have since also signed a partnership with Crayon one of the largest Software Asset Management SAM and licence reseller of Microsoft licenses companies in Norther Europe With our next GOVERNOR generation we will adapt our technology to target virtual environments 75 of current servers and expand toward other database platforms We will also further develop our successfully proven business model based on establishing distribution agreements with SAM and licence reseller companies aiming to eventually reach all European companies with sizeable server platforms",
+          "Rcn" : "211482",
+          "Acronym" : "GOVERNOR"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "8713",
+        "_score" : 11.414713,
+        "_source" : {
+          "identifier" : "ERC2015STG",
+          "Text" : "Migration and Transnational Social Protection in postcrisis Europe The negative employment and social developments across Europe since the start of the crisis coupled with increased fiscal constraints and changing migration patterns have led to increasing depictions of EU and thirdcountry immigrants as abusers of their social protection systems Member States have accordingly sought reduce migrants ability to access social protection benefits despite the fact that they are disproportionately at risk of poverty and social exclusionThis project looks at the different strategies that migrants have to access social protection within post crisis Europe and does so by explicitly integrating social policy and migration studies approaches on the phenomenon More precisely it aims to study transnational social protection that we define as migrants crossborder strategies to cope with social risks in areas such as health longterm care pensions or unemployment that combine entitlements to host and home statebased public welfare policies and market family and communitybased practices This study thus consists in first identifying the social protection policies and programs that home countries make accessible to their citizens abroad and then compiling this information into an online database We will then aggregate the results of the database into a Transnational Social Protection Index TSPIx in order to determine the overall level of engagement of each state with citizens abroad in a comparative way  Second on the basis of the results of the index we will select case studies of migrants from two EU and two nonEU countries that vary in their level of engagement in providing social protection to their citizens abroad  We will then undertake multisited ethnographic fieldwork to qualitatively assess the informal social protection strategies used by migrants and examine their interaction with formal host and home state social protection provision",
+          "Rcn" : "204714",
+          "Acronym" : "MiTSoPro"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1088",
+        "_score" : 11.020174,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Developing DataIntensive Cloud Applications with Iterative Quality Enhancements The rapid increase in demand for dataintensive applications capable of exploiting Big Data technologies such as HadoopMapReduce NoSQL cloudbased storage and stream processing is creating massive growth opportunities for European independent software vendors ISVs However developing software that meets the highquality standards expected for businesscritical cloud applications remains a barrier to this market for many small and medium ISVs which often lack resources and expertise for advanced quality engineeringDICE will tackle this challenge by defining a qualitydriven development methodology and related tools that will markedly accelerate the development of businesscritical dataintensive applications running on public or private clouds Building on the principles of modeldriven development MDD and on popular standards such as UML MARTE and TOSCA the project will first define a novel MDD methodology that can describe data and dataintensive technologies in cloud applications A quality engineering toolchain offering simulation verification and numerical optimisation will leverage these extensions to drive the early design stages of the application development and guide software quality evolutionDevOpsinspired methods for deployment testing continuous integration and monitoring feedback analysis will be used to accelerate the incorporation of quality in dataintensive cloud application both in public and private deployments enhancing the capability of small and medium European ISVs to enter the Big Data market",
+          "Rcn" : "194256",
+          "Acronym" : "DICE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "995",
+        "_score" : 10.993619,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Software Defined Storage for Big Data The main objective is to create IOStack a Software Defined Storage toolkit for Big Data on top of the OpenStack platform IOStack will enable efficient execution of virtualized analytics applications over virtualized storage resources thanks to flexible automated and low cost data management models based on software defined storage SDS Major challenges are1 Storage and compute disaggregation and virtualization Virtualizing data analytics to reduce costs implies disaggregation of existing hardware resources This requires the creation a virtual model for compute storage and networking that allows orchestrationtools to manage resources in an efficient manner  We will provide policybased provisioning tools so that the provisioning of virtual components for the analytics platform is made according to the set of QoS policies2 SDS Services for Analytics  The objective is to define design and build a stack of SDS data services enabling virtualized analytics services with improved performance and usability Among these services we include native object store analytics that will allow running analytics close to the data without taxing initial migration data reduction services specialized persistent caching mechanisms advanced prefetching and data placement3 Orchestration and deployment of big data analytics services The objective is to design and build efficient deployment strategies for virtualized analyticasaservice instances both ephemeral and permanent In particular the focus of this work is on dataintensive systems such as Apache Hadoop and Apache Spark which enable users to define both batch and latencysensitive analytics This objective includes the design of scalable algorithms that strive at optimizing a servicewide objective function eg optimize performance minimize cost under different workloadsFinally we will create a SDS toolkit for Big Data on top of the OpenStack projects Sahara Cinder Nova and Swift",
+          "Rcn" : "194163",
+          "Acronym" : "IOSTACK"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "4735",
+        "_score" : 10.987663,
+        "_source" : {
+          "identifier" : "H2020EINFRA20151",
+          "Text" : "Open Digital Research Environment Toolkit for the Advancement of Mathematics OpenDreamKit will deliver a flexible toolkit enabling research groups to set up Virtual Research Environments customised to meet the varied needs of research projects in pure mathematics and applications and supporting the full research lifecycle from exploration through proof and publication to archival and sharing of data and codeOpenDreamKit will be built out of a sustainable ecosystem of communitydeveloped open software databases and services including popular tools such as LinBox MPIR Sagesagemathorg GAP PariGP LMFDB and Singular We will extend the Jupyter Notebook environment to provide a flexible UI By improving and unifying existing building blocks OpenDreamKit will maximise both sustainability and impact with beneficiaries extending to scientific computing physics chemistry biology and more and including researchers teachers and industrial practitioners We will define a novel componentbased VRE architecture and the adapt existing mathematical software databases and UI components to work well within it on varied platforms  Interfaces to standard HPC and grid services will be built in  Our architecture will be informed by recent research into the sociology of mathematical collaboration so as to properly support actual research practice The ease of set up adaptability and global impact will be demonstrated in a variety of demonstrator VREsWe will ourselves study the social challenges associated with largescale open source code development and of publications based on executable documents to ensure sustainabilityOpenDreamKit will be conducted by a Europewide demandsteered collaboration including leading mathematicians computational researchers and software developers long track record of delivering innovative open source software solutions for their respective communities All produced code and tools will be open source",
+          "Rcn" : "198334",
+          "Acronym" : "OpenDreamKit"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6164",
+        "_score" : 10.877618,
+        "_source" : {
+          "identifier" : "H2020SMEINST22015",
+          "Text" : "HIERARCHICAL APPROACH FOR GREEN WORKLOAD MANAGEMENT IN HETEROGENEOUS AND INTERCONNECTED DATA CENTERS Data Centers DCs around the world consume  up to 12 of all global electricity production and they are the fastest growing category of emissions in ICT fieldThe efficient utilization of resources is essential to reduce costs energy consumption carbon emissions There are 2 business opportunities1 Better efficiency in a single DC by dynamically consolidating Virtual Machines VMs on the minimum number of physical resources the nonutilized servers can be set to hibernate hence eliminating their energy consumption2 Better efficiency in a multisite scenario VMs migration among interconnected DCs is a more novel topicCurrent approaches aim to find a solution in a centralized fashion undergoing the risk of originating i poor scalability due to the large number of parameters and servers ii poor ability to adapt to changing conditions as massive migrations of VMs may be required to match a new workload distribution strategy iii limitation to the autonomy of the sites which are often required to share the same algorithmsEco4Cloud is the only company in the world that is developing a hierarchical architecture for the efficient distribution of the workload on a multisite scenario called EcoMultiCloud It allows for an integrated management of interconnected DCs but at the same time it preserves the autonomy of single DCs The VMs migrations are performed asynchronously both locationwise and timewise and with a tunable rate managed by DCs administrators Our solution is covered by 3 international patents This puts us in a strong competitive advantage in comparison to other solutions EcoMultiCloud gives to customers the opportunity to achieve the following technical and business goals  Reduction of power consumption and carbon emissions minimum 30  maximum 60  Reduction of energy costs depending on DCs location  Quality of Service Management and load balancing   Compliance with Service Level Agreement  Reduced InterDC Com",
+          "Rcn" : "200011",
+          "Acronym" : "EcoMultiCloud"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "2505",
+        "_score" : 10.601742,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2014",
+          "Text" : "The Race Class and Gender of Transnational Urban Labour Romanian Workers in the Cities of London and NYC The workings of globalization depend on international labor migration a phenomenon that is hardly recent but that is instead embedded in histories of colonialism decolonization and neocolonization divergent conditions of democracy totalitarianism militarism and exploitation as well as in persistent structures of economic disparity among the formal colonial powers and the decolonized world Contemporary labor migrationthe flows of people in search of labor crossing national boundaries deeply impacts and transforms the social economic political cognitive and affective landscapes of contemporary life This project will consider these transformations by examining the transnational migrant labor of workers from Romania such as it unfolds at two central sites of global capitalism LondonUK and New YorkUS The research will feature an historical analysis of the immigrant Romanian labor presence at these sites while its time frame covers the interval starting in 1989 up to the present day While labor migration has been a subject of interest for economists political theorists geographers anthropologists and cultural theorists alike its relevance to affective theory and neoliberal critiques have only recently been addressed My project seeks to address an analytic gap that refers to the affective dimension of migrational labor by considering not only the economic political and historical contexts but also the impact that immigrants transnational journeys in search for work and their landing in new spaces have on their intimate lives alongside conationals as well as alongside other dwellers in the global city The research project will draw upon recent global changes more precisely on the global economic crisis the continued neoliberalization of economies and the pressures towards securitization that affect the cities of London and New York and thus implicitly impact on the lives of immigrant laborers",
+          "Rcn" : "195676",
+          "Acronym" : "MigrWorkers"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "12573",
+        "_score" : 10.531476,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2016",
+          "Text" : "New Frontiers in Modeling PlanetDisk Interactions from Disk Thermodynamics to MultiPlanet Systems Recent space missions such as CoRoT and Kepler have revolutionized exoplanetary science Today we know of thousands of systems with awide diversity of architectures proving that our Solar System is not typical Understanding how these systems form and evolve is currently one of the most active area of astrophysics The processes that dictate the dynamics of planets play a fundamental role in shaping the architecture of the systems we observe In the present paradigm as planets accrete mass from the primordial disk they are subject to interactions with it and with other planets These interactions exert torques and make the planets migrate Diskplanet interactions depend strongly on the physical processes governing the dynamics of the disk I demonstrated a clear example of this in a recent paper in Nature showing that the disk heating by an accreting embryo have a strong impact on the torques This proposal has two objectives with the potential to produce a leap forward in our understanding of the longterm evolution of planetary systems i I will produce the most advanced framework to date for investigating planetary migration in magnetohydrodynamic disk simulations including ohmic ambipolar and Hall effects I will do this selfconsistently by considering the chemical evolution of the dusty gas Calculating its ionization state and opacity will moreover allow me to incorporate radiation more realistically ii I will build on a new technique that I have developed the use of 3D radially moving meshes This groundbreaking technique enables to follow the migration of multiple planets allowing studying their longrange migration I want to carry out this research program at The Niels Bohr Institute The combined expertise of the groups in Copenhagen together with their impressive computational resources provide an unparalleled environment to achieve my research goals and develop myself as a leading international figure in this rapidly evolving field",
+          "Rcn" : "209285",
+          "Acronym" : "DiskTorqueOnPlanets"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "102",
+        "_score" : 10.521875,
+        "_source" : {
+          "identifier" : "H2020PHC2014twostage",
+          "Text" : "Capture dissemination and analysis of multiscale cell migration data for biological and clinical applications MULTIMOT This proposal addresses the call topic Advancing bioinformatics to meet biomedical and clinical needs PHC322014 with the focus on the standardization dissemination and metaanalysis of cell migration data Cell migration is the fundamental process in medically highly relevant topics including morphogenesis immune function wound healing and cancer metastasis and the study of cell migration thus has a direct impact on major clinical applications especially regarding personalized treatment and diagnosis Over the last few years cell migration research has benefited enormously from advances in methodology and instrumentation allowing multiplexing and multiparameter postprocessing of cell migration analyses to become widely used As cell migration studies have thus de facto become both a highcontent as well as a highthroughput science an urgent yet largely unmet bioinformatics need has emerged in the form of intra and interlab data management solutions standardization and dissemination infrastructure and novel approaches and algorithms for metaanalysis The central goal of this project is therefore to construct a comprehensive open and free data exchange ecosystem for cell migration data based on the development of extensible community standards and a robust futureproof repository that collects annotates and disseminates these data in the standardized formats The standards and repository will be supported by freely available and open source tools for data management submission extraction and analysis Importantly we will also demonstrate the application of largescale integrative data analysis from cell migration studies through two proofofconcept studies guiding personalized cancer treatment from patient organoids and providing patientspecific diagnosis based on peripheral blood leukocyte motility This work will also establish the foundation for a cell migration sciencebased ELIXIR Node",
+          "Rcn" : "193270",
+          "Acronym" : "MULTIMOT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "18245",
+        "_score" : 10.240472,
+        "_source" : {
+          "identifier" : "H2020FETHPC2017",
+          "Text" : "ASPIDE exAScale ProgramIng models for extreme Data procEssing Extreme Data is an incarnation of Big Data concept distinguished by the massive amounts of data that must be queried communicated and analyzed in near realtime by using a very large number of memorystorage elements and Exascale computing systems Immediate examples are the scientific data produced at a rate of hundreds of gigabitspersecond that must be stored filtered and analyzed the millions of images per day that must be mined analyzed in parallel the one billion of social data posts queried in realtime on an inmemory  components database Traditional disks or commercial storage cannot handle nowadays the extreme scale of such application data Following the need of improvement of current concepts and technologies ASPIDEs activities focus on dataintensive applications running on systems composed of up to millions of computing elements Exascale systems Practical results will include the methodology and software prototypes that will be designed and used to implement Exascale applicationsThe ASPIDE project will contribute with the definition of a new programming paradigms APIs runtime tools and methodologies for expressing dataintensive tasks on Exascale systems which can  pave the way for the exploitation of massive parallelism over a simplified model of the system architecture promoting high performance and efficiency and offering powerful operations and mechanisms for processing extreme data sources at high speed andor realtime",
+          "Rcn" : "215834",
+          "Acronym" : "ASPIDE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1399",
+        "_score" : 10.224232,
+        "_source" : {
+          "identifier" : "H2020YOUNGSOCIETY2014",
+          "Text" : "Mapping mobility  pathways institutions and structural effects of youth mobility in Europe The overall ambition of MOVE is to provide a researchinformed contribution towards an improvement of the conditions of the mobility of young people in Europe and a reduction of the negative impacts of mobility through the identification of ways of good practice thus fostering sustainable development and wellbeing The consortium of MOVE is built up of nine partners within six countries Luxembourg Germany Hungary Norway Romania and SpainThe main research question is How can the mobility of young people be good both for socioeconomic development and for individual development of young people and what are the factors that fosterhinder such beneficial mobility Based on an interdisciplinary and multilevel research approach the main objectives of MOVE are to1 carry out a comprehensive analysis of the phenomenon of mobility of young people in the EU2 generate systematic data about young peoples mobility patterns in Europe based on qualitative case studies a mobility survey and on secondary data analysis3 provide a quantitative integrated database on European youth mobility4 offer a data based theoretical framework in which mobility can be reflected thus contributing to the scientific and political debates5 explore factors that foster and factors that hinder good practice based on an integrative approach with qualitative and quantitative evidence 6 provide evidencebased knowledge and recommendations for policy makers through the development of goodpractice modelsMOVE is based on a multilevel research design including case studies on six types of mobility higher education voluntary work employment vocational training pupils exchange and entrepreneurship a survey N6400 and secondary data analysis taking into consideration social inequality eg migration background gender educational inequalities impairments The focus will be on the regional contexts of mobility and the agency of young people",
+          "Rcn" : "194567",
+          "Acronym" : "MOVE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14034",
+        "_score" : 10.154365,
+        "_source" : {
+          "identifier" : "ERC2016ADG",
+          "Text" : "Family ties that bind A new view of internal migration immobility and labourmarket outcomes Internal migration longdistance moves within national borders is generally assumed to be beneficial to individuals and households This FamilyTies project has been designed to make a decisive contribution to a much more comprehensive explanation of internal migration and its labourmarket outcomes than current mainly economic explanations have achieved thus far It introduces a novel perspective on internal migration and immobility which focuses on the role of family outside the household in deciding on whether and where to relocate and which takes into account contemporary family complexity the family ties perspective The aim is to identify the role of family ties in internal migration immobility and labourmarket outcomes The objectives are1 Identifying the role of family ties as a deterrent of migration and key determinant of immobility2 Explaining migration towards family in relation to migration in other directions3 Determining to what extent and for whom familyrelated motives drive migration and immobility4 Unravelling how individual labourmarket outcomes of migration versus immobility differ between immobility related to family ties and immobility due to other factorsGeocoded register and census data containing microlinks between family members will be used for Sweden Norway Denmark the Netherlands and Belgium as well as survey data for Sweden the Netherlands the UK the USA and New Zealand These will be analysed using advanced applications of hazard regression logistic regression OLS regression and structural equation models which take into account the multilevel and multiactor structure of the data and issues of endogeneity and selfselection The project will provide major new insights into migration immobility and labourmarket outcomes and input for better predictions and policies concerning migration population growth and decline ethnic segregation labourmarket flexibility and family support",
+          "Rcn" : "210962",
+          "Acronym" : "FamilyTies"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1337",
+        "_score" : 10.080616,
+        "_source" : {
+          "identifier" : "ERC2014CoG",
+          "Text" : "HISTORICAL ROOTS OF CONFLICT AND DEVELOPMENT FROM PREHISTORY TO THE COLONIZATION EXPERIENCE I plan to study the effect of history on conflict and economic development with two historical microscopesFollowing the lead of the new institutional economics part of the literature argues that institutions cause differences in productivity and factor endowments which in turn explain economic development An alternative view assumes that human capital shapes institutional changes and therefore institutions are endogenous In the first part of the project which is the core of the research proposal I will try to move one step further in this debate by taking an approach that uses administrative data on the first colonizers of Latin America The data contain some personal characteristics on each of the settlers from 1492 to 1599 town of origin in Spain occupation education city of arrival in the Americas etc Using withincountry analysis since we have information on the precise destinations of the first pobladores settlers and the different institutional setups during the first years of colonization for different geographical areas in Latin America I will reexamine the issue of institutions versus human capital in the explanation of economic development and conflict The institutions in the initial times of colonization were not the same in all the regions of Latin America and in many cases represented an evolution of preColombian institutions The new data allows also the analysis of the interaction between human capital and institutions in the initial times In addition the migrations and the evolution of institutions during the first century of colonization provide also some guidance for the research on the sources of institutional persistence In the second part I plan to go further back in time to understand how very old conflicts influence current conflict I will construct a dataset with the location of old conflicts using archaeological evidence to analyze the dynamics of conflict by regions in the very long run",
+          "Rcn" : "194505",
+          "Acronym" : "HISTROOTS"
+        }
+      }
+    ]
+  }
+}

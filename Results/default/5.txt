@@ -1,0 +1,256 @@
+{
+  "took" : 23,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 389,
+    "max_score" : 98.278854,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "7592",
+        "_score" : 35.403248,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2015",
+          "Text" : "PAssive Tracking of people and things for physical beHavior analysis The main goal of passive tracking of people and things PATH is to define a new paradigm for physical behavior inference where the dynamics of physical entities are tracked with minimal implementation cost maximal privacy preservation and intrinsically protected secrecy PATH relies on the detection tracking and behavior analysis of targets without active devices by integrating such capabilities in infrastructures for the Internet of things IOT that are already present in a monitored environment This enables several applications including visitor counting and flow monitoring The objectives of PATH are i to develop a framework for system design and analysis as well as to derive fundamental limits ii to devise advanced techniques for detection and exploitation of networks of opportunity iii to develop inference techniques based on wireless networks properties for intrinsically secure tracking iv to recognize new patterns related to targets dynamics based on signal feature extraction v to establish a proofofconcept for an industrialdriven use casePATH will enhance the potential of the experienced researcher ER by relying on i the solid experience of the successful PhD completed by the young ER which included a year as a visiting student in the USA ii a challenging interdisciplinary and multisectorial work program iii a genuine mobility program with an outgoing phase at a top tier university supervised by a worldrenowned expert in the field and with an incoming phase at a high ranked and growing research group iv a secondment program at a leading industry in the field which confirms the industrial interest and that is tailored to the ER with an evident commitment in terms of supervision and infrastructures v a rich fivefold training program not limited to training through research vi an implementation plan agreed with an advisory board for an efficient achievement of the ambitious objectives",
+          "Rcn" : "202195",
+          "Acronym" : "PATH"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "832",
+        "_score" : 35.068363,
+        "_source" : {
+          "identifier" : "H2020EUJ2014",
+          "Text" : "intelligent KnowledgeasaService Platform iKaaS  intelligent KnowledgeasaService Platform will develop an intelligent privacy preserving and secure Smart City Platform based on a Big Data resource and an analytics engine built atop heterogeneous cloud platforms with data collected from a variety of sensors from Internet of Things IoT environments deployed as mobile terminals smart devices and smart homes We envisage that these data and the analytics engine  a knowledge base  would be fundamental building blocks for crossborder businesstogovernment B2G businesstobusiness B2B and businesstoconsumer B2C applications such as lifestyle recommendation future city planning academic research and analysis locationand behaviourspecific targeted services and so onThe platform features will be demonstrated by means of Smart City applications promoting selfmanagement of health and safety of citizens as well as an information system improving data analysis for a smarter life in the city",
+          "Rcn" : "194000",
+          "Acronym" : "iKaaS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15940",
+        "_score" : 32.893665,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "Trustworthy and Smart Actuation in IoT systems To unleash the full potential of IoT realizing the digital society and flourishing innovations in application domains such as eHealth smart city intelligent transport systems and smart manufacturing it is critical to facilitate the creation and operation of trustworthy Smart IoT Systems Since smart IoT systems typically operate in a changing and often unpredictable environment the ability of these systems to continuously evolve and adapt to their new environment is decisive to ensure and increase their trustworthiness quality and user experience The DevOps movement advocates a set of software engineering best practices and tools to ensure Quality of Service whilst continuously evolving complex systems and foster agility rapid innovation cycles and ease of use  Therefore DevOps has been widely adopted in the software industry  However there is no complete DevOps support for trustworthy smart IoT systems today The main technical goal of ENACT is to develop novel IoT platform enablers to i Enable DevOps in the realm of trustworthy smart IoT systems and enrich it with novel concepts for endtoend security and privacy resilience and robustness strengthening trustworthiness taking into account the challenges related to collaborative actuation and actuation conflicts ii Facilitate the smooth integration of these to leverage DevOps for existing and new IoT platforms and approaches eg FIWARE SOFIA and TelluCloudThis will be accomplished by evolving current DevOps methods and techniques to support the agile development and operation of smart IoT systems and provide a set of novel mechanisms to ensure quality assurance and trustworthiness such as actuation conflict handling continuous testing and delivery across IoT edge and cloud spaces and end to end security and privacy management Through this ENACT will provide a DevOps framework for smart IoT Systems",
+          "Rcn" : "213127",
+          "Acronym" : "ENACT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "16305",
+        "_score" : 32.745964,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "Smart Endtoend Massive IoT Interoperability Connectivity and Security SEMIoTICS aims to develop a patterndriven framework built upon existing IoT platforms to enable and guarantee secure and dependable actuation and semiautonomic behaviour in IoTIIoT applications Patterns will encode proven dependencies between security privacy dependability and interoperability SPDI properties of individual smart objects and corresponding properties of orchestrations involving them The SEMIoTICS framework will support crosslayer intelligent dynamic adaptation including heterogeneous smart objects networks and clouds addressing effective adaptation and autonomic behaviour at field edge and infrastructure backend layers based on intelligent analysis and learning To address the complexity and scalability needs within horizontal and vertical domains SEMIoTICS will develop and integrate smart programmable networking and semantic interoperability mechanisms The practicality of the above approach will be validated using three diverse usage scenarios in the areas of renewable energy addressing IIoT healthcare focusing on humancentric IoT and smart sensing covering both IIoT and IoT and will be offered through an open APISEMIoTICS consortium consists of strong European industry Siemens Engineering STMicroelectronics innovative SMEs Sphynx Iquadrat BlueSoft and academic partners FORTH Uni Passau CTTC covering the whole value chain of IoT local embedded analytics and their programmable connectivity to the cloud IoT platforms with associated security and privacy The consortium is striving for a common vision of creating EUs technological capability of innovative IoT landscape both at European and international level",
+          "Rcn" : "213548",
+          "Acronym" : "SEMIoTICS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15826",
+        "_score" : 32.35748,
+        "_source" : {
+          "identifier" : "H2020MSCARISE2017",
+          "Text" : "Scalable trustEd and interoperAble pLatform for sEcureD smart GRID The rapid evolution of ICT has revealed the potential for centrally monitoring controlling and optimising the power grid In this context a more intelligent responsive and efficient system has been devised known as the Smart Grid SG As explained in the EU Third Energy Package the SG will support a dynamic twoway information exchange between utility companies and their customers contributing towards a smart and sustainable energy management in Europe and the establishment of a wiser energy consumption mentality However besides the benefits of such an endeavour the power grid will be exposed to security threats inherited from the ICT sector while privacy issues and new vulnerabilities related to the specific characteristics of the SG infrastructure will emerge The problem is assessed as crucial if we consider that a potential attack to the SG may lead to cascading failures ranging from destruction of other interconnected critical infrastructures to loss of human lives Thus the development of a security platform tailored to the SG is required that i can efficiently manage the plethora of SG nodes ii deal with potential malicious hardware or software modifications due to the physical access of the customers to the SG nodes and iii operate over heterogeneous systems Considering all the above SealedGRID aims at bringing together experts from industry and academia from crosssectorial research areas having complementary background with the longterm goal to design analyse and implement a scalable highly trusted and interoperable SG security platform The platform will combine for the very first time technologies like Blockchain Distributed Hash Tables Trusted Execution Environments and OpenID Connect while for its realization the SealedGRID consortium is committed to a fullyintegrated and multidisciplinary secondment programme combined with a set of networking dissemination and exploitation activities",
+          "Rcn" : "212986",
+          "Acronym" : "SealedGRID"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15916",
+        "_score" : 32.283684,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "SOFIE  Secure Open Federation for Internet Everywhere SOFIE addresses the challenges of the call by creating a secure and open IoT federation architecture and framework We use Distributed Ledger Technology DLT including blockchains and interledger technologies to enable actuation auditability smart contracts and management of identities and encryption keys and to enable totally decentralised solutions with virtually unlimited scalabilityWe address the fragmentation of IoT through federation rather than integration Virtually any IoT platform can join the federation by creating relatively simply an adapter Data remains in the respective IoT platforms and is usable by all the applications within the limits set by the applicable security and privacy policiesWe exercise security and privacy by design We provide endtoend security key management authorisation accountability and auditability utilising DLTs where applicable The user shall retain control over their data also after the data have been stored in the Cloud or Fog in an EU GDPR or other regulations compliant mannerWe base our work on existing open standards interfaces and components such as FIWARE W3C Web of Things WoT and oneM2M We will select existing components develop new ones and collect them  together with documentation instructions and examples  into an IoT federation framework for creating administratively decentralised open and secure IoT business platforms from existing IoT platformsWe will demonstrate the practicality of our approach by using it in three pilots in three different sectors food chain gaming and energy market Three business platforms will be realised for the pilots The results of the pilots will be evaluated against the key performance indicatorsWe actively participate in standardisation and disseminate our results through scientific journals conferences and workshops but also the Web social media and developer communities  We also aim to make at least two of the pilots sustainable",
+          "Rcn" : "213097",
+          "Acronym" : "SOFIE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6013",
+        "_score" : 31.82104,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Adoptive Gateways for dIverse muLtiple Environments AGILE project aims to create an open flexible and widely usable IoT solution at disposal of industries startups SMEs tech companies and individuals researchers makers entrepreneurs as a framework that consists of A modular IoT gateway enabling various types of devices wearables home appliances sensors actuators etc to be connected with each other and to the Internet Data management and device control maximizing security and privacy at local level and in the cloud technologies and methodologies to better manage data privacy and ownership in the IoT Support of various open and private clouds Recommender and visual developers interfaces enabling easy creation of applications to manage connected devices and data Support of mainstream IoTM2M protocols and SDKs from different standardization bodies for device discovery and communication Two separate gateway hardware versions a the makers version based on the popular RaspberryPi platform for easily prototyping and attracting the current community b the industrial version for more industrial and productionready applications  An ecosystem of IoT applications shareable among users and developers leveraging on existing initiatives by key stakeholders in this domain like Canonical and Ubuntu Snappy IoT ecosystemPiloted in relevant open areas fields and in a port for field  cattle monitoring through drones air quality  pollution monitoring and in smart retail AGILE will be easily adaptable and usable in different contexts serving as an horizontal technology for fast IoT prototyping and engineering in different domains Following an open hardwaresoftware approach harnessing the power of IoT developers and entrepreneurs communities AGILE aims to offer tools to overcome limitations imposed by closed and vertical walled gardens for IoT apps development offering a fully open platform for integration and adaptation with 3rd parties enabling a new marketplace for IoT apps",
+          "Rcn" : "199853",
+          "Acronym" : "AGILE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15920",
+        "_score" : 30.8331,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "Secure and Safe Internet of Things The IoT is coming upon us faster than we think catapulting EU industry homes and society into the huge arena of security risks that accompany an untested yet already universal technology that directly manages our cyberphysical reality on a daily and indeed second by second basis Attacks on content and quality of service of the IoT platforms can have economic energetic and physical security consequences that go way beyond the traditional Internets claimed lack of security and beyond the threats posed by attacks to mobile telephony The secure SerIoT platform is a key step that can be used to implement secure IoT platforms and networks anywhere and everywhere The SerIoT project will develop implement and test a generic IoT framework based on an adaptive smart Software Defined Network with verified software secure routers advanced analytics and user friendly visual analytics SerIoT will optimize the information security in IoT platforms and networks in a holistic crosslayered manner ie IoT platforms  devices honeypots SDN routers and operators controller that will be based both on dynamic and distributed processing of variable complexity by single network components ie IoT platforms devices and honeypots will perform lightweighted processes while SDN routers will be shouldered with more heavy processes as well as on a centrally located servercontroller that will have the main control of the network and will collect aggregate and fuse the relevant information Largescale pilots will test SerIoT technology in various use cases including intelligent transport and surveillance flexible manufacturing within Industrie 40 and other emerging domains such as food chain  logistics mHealth both at Home  in Hospitals business scenarios and energy smart gridThrough these technology developments and testbeds the project will deliver a unique portable softwarebased SerIoT network that can spearhead Europes success in the IoT",
+          "Rcn" : "213102",
+          "Acronym" : "SerIoT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10259",
+        "_score" : 30.512457,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Decentralised Citizens Owned Data Ecosystem Todays Internet is becoming increasingly centralised slowing innovation and challenging its potential to revolutionise society and the economy in a pluralistic manner DECODE will develop practical alternatives through the creation evaluation and demonstration of a distributed and open architecture for managing online identity personal and other data and collective governance in a citizenfriendly and privacyaware fashion Strong digital rights that makes it possible for data subjects to determine access rights to their information through flexible entitlements and open standardbased agreements regarding data governance on the model of Creative Commons licenses will be woven into the technological architectureDECODE will increase digital sovereignty of European citizens by enabling them to produce access and control their data and exchange contextualised information in realtime and in a confidential and scalable manner DECODE will develop a modular privacyaware IoT hub with a free and open source operating system backed by a state of the art blockchain infrastructure supporting smartcontracts and privacy protectionsThe architecture will be demonstrated through four pilots in Barcelona and Amsterdam in the field of digital democracy citizen sensing and collaborative economy The pilots will be run with the active involvement of social entrepreneurs hackers and makers Innovators will be able to build solutions on top of the platform through hackathons and open challenges while ensuring their security resilience and privacy preserving qualities This aims to create a decentralised innovation ecosystem that will attract a critical mass able to shift the current centralised datadriven economy towards a decentralised sustainable and commonsbased economy DECODE puts agency and data control in the hands of citizens to improve citizens wellbeing and society for the collective benefit of all",
+          "Rcn" : "206387",
+          "Acronym" : "DECODE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "16963",
+        "_score" : 30.281622,
+        "_source" : {
+          "identifier" : "CIP201620172",
+          "Text" : "RESIlience enhancement and risk control platform for communication infraSTructure Operators Communications play a fundamental role in the economic and social wellbeing of the citizens and on operations of most of the CIs Thus they are a primary target for criminals having a multiplier effect on the power of attacks and providing enormous resonance and gains Also extreme weather events and natural disasters represents a challenge due to their increase in frequency and intensity requiring smarter resilience of the Communication CIs which are extremely vulnerable due to the everincreasing complexity of the architecture also in light of the evolution towards 5G the extensive use of programmable platforms and exponential growth of connected devices The fact that most enterprises still manage physical and cyber security independently represents a further challenge RESISTO platform is an innovative solution for Communication CIs holistic situation awareness and enhanced resilience aligned with ECSO objectives Based on an Integrated Risk and Resilience analysis management and improvement process availing all resilience cycle phases prepare prevent detect absorb etc and technical resilience capabilities sense model infer act adopt RESISTO implements an innovative Decision Support System to protect communication infrastructures from combined cyberphysical threats exploiting the Software Defined Security model on a suite of state of the art cyberphysical security components Blockchain Machine Learning IoT security Airborne threat detection holistic audiovideo analytics and services Responsible Disclosure Framework for detection and reaction in presence of attacks or natural disastersThrough RESISTO Communications Operators will be able to implement a set of mitigation actions and countermeasures that significantly reduce the impact of negative events in terms of performance losses social consequences and cascading effects in particular by bouncing efficiently back to original and forward to operational states of operation",
+          "Rcn" : "214347",
+          "Acronym" : "RESISTO"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17333",
+        "_score" : 30.237486,
+        "_source" : {
+          "identifier" : "H2020DSSC72017",
+          "Text" : "Advanced CyberThreat Intelligence Detection and Mitigation Platform for a Trusted Internet of Things The CYBERTRUST project aims to develop an innovative cyberthreat intelligence gathering detection and mitigation platform to tackle the grand challenges towards securing the ecosystem of IoT devices The security problems arising from the flawed design of legacy hardware and embedded devices allows cybercriminals to easily compromise them and launch largescale attacks toward critical cyberinfrastructures The proposed interdisciplinary approach will capture different phases of such emerging attacks before and after known even years old or unknown zeroday vulnerabilities have been widely exploited by cybercriminals to launch the attack Emphasis is given on building a proactive cyberthreat intelligence gathering and sharing system to prevent the exploitation of zeroday vulnerabilities This intelligence information will be used to maintain accurate vulnerability profiles of IoT devices in accordance with data protection privacy or other regulations and optimally alter their attack surface to minimise the damage from cyberattacks Novel technologies will be developed based on distributed ledgers and blockchains to monitor devices integrity state and network behaviour that will considerably increase the detection and response capabilities against targeted and interdisciplinary cyberattacks In the case of alleged malicious activity tools for collecting and storing forensic evidence on a tamperproof blockchain structure will be delivered taking into account the specific needs of law enforcement agencies Privacypreserving network monitoring and advanced virtual realitybased visualisation techniques will be employed for quickly detecting botnets DDoS attacks and other incidents Relying on interdisciplinary research an intelligent autonomous cyberdefence framework will be built for providing intelligent ways of isolating the devices under an attackers control or infected and effectively responding to and mitigating largescale attacks",
+          "Rcn" : "214839",
+          "Acronym" : "CYBER-TRUST"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15879",
+        "_score" : 30.041037,
+        "_source" : {
+          "identifier" : "H2020DSLEIT2017",
+          "Text" : "Future Proofing the Connected World A QuantumResistant Trusted Platform Module The goal of FutureTPM is to design a QuantumResistant QR Trusted Platform Module TPM by designing and developing QR algorithms suitable for inclusion in a TPM The algorithm design will be accompanied with implementation and performance evaluation as well as formal security analysis in the full range of TPM environments ie hardware software and virtualization environments Use cases in online banking activity tracking and device management will provide environments and applications to validate the FutureTPM frameworkSecurity privacy and trust in a computing system are usually achieved using tamperresistant devices to provide core cryptographic and security functions The TPM is one such device and provides the system with a rootoftrust and a cryptographic engine However to sustain this enhanced system security it is crucial that the crypto functions in the TPM are not merely secure for today but will also remain secure in the longterm against quantum attacksFutureTPM will address this challenge by providing robust and provablysecure QR algorithms for a new generation of TPMs Research on quantum computers has drawn enormous attention from governments and industry if as predicted a largescale quantum computer becomes a reality within the next 15 years existing publickey algorithms will be open to attack Any significant change to a TPM takes time and requires theoretical and practical research before adoption Therefore to ensure a smooth transition to QR cryptography we should start now A key strategic objective of FutureTPM is to contribute to standardization efforts at EU level within TCG ISOIEC and ETSI The consortium consists of high calibre industrial and academic partners from across Europe combining QR crypto researchers with TPM developers Because the TPM shares many functions in common with other widelyused devices such as HSMs and TEEs the FutureTPM solution is expected to benefit them as well",
+          "Rcn" : "213057",
+          "Acronym" : "FutureTPM"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10844",
+        "_score" : 29.933256,
+        "_source" : {
+          "identifier" : "H2020DSLEIT2016",
+          "Text" : "VERIFICATION ENGINEERING OF SAFETY AND SECURITY CRITICAL DYNAMIC INDUSTRIAL APPLICATIONS The VESSEDIA project will bring safety and security to many new software applications and devices In the fast evolving world we live in the Internet has brought many benefits to individuals organisations and industries With the capabilities offered now such as IPv6 to connect billions of devices and therefore humans together the Internet brings new threats to the software developers and VESSEDIA will allow connected applications to be safe and secure VESSEDIA proposes to enhance and scale up modern software analysis tools namely the mostly opensource FramaC Analysis platform to allow developers to benefit rapidly from them when developing connected applications At the forefront of connected applications is the IoT whose growth is exponential and whose security risks are real for instance in hacked smart phones VESSEDIA will take this domain as a target for demonstrating the benefits of using our tools on connected applicationsVESSEDIA will tackle this challenge by 1 developing a methodology that allows to adopt and use source code analysis tools efficiently and produce similar benefits than already achieved for highlycritical applications ie an exhaustive analysis and extraction of faults 2 enhancing the FramaC toolbox to enable efficient and fast implementation 3 demonstrating the new toolbox capabilities on typical IoT Internet of Things applications including an IoT Operating System Contiki 4 developing a standardisation plan for generalising the use of the toolbox 5 contributing to the Common Criteria certification process and 6 defining a label Verified in Europe for validating software products with European technologies such as FramaC",
+          "Rcn" : "207194",
+          "Acronym" : "VESSEDIA"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10352",
+        "_score" : 29.419123,
+        "_source" : {
+          "identifier" : "H2020IOT2016",
+          "Text" : "ACTivating InnoVative IoT smart living environments for AGEing well ACTIVAGE is a European Multi Centric Large Scale Pilot on Smart Living Environments The main objective is to build the first European IoT ecosystem across 9 Deployment Sites DS in seven European countries reusing and scaling up underlying open and proprietary IoT platforms technologies and standards and integrating new interfaces needed to provide interoperability across these heterogeneous platforms that will enable the deployment and operation at large scale of Active  Healthy Ageing IoT based solutions and services supporting and extending the independent living of older adults in their living environments and responding to real needs of caregivers service providers and public authorities The project will deliver the ACTIVAGE IoT Ecosystem Suite AIOTES a set of Techniques Tools and Methodologies for interoperability at different layers between heterogeneous IoT Platforms and an Open Framework for providing Semantic Interoperability of IoT Platforms for AHA addressing trustworthiness privacy data protection and security Userdemand driven interoperable IoTenabled Active  Healthy Ageing solutions will be deployed on top of the AIOTES in every DS enhancing and scaling up existing services for the promotion of independent living the mitigation of frailty and preservation of quality of life and autonomy ACTIVAGE will assess the socioeconomic impact the benefits of IoTbased smart living environments in the quality of life and autonomy and in the sustainability of the health and social care systems demonstrating the seamless capacity of integration and interoperability of the IoT ecosystem and validating new business financial and organizational models for care delivery ensuring the sustainability after the project end and disseminating these results to a worldwide audience The consortium comprises industries research centres SMEs service providers public authorities encompassing the whole value chain in every Deployment Site",
+          "Rcn" : "206513",
+          "Acronym" : "ACTIVAGE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17337",
+        "_score" : 28.587347,
+        "_source" : {
+          "identifier" : "H2020SEC201620172",
+          "Text" : "InterCONnected NEXtGeneration Immersive IoT Platform of Crime and Terrorism DetectiON PredictiON InvestigatiON and PreventiON Services CONNEXIONs aims to develop and demonstrate nextgeneration detection prediction prevention and investigation services These services will be based on multidimensional integration and correlation of heterogeneous multimodal data and delivery of pertinent information to various stakeholders in an interactive manner tailored to their needs through augmented and virtual reality environments The CONNEXIONs solution encompasses the entire lifecycle of law enforcement operations including a preoccurrence crime prediction and preventionb duringoccurrence LEA operationsc postoccurrence investigation and crimescene simulation and 3D reconstruction CONNEXIONs will meaningfully enhance operational and near realtime situational awareness through automated identification interpretation fusion and correlation of multiple heterogeneous big data sources as well as their delivery via immersive solutions Such multimodal data include SurfaceDeepDark Web and social media content in 7 languages EN FR DE PT RO ES AR data acquired by Internet of Things IoT devices and digital evidence CONNEXIONs will also provide chainofcustody and pathtocourt for digital evidence The Project will adopt ethics and privacy bydesign principles and will be customisable to the legislation of each member state CONNEXIONs will be validated in field tests and demonstrations in 3 operational use cases a counterterrorism security in large scale public eventsb human trafficking investigations and mitigationc crime investigation and training through 3D scene reconstruction Extensive training of LEAs personnel handson experience joint exercises and training material will boost the uptake of CONNEXIONs tools and technologies With a Consortium of 8 LEAs from 7 European countries 5 ResearchAcademic partners and 4 industry partners CONNEXIONs delivers a strong representation of the challenges requirements and tools to meet its objectives",
+          "Rcn" : "214843",
+          "Acronym" : "CONNEXIONs"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10228",
+        "_score" : 28.386963,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Platform for Open Development of Systems of Artificial Intelligence The Bonseyes project aims to develop a platform consisting of a Data Marketplace Deep Learning Toolbox and Developer Reference Platforms for organizations wanting to adopt Artificial Intelligence in low power IoT devices edge computing embedded computing systems or data center servers cloud computing It will bring about orders of magnitude improvements in efficiency performance reliability security and productivity in the design and programming of Systems of Artificial Intelligence that incorporate Smart Cyber Physical Systems while solving a chickenegg problem for organizations who lack access to Data and Models Its open software architecture will facilitate adoption of the whole concept on a wider scale It aims to address one of the most significant trends in the Internet of Things which is the shifting balance between edge computing and cloud computing The early days of the IoT have been characterized by the critical role of cloud platforms as application enablers Intelligent systems have largely relied on the cloud level for their intelligence and the actual devices of which they consist have been relatively unsophisticated This old premise is currently being shaken up as the computing capabilities on the edge level advance faster than those of the cloud level This paradigm shiftfrom the connected device paradigm to the intelligent device paradigm opens up numerous opportunitiesTo evaluate the effectiveness technical feasibility and to quantify the realworld improvements in efficiency security performance effort and cost of adding AI to products and services using the Bonseyes platform four complementary demonstrators will be built Automotive Intelligent Safety Automotive Cognitive Computing Consumer Emotional Virtual Agent and Healthcare Patient Monitoring Bonseyes platform capabilities are aimed at being aligned with the European FIPPP activities and take advantage of its flagship project FIWARE",
+          "Rcn" : "206356",
+          "Acronym" : "Bonseyes"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17353",
+        "_score" : 28.144157,
+        "_source" : {
+          "identifier" : "H2020SEC201620172",
+          "Text" : "Advanced tools for fighting oNline Illegal TrAfficking ANITA will design and develop a novel knowledgebased usercentred investigation system for analysing heterogeneous text audio video image online Surface Web Deep Web DarkNet and offline content for fighting illegal trafficking of drugs counterfeit medicines NPS and firearms ANITA will combine a innovative data source analysis of cryptocurrency network and transactions and blockchain technologies b advanced Big Data analytics tools for automatic analysis of the vast amounts of multimodal content of the identified sources c sophisticated methodologies for capturing modelling and inferring knowledge in human understandable forms eg expressive ontologies extracting also relevant and new knowledge from neural networks and formally storing it in the form of ontologies d development of an adaptive cognitive user modelling framework that will capture analyse interpret mimic and integrate key human cognitive and information processing functions for i incarnating the incorporation of human perceptioncognition principles in the system processing pipelines ie integrating the investigators intheloop of the overall analysis process and ii facilitate the transfer of domain knowledge from the expert users to the novice ones e domainrelated and useroriented intelligence applications which will enable users to identify patterns for spatial temporal and causal correlations among illegal trafficking events entities and activities and to support decisionmaking processes for countermeasures to undertake All the above functionalities will be coupled and reinforced by an indepth interdisciplinary analysis of the online illegal trafficking phenomenon including the study of reaction strategies and countermeasures and a thorough analysis of the online resources with respect to social ethical legal and privacy issues of concern The proposed system capabilities will be demonstrated in multiple relevant operational environments",
+          "Rcn" : "214862",
+          "Acronym" : "ANITA"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9703",
+        "_score" : 27.603682,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "Cyber security system with a high IoT network visibility and fast vulnerability detection for Smart Homes Today there are around 800 million connected devices in Smart Homes which forecasted to reach 2 billion devices by 2020  an uptick of about 250 million new devices per year Smart Home networks become crowded difficult to maintain and vulnerable Todays Smart Home systems such as smart TVs Internetconnected camera systems alarm sensors smart light bulbs or thermostats can be hacked only in few minutes and provide a wealth of data about the way people live bank information legal information and etcPerytons proposes a centralized diagnostic solution for the Smart Home Operators called EyeOT The EyeOT enables the operators to monitor and analyze in real time a large number of IoT networks distributed over many remote sites and running different local communication protocols The system is composed by plug  play probes that capture Smart Home IoT edge and gateway traffics and send it to the cloud through the existing broadband infrastructure and an intuitive realtime dashboard The EyeOT security system not only enables Smart Home owners to minimise their house and privacy vulnerability to security breaches and malicious attacks but also reduces the Smart Home maintenance cost for operators by 30 and increases the operators deployment capacity of at least 10The Phase 1 project will allow Perytons to define a minimum viable product plan a feasible cyber security and centralized monitoring system scaleup elaborate the business scale up and size the reachable market and a reliable market share Within the overall project Perytons aims to scale up the solution to be able to support large scale IoT network deployment ingrate the system with one large cloud service interface the solution with common Network Management solutions and demonstrate EyeOT visibility and security trough a large scale pilot in houses with 300 probes deployed in Germany and the UK together with Smart Home Operators",
+          "Rcn" : "205793",
+          "Acronym" : "Eye-O-T"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13423",
+        "_score" : 27.457273,
+        "_source" : {
+          "identifier" : "CIP201620171",
+          "Text" : "Strategic Tactical Operational Protection of water Infrastructure against cyberphysical Threats Water critical infrastructures CIs are essential for human society life and health and they can be endangered by physicalcyber threats with severe societal consequences To address this STOPIT assembles a team of major Water Utilities industrial technology developers high tech SMEs and top EU RD providers It organizes communities of practice for water systems protection to identify current and future risk landscapes and to codevelop an allhazards risk management framework for the physical and cyber protection of water CIs Prevention Detection Response and Mitigation of relevant risks at strategic tactical and operational levels of planning will be taken into account to generate modular solutions technologies tools and guidelines and an integrated software platform STOPIT solutions are based on a mature technologies improved via their combination and embedment incl public warning systems smart locks and b novel technologies whose TRL will be increased incl cyber threat incident services secure wireless sensor communications modules contextaware anomaly detection technologies faulttolerant control strategies for SCADA integrated sensors highvolume realtime sensor data protection via blockchain schemes authorization engines irregular human detection using new computer vision methods and WiFi and efficient water contamination detection algorithms STOPIT solutions are demonstrated through a frontrunnerfollower approach where 4 advanced utilities Aiges de Barcelona ES Berliner Wasserbetriebe DE MEKOROT IL and Oslo VAV NO are twinned with 4 less advanced but ambitious ones to stimulate mutual learning transfer and uptake Building on this solid basis STOPIT delivers high impact through the creation of handson training best practice guidelines support for certification and standardization as well as by fostering market opportunities also leveraging the EU water technology platforms multistakeholder network",
+          "Rcn" : "210216",
+          "Acronym" : "STOP-IT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "8091",
+        "_score" : 27.342463,
+        "_source" : {
+          "identifier" : "H2020ECSEL20151RIAtwostage",
+          "Text" : "UltraLow PoweR technologIes and MEmory architectures for IoT The goal of the PRIME project is to establish an open Ultra Low Power ULP Technology Platform containing all necessary design and architecture blocks and components which could enable the European industry to increase and strengthen their competitive and leading ecosystem and benefit from market opportunities created by the Internet of Things IoT revolution Over 3 years the project will develop and demonstrate the key building blocks of IoT ULP systems driven by the applications in the medical agricultural domestics and security domains This will include development of high performance energy efficient and cost effective technology platform flexible design ecosystem including IP and design flow changes in architectural and power management to reduced energy consumption security blocks based on PUF and finally the System of Chip and System in Package memory banks and processing implementations for IoT sensor node systemsDevelopped advanced as 22nm FDSOI low power technologies with logic analog RF and embedded new memory components STT RAM and RRAM together with innovative design and system architecture solutions will be used to build macros and demonstrate functionality and power reduction advantage of the new IoT device componentsThe PRIME project will realize several demonstrators of IoT system building blocks to show the proposed low power wireless solutions functionality and performance of delivered design and technology blocks The consortium semiconductor ecosystem IDMs design houses RD tools  wafer suppliers foundries systemproduct providers covers complementarily all desired areas of expertise to achieve the project goals  The project will enable an increase in Europes innovation capability in the area of ULP Technology design and applications creation of a competitive European ecosystem and help to identify market leadership opportunities in security mobility healthcare and smart cost competitive manufacturing",
+          "Rcn" : "203402",
+          "Acronym" : "PRIME"
+        }
+      }
+    ]
+  }
+}

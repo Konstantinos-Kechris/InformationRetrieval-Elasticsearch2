@@ -1,0 +1,256 @@
+{
+  "took" : 16,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 723,
+    "max_score" : 85.19324,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13898",
+        "_score" : 38.27833,
+        "_source" : {
+          "identifier" : "H2020MG2016TwoStages",
+          "Text" : "Unlocking LargeScale Access to Combined Mobility through a European MaaS Network Following recent megatrends in the mobile and sharing economy and thanks to the latest ITS developments Mobility as a Service is conceived as the way people will move themselves and their goods in the future The as a service paradigm can be a real revolution when it is able to ensure higher continuity among the different means of transport and enable offering combined mobility packages as a viable alternative to fragmented mobility and car ownership  Though some MaaS initiatives have already been tested in Europe they encountered several obstacles in reaching scale and stable business operation IMOVE will learn from such initiatives as UBIGO in Gothenburg or Hannovermobil launched a decade ago in Hannover and will step forward contributing to radically change mobility paradigms bringing in disruptive elements of mobility services Innovative business and technology enablers will be investigated able to concretely put into action accelerate and scale up the MaaS market deployment in Europe ultimately paving the way for a roaming capability for MaaS users at the European level IMOVE research and innovation action is based on investigation development and validation of bottom up novel solutions able to define sound MaaS business models smoothing their efficient and profitable service operation A suite of ITS elements empowering MaaS schemes will be delivered by IMOVE including technology components for realtime collection of finegrained data on mobility user needs habits and preferences as well as components enabling the exchange of information and enhancing seamless interoperability among different MaaS subsystems and multiple MaaS schemes IMOVE solutions will be investigated and validated in 5 European Living Labs currently engaged in or having plans for MaaS development The participation of UITP will ensure active participation of PTAs as well as key private stakeholders from other sites and will further guarantee a multiplier effect",
+          "Rcn" : "210789",
+          "Acronym" : "IMOVE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14399",
+        "_score" : 34.05562,
+        "_source" : {
+          "identifier" : "H2020MG2017SingleStageINEA",
+          "Text" : "Shared mobility opporTunities And challenges foR European citieS The goal of STARS is to close the gap between the potential benefits of shared vehicle services with special emphasis on those innovative forms that are enabled by recent technology applications in the transport sector and their real impacts in terms of congestion mitigation environmental footprints and social inclusion that are mediated by both individual preferences and social innovation patterns STARS will achieve this goal by integrating knowledge expertise and research methods from transport engineering environmental psychology and economics thanks to the unique blend of different competences and kinds of organisation within the consortiumThe role of car sharing in improving mobility in European urban areas and providing new business opportunities to the automotive sector will be assessed through an integrated comodality approach where the impact of car sharing on other travel modes public transport active means private cars will be quantified To this effect both business as usual and rupture mobility scenarios will be studied the former referring to future projections of actual trends concerning the diffusion of car sharing in EU countries and the latter to an assessment of its full potential in presence of appropriate policy actions aimed at maximising social benefits These policy actions will be informed by the definition of a decision support toolkit that will allow the identification of the best strategy to implement a car sharing service kind of service to promote rough estimation of the market dimension accompanying measures for competing travel modes business opportunities for different economic actors as a function of the socioeconomic characterisation of the area of the related mobility lifestyles of the policy context and of the related Sustainable Urban Mobility Planning measures and priorities Both guidelines in the form of whatif scenarios and practical examples will be provided",
+          "Rcn" : "211346",
+          "Acronym" : "STARS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13988",
+        "_score" : 34.017952,
+        "_source" : {
+          "identifier" : "H2020MG2016TwoStages",
+          "Text" : "Accelerating CITS Mobility Innovation and depLoyment in Europe The CMobILE Accelerating CITS Mobility Innovation and depLoyment in Europe vision is a fully safe  efficient road transport without casualties and serious injuries on European roads in particular in complex urban areas and for Vulnerable Road Users We envision a congestionfree sustainable and economically viable mobility minimizing the environmental impact of road transport CMobILE will set the basis for large scale deployment in Europe elevating research pilot sites to deployment locations of sustainable services that are supported by local authorities using a common approach that ensures interoperability and seamless availability of services towards acceptable end user cost and positive business case for parties in the supply chainThe CMobILE project will produce 7 key results CITS framework defined in partnerships with major stakeholders for proposing key deployment enabling solutions on existing pilot sites including business cases Strategic Research Agenda defined for key researching and innovation areas that promote sustainable CITS deployments and will lead towards automated transport in Europe Assessment including CBA of the cumulative reallife benefits of clustering CITS applications and integrating multiple transport modes in the CITS ecosystem Open secure largescale CITS deployment of new and existing applications demonstrated in complex urban environments interoperable across countries involving large groups of end users Provide an open platform towards CITS sources to support deployment of service concepts on commodity devices validated by developer communities Validated operational procedures for largescale deployment of sustainable CITS services in Europe Released testing methodologies to evaluate the proven impact of CITS architectures and services",
+          "Rcn" : "210916",
+          "Acronym" : "C-MobILE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10143",
+        "_score" : 30.385088,
+        "_source" : {
+          "identifier" : "H2020SESAR20152",
+          "Text" : "Trajectory based Free Routing The Free Routing concept enables Airspace Users AU to fly as close as possible to their preferred trajectory without being constrained by fixed airspace structures or fixed route networksFree Routing FR implementation represents a step towards a less fragmented European airspace foreseen by Single European Sky SES and provides the AUs with the possibility to fly their user preferred routes in accordance with their business needs or mission requirements  FR will result in a seamless airspace enabling more efficient flight a reduction in AU costs and will promote cheaper travel increasing personal mobility and trade In addition implementing Free Routing Airspace FRA will reduce the greenhouse gas emissions that currently contribute to global warming thereby creating a greener airspaceFR was addressed within the SESAR 1 programme but additional RD activities are required to support the implementation of FRA in high and very high complexity airspace The EU Regulation No 7162014 mandates FRA above FL 310 from 1 January 2022 and also to extend this implementation below FL310 thereby allowing other AUs to benefit The European Air Traffic Management Master Plan version 2015 identifies the need for RD work to support the management of performancebased Free Routing in lower airspaceThe partners in PJ06 will validate both the benefit to AUs and the impact on ATM of this extension of FRA into complex airspace and lower vertical limits through modelling and Real Time Simulations  The results will seek to provide evidence that FRA can be implemented cost effectively in all the SES airspace The PJ06 Consortium involves key stakeholders of ground industry Air Navigation Services Providers universities and EUROCONTROL and includes a wide range of expertise and competence all committed to delivering highquality results",
+          "Rcn" : "206255",
+          "Acronym" : "PJ06 ToBeFREE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15386",
+        "_score" : 29.497112,
+        "_source" : {
+          "identifier" : "H2020EO2017",
+          "Text" : "Perceptive Sentinel  BIG DATA knowledge extraction and recreation platform PerceptiveSentinel project will deliver PerceptiveSentinel platform  an INTERMEDIATE EO service that will through seamless access to highly preprocessed DATA provide MODELLING and PUBLISHING capabilities for DESIGN EXPOSURE and EXPLOITATION of EOprocessing chains for FORECASTING MONITORING and HISTORICAL ANALYSIS in different domain fields based on MULTITEMPORAL and MULTISPECTRAL EOData and NonEO Data MODELLINGPerceptiveSentinel platform will combine BIGDATA SOURCES 2 both spatial and nonspatial 2 whether remote sensed observed insitu or derived 3 whether public private or proprietaryonto a single system The data will be transformed into action by applying STREAMING MACHINE LEARNING to UNLOCK its value Platforms capabilities will significantly shorten development cycles enabling rapid development of EO services opening new opportunities for largescale exploitation of data and provide the means for new EO downstream players to smoothly enter the market without the investment into their own storage and processing capabilitiesCommercialisation approach will be based on 1 FREE and OPEN access to services and data 2 OPENVALUECHAIN approach 3 LOW COST of services and on 4 DELIVERING VALUE TO END USERSIt is our intention that PerceptiveSentinel platform becomes FIRST value and benefit sharing EO platform in the world We intent to expose an alternative business model building on COOPERATIVE VALUE CREATION and capture including all aspects of EO value chain from data providing productservice development publishing and consuming We believe in synergetic effects of cooperation using PerceptiveSentinel platform to establish alliances with external partners taking an open approach to participation and building joint commercial success on the delivery of new added value",
+          "Rcn" : "212428",
+          "Acronym" : "PerceptiveSentinel"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15753",
+        "_score" : 29.148973,
+        "_source" : {
+          "identifier" : "H2020LCE2017SGS",
+          "Text" : "eDREAM  enabling new Demand REsponse Advanced Market oriented and Secure technologies solutions and business models Smart automated Demand Response DR represents a valid alternative to grid reinforement for electricity Distribution System Operators DSOs to procure in a costeffective way the necessary flexibility for integrating larger shares of intermittent RESs while not compromising security of supply and network reliability However DR potential has been exploited so far to a very limited extent due to a number of technological regulatory economic barriers To cope with these challenges eDREAM will develop and make available a novel near real time DR scalable secure blockchaindriven technological and business framework aimed to optimize aggregated system services flexibility provisioning to DSOs The project will research and develop tools and services for i optimal DR system design which includes early detection of flexibility potential via multimodal fusion of aerial LIDAR and thermal imaging end users profiling and segmentation by leveraging on big data clustering and large data sets visual interactive exploration and DR optimization services for energy end users ii optimal DSOdriven Demand Response management including novel applications of blockchain decentralized ledger for secure data handling marketbased microgrid control and near real time closed loop DR verification aimed to improve system observability and enable fair DR financial settlement Novel flexibility market and servicesproducts design as well as cooperative DSOaggregator business models enabled by incentive sharing will validate the eDREAM DR technical concept from the economic perspective The eDREAM technologies will be extensively validated in a labbased pilot Greece followed by two field pilots a CI VPPbased optimal aggregated flexibility management in UK and a mixed stationary and movable EVs loads flexibility microgridlevel optimized flexibility management in Italy",
+          "Rcn" : "212892",
+          "Acronym" : "eDREAM"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10527",
+        "_score" : 29.116753,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "A shared mobility OnDemand Service SHOTL wwwshotlcom is an ondemand collective transport service that redefines the daily commute Comprising a fleet of minivans and intelligent routing software SHOTL will enable millions of people living and working in firstmile and lastmile areas to reach their daily destinations offering a convenient and affordable alternative to private carsEvery day around 60M Europeans commute to work by car spending 68 B annually This is the primary cause of road congestion responsible for lost productive time wasted fuel air pollution increased cost of doing business and considerable losses in GDP SHOTL will empower existing public transportation networks by delivering novel routing technology that offers a truly usercentric travel experience easytouse mobile Apps for commuters and drivers and integration with public transit networks for seamless endtoend travel  Our solution is truly unique in the market Other ondemand mobility services carry only 12 people per trip apply surge pricing during peak times and do not effectively reduce congestion SHOTL will be the only solution that effectively combines collective transport a firstrate user experience and affordability eliminating 165K cars from urban roads saving 300K hours of productive time and avoiding nearly 40K tonnes of CO2 emissions annually across Europe by 2022We have completed Alpha tests in a real city environment in Barcelona providing initial validation of our innovations technical performance and our participation in the StartUp4Cities program has demonstrated SHOTLs market potentialIn Phase 1 we will carry out a feasibility study in order to demonstrate SHOTL Alpha to key stakeholders improve the product based on real user needs strengthen our IP protection strategy define our commercialisation strategy and create a detailed business plan that will ensure rapid expansion into key European markets eventually extending to North America and beyond",
+          "Rcn" : "206824",
+          "Acronym" : "SHOTL"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15736",
+        "_score" : 28.799803,
+        "_source" : {
+          "identifier" : "H2020EE2017PPP",
+          "Text" : "RESPOND integrated demand REsponse Solution towards energy POsitive NeighbourhooDs RESPOND will aim to deploy and demonstrate an interoperable cost effective user centred solution entailing energy automation control and monitoring tools for a seamless integration of cooperative DR programs into the legacy energy management systems In this endeavour RESPOND will be leveraged upon an integrated approach for realtime optimal energy dispatching taking into account both supply and demand side while exploiting all energy assets available at the site Owing to its flexibility and scalability RESPOND solution will be capable of delivering a cooperative demand response at both building and district level To provide a seamless integration of all DR enabling elements and ensure a high replication potential RESPOND will be leveraged upon open standards for interoperability with smart home devices and automation systems connectivity and extendibility towards smart grid and third party services such as for provision of energy prices weather forecasts etc Underpinned by the smart energy monitoring infrastructure RESPOND will be able to perform reliable energy data analytics and forecasting in order to detect potential energy conservation opportunities and to adapt in real time to the operational environment considering indoor and outdoor conditions while retaining the requested comfort levels Through the interaction with the end users RESPOND will aim to raise their awareness by delivering measurement driven suggestions for energy demand reduction and influence their behaviour making them an active indispensable part of DR loop In order to demonstrate the high replication potential RESPOND will target different types of residential buildings situated in different climate zones having different forms of ownership both rental as well as homeowners population densities and underlying energy systems",
+          "Rcn" : "212867",
+          "Acronym" : "RESPOND"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "7520",
+        "_score" : 28.774044,
+        "_source" : {
+          "identifier" : "H2020SMEINST12015",
+          "Text" : "A lightweight fast charging EV platform to be utilised on Car Share and Urban Mobility Systems The concept is to create a family of novel lightweight EVs through an EU based organisation coordinating design manufacture supply and support service infrastructure targeted at producing zero emission city mobility for coordinated hire schemes transportation networks taxi or private individual transportEC policy  demands sustainable urban mobility specifically within the growing carshare and city hire market Nedra has been formed specifically to capitalise on these emerging opportunities through an Electric Vehicle EV platform where Product Specification and New Product Development processes are optimised to match exactly the market needs and the mantra just enough is applied The Nedra product range features a combination of lightweight low cost longer range and rapid charge platform that is not currently met by any single existing product This will be key to realising the companys growth strategy of sales turnover of 36milion pa by 2020  In addition to the product range we have identified that we can create an EUbased network which coordinates manufacture supply and service for this family of EVs worldwide The purpose of this feasibility study is to confirm some of the assumptions regarding the market identify further key suppliers and partners and establish the product legislative and compliance needs",
+          "Rcn" : "201767",
+          "Acronym" : "NedraEV"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10807",
+        "_score" : 28.202843,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "KAROS  Integration of a dynamic and predictive short distance carpooling offer into route planner services In Europe 70 of commuters drive a car to go to work In 90 of cases regardless of the geographical area the occupation ratio of a car for such commuting trips is 11 In the Paris region alone this means that there are 40M seats that remain unused every day Whilst governments are focusing on spelling out policies to develop more sustainable urban mobility grids the stunning success and strong growth of carpooling service websites such as BlablaCar Europes leader on long distance carpooling growing from 3 to 10 millions of users Europewide signals that the sharingeconomy heralds a shift in consumer attitudes and could provide a solution to sustainable intracity mobility Yet current solutions to facilitate are pooling are notadapted to intracity commutes They are Geared to the Longdistance NonIntelligentAutomated Inflexible and lacking critical mass and NontransparentKAROS is a smart mobility platform leveraging big data technologies Artificial Intelligence and algorithms The strength of KAROS lies in its commercial approach Unlike usual B2C carpooling services KAROS operates in an indirect model to reach its endusers by striking partnerships with companies 500 employees which partly subsidise the service in order to offer more convenient and comfortable means of transportation to their employees at lower costs This in turn enables KAROS to reach large numbers of users through each partnership as they act a multipliers and strong communication channels to promote the service Because of these unique advantages since January 2016 with no marketing KAROS now counts over 25K users 3600 of whom are active on a weekly basisThe objective of the feasibility study is to prove technical and commercial viability and to assess KAROS expansion in other EU Markets",
+          "Rcn" : "207149",
+          "Acronym" : "KAROS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9129",
+        "_score" : 27.982256,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "SFOOT  Development of single fibre data transport system Current trends in IT require increasing data transfer speeds in fixed and mobile networks cloud services and virtualization that all require several high bandwidths communication channels to come closer to the end user This need is not adequately serviced by traditional two fibre data transport systems that are designed to create large backbone country wide transport systems with high number of channelsXenya doo proposes a solution in data communication over optical fibre that will enable cost effective solutions of transporting data for small to medium scale data transport systems that cover short to medium distances The proposal applies to SMEInst0120162017 Open Disruptive Innovation Scheme programmeCompared to the traditional systems that are built on a pair of optic fibres the proposed solution uses a single optic fibreConsequently significant reduction in communication system complexity less equipment simpler design simpler implementation higher reliability effective network operation management is achievedThe economic impact of the solution on lower costs for data transport over optical fibres is evident at first sight but all impacts are quite complex to de defined and have two aspects the cost reduction and the consequent market growth The solution is targeting SMEs as it allows the users to appropriately align the supporting IT and communication technology with the business right performance for affordable costs Estimated time for the development 15 yearsFunds requested 09 million EUR",
+          "Rcn" : "205150",
+          "Acronym" : "SFOOT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1682",
+        "_score" : 27.938234,
+        "_source" : {
+          "identifier" : "H2020MG2014SingleStageB",
+          "Text" : "COoperative ITS DEployment Coordination Support Multifaceted research initiatives and field operational tests have proven the potential of Cooperative Intelligent Transport Systems and Services CITS to contribute to a safer more flexible mobile sustainable and comfortable future society In first deployment activities like the Cooperative ITS Corridor SCOOPF and COMPASS4D pilot projectsusers will precociously experience the benefits of cooperative traffic safety and efficiency services enabled by the integration of new technology eg ETSI ITS G5 into vehicles and infrastructure As a considerable stakeholder organisation the Amsterdam Group pursues a harmonised CITS system realisation providing benefits to all users It facilitates joint work for a growing variety of stakeholders such as road operators automotive industry cities and regions The Coordination and Support Action COoperative ITS DEployment Coordination Support CODECS supports the European Commission and the manifold stakeholders involved in CITS deployment in finding strategic and technical policy solutions and processes for a consolidated CITS rollout CODECS serves as hub for transparent information and knowledge transfer on function approaches experiences and lessonslearned by stakeholders active in the initial deployment To ensure Europeanwide seamless crossborder interoperability and enduser experiences CODECS develops a harmonised standards profile supporting a growing amount of CITS services To address key organisational and technology related issues CODECS will derive a strategic common road map from preferences of the involved stakeholders giving direction for innovation testing standardisation and deployment beyond Day One CODECS also supports future CITS common deployment by achieving a clear understanding on policies roles and responsibilities CODECS does convey these insights to the CITS deployment platform initiated by the European Commission and also to the Amsterdam Group",
+          "Rcn" : "194851",
+          "Acronym" : "CODECS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5188",
+        "_score" : 27.913465,
+        "_source" : {
+          "identifier" : "H2020EUB2015",
+          "Text" : "EUBrasilCloudFORUM Fostering an International dialogue between Europe and Brazil The EUBrasilCloudFORUM Coordination and Support Action aims at establishing an organisational cooperation model that enables the EU and Brazil to formulate and develop a common strategy and approach for Research  Innovation in Cloud Computing in line with the priorities of each region Shaping the Digital Single Market DSM requires revitalising industry with a strong focus on cloud computing and the data economy Europe  Brazil understand the potential global importance of the DSM where both parties within EUBrasilCloudFORUM agree that an open exchange with stakeholders is critical for building consensus amongst the regions and for delivering practical guides on how Cloud Services can help business and research activityThe ongoing evolution of cloud computing will radically transform business processes and bring about the most sweeping changes to the structure of the global economy since the Industrial Revolution A structured channel as the EUBrasilCloudFORUM is needed to exchange views on the digital economy can support better access for consumers and businesses around innovative cloud services and solutions and maximise the growth potential of the digital economyFour main objectives have been set by the EU  BR consortium 1 structure a community driven engagement forum for EUBrazil policy and research and innovation dialogues 2 deliver an EUBrazil Research and Innovation Roadmap and Action Plan related to cloud computing 3 build a web based EUBR Service platform to promote and market the results from the EUBrazil community as well as showcasing the success stories and 4 organize and deliver focused EUBR Cloud Computing Events",
+          "Rcn" : "198827",
+          "Acronym" : "EUBrasilCloudFORUM"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9908",
+        "_score" : 27.840176,
+        "_source" : {
+          "identifier" : "H2020ART2016SingleStageRTD",
+          "Text" : "Coordination of Automated Road Transport Deployment for Europe Automated Road Transport ART is seen as one of the key technologies and major technological advancements influencing and shaping our future mobility and quality of life The ART technology encompasses passenger cars public transport vehicles and urban and interurban freight transport and also extends to the road IT and telecommunication infrastructure needed to guarantee safe and efficient operations of the vehiclesIn this framework CARTRE is accelerating development and deployment of automated road transport by increasing market and policy certainties CARTRE supports the development of clearer and more consistent policies of EU Member States in collaboration with industry players ensuring that ART systems and services are compatible on a EU level and are deployed in a coherent way across Europe CARTRE includes a joint stakeholders forum in order to coordinate and harmonise ART approaches at European and international level CARTRE creates a solid knowledge base of all European activities supports current activities and structures research outcomes by enablers and thematic areasCARTRE involves more than 60 organisations to consolidate the current industry and policy fragmentation surrounding the development of ART",
+          "Rcn" : "206011",
+          "Acronym" : "CARTRE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10247",
+        "_score" : 27.773695,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "KASKO  delivering insurance as a service at the point of demand KASKO is an innovative insurance technology SME pioneering the concept of insurance as a service It connects digital marketplaces with insurance providers to offer highly tailored policies at the point of demand through easytoimplement pluginsConsumers are increasingly going online to purchase goods and services  At the same time the demand for insurance products has grown EU nonlife insurance premiums will grow from 455B in 2014 to 487B in 2020 Digital insurance transactions will grow at 10X the rate of standard productsBut the EU insurance industry is not prepared for this digital disruption due to inflexible products legacy IT systems and inability to integrate with marketplacesKASKO addresses these challenges by creating a software and business process that disrupts the model of insurance product creation and delivery Using KASKO online marketplaces can display a plugin on their checkout pages with insurance offers from trusted providers generated in real time based on product and user behaviour data This allows KASKO to offer highly relevant policies at lower costs at the right place and timeKASKO follows a B2B2C approach targeting marketplaces within motor ecommerce banks property and travel sectors as well as a B2B model targeting insurers to provide innovative policies Marketplaces benefit from new revenue streams insurers benefit from new sales channels and lower IT costs and consumers benefit from tailored insurance productsBy 2020 it aims to capture 0045 of the 487B EU market reaching an audience of 213 million consumers This will result in 65 million revenues 132 million EBITDA and a workforce of 256 4 integrations have already been launched 25 more are in the pipeline Proof of concept demand and willingness to pay have been thoroughly demonstrated The company was launched in London in 2015 by a team of experienced insurance industry experts It is now applying for a feasibility study",
+          "Rcn" : "206375",
+          "Acronym" : "KASKO"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "210",
+        "_score" : 27.748331,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "Optimodal European Travel Ecosystem EuTravel aims to1 Support the EU agenda towards an open and single market for mobility services by enabling travellers to organise a multimodal trip in accordance with their own criteria including environmental performance providing multimodal travel service providers an effective way to deliver customised services addressing any type of specialised travel needs and facilitating factbased EU policy making2 Promote the creation of content open and linked data for travellers enriching the travelling experience3 Support travel industry players join forces towards realising an EU shared seamless mobility strategy and architectureEuTravel will research and demonstrate Intermodal travel optimised with respect to synchronisation between modes passenger experience and rights and environmental performance Optimodal Travel The project objectives will be realised by1 Developing an open and readily usable Optimodality Framework aimed at integrating processes data and systems in a manner that eliminates interoperability barriers to the marketplace emergence of truly Optimodal travel services from planning through booking and the full range of related travel support solutions2 Delivering Optimodality Ecosystem Enablers offering an open infrastructure that allows organisations to set up costeffective integration of existing systems and to create value added multimodal travel services3 Organising and developing a Living Lab to experiment and evaluate new concepts and prototype solutions in real life multimodal travel scenarios and obtain data to quantify impact4 Taking actions towards sustainable development including a Stakeholder Engagement Strategy and wide disseminationEuTravel unlike other projectsinitiatives will deliver an Ecosystem promoting and supporting Optimodal travel that will have higher chances of success as it will be populated with tools that tap into existing mainstream IT travel reservation systems and sources of data",
+          "Rcn" : "193378",
+          "Acronym" : "EuTravel"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1034",
+        "_score" : 27.723066,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Measuring Mobile Broadband Networks in Europe There is a strong need for objective data about stability and performance of Mobile Broadband MBB networks and for tools to rigorously and scientifically assess their performance In particular it is important to measure and understand the quality as experienced by the end user Such information is very valuable for many parties including operators regulators and policy makers consumers and society at large businesses whose services depend on MBB networks researchers and innovatorsMONROE proposes to design build and operate an open Europeanscale and flexible platform with multihoming capabilities to run experiments on operational 3G4G Mobile Broadband networks One of the main objectives of MONROE is to use the platform for the identification of key MBB performance parameters thus enabling accurate realistic and meaningful monitoring and assessment of the performance of MBB networks MONROE also provides WIFI connectivity mimicking multihoming in smartphones with both MBB and WiFi interfaces to allow experimenting on different access technologies as well as explore new ways of combining them to increase performance and robustness The users of the platform are in the core of the MONROE project First following the FIREs philosophy MONROE offers a useroriented closedloop system design in which the experimental platform is open to external users and where users are incorporated early on in the experimental design process Second MONROE will provide Experiments as a Service EaaS thus lowering the barrier for using the platform to external experimenters and users by providing welldocumented tools and adjustable flexible highlevel scripts to execute experiments collect results and analyze data Interoperability with existing FIRE and FP7 measurement platforms jointly with the MONROEs effort to develop business and funding models will guarantee sustainability and usefulness of the platform",
+          "Rcn" : "194202",
+          "Acronym" : "MONROE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11402",
+        "_score" : 27.701138,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "potential analysis of Ecovs shortdistance realtime carpooling stations relying onroadside connected hardware Cities outskirts generally have less developed public transport networks Thus in these areas the most frequently used means of transport is still the car Ecov aims at tackling this lack of affordable and flexible mobility solution outside of city centres Its concept is based on connected carpooling stations that match drivers in their local car use with passengers looking for a flexible and costsaving journey Existing carpooling solutions have not addressed the problem properly since they either require users to possess a smartphone ask drivers to put in time and efforts to participate not the case for short distance trips or need a critical mass of users to actually work Ecov avoids these issues drivers do not need to register nor do they need to commit to a particular itinerary or schedule The innovation lies in the communication between street terminals road signs and the IT system managing payment between passengers and drivers Currently it is estimated that 5 of the total passengerkilometres pkm could be carpooled locally This means that the market potential is around 133b pkm in France Germany Spain and the United Kingdom combined monetisation at 002km yields a market worth 27b To tap into this potential Ecov has conceived an innovative business model that includes partnerships with local governments and private companies willing to install carpooling stations The former are looking for disruptive costeffective public transport solutions for their remote fringes and the latter face difficulties attracting jobseekers and clients with mobility issues LOCARP4EU will identify the most promising EU countries that have the most potential for Ecovs concept and will adjust the business model to national conditions The proposal meets European objectives by proposing a mobility solution that will contribute to making transport cleaner and more sustainable and will participate in mitigating CO2 emission",
+          "Rcn" : "207988",
+          "Acronym" : "LOCARP4EU"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14993",
+        "_score" : 27.501877,
+        "_source" : {
+          "identifier" : "H2020S2RJUCFM2017",
+          "Text" : "Connecting and Analysing the Digital Transport Ecosystem CONNECTIVE project will be part of Shift2Rail S2R the first rail joint technology initiative focused on accelerating the integration of new and advanced technologies into innovative rail product solutions CONNECTIVE aims to be the technical backbone of S2Rs Innovation Programme 4 IP4 which addresses the provision of IT solutions for attractive Railway servicesThereby CONNECTIVE will provide other S2RIP4 projects with a technical framework and a set of tools that will foster the digital transformation of the rail and in general all the transport ecosystem allowing to reach unprecedented multimodal travel experiences and to improve the fit between supply and demand CONNECTIVE will provide new levels of interoperability and seamless access to all transport data and services in a multimodal and distributed environment while offering a common business intelligence to extract insights of the ecosystem valuable for both users and service providers",
+          "Rcn" : "211970",
+          "Acronym" : "CONNECTIVE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1227",
+        "_score" : 27.268011,
+        "_source" : {
+          "identifier" : "H2020INTINCO2014",
+          "Text" : "Research and Innovation Network for Europe and Africa In response to the present objectives of the EUAfrica partnership in science technology and innovation and addressing the STI priorities of the 2014 EUAfrica Summit RINEA addresses three specific and complementary objectives by a range of targeted activities1 Strengthening the quality and quantity of partnerships between research and innovation actors in EU Member states in Associated Countries and in countries in Africa through networking events between research and business communities through proposing the elimination of cooperation obstacles and optimising framework conditions and through raising awareness and disseminate information of cooperation opportunities for research and innovation partnerships offered by H2020 and by other major programmes in Europe and Africa2 Encouraging transnational coordination of programmes and policies for international cooperation in STI for greater coherence joint ownership and resource efficiency through advancing the model established by ERAfrica for jointly owned EUAfrica funding instruments for STI cooperation and through facilitating the launch and the management of calls for proposals around topics of mutual concern and relevance to the EUAfrica biregional partnership 3 Supporting and enriching formal and informal processes of biregional STI policy dialogue between the EU and Africa through building wider understanding of the objectives and outcomes of formal biregional policy dialogue through contributing to the evidence base for policy and decision making including strategic priority setting by the recognised governance structures of the EUAfrica STI partnership eg HLPD through supporting the implementation of outcomes of formal policy dialogue and through fostering exchange between formal and informal dialogue processes and with relevant regional and subregional structures such as SFIC AU technical committees and RECsRINEAs activities will build on recent and existing initiatives an",
+          "Rcn" : "194395",
+          "Acronym" : "RINEA"
+        }
+      }
+    ]
+  }
+}

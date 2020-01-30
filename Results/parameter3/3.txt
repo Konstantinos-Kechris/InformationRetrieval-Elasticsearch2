@@ -1,0 +1,256 @@
+{
+  "took" : 18,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 3006,
+    "max_score" : 44.486366,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5666",
+        "_score" : 13.021118,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Integration of IIIV Nanowire Semiconductors for next Generation High Performance CMOS SOC Technologies Overall objective to enhance advanced CMOS RF and logic capability through the use of IIIV heterostructure nanowires monolithically integrated on a silicon platformINSIGHT will focus onDevelopment and evaluation of the performance of silicon based 94 GHz IIIV nanowire MOSFET lownoise amplifiers The technology opens a path for cost reduction of key mmwave components for high bandwidth wireless applicationsDevelopment of IIIV nanowire MOSFETs on Si with breakdown voltage of 6 V and evaluation of their performance in millimeter wave 90 GHz power amplifier circuits These devices will increase output power available from Si CMOS compatible mmwave technologies with benefits for transceiver range and sensitivity Realisation of basic building blocks for future RFcircuits including mixers VoltageControlled Oscillators and frequency dividers for prescalers using silicon based IIIV nanowire MOSFETS Development of science and technology for allIIIV nanowire CMOS on silicon targeting future technology nodes for 10 nm and below  This will be validated by the implementation and dynamic characterisation  of a flipflop as demonstration of the cointegration of IIIV n and ptype nanowire MOSFETsINSIGHT is a strong consortium consisting of 7 partners with complimentary and welldocumented experience in IIIV MOS technology and millimeterwave circuit design and implementation Our main outcomes include  aTechnology toolbox including materials processes and integration for IIIV n and pchannel MOSFETs on a silicon platform b IIIV nanowire MOSFET RFtransistor technology c Circuit design library d Circuit demonstrators with a clear technology path towards higher TRLs and commercialization  Our vision is to use IIIV nanowire CMOS technology for millimeterwave applications in a SystemonChip approach combining RF and logic on one Si chip Additionally applications for logic at the 10 nm node and beyond are foreseen",
+          "Rcn" : "199398",
+          "Acronym" : "INSIGHT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14722",
+        "_score" : 12.364693,
+        "_source" : {
+          "identifier" : "H2020FOF2017",
+          "Text" : "Logistics for Manufacturing SMEs L4MS Logistics For Manufacturing SMEs will spark incremental productivity increase of new users by a factor of 4 and system setup time reduction by a factor of 10 and disruptive innovation batch size one  consumerization for over 100000 European Manufacturing SMEs  MidCaps building on their intrafactory logistics challenge 50 of the production cost of an item unleashing their digitalization potential by powering new robot systems that are more cost effective at lower lot sizesL4MS relies upon An open industrial IoT platform with enablers for rapid and efficient deployment of customized logistics solutions A suite of Smartization services including business modelling technical support mentoring access to skills and to finance The L4MS Marketplace a onestopshop where European Manufacturing SMEs  MidCaps will access the L4MS services A portfolio of 23 crossborder Application Experiments by 50 SMEs selected through 2 competitive Open Calls that will test more than 40 services  apps leveraging 10M of public funding across 12 established and emerging Digital Innovation Hubs A growing ecosystem that will foster Smart Specialization in each single region linked to L4MSL4MS will transform a panEuropean ecosystem into a selfsustainable startup operating an Open Platform for Innovations in Logistics OPIL and L4MS marketplace consisting of 21 members Comprising 6 Competence Centres 5 technology providers 4 industry associations 3 endusers and 3 business developers currently engaged in I4MS XS2I4MS HORSE and BEinCPPS and FIWARE plus 6 Satellites Nodes L4MS covers 14 EU countries 15 regions with 8 of them from East EuropeL4MS will help demonstrate that public funded research with a Smartization approach accelerating Industry 40 can help manufacturing SMEs  MidCaps achieve digital excellence and global competitiveness through logistics automation become entrepreneurial states and digital industries",
+          "Rcn" : "211673",
+          "Acronym" : "L4MS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "16722",
+        "_score" : 12.10647,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2017",
+          "Text" : "Mosses as a gateway of nitrogen into northern ecosystems High latitude ecosystems which experience particular high rates of climate warming  are subject to changes in nitrogen N cycling due increased decomposition and changes in atmospheric N fixation and deposition In cold ecosystems temperature and low N availability restricts organic matter decomposition and plant growth which affect ecosystem carbon C storage and thus climate feedback mechanisms Understanding N cycling in high latitude ecosystems is therefore essential for understanding consequences of climate change Mosses which constitute a major component in high latitude ecosystems intercept N entering the ecosystem via deposition and they host bacteria that fix atmospheric N Therefore they may be an important source for new N to the rest of the ecosystem However mosses do not easily decompose and the fate of N taken up by mosses is not well understood Most vascular plants optimise their N uptake through partnerships with mycorrhizal fungi which in return for labile C take up nutrients via extensive mycelium in the soil and transfer a share to the host Despite the presence of mycorrhizal fungi in the moss layer their role in transfer of N from moss to plants is unknown The overall aim of MYCOMOSS is to develop mechanistic and quantitative understanding of the role of mosses as providers of new N to Nlimited high latitude ecosystems under climate change This will be achieved by 1 making a full N budget of mosses under the effect of climate change manipulations in the field 2 by exploring the role of different types of mycorrhiza across three major high latitude ecosystem types of Europe 3 and by tracing N from mosses through the ecosystem using stable isotope labelling The quality of the implementation will be ensured by the fellows expertise in moss ecology and plant interactions the hosts specialized knowledge about element cycling and the secondment partners expertise on fungal community ecology",
+          "Rcn" : "214002",
+          "Acronym" : "MYCOMOSS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "8592",
+        "_score" : 10.891125,
+        "_source" : {
+          "identifier" : "H2020MG2015TwoStages",
+          "Text" : "Innovative solutions for sustainable mobility of people in suburban city districts and emission free freight logistics in urban centres The cities of Madrid Stockholm Munich Turku and Ruse have formed the CIVITAS ECCENTRIC consortium to tackle the challenges of mobility in suburban districts and clean silent and CO2 free city logistics In many cities these two important areas have received less attention in urban mobility policiesThough European cities have made significant steps forward in making city centres attractive and liveable urban nodes there is a remaining conflict between providing high quality public space and meeting the accessibility requirements for freight deliveries The suburban areas have remained largely unaddressed with a much higher car usage as a consequence Recent or expected urban growth processes are posing additional pressure to pericentral areas which face the specific challenges of Becoming sufficiently appealing to avoid an unnecessary traffic flow towards to the city centre  Providing sustainable and high quality mobility options to enable and encourage car independent lifestyles and Planning the urban future according to carbon neutral mobility principlesECCENTRIC will demonstrate and test the potential and replicability of integrated and inclusive urban planning approaches innovative policies and emerging technologies to reach sustainable urban mobility objectives The solutions will be implemented in 5 living laboratory areas in the outskirts that face high population growth and an increasing pressure on the existing transport networks As highlighted in the SUMPs of the ECCENTRIC cities this action on a wider geographical scale than the city centre is needed in order to meet the targets of the Transport White Paper in terms of air quality energy use and CO2 emissions road casualties and wide uptake of clean vehiclesTo reach CO2 free city logistics by 2030 ECCENTRIC will test clean vehicles and fuels formulate new regulations and services and develop consolidation solutions in close partnerships with the private sector",
+          "Rcn" : "204474",
+          "Acronym" : "CIVITAS ECCENTRIC"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "8966",
+        "_score" : 10.813036,
+        "_source" : {
+          "identifier" : "H2020FTIPilot20151",
+          "Text" : "DynaHUBs is a new application designed to kick start the development of the Physical Internet using a crowdsourced approach DynaHUBs is a project designed to kick start the development of the Physical Internet using a crowdsourced approach Starting with motorcycles we will test the technology and the business model to provide a new way of connecting routes and increasing capacity for doortodoor cargo and freight logistics Once proven on motorcycles this capability will be used for all vehicles and existing transportation systems for not only freight but also for people At the technological core of the project is the virtual exchange nodes called DynaHUBs They provide an exchange mechanism to form a Physical Internet on the existing transportation infrastructure enabling users to I switch between different modes of transport ii cancel unnecessary journeys iii shorten routes and iv share capacity between vehicles goods and people  DynaHUBs are living mechanisms and change dynamically according to users needs traffic patterns weather conditions and extreme situations such as natural or manmade disasters",
+          "Rcn" : "204987",
+          "Acronym" : "DynaHUBS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17193",
+        "_score" : 10.515892,
+        "_source" : {
+          "identifier" : "H2020SC6CULTCOOP2017onestage",
+          "Text" : "Co Production and Co Governance Strategic Management Public Value and Co Creation in the Renewal of Public Agencies across Europe This proposal suggests that taking a strategic approach  in the most fundamental sense  to the renewal of organization and management of European public administrations is a key requirement for the bettering of public governance and citizens participation across Europe The project aims to locate explore and diffuse leading edge experiments in new and more participatory approaches to public administration which are becoming evident across various countries in Europe Ultimately the project aims at generating applicable knowledge about the dynamics and developmental patterns of longitudinal emergent strategy formation processes and the dynamics leading to strategic renewal and community engagementWe draw on four promising models apparent in the recent public management literature to inform the empirical work theoretically namely Public Value Creation models used in combination with Co Creation and Co Governance hence the acronym COGOV ideas in turn combined with Digital Era Governance inspirations with their possible implications for more participatory approaches to egovernment The project relies on a pan European collaboration of academic and policy partners and is strongly connected to and informed by practice",
+          "Rcn" : "214650",
+          "Acronym" : "COGOV"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3458",
+        "_score" : 10.364111,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Integrated SOlution to enhance COLD chain and logistic tracking ScenarioTransport  Logistic TL sector has experienced a fast expansion in the last decade the temperature controlled supply chain represents a high value added segment that is experiencing a continuous push for service quality Regulators all over the world are constantly introducing more demanding recommendations eg the recent Good Distribution Practise  EU C34301 2013  for the pharmaceutical products On the other hand the high cost of monitoring tracking information and temperature data during transports and the absence of structured ICT solutions to aggregate operative information efficiently risk frustrating regulators effortInnovationERPlan developed a comprehensive ICT solution able to collect and aggregate information from TL operations including track  trace and temperature data that allow the users to have a complete and updated status of deliveries an historical records depot for regulation compliance and a platform to distribute data to its stakeholders Moreover the solution provide logistic floor and mobile systems equipped with state of art RFID technology to minimize impact of data acquisition procedures on workforce efficiencyTarget MarketTransport and logistic companies working with temperature controlled shipments mainly Pharma  Food sectors are all potential users of the solution as well as their stakeholders Pharma  food producers retailers etc with a focus companies operating in last mile delivery scenario mostly SMEsPhase I Objectives To define the investment and the effort that the company should undertake to penetrate efficiently the European market To validate the ability of the solution to bring economical return to the company into a defined period in order to evaluate sustainability of the business plan To quantify the impact of the solution on standard transport  logistic scenarios to create appropriate selling tools Produce a sustainable marketing strategy to enter the European market",
+          "Rcn" : "196653",
+          "Acronym" : "ISO-COLD"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14517",
+        "_score" : 10.2353325,
+        "_source" : {
+          "identifier" : "H2020MG2017SingleStageINEA",
+          "Text" : "Developing the methodology for a coordinated approach to the clustering monitoring and evaluation of results of actions under the Ports of the Future topic The EU maritime transport constitutes a crucial link in the global logistic chains and plays a leading role in international freight transport Serving 40 of the EUs internal trade and 75 of its external trade maritime transport is an essential element in supporting Europe in maintaining its Number 1 position in global trade Therefore as a key node of the EUs TENT ports have the ultimate objective to fully integrate maritime transport into the global logistics chain Within this framework DocksTheFuture aims at defining the vision for the ports of the future in 2030 covering all specific issues that could define this concept including among others dredging emission reduction energy transition electrification smart grids portcity interface and the use of renewable energy managementThe proposal already addressed a preliminary research on the Port of Future concept the definition of several Port of the Future topics to be addressed and their related targets in 2030 and a preliminary list of projects that could be potentially clustered together with the RIA retained proposals Moving from this point DockTheFuture will refine and tune the Port of Future concepts the Port of the Future topics and their related targets in 2030 and the list of projects to be clustered together with the RIA retained proposals  identify appropriate KPIs and relevant monitoring and evaluation of results of actions leading to the a Port of the Future Road Map for 2030 that will include a number of exploitation elements such as tools for evaluation and transferability of Port of the Future solutions RD and policy recommendations training packages and the creation of a Port of the Future Network of ExcellenceAll of these elements will be supported by a comprehensive Dissemination and Communication plan targeting all ports in Europe and other relevant stakeholders including Mediterranean and other Neighbouring Partner Countries",
+          "Rcn" : "211465",
+          "Acronym" : "DocksTheFuture"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6447",
+        "_score" : 9.774407,
+        "_source" : {
+          "identifier" : "H2020TWINN2015",
+          "Text" : "Strengthening Portuguese research and innovation capacities in the field of excess reactive nitrogen Nitrogen N is a key nutrient indispensible for the survival of all living organisms on earth including Man However due to human pressure the N cycle has become the most altered among the element cycles highlighting the N problem as one of the most pressing environmental issues faced today Despite the recent work on nitrogen in Europe and the rest of the world Portugal has not so far utilized its full capacity to integrate the available scientific technical or practical knowledge NitroPortugal addresses how to improve the ST skills and the scientific output of Portugal at the same time strengthening the potential for N policy application The project develops around the consensus that N is an emerging issue that it impacts all the environmental compartments and has both human health and social implications This twinning effort on N is divided into five key areas which coincide with the whole N concept WAGES Water Air Greenhouse gases Ecosystems and biodiversity and Soil launched by the European Nitrogen Assessment Based on bringing together existing data on data analysis and on training in new methods for each of the five key topics a comprehensive analysis will be delivered that prioritizes the key gaps in knowledge These gaps will then serve as themes for different types of training activities Emerging questions will feed brainstorming workshops to be held at key points through the project which will strengthen the Portuguese skills base and enhance peerreview publication Based on the new skills of the host country team the basis for preparing a Portuguese Nitrogen Assessment will be obtained that will strengthen Portuguese engagement within the EU and in UNECE Air and Water Conventions The resulting increase in scientific productivity associated with strengthened networking between the Portuguese and international partners will be measurable through objective indicators of publication output policy support and the public engagement",
+          "Rcn" : "200303",
+          "Acronym" : "NitroPortugal"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17932",
+        "_score" : 9.6602,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2017",
+          "Text" : "Targeting N2O emission hotspots in dairy pastures for mitigation action microbes stable isotope methods and modelling Nitrogen N limits primary productivity in most terrestrial ecosystems which has led to increased use of N fertilisers within farming systems The amount of reactive N in global circulation has more than doubled this has global significance as the N can cascade through different chemical forms in land air and water leading to a range of human health and environmental impacts In order to achieve sustainable food production systems of the future there is a need to improve knowledge on the best management of farm N especially under increased demand for food production under a burgeoning human population The TargetN2O project will deliver a high quality trainingthrough research project aiming to improve N use efficiency and reduce emissions of the powerful greenhouse gas N2O from intensive dairy farms The project will combine multidisciplinary techniques in a novel way including molecular ecology stable isotope methods and wholefarm system modelling to determine the costbenefits of an N loss mitigation strategy The strategy would be to apply nitrification inhibitors to pasture areas which have been identified as farmscale N2O emission hotspots eg areas of pasture around gateways livestock shelter areas and camping areas Such areas receive regular inputs of nutrients including labile N through urine events and carbon sources via dung which fuel microbial processes leading to enhanced and spatially variable GHG emissions Evidence of the effectiveness of nitrification inhibitors to reduce N losses from these areas are lacking The results of the action will have crosssectoral impact scientists dairy and fertiliser industries and policy makers The project will deliver decision support tools for farmers utilising such a mitigation strategy and will impact policy by improving national GHG inventories establishing the effectiveness of costeffective mitigation strategies",
+          "Rcn" : "215488",
+          "Acronym" : "Target-N2O"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "657",
+        "_score" : 9.618088,
+        "_source" : {
+          "identifier" : "H2020Galileo20141",
+          "Text" : "Galileobased solutions for urban freight transport Urban Freight Transport action relates to find solutions to better manage and monitor freight transport flows and ensure efficient lastmile delivery while maximizing the economic efficiency of urban distribution and minimizing the environmental and social impacts GALENA develops the hardware equipment as well as the information system and the supervision platform needed for the cross supply chain orchestration of a community of shippers involved in urban freight pooling particularly for the lastmile delivery GALENA relies on the development of a robust and GNSSbased liability binding application enabling the different carrier operators to join a Mutualized Transportation Community to timestamp geolocate and formalize as a real authentication their trip as well as any events occurring during the shipping An innovative accurate and affordable hybrid system GalileoRTLS will be developed for this purpose ensuring a seamless robust and continuous handover indooroutdoor localization and continuous realtime reliable accurate and available Position Velocity and Time PVT of carriers and high value parcels An already existing logistics information systems will be adapted to exchange and store shipment authenticated data between all stakeholders ensuring the traceability of goods management of status changes while drawing up an objective review of the sharing of added value between the various stakeholders of a shared supply chain A web service application will be set up for continuously supervising transactions and support to the orchestration decision making process A truly interdisciplinary collaboration between GNSS wireless sensors logistics information systems urban logistics and freight transport experts is set up to meet the objectives The consortium gathers 8 EU partners committed within 2year project to disseminate results towards potential customers and confirm the conditions for a successful larger scale deployment",
+          "Rcn" : "193825",
+          "Acronym" : "GALENA"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13140",
+        "_score" : 9.5885935,
+        "_source" : {
+          "identifier" : "ERC2016COG",
+          "Text" : "Photonic integrated quantum transceivers Quantum processors are envisioned to conquer ultimate challenges in information processing and to enable simulations of complex physical processes that are intractable with classical computers Among the various experimental approaches to implement such devices scalable technologies are particularly promising because they allow for the realization of large numbers of quantum components in circuit form For upscaling towards functional applications distributed systems will be needed to overcome stringent limitations in quantum control provided that highbandwidth quantum links can be established between the individual nodes For this purpose the use of single photons is especially attractive due to compatibility with existing fibreoptical infrastructure However their use in replicable integrated optical circuits remains largely unexplored for nonclassical applicationsIn this project nanophotonic circuits heterogeneously integrated with superconducting nanostructures and carbon nanotubes will be used to realize scalable quantum photonic chips that overcome major barriers in linear quantum optics and quantum communication By relying on electrooptomechanical and electrooptical interactions reconfigurable single photon transceivers will be devised that can act as broadband and high bandwidth nodes in future quantum optical networks A hybrid integration approach will allow for the realization of fully functional quantum photonic modules which are interconnected with optical fiber links By implementing quantum wavelength division multiplexing the communication rates between individual transceiver nodes will be boosted by orders of magnitude thus allowing for highspeed and remote quantum information processing and quantum simulation Further exploiting recent advances in threedimensional distributed nanophotonics will lead to a paradigm shift in nanoscale quantum optics providing a key step towards optical quantum computing and the quantum internet",
+          "Rcn" : "209916",
+          "Acronym" : "PINQS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "12610",
+        "_score" : 9.401994,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2016",
+          "Text" : "Resilience of Soil Stoichiometry in subartic soils under TemperatureInduced Soil Carbon Losses Where does the N go Global warming can trigger enormous releases of carbon C from soils with positive feedbacks to climate change Northern high latitude soils can constitute a major contributor to this positive feedback loop Climate change predictions are however still largely uncertain partly due the lack of accurate representation of vegetation and soil microbial feedbacks and C and nitrogen N interactions Warming enhances microbial mineralization of soil organic matter SOM ie soil C outputs to a higher degree than vegetation productivity ie soil C inputs resulting in large C losses from northern soils Pioneer results point to proportional N losses in response to warming which may be the key to this phenomenon This project will combine the expertise of a multidisciplinary group of leading researchers on ecosystem stoichiometry stable N isotopic methods and applied biotechnology with the existence of unique and established research sites in geothermal systems in Iceland to reveal the fate of N lost in response to warming and uncover the mechanisms behind observed soil C losses StoiCa will elucidate for first time three key knowledge gaps 1 the rates forms and mechanisms of N losses from arctic soils under warming 2 the transient and persistent responses and the warminginduced transitions from a closed to a leaky open N cycle 3 the shifts towards a more symbiotic N cycle and role of thermoadapted mycorrhiza in stimulating plant growth This proposal directly addresses two crosscutting priorities of sustainable development and climate action from the H2020 Work Programme It also represents an exceptional opportunity for the candidate to acquire the essential skills that she lacks and that will convert her into a highly competitive European researcher in climate change biogeochemistry while obtaining intersectorial capacities that will open new career avenues",
+          "Rcn" : "209322",
+          "Acronym" : "StoiCa"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17526",
+        "_score" : 9.358092,
+        "_source" : {
+          "identifier" : "H2020LCE2017RESIA",
+          "Text" : """Most Easy Efficient and Low Cost Geothermal Systems for Retrofitting Civil and Historical Buildings The solutions to apply the shallow geothermy will be different in function of the building type the climate and the geological conditions of the underground the geothermal system drilling methodology GSHE grouting The main objectives will be  	Identify and where missing develop building blocks solutions in drilling machines and methods GSHE types heat pumps and other renewable energystorage technologies heating and cooling terminals with the focus on every type of built environment civil and historical	Generate and demonstrate the most easy to install and costeffective geothermal energy solutions using and improving existing and new toolsIn the area of shallow geothermy  of further innovations are needed to provide a pan  European solution base for all the parameter combinations More efficient borehole heat exchangers and lower cost drilling methodologiesmachines adapted to the built environment will be realised as improvement or innovation related to the previous projects This approach will bring to a easy applicability in the building refurbishment presenting different constrains to reduce the overall drilling cost in the given geological conditions will to avoid replacement of heating terminals constructing modular high temperature heat pumps and hence to reduce the deep retrofit costs The association with tools DSS APPs etc will enable to find the best solution for each combination of building typeclimategeology y Moreover the design tools will reduce overall engineering costs avoid design mistakes and form the basis for a major dissemination effort Application tools will help the users for different practical aspects Finally to help knowledge dissemination and formations of the future experts a pan  European network of centres of excellence based on past expertise but complemented with the new developments should become instrumental in breaking down the barriers in  shallow geothermal energy in building renovation""",
+          "Rcn" : "215054",
+          "Acronym" : "GEO4CIVHIC"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "12550",
+        "_score" : 9.312916,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2016",
+          "Text" : "Effects of common European tree species on interactions between C and N processes in soil and soil biota One of the greatest challenges of the 21st century is to mitigate global climate changes caused by increasing emissions of greenhouse gases Since soils constitute a larger carbon C pool than the vegetation and atmosphere together an important strategy could be to sequester more C in soils Plantsoil interactions play an important role for ecosystem services such as C sequestration and N retention in soil and such interactions receive increasing attention among scientists and policymakers Novel techniques such as next generation sequencing methods in combination with analysis of C stock patterns under different tree species present an opportunity to highlight complex processes and mechanisms which underlie C and N fluxes in soil The proposed research is designed to 1 explore littermediated effects of common European tree species on C and N turnover in soil 2 characterize effects of tree species on community structure and composition of soil biota 3 evaluate the impact of common European tree species on metabolic diversity and structure and composition of functional genes related to C and N turnover and finally 4 to synthesize the role of soil biota for C and N turnover in soils The research will be carried out within a unique common garden experiment with monoculture stands of six common European tree species the broadleaves beech Fagus sylvatica L pedunculate oak Quercus robur L lime Tilia cordata L sycamore maple Acer pseudoplatanus L and ash Fraxinus excelsior L and the conifer Norway spruce Picea abies L Karst The proposed MarieCurie fellowship is promising to highlight impacts of common European trees on complex interactions among soil microbiota and soil fauna and highlights their role for C and N stocks and fluxes Results obtained from this research will contribute to bridge gaps in ecological theory in term of ecosystem functions and services",
+          "Rcn" : "209262",
+          "Acronym" : "AFOREST"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "8207",
+        "_score" : 9.294557,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2015",
+          "Text" : "Defining the immunological interplay between fibroblastic reticular cells and antitumour T cells Lymph nodes are sites where immune responses are robustly initiated Paradoxically they are also very common metastatic sites where tumour progression is welltolerated Robust evidence defines a role for fibroblastic reticular cells FRCs in preventing T cells from acquiring effector functions within lymph nodes and deleting T cells that show selfreactivity FIBROCAN will test the hypothesis that FRCs systematically shut down antitumour T cell responses testing mechanisms of suppression in vitro and in vivo and charting tumour antigen presentation by FRCs to T cells for the first time At the frontier of stromal immunology and cancer biology FIBROCAN was been designed to inform our fundamental understanding of metastatic cancer progression particularly relevant to the implementation and design of T cell immunotherapies This project provides the opportunity for a lasting and multidisciplinary contribution in the high impact fields of stromal and cancer immunology",
+          "Rcn" : "203862",
+          "Acronym" : "FIBROCAN"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17675",
+        "_score" : 9.291292,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2017",
+          "Text" : "Assessing the Interactive Effects on N Addition and Climate Change on Soil Processes through the Biological Soil Crust in Mediterranean Ecosystems Ecosystems located in the Mediterranean Basin are projected to experience important changes in the rainfall dynamics and to increase its nitrogen N inputs as a result of the ongoing global change Despite it is known that multiple environmental changes can interact in their impacts on ecosystem services producing nonadditive effects that are unpredictable from singlefactor studies no research has been performed to disentangle the effects of the interactive global change drivers on soil processes in Mediterranean ecosystems to date What are the synergistic effects of climate change and N inputs on soil processes in Mediterranean ecosystems What is the role of the soil biological crust and its components in modulating resistance and resilience of soil processes to the synergistic effects of increased N and climate change How ecosystem services are influenced Answering those questions will have highly relevant implications on environmental policy and prediction of global change scenarios with the ultimate societal objective of improving ecosystem management in Mediterranean ecosystems MedNChange also has a clear potential on the economy since recovering damaged ecosystems services is much costlier than increasing their resilience to pressure The strength of MedNChange lies in an innovative approach that couples microcosm manipulative experiments and the exploitation of a network of longterm Naddition experiments in three ecosystems across the Mediterranean basin This project merges together well established research methods and elements of originality in a multidisciplinary approach combining ecology biogeochemical processes physiology and omics technology MedNChange directly addresses two of the crosscutting priorities established by the H2020 Work Programme  sustainable development and climate action  and thus reinforces the European competitiveness in N deposition and climate change research",
+          "Rcn" : "215214",
+          "Acronym" : "Med-N-Change"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13296",
+        "_score" : 9.191591,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2016",
+          "Text" : """scalaBle and grEen wireleSs coMmunications for a sustAinable netwoRked socieTy The goal of the project is to develop energyefficient and scalable designs for distributed mobile networks operated by renewable energy sources and with very limited signaling overhead and computational complexity  The project will design  wireless networks composed by smart nodes which are able to perform the following tasks	1 Selfconfigure autonomously allocating their own physical layer radio resources through energyefficient feedbackaware and complexityaware radio resource allocation	2 Selfsustain by harvesting energy from renewable and intermittent energy sources such as solar and wind as well as from dedicated radio frequency signals present over the air	             3 Sharing or trading energy with other network nodes in order to prolong the lifetime of nodes which are low on battery and to obtain a more fair energy distribution across the whole networkThe longterm vision of the project is to kickstart a paradigm shift from corecentric throughputoptimized networks towards devicecentric energyoptimized networks The development of autonomous energyindependent and selforganizing wireless networks will enable          a 100 coverage in urban environments in a power efficient manner         b network coverage in remotedeveloping areas where currently it is commercially unattractive to do so These advancements will make the vision of a connected society sustainable almost zeroing the operational expenses related to power and hence revolutionizing the business models for ICT by radically reducing energy costs This will also facilitate the rise of new markets and applications in remote areas which contributes to closing the digital divide between densely populated and scarcely populated or rural areas""",
+          "Rcn" : "210081",
+          "Acronym" : "BESMART"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "4009",
+        "_score" : 9.010769,
+        "_source" : {
+          "identifier" : "H2020BBIPPP20141",
+          "Text" : "Cost effective ligninbased carbon fibres for innovative lightweight applications The overall objectives are to demonstrate a new biobased renewable and economically viable carbon fibre CF precursor  lignin  produced in Europe with European raw material and to develop conditions for its processing into CF and structural CF composites The target is a costeffective biobased CF for use in reinforced composites delivering sufficient enough strength properties for largevolume automotive applications Reducing vehicle weight is a decisive factor for successful fulfilment of the future targets in EU regulations regarding CO2 emissions from the automotive sector CF reinforced plastics has been introduced as a lowweight material replacingcomplementing steel and aluminium Todays CF production is based on use of a petroleumbased raw material PAN which is costly due to the starting precursor and the process for turning it into CF Most PAN used in Europe is imported The automotive sector has identified a need for a cheaper lowergrade CF to meet the demands of components in normal consumer cars Lignin from kraft pulp mills is a green sustainable abundant and costefficient new potential CF precursor The European pulp and paper industry has a need for additional revenues due to the global competition and the decline in printing and writing paper Successful lignin applications like CF will create new business opportunities and new jobs also in rural areas where the pulp mills are located The development of ligninbased CF is still in laboratory scale and material properties meeting highquality product demands is the main challenge Now a new technology in commercial operation makes it possible to produce lignin with new properties higher purity and with less impact on the pulp mill operation The idea is to tailor kraft lignin properties already in the lignin separationupgrading and optimise the lignin for target automotive applications The consortium has unique competence through the complete value chain to realise this new concept",
+          "Rcn" : "197310",
+          "Acronym" : "GreenLight"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17190",
+        "_score" : 9.007513,
+        "_source" : {
+          "identifier" : "H2020MG2017TwoStages",
+          "Text" : "New ICT infrastructure and reference architecture to support Operations in future PI Logistics NETworks ICONET will significantly extend state of the art research and development around the PI concept in pursuit of a new networked architecture for interconnected logistics hubs that combine with IoT capabilities and aiming towards commercial exploitation of results ICONET strives to achieve the end commercial goal of allowing shipments to be routed towards final destinations automatically by using collaborative decisions inspired by the information centric networking paradigm and optimizing efficiency and customer service levels across the whole network According to this vision cargo regarded as smart physical packets will flow between hubs based on content of the cargo influencing key commercial imperatives such as cost optimisation routing efficiency and advancing EUs Green agenda  Consequently the consortium are discernibly aimed at three 3 avenues of commercialisation and exploitation from the ICONET innovation specifically targeted in the areas of a Warehousing as a service b Ecommerce fulfillment as a service and c Synchromodality as a servicePI based logistic configurations will be simulated prototyped and validated in the project  Modelling and analysis techniques will be combined with serious game type simulation physical and digital prototyping using living lab LL requirements scenarios and data With analyses and simulations optimal topologies and distribution policies for PI will be determined  The project implementation will be based on a succession of phases of modelling and designprototyping learning and experimentation and feedback and interaction with the wider business community including the ALICE logistics platform as well as members of the partner Associations ESC UIRR and ELUPEG  Through  its Living Labs the project will address under the PI paradigm both Supply Network Collaboration and Supply Network Coordination",
+          "Rcn" : "214637",
+          "Acronym" : "ICONET"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "took" : 19,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 18211,
+    "max_score" : 378.34943,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17190",
+        "_score" : 136.07535,
+        "_source" : {
+          "identifier" : "H2020MG2017TwoStages",
+          "Text" : "New ICT infrastructure and reference architecture to support Operations in future PI Logistics NETworks ICONET will significantly extend state of the art research and development around the PI concept in pursuit of a new networked architecture for interconnected logistics hubs that combine with IoT capabilities and aiming towards commercial exploitation of results ICONET strives to achieve the end commercial goal of allowing shipments to be routed towards final destinations automatically by using collaborative decisions inspired by the information centric networking paradigm and optimizing efficiency and customer service levels across the whole network According to this vision cargo regarded as smart physical packets will flow between hubs based on content of the cargo influencing key commercial imperatives such as cost optimisation routing efficiency and advancing EUs Green agenda  Consequently the consortium are discernibly aimed at three 3 avenues of commercialisation and exploitation from the ICONET innovation specifically targeted in the areas of a Warehousing as a service b Ecommerce fulfillment as a service and c Synchromodality as a servicePI based logistic configurations will be simulated prototyped and validated in the project  Modelling and analysis techniques will be combined with serious game type simulation physical and digital prototyping using living lab LL requirements scenarios and data With analyses and simulations optimal topologies and distribution policies for PI will be determined  The project implementation will be based on a succession of phases of modelling and designprototyping learning and experimentation and feedback and interaction with the wider business community including the ALICE logistics platform as well as members of the partner Associations ESC UIRR and ELUPEG  Through  its Living Labs the project will address under the PI paradigm both Supply Network Collaboration and Supply Network Coordination",
+          "Rcn" : "214637",
+          "Acronym" : "ICONET"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "657",
+        "_score" : 132.09471,
+        "_source" : {
+          "identifier" : "H2020Galileo20141",
+          "Text" : "Galileobased solutions for urban freight transport Urban Freight Transport action relates to find solutions to better manage and monitor freight transport flows and ensure efficient lastmile delivery while maximizing the economic efficiency of urban distribution and minimizing the environmental and social impacts GALENA develops the hardware equipment as well as the information system and the supervision platform needed for the cross supply chain orchestration of a community of shippers involved in urban freight pooling particularly for the lastmile delivery GALENA relies on the development of a robust and GNSSbased liability binding application enabling the different carrier operators to join a Mutualized Transportation Community to timestamp geolocate and formalize as a real authentication their trip as well as any events occurring during the shipping An innovative accurate and affordable hybrid system GalileoRTLS will be developed for this purpose ensuring a seamless robust and continuous handover indooroutdoor localization and continuous realtime reliable accurate and available Position Velocity and Time PVT of carriers and high value parcels An already existing logistics information systems will be adapted to exchange and store shipment authenticated data between all stakeholders ensuring the traceability of goods management of status changes while drawing up an objective review of the sharing of added value between the various stakeholders of a shared supply chain A web service application will be set up for continuously supervising transactions and support to the orchestration decision making process A truly interdisciplinary collaboration between GNSS wireless sensors logistics information systems urban logistics and freight transport experts is set up to meet the objectives The consortium gathers 8 EU partners committed within 2year project to disseminate results towards potential customers and confirm the conditions for a successful larger scale deployment",
+          "Rcn" : "193825",
+          "Acronym" : "GALENA"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "8771",
+        "_score" : 129.93782,
+        "_source" : {
+          "identifier" : "H2020MG2015TwoStages",
+          "Text" : "Architecture for EurOpean Logistics Information eXchange Supply chain visibility supported by easy access to and exchange and use of relevant and abundant logisticsrelated information is an important prerequisite for the deployment of panEuropean logistics solutions that are needed to increase efficiency and productivity and to reduce environmental impact Although there is a proliferative development of logisticsrelated data stores information channels information management systems and data mining facilities with both international and intermodal focus this multitude of solutions exhibits a high degree of fragmentation due to differences in user requirements data models system specification and business models This legacy situation severely hampers the optimal use of logisticsrelated information To overcome this fragmentation and lack of connectivity of ICTbased information systems for logistics decision making AEOLIX will establish a cloudbased collaborative logistics ecosystem for configuring and managing logisticsrelated information pipelines This digital business ecosystem will create visibility across the supply chain enabling more sustainable and efficient transport of goods cross Europe An essential element of the approach is to ensure that for logistics actors connecting to and using the ecosystem in undemanding and has a low level of complexity  We envision the ecosystem enabling the integration of supplychainrelated transport business processes through logistics software solutions for cloudbased connectivity and interaction in order to support more efficient collaboration in the logistics supply chain than exists today By enabling lowcomplexity and low cost connectivity of local ICT platforms and systems and thereby scalable trusted and secure exchange of information AEOLIX will improve the overall competitiveness of goods transport in the supply chain while simultaneously targeting sustainability from environmental economic and social perspectives",
+          "Rcn" : "204772",
+          "Acronym" : "AEOLIX"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3458",
+        "_score" : 123.170815,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Integrated SOlution to enhance COLD chain and logistic tracking ScenarioTransport  Logistic TL sector has experienced a fast expansion in the last decade the temperature controlled supply chain represents a high value added segment that is experiencing a continuous push for service quality Regulators all over the world are constantly introducing more demanding recommendations eg the recent Good Distribution Practise  EU C34301 2013  for the pharmaceutical products On the other hand the high cost of monitoring tracking information and temperature data during transports and the absence of structured ICT solutions to aggregate operative information efficiently risk frustrating regulators effortInnovationERPlan developed a comprehensive ICT solution able to collect and aggregate information from TL operations including track  trace and temperature data that allow the users to have a complete and updated status of deliveries an historical records depot for regulation compliance and a platform to distribute data to its stakeholders Moreover the solution provide logistic floor and mobile systems equipped with state of art RFID technology to minimize impact of data acquisition procedures on workforce efficiencyTarget MarketTransport and logistic companies working with temperature controlled shipments mainly Pharma  Food sectors are all potential users of the solution as well as their stakeholders Pharma  food producers retailers etc with a focus companies operating in last mile delivery scenario mostly SMEsPhase I Objectives To define the investment and the effort that the company should undertake to penetrate efficiently the European market To validate the ability of the solution to bring economical return to the company into a defined period in order to evaluate sustainability of the business plan To quantify the impact of the solution on standard transport  logistic scenarios to create appropriate selling tools Produce a sustainable marketing strategy to enter the European market",
+          "Rcn" : "196653",
+          "Acronym" : "ISO-COLD"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10719",
+        "_score" : 122.58578,
+        "_source" : {
+          "identifier" : "H2020MSCARISE2016",
+          "Text" : "Industry 40 for SMEs  Smart Manufacturing and Logistics for SMEs in an Xtoorder and Mass Customization Environment Industry 40 refers to the fourth industrial revolution and technological evolution from embedded systems to cyberphysical systems CPS in production The main objectives of Industry 40 can be summarized as the introduction of intelligent systems in production and logistics the development of highly adaptable and modular manufacturing and logistics systems the integration of sustainable and advanced manufacturing technologies as well as the promotion of automation technology and humanmachine interaction In the context of Industry 40 new ICT and web technologies act as booster or enabler of smart autonomous and selflearning factories facing the challenges of even more individualized and customized product portfolioA great challenge for the future lies in the transfer of Industry 40 expertise and technologies in small and medium sized enterprises SME SMEs represent the backbone of the economy and have an enormous importance in the development programs of the European Union for strengthening the competitiveness of European enterprises Although the high potential of Industry 40 in SMEs the main limit lies in a lack of concrete models for its implementation and application in small and medium enterprises Thus this research project titled Industry 40 for SMEs  Smart Manufacturing and Logistics for SMEs in an Xtoorder and Mass Customization Environment aims to close and overcome this gap through the creation of an international and interdisciplinary research network Identifying the needs and enablers for a smart and intelligent SMEFactory creating adapted concepts and design solutions for production and logistics systems in SMEs and developing suitable organisation and business models will be the three main objectives of this research network The applicability of the results is ensured through a close collaboration with a European small and medium sized enterprise nonacademic partner from mass customization industry",
+          "Rcn" : "207061",
+          "Acronym" : "SME 4.0"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10397",
+        "_score" : 117.18936,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Transforming Transport Big Data will have a profound economic and societal impact in the mobility and logistics sector which is one of the mostused industries in the world contributing to approximately 15 of GDP Big Data is expected to lead to 500 billion USD in value worldwide in the form of time and fuel savings and savings of 380 megatons CO2 in mobility and logistics With freight transport activities projected to increase by 40 in 2030 transforming the current mobility and logistics processes to become significantly more efficient will have a profound impact A 10 efficiency improvement may lead to EU cost savings of 100 BEUR Despite these promises interestingly only 19  of EU mobility and logistics companies employ Big Data solutions as part of value creation and business processesThe TransformingTransport project will demonstrate in a realistic measurable and replicable way the transformations that Big Data will bring to the mobility and logistics market To this end TransformingTransport validates the technical and economic viability of Big Data to reshape transport processes and services to significantly increase operational efficiency deliver improved customer experience and foster new business models TransformingTransport will address seven pilot domains of major importance for the mobility and logistics sector in Europe 1 Smart Highways 2 Sustainable Vehicle Fleets 3 Proactive Rail Infrastructures 4 Ports as Intelligent Logistics Hubs 5 Efficient Air Transport 6 Multimodal Urban Mobility 7 Dynamic Supply Chains The TransformingTransport consortium combines knowledge and solutions of major European ICT and Big Data technology providers together with the competence and experience of key European industry players in the mobility and logistics domain",
+          "Rcn" : "206575",
+          "Acronym" : "TT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "243",
+        "_score" : 117.03506,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "New cooperative business models and guidance for sustainable city logistics Urban areas represent the greatest challenges for freight transport and service trips both in terms of goods distribution and service allocation performance and environmental impacts air emission traffic congestion road safety accidents and noise The salient scope of the proposal is the enabling of knowledge and understanding of freight distribution and service trips by providing guidance for implementing effective and sustainable policies and measures This guidance will support the choice of the most optimal and applicable solutions for urban freight and service transport and will facilitate stakeholder collaboration and the development field testing and transfer of best governance and business models This shall be achieved through The targeted understanding of urban freight and service trips fostered by data collection on city logistics Field testing and implementation of representative city logistics measures The development and application of a modular integrated evaluation framework for the assessment of these measures The development of a typology between cities and potential city logistics components and  The provision of guidance to cities shaping consistent implementation channels for successful solutions all according to the local needs and constraints These activities will be accompanied by the production of practical tools that could support the takeup impact of NOVELOG project to wider international city and industrial networks and beyond the projects lifetime NOVELOG will contribute to the European Commissions research and policy agenda through the generation of sound knowledge that introduces a new approach to guidance strategies that supports a more sustainable urban environment",
+          "Rcn" : "193411",
+          "Acronym" : "NOVELOG"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5638",
+        "_score" : 116.36238,
+        "_source" : {
+          "identifier" : "H2020SMEINST22015",
+          "Text" : "Efficient and costeffective intermodal roadrail container freight system There is a very high potential to improve the sustainability and performance of the European freight transport and logistics industry by moving roadbased transport towards more sustainable transportation means namely rail which currently represent a very small share in EuropeSafe Green Logistics SGL in consortium with PVF Schinenfahrzeuge aim at demonstrating an efficient and costeffective freight logistics system based on multimodal transport as an alternative to roadbased freight transportThe innovation is based upon a trucktrain container transfer system CTS and a disruptive reorganization of the freight logistical networks By bringing the disruptive SAFECTS concept to market SGL will drastically optimize the entire inland freight value chain through cheaper faster and greener transportation of goods It will empower a paradigm shift by moving part of the increasing freight transport demand to more efficient multimodal railroad transport logistics SAFECTS project will focus on demonstrating the SAFECTS technology in a pilot pointtopoint route transporting cargo between Melnik in Czech Republic and the Port of Aalborg in Denmark This will be the first step towards showcasing the concept and validating the technology under real operational environment thus representing a key milestone for overcoming prevailing market entrance barriers for SGL In the immediate postproject SGL will be ready to deploy the concept in fully operating pointtopoint routes the company expects to sell the concept for at least 9 routes in the initial 5 years postproject SAFECTS is expected to significantly enhance the profitability of SGL with an expected turnover of 10 Million 5 years postproject Moreover the successful achievement of the project objectives is expected to enable scaling the concept to larger regions for the full rollout of the complete SAFECTS system including automatic sorting HUBs",
+          "Rcn" : "199370",
+          "Acronym" : "SAFE-CTS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9049",
+        "_score" : 115.83417,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "Disrupting Logistics in Smart Cities and Regions through an Advanced Logistics Platform Urban logistics are growing every year pressed by new eCommerce business namely in the retail sector and requiring high service levels for logistics and at the same time public authorities strive to ensure the sustainability of urban mobilityLOOP is a disruptive new way of planning and managing lastmile logistics in smart cities bringing Suppliers Logistic Service Providers and Public Authorities together in the same platform by decoupling goods from lastmile logistic service providers LOOP creates a multibrand Logistic Service Provider federation based on Pick up and Drop off Delivery Points PUDOs Aggregation Boxes AB and predetermined urban ring circuits that can be dynamically changed in realtime to address logistic requests on the fly and physical or regulatory constraints traffic municipal restrictions etcOur objective is to demonstrate LOOP in European smart cities and prove that this is a new disruptive way to reduce operation costs for logistic operators while increasing service level for Suppliers and Shoppers while respecting municipal regulations By paying a small transaction fee per delivery Logistic Service Providers can tap in a federated client pool based on their fleet availability and locationWe estimate that in 2020 this new market will be worth 250M  in Europe alone and our clients are they logistic operators that will pay a fee per deliverypickup service By being a multibrand platform LOOP allows local SMEs to be part of the lastmile logistics mitigating risks large client base from LOOP and increasing their fleet in a commercially sustainable way no need for critical mass fleet sizeLogistema has developed LOOP as the results of over 20 years of consultancy experience on logistics for public and private entities and we consider this to be a strategic solution and a new business line for us and the European market of urban logistics in smart cities",
+          "Rcn" : "205070",
+          "Acronym" : "LOOP"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9343",
+        "_score" : 115.47323,
+        "_source" : {
+          "identifier" : "H2020FOF2016",
+          "Text" : "Collaboration Network for Industry Manufacturing Business and Logistics in Europe NIMBLE collaboration Network for Industry Manufacturing Business and Logistics in Europe will develop the infrastructure for a cloudbased Industrie 40 Internetofthingsenabled B2B platform on which European manufacturing firms can register publish machinereadable catalogs for products and services search for suitable supply chain partners negotiate contracts and supply logistics and develop private and secure B2B and M2M information exchange channels to optimise business work flows The infrastructure will be developed as open source software under an Apachetype permissive license The governance model is a federation of platforms for multisided trade with mandatory interoperation functions and optional addedvalue business functions that can be provided by third parties This will foster the growth of a netcentric business ecosystem for sustainable innovation and fair competition as envisaged by the Digital Agenda 2020 Prospective NIMBLE providers can take the open source infrastructure  and bundle it with sectoral regional or functional added value services and launch a new platform in the federation Internet platforms need fast adoption rates and the work plan reflects this we start attracting early adopters from day one and develop the initial working platform in year one Addedvalue business functions follow in year two and final validation at large scale involving hundreds of external firms will happen in year three Our adoption plan is designed to enable two or more platform providers at the end of the project and to have 1000 to 2000 enterprises connected to the overall ecosystem at that point NIMBLE has 17 partners grouped around 3 main activities developing the infrastructure running a platform adoption programme and validating the platform with 4 supply chains white goods wooden houses fashion fabrics and child care furniture NIMBLE will give manufacturing SMEs in Europe a stable and sustainable digital ecosystem",
+          "Rcn" : "205420",
+          "Acronym" : "NIMBLE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "272",
+        "_score" : 111.96765,
+        "_source" : {
+          "identifier" : "H2020FoF2014",
+          "Text" : "Cloud Collaborative Manufacturing Networks C2NET The goal of C2NET Project is the creation of cloudenabled tools for supporting the supply network optimization of manufacturing and logistic assets based on collaborative demand production and delivery plans C2NET Project will provide a scalable realtime architecture platform and software to allow the supply network partners to master complexity and data security of the supply network to store product process and logistic data to optimize the manufacturing assets by the collaborative computation of production plans to optimize the logistics assets through efficient delivery plans and to render the complete set of supply chain management information on the any digital mobile device PC tablets smartphones of decision makers enabling them to monitor visualize control share and collaborateThe Project results will be i the C2NET Data Collection Framework for IoTbased continuous data collection from supply network resources ii the C2NET Optimizer for the optimization of manufacturing and logistics assets of the supply network by the collaborative computation of production replenishment and delivery plans iii the C2NET Collaboration Tools for providing support to the collaborative processes of the supply network and iv the C2NET Cloud Platform C2NET CPL to integrate the data module the optimizers and the collaborative tools in the cloudC2NET will be designed to comprehensively cover the entire supply chain considering all stages of manufacturing distribution and sales to supply a product to market Different actors in the supply network as plant managers planners carriers shop floor workers shop assistants or customers are potential users of the services that will be offered by C2NET A distinguishing feature of these services is to have complete visibility and realtime status of the entire supply chain at all times looking for an optimal response to maximize both local and global benefit",
+          "Rcn" : "193440",
+          "Acronym" : "C2NET"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14722",
+        "_score" : 111.02477,
+        "_source" : {
+          "identifier" : "H2020FOF2017",
+          "Text" : "Logistics for Manufacturing SMEs L4MS Logistics For Manufacturing SMEs will spark incremental productivity increase of new users by a factor of 4 and system setup time reduction by a factor of 10 and disruptive innovation batch size one  consumerization for over 100000 European Manufacturing SMEs  MidCaps building on their intrafactory logistics challenge 50 of the production cost of an item unleashing their digitalization potential by powering new robot systems that are more cost effective at lower lot sizesL4MS relies upon An open industrial IoT platform with enablers for rapid and efficient deployment of customized logistics solutions A suite of Smartization services including business modelling technical support mentoring access to skills and to finance The L4MS Marketplace a onestopshop where European Manufacturing SMEs  MidCaps will access the L4MS services A portfolio of 23 crossborder Application Experiments by 50 SMEs selected through 2 competitive Open Calls that will test more than 40 services  apps leveraging 10M of public funding across 12 established and emerging Digital Innovation Hubs A growing ecosystem that will foster Smart Specialization in each single region linked to L4MSL4MS will transform a panEuropean ecosystem into a selfsustainable startup operating an Open Platform for Innovations in Logistics OPIL and L4MS marketplace consisting of 21 members Comprising 6 Competence Centres 5 technology providers 4 industry associations 3 endusers and 3 business developers currently engaged in I4MS XS2I4MS HORSE and BEinCPPS and FIWARE plus 6 Satellites Nodes L4MS covers 14 EU countries 15 regions with 8 of them from East EuropeL4MS will help demonstrate that public funded research with a Smartization approach accelerating Industry 40 can help manufacturing SMEs  MidCaps achieve digital excellence and global competitiveness through logistics automation become entrepreneurial states and digital industries",
+          "Rcn" : "211673",
+          "Acronym" : "L4MS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9495",
+        "_score" : 110.30342,
+        "_source" : {
+          "identifier" : "H2020FOF2016",
+          "Text" : "Decentralised Agile Coordination Across Supply Chains European manufacturing competes in a global knowledgedriven economy and thus increasingly seeks competitive advantage through quality agility and personalisation based on latest advances in IT Increasing utilisation of IT in missioncritical elements of the production brings opportunities for consistency transparency and flexibility bringing the lot size of 1 closer to reality even for massproduction industries Most relevant to achieve the expected increase of production performance for highly customized products is to master the complexity of the supply chain and logistics in the global production networks Adhoc collaboration and setup of production coalitions with a wide spectrum of suppliers and service providers is necessary to answer the customization wishes of customers for their individual products in short time  high quality and at affordable costs Innovations from small hightech companies requested by customers have to be integrated into the traditional industrial processes using novel organisational concepts and setupsDIGICOR will address the development of a collaboration platform tools and services for the setup and coordination of production networks and in particular the integration of nontraditional small yet innovative companies SMEs and logistics providers into the supply chain of large manufacturers OEMs The solution is based on an open platform integrating tools and services and implementing case specific governance rules and procedures for collaboration knowledge protection and security The open platform will provide services creating a marketplace  for the collaboration partners for planning and control of the collaborative production and the logistics and risk management  It will be open to third parties to add services for advanced analytics simulation or optimization etc The platform will provide seamless connectivity to the automation solutions smart objects and realtime data sources across the network",
+          "Rcn" : "205572",
+          "Acronym" : "DIGICOR"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9900",
+        "_score" : 109.63297,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Scalable Linking and Integration of Big POI data POIs are the content of any application service and product even remotely related to our physical surroundings From navigation applications to social networks to tourism and logistics we use POIs to search communicate decide and plan our actions The Big Data assets for POIs and the evolved POI value chain introduced opportunities for growth but also complexity intensifying the challenges relating to their qualityassured integration enrichment and data sharing POI data are by nature semantically diverse and spatiotemporally evolving representing different entities and associations depending on their geographical temporal and thematic context Pioneered by the FP7 project GeoKnow linked data technologies have been applied to effectively extract the maximum possible value from open crowdsourced and proprietary Big Data sources Validated in the domains of tourism and logistics these technologies have proven their benefit as a costeffective and scalable foundation for the qualityassured integration enrichment and sharing of genericpurpose geospatial dataIn SLIPO we argue that linked data technologies can address the limitations gaps and challenges of the current landscape in integrating enriching and sharing POI data Our goal is to transfer the research output generated by our work in project GeoKnow to the specific challenge of POI data introducing validated and costeffective innovations across their value chain",
+          "Rcn" : "206003",
+          "Acronym" : "SLIPO"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "8592",
+        "_score" : 108.76785,
+        "_source" : {
+          "identifier" : "H2020MG2015TwoStages",
+          "Text" : "Innovative solutions for sustainable mobility of people in suburban city districts and emission free freight logistics in urban centres The cities of Madrid Stockholm Munich Turku and Ruse have formed the CIVITAS ECCENTRIC consortium to tackle the challenges of mobility in suburban districts and clean silent and CO2 free city logistics In many cities these two important areas have received less attention in urban mobility policiesThough European cities have made significant steps forward in making city centres attractive and liveable urban nodes there is a remaining conflict between providing high quality public space and meeting the accessibility requirements for freight deliveries The suburban areas have remained largely unaddressed with a much higher car usage as a consequence Recent or expected urban growth processes are posing additional pressure to pericentral areas which face the specific challenges of Becoming sufficiently appealing to avoid an unnecessary traffic flow towards to the city centre  Providing sustainable and high quality mobility options to enable and encourage car independent lifestyles and Planning the urban future according to carbon neutral mobility principlesECCENTRIC will demonstrate and test the potential and replicability of integrated and inclusive urban planning approaches innovative policies and emerging technologies to reach sustainable urban mobility objectives The solutions will be implemented in 5 living laboratory areas in the outskirts that face high population growth and an increasing pressure on the existing transport networks As highlighted in the SUMPs of the ECCENTRIC cities this action on a wider geographical scale than the city centre is needed in order to meet the targets of the Transport White Paper in terms of air quality energy use and CO2 emissions road casualties and wide uptake of clean vehiclesTo reach CO2 free city logistics by 2030 ECCENTRIC will test clean vehicles and fuels formulate new regulations and services and develop consolidation solutions in close partnerships with the private sector",
+          "Rcn" : "204474",
+          "Acronym" : "CIVITAS ECCENTRIC"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5283",
+        "_score" : 106.6238,
+        "_source" : {
+          "identifier" : "H2020SMEINST12015",
+          "Text" : "Express Delivery endtoend Management System through collaborative intelligence The logistics and transportation sector which amounted 930 billion in 2010 and represents 5 of EUs GDP has a remarkable problem of inefficiency merely 43 according to Eurostar weakening considerably the competitiveness of EUs economyThis lack of efficiency is even greater in the last stage of the delivery process due to what is known as the last mile problem which accounts for most of the inefficiencies in logistics and 28 of the total cost of transportation And it is expected to increase mostly due to the rapid growth of ecommerce services which will represent up to 30 of global transported goods by 2025COLLOGISTICS aims at developing an innovative endtoend Delivery Management System that could achieve up to 50 efficiency improvements in the last mile delivery COLLOGISTICS is based on three novel concepts a collaborative behaviour among members of the delivery fleet b realtime bidirectional communication between the company and the client and c dynamic pricing that will me achieved through the application of cutting edge ICT conceptsThe final objective is to allow express delivery carriers to make a better use of their resources improving revenue and profit margins as well as providing a better service COLLOGISTICS will be commercialized as a Software as a Service and will leverage the rich array of functionalities of the installed base of smartphones GPS Internet connection etc to dramatically reduce adoption costs aiming to make the technology accessible to a mass market to maximize its impactThe feasibility study financed over phase I will help to validate the initial observations performed in Spain and gain a deeper knowledge of the European express delivery market size competitors key users needs and entry barriers as well as the costs of the project and its financial viability",
+          "Rcn" : "198922",
+          "Acronym" : "COLLOGISTICS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "204",
+        "_score" : 106.02904,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "Smart Supply Chain Oriented Rail Freight Services  SmartRail SmartRail has established the following objectives that are aligned with the requirements of the topic MG 22 and the various policy objectivesIntroduce a wide set of innovative measures aiming to improve the freight rail services offered to the shippers focusing on five key topics reliability lead time costs flexibility and visibility Contribute to a mentalshift of the rail sector toward a client oriented and supply chain focusDevelop working business models for cooperation of different stakeholdersDevelop a methodology and architecture for exchange of datainformation required for the optimisation process between stakeholders making use of existing initiatives where available for instance the European Corridor Management and national logistical information centresEstablish and maintain communication with the different levels of stakeholders Establish three Living Labs that each focus on different aspects and markets and implement the developed tools methodologies and concepts The purpose of the Living Labs is to test and improve the innovative measures in a real life situation Specific and more dedicated business models information systems and new rail services will be tested The living labs to be implemented are       Living Lab 1 Dedicated services Wagonload trains        Living Lab 2 Managing connectivity of rail with other modes       Control tower for long distance rail freight transport        Living Lab 3 Reliability of rail and unexpected obstructions on the track Betuwe route RotterdamGenua corridor Broad and effective exploitation of the results of the project facilitated by a Smart Rail portal where all relevant information data and tools can be exchanged and where stakeholders find each other and can share their experiences",
+          "Rcn" : "193372",
+          "Acronym" : "Smart-Rail"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14326",
+        "_score" : 105.9996,
+        "_source" : {
+          "identifier" : "H2020NMBPCSA2017",
+          "Text" : "Next generation Technologies for networked Europe Currently most of EU research activities in the area of supply chain has been supported through programmes specifically focusing on some aspects as for example technologies for handling and transportation in ALICE for internal logistics and production networks in EFFRA Integrated platforms for implementing new communication paradigms in ICT platfomrs for industrial symbiosis in SPIRE  The aim of the project is to put in place a crosssectoral and crosstechnological initiative at European level to increase integration between production and distribution proposing research and innovation priorities for the future of supply chain In particular the project will develop a Strategic Research Agenda where the effort of different communities like EFFRA SPIRE ALICE and other ICT are put together to face important challenges like customization and sustainability Most important steps of the project will be i Creating a European network where most important stakeholders will be involved reaching a critical mass of people from all targeted industries and scientific domains by mean of direct actions along the whole project life ii Identifying future industrial scenarios for 2050 through the analysis of the socioeconomic trends and drivers in the market and their impact on innovation  technology development it will be possible to fix some promising scenarios for the future iii Developing a strategic research agenda and a joint action plan on broader innovation policy issues of common interest NEXTNET will be grounded on the analysis of most important European and national roadmaps status of implementation on identification of the most promising enabling technologies for the future industrial scenarios to develop the research and innovation priorities on workshops focus groups brainstorming sessions  with experts and stakeholders from more that 4 supply chains accross Europe",
+          "Rcn" : "211273",
+          "Acronym" : "NEXT-NET"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15375",
+        "_score" : 105.93035,
+        "_source" : {
+          "identifier" : "H2020BG20171",
+          "Text" : "Multiuse affordable standardised floating SpaceSea The SpaceSea project aims to develop multiuse platforms with the objective to develop safe and cost efficient deck space at sea Due to the increasing population and scarce usable space on land there is an increasing need for sustainable food and renewable energy from the ocean In the future these will be supplied more and more by fish and seaweed farms and ocean energyfloating wind turbines There are also geographical locations where additional housing or logistic hubs are needed All these developments need a flexible and scalable concept that can support a multitude of activities at seaSpaceSea consists of a group of companies research institutes and universities that will develop a modular concept for multiuse platforms Standardised floaters that can be produced at low cost will form the basis The approach will reduce the cost through standardisation in a similar way that containers reduced the cost of transport in the pastEach floater can support a different function such as housing renewable energy hub aquafarming seaweed algae and fish farms and logistics equipment By combining the applications in different ways SpaceSea will form islands according to the specifications for the location and function at hand Three specific islands will be validated and demonstrated as part of SpaceSea An energy hub in the North Sea aquaculture in the Mediterranean and a floating logistics hub in the Black SeaTo develop a safe and economically viable floating island a floater need to be developed that can meet the requirements of the various applications and environmental conditions At the same time these requirements will be brought together into a standardized design Technology developments are required for the floater the shared mooring system coupling between the floaters and application specific developmentsThe SpaceSea consortium aims to overcome these challenges for a sustainable and cost efficient development of our oceans",
+          "Rcn" : "212413",
+          "Acronym" : "Space at Sea"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5693",
+        "_score" : 105.769966,
+        "_source" : {
+          "identifier" : "H2020TWINN2015",
+          "Text" : """Reinforcing the scientific excellence and innovation capacity in logistics technologies of the University of Miskolc The overall aim of the UMiTWINN project is to reinforce the scientific excellence and innovation capacity in logistic systems of the University of Miskolc UMi and its highquality Twinning partners for the benefit of different industries and logistics market To achieve this aim the 3 year project will build upon the existing strong research and innovation base of UMi and its twinning partners FraunhoferGesellschaft eV IFF Fraunhofer Technische Universitaet Graz TUGraz and Intelligentsia Consultants Intelligentsia The UMiTWINN project aims to boost UMi and twinning partners scientific excellence and innovation capacity in logistics technologies as well as implementing a research and innovation strategy focused on three subtopics1	Design of logistic systems and networks 2	Intelligent transport systems 3	Dynamical analysis of materials handling machinesThe research and innovation strategy takes into account the recent SWOT analysis of UMi as well as the national Hungarian research priorities and regional Smart Specialisation Strategy  The specific objectives of the UMiTWINN project are presented belowObjective 1 Strengthen UMis research excellence in LogisticsObjective 2 Enhance the research and innovation capacity of UMi and Twinning partnersObjective 3 Raise the research profile of UMi and the Twinning PartnersObjective 4 Contribute to the research and innovation priorities of HungaryObjective 5 Support research and innovation on a European levelIn order to achieve these objectives the consortium partners defined a comprehensive set of measures and activities implemented via the projects work packages Short term staff exchanges Training workshops summer schools and conference Dissemination and outreach activities""",
+          "Rcn" : "199425",
+          "Acronym" : "UMi-TWINN"
+        }
+      }
+    ]
+  }
+}

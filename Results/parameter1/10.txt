@@ -1,0 +1,256 @@
+{
+  "took" : 29,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 117,
+    "max_score" : 79.9273,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6009",
+        "_score" : 26.15482,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "A DIY networking toolkit for locationbased collective awareness DoItYourself networking refers to a conceptual approach to the use of lowcost hardware and wireless technology in deploying local communication networks that can operate independently from the Internet owned and controlled by local actors MAZI means together in Greek and MAZI httpmazizoneeu invests in this paradigm of technologysupported networking as a means to bring closer together those living in physical proximity Through an experienced interdisciplinary consortium MAZI delivers a DIY networking toolkit that offers tools and guidelines for the easy deployment and customization of local networks and services MAZI toolkit is designed to take advantage of particular characteristics of DIY networking the de facto physical proximity between those connected the increased privacy and autonomy and the inclusive access Such characteristics are used to promote information exchanges that can develop the locationbased collective awareness as a basis for fostering social cohesion conviviality knowledge sharing and sustainable living To achieve this objective MAZI brings together partners from different disciplines computer networks urban planning and interdisciplinary studies humancomputer interaction community informatics and design research These academic partners will collaborate closely with four community partners to ensure that MAZI toolkit benefits from the grounded experience of citizen engagement MAZI draws from the diverse mix of competencies of its consortium to develop a transdisciplinary research framework which will guide a series of longterm pilot studies in a range of environments and enhanced by crossfertilization events The main goal of this process and measure of success is establishing DIY networking as a mainstream technology for enabling the development of collective awareness between those in physical proximity and the development of surrounding research and theorizing of this approach",
+          "Rcn" : "199849",
+          "Acronym" : "MAZI"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5181",
+        "_score" : 24.301477,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Digital Social Innovation for Europe The DSI4EU project will support grow and scale the current Digital Social Innovation network of projects and organisations bringing together social entrepreneurs hackers communities and academics working on key DSI fields such as the makers movement the collaborative economy open democracy and digital rightsDSI4EU will foster digital innovations for the social good helping communities share data collaborate to solve societal problems and scale their initiatives focusing on open and distributed technologies and new sustainable business models DSI4EU will develop and upgrade the digitalsocialeu platform to promote largescale collaboration and support experiments among the DSI community and activate collective awareness with a large number of citizens across Europe DSI4EU will also provide an engaging programme of training mentoring events policy workshops and experimentationDSI4EU will represent the building blocks for a new participatory innovation model for Europe a more decentralised web and an inclusive and sustainable society including a radical approach to scaling extending and connecting th DSI network in Europe",
+          "Rcn" : "198820",
+          "Acronym" : "DSI4EU"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1827",
+        "_score" : 23.481415,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2014",
+          "Text" : "High Capacity Space Division Multiplexing Systems Our information society relies to an unprecedented extent on broadband communication solutions such as highspeed Internet access mobile voice and data services multimedia broadcast systems etc In order to fulfil the steadily growing volume and bandwidth demand of those data services while simultaneously reducing the cost per transported information bit communication systems have been continuously improved in terms of reach and aggregate transport capacity However it is now recognised that communication systems are rapidly approaching the fundamental information capacity of current technology a trend with potential negative impact on the economy and social progress HSPACE project targets the development of advanced space division multiplexing SDM systems to unlock the capacity of future information systems by enabling the transmission of spatial superchannels over a single fibre The proposed concept will be implemented using multicore fibres MCF and fewmode fibres FMFs as underlying technology platform along with novel digital signal processing DSP techniques that minimise the modecore interference and inter modecore nonlinearities keeping the required digital processing at realizable levels HSPACE offers a continued European leadership in RTD photonics from components to systems securing the necessary human resources and knowledge to design and produce a new generation of photonic components that support EUs vision for ubiquitous broadband connectivity to promote European social and economic cohesion and prosperityThe aforementioned challenges require researchers highly trained in a number of relevant disciplines ranging from nonlinear science to highspeed optical communication techniques This fellowship will provide a gifted early career researcher with the opportunity to train at one of the foremost research centres in optical communication the Aston Institute of Photonics Technology AITP",
+          "Rcn" : "194997",
+          "Acronym" : "HSPACE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "16862",
+        "_score" : 22.952198,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2017",
+          "Text" : "Digital Local Public Sphere and Local Communication Online A Comparative Study of Four European countries The study of local communication in the digital age is an important subject area as a thriving public dialogue and deliberation online enhances local democracies and engagement in local matters However our understanding of local communication online and how practices of different local communities vary is limited as most research in the field explores online communication at national or international level The aim of this project is to conduct a comparative study on the democratic potentials and challenges of local communication online and on the key features of digital local public spheres in four European countries The objectives of the project are to 1 develop a framework for the study of digital local public sphere 2 analyse and compare online communication of local communities in Italy Norway Poland and the UK 3 analyse and compare key features of digital local public spheres of local communities in Italy Norway Poland and the UK 4 develop policy recommendations to foster strong and inclusive digital local public spheres in local communities With these objectives the study will not only provide a theoretical contribution but also inform policy debates and have the potential to influence communicative practices A mixed method approach will be applied for the empirical research which will involve case study analysis of local communities in the four countries The methods will include content analysis interviews and social media network analysis The project will be carried out at the Centre for Research on Communities and Cultures Canterbury Christ Church University a specialist centre in the study of local communities in the digital age with fitting training profile The fellowship will expand the theoretical and methodological competences of Professor BiernackaLigiza and diversify her skills and knowledge through its interdisciplinary approach impact on both academic and non academic beneficiaries and international mobility",
+          "Rcn" : "214175",
+          "Acronym" : "LocalCom"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "12041",
+        "_score" : 22.86093,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2016",
+          "Text" : "Sufis Ethics and Democracy Among contemporary Sufi orders mystical Islamic religious movements a new political and theological tendency has been developed in the last decades Sufi counter reformism Which is a Muslim politicaltheological movement inscribed by the Islamic tradition open to democratic values and in opposition to Islamic reformism and Islamism My main hypothesis is that some Sufi orders are playing an important role in the expansion of democratic space in Europe and in the Maghreb In this research I will investigate the role of Sufi orders as political actors in Belgium France Morocco and AlgeriaSufi counter reformism offers new perspectives on the debate on Islam democracy and secularism It will deconstruct the dichotomist perspective which opposes secular and religious private and public and traditional and modern We need empirical research on Islam and in particular on Muslim politics in this period of social and political tensions Finally this research will give more visibility to the organisations committed to improve democratic rights by improving and creating new networks and raising awareness about the debate on Islam and democracy It will reduce the gap between institutions and citizens through a better understanding of Islamic democratic engagement in order to build a more trustful European society",
+          "Rcn" : "208707",
+          "Acronym" : "SufisEthicsDemocracy"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11366",
+        "_score" : 22.693693,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "INNOVENTUALLY Onestop source for innovation  A PaaS Platform as a Service for the management of Open Innovation Challenges and Needs Innovation is not an option and Open Innovation in particular is the main factor to boost and sustain the competitiveness of the modern economy and ultimately the success of all companies Innovative organisations usually invest lots of resources financial humanand time Sometimes they cannot find a solution to their problems and eventually they give up This is even more dramatically true for SMEs By 2020 45 billion people will be connected to the Internet according to Accenture 97 of companies believe that digital innovation is critical or important to their future performance The value of supporting services and consulting for open innovation market OI was equal to 27 billion in 2013 and doubled in the following two years reaching 55 billion Euro in 2015 At present innovation is happening internally ie completely developed within the company and from the company or externally ie giving it in outsourcing but strictly limited to supplying productsservices or buying services as for ICT as a mere addon This shows a clear need for a new way to create manage and monetize innovation which means to establish new business models based on an open approach to innovationInnoventually company tackles this challenge by offering a digital platform that support organisations and individuals seeking for technologies and monetizing their ideas We create communities of innovators companies and researchers for connecting the dots creating new collaborative networks for matching innovations demands and needs Innoventually is a onestop source for innovationrelated services for all those organisations that need to innovate mSMEs startups etc making open innovation affordable and easy We facilitate the solution of problems mostly related to RD needs from SMEs while significantly reducing the cost for exploring new business opportunities",
+          "Rcn" : "207952",
+          "Acronym" : "INNOVENTUALLY"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "4455",
+        "_score" : 22.659256,
+        "_source" : {
+          "identifier" : "ERC2014STG",
+          "Text" : "Data activism The politics of big data according to civil society With the diffusion of big data citizens become increasingly aware of the critical role of information in modern societies This awareness gives rise to new social practices rooted in technology and data which I term data activism While activists see massive data collection by governments and businesses as a challenge to civil rights big data also offer new opportunities for collective actionThis research will investigate civil societys engagement with massive data collection by addressing three research questions How do citizens resist massive data collection by means of technical fixes reactive data activism How do social movements use big data to foster social change proactive data activism How does data activism affect the dynamics of transnational civil society and transnational advocacy networks in particularThe project will develop a multidisciplinary conceptual framework integrating social movement studies science and technology studies and international relations It will analyze organizational forms action repertoires and the enabling role of software in data activism and will identify emerging structures and strategies of transnational advocacy networks Data will be collected via qualitative interviews with activists field observations infrastructure ethnography on software platforms and computational methods such as data mining in online repositories  This research is groundbreaking in four ways 1 by analyzing civil societys engagement with massive data collection it evaluates risks and promises of big data 2 by addressing an uncharted but rapidly growing field of human action it sets the basis for understanding future civic engagement 3 by integrating adjacent disciplines that seldom interact it magnifies their ability to understand the interplay between society information technology and power 4 by developing dedicated data collection tools it adds to methodological innovation in bigdata analytics",
+          "Rcn" : "198013",
+          "Acronym" : "DATACTIVE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "4324",
+        "_score" : 22.428513,
+        "_source" : {
+          "identifier" : "H2020INFRAIA20142015",
+          "Text" : "SoBigData Research Infrastructure One of the most pressing and fascinating challenges scientists face today is understanding the complexity of our globally interconnected society The big data arising from the digital breadcrumbs of human activities promise to let us scrutinize the ground truth of individual and collective behaviour at an unprecedented detail and scale There is an urgent need to harness these opportunities for scientific advancement and for the social good  The main obstacle to this accomplishment besides the scarcity of data scientists is the lack of a largescale open infrastructure where big data and social mining research can be carried outTo this end SoBigData proposes to create the Social Mining  Big Data Ecosystem a research infrastructure RI providing an integrated ecosystem for ethicsensitive scientific discoveries and advanced applications of social data mining on the various dimensions of social life as recorded by big data Building on several established national infrastructures SoBigData will open up new research avenues in multiple research fields including mathematics ICT and human social and economic sciences by enabling easy comparison reuse and integration of stateoftheart big social data methods and services into new research It will not only strengthen the existing clusters of excellence in social data mining research but also create a panEuropean interdisciplinary community of social data scientists fostered by extensive training networking and innovation activities In addition as an open research infrastucture SoBigData will promote repeatable and open scienceAlthough SoBigData is primarily aimed at serving the needs of researchers the openly available datasets and open source methods and services provided by the new research infrastructure will also impact industrial and other stakeholders eg government bodies nonprofit organisations funders policy makers",
+          "Rcn" : "197882",
+          "Acronym" : "SoBigData"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17658",
+        "_score" : 21.772408,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2017",
+          "Text" : "Information Diffusion on Networks This twoyear research project aims to analyse the simultaneous diffusion of multiple pieces of information on social networks how messages may interact how rumours diffuse in the presence of truthful information and verification and how network structure interacts with the virality of information Misinformation can have severe consequences such as the debunked myth of a link between vaccinations and autism or AIDS denialism Political examples also abound The rise in communication through online networks is often quoted as contributing to an increased spread of rumours and misinformation Yet in truth the state of the art has little to say about how alternative pieces of information interact on networks and even less why rumours might be propagated without prior verification This project aims to build rigorous economic models which can shed light on the processes and decisions involved thus addressing the tangible threat that the spread of misinformation poses to society I am an experienced researcher and have worked for various years in the area of information diffusion on networks providing me with excellent insights and methodological tools to work on this project under the supervision of Professor Sergio Currarini a leading expert in network theory My stay at CaFoscari University of Venice will allow me to establish new international collaborations and additional training particularly regarding interdisciplinary tools to bring to the economic study of misinformation diffusion Together the training network and publications inherent in the development of this project will have an extremely positive impact on my career including increased possibilities to apply for future funding calls by the EU By forming the basis of a longrun research agenda focusing on online information diffusion the project will contribute to the EUs Digital Market Strategy and to its international reputation as a world leading research destination",
+          "Rcn" : "215195",
+          "Acronym" : "ION"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15213",
+        "_score" : 21.519812,
+        "_source" : {
+          "identifier" : "H2020ICT20171",
+          "Text" : "EU Explorations in Next Generation Internet emerging research opportunities technOlogies and methods No other technology has been able to radically reshape and permeate the very fabrics of our societies as rapidly and fundamentally as the internet has But the increased concentration of power on the internet in the hands of just a few ever more dominant players makes that few now reap the true benefits of the digital economy the growing complexity and opacity of the processes and technologies that govern it makes challenging this status quo exceedingly difficult  Serious interventions are needed to make the next generation internet inclusive resilient and competitive again By intervening in the development process of emerging technologies we are able to steer the process of innovation in a humancentric and ethical direction and allow European businesses and civil society organisations to play a leading and pioneering role in their development  But to help direct and shape the future internet we need to know which technologies will underpin it To identify the technologies that will likely be game changers for the internet in 2025 we use cutting edge big data methodologies and novel webscraped data sources to capture early signals about technologies and research topics and develop a rigorous process for evaluating whether a technology will positively contribute to the development of a more desirable internet  The EU Engineroom project approach is centred around the articulation of an ambitious and concrete vision for the future internet and the development of a methodology for identifying those technologies and research topics that will underpin that vision of a more inclusive resilient and competitive internet by 2025 This methodology will form a key pillar for future phases of the NGI initiative as an easilyreproducible and comprehensive tool for continuously identifying and evaluating emerging technologies and trends and helps establish the NGI as a key new flagship programme for internet research beyond Horizon2020",
+          "Rcn" : "212238",
+          "Acronym" : "EU Engineroom"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "2694",
+        "_score" : 21.101006,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2014",
+          "Text" : "INnovatiVE cohereNt detecTIon Optical access Networks In the called information age digital communications play an essential role on the economy and sustainable growth of the society  Access networks are essential part of the communication infrastructure as bridge between endusers and core networks Their design must make possible the provision of realtime highbandwidth access to Internet essential for advanced communication services as immersive video and ubiquitous cloud computing It is clearly foreseen that the only longterm solution to the problem involves optical fiber as transmission medium the so called optical access networks Passive optical network PON is the most widely employed technology because of the cost reduction it entails but the capacity of actual timedivision multiplexed PONs will be exhausted eventually as more bandwidthhungry applications become available in the near future Telecommunications carriers face the challenge of meeting the unprecedented bandwidth demand by end users at the same time the capital and operating expenditures requirements are reducedINVENTION project targets the development of costeffective and high capacity communication architectures for their employment on optical accessmetro networks The proposed concept will be based on the employment of coherent detection with lowcost and simplified optical receiver architectures making sure that the proposed approaches meet the cost requirements of these optical networks The proposed concepts will be implemented by a suitable combination of optical signal processing techniques and digitalsignalprocessing DSP algorithms keeping the required DSP at realizable levels The final scope of INVENTION is the proposal of midterm and longterm solutions for the achievement of the objectives included in the digital agenda 2020 for the ICT strategy",
+          "Rcn" : "195865",
+          "Acronym" : "INVENTION"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14234",
+        "_score" : 20.897633,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "Enhancing security of digital property rights and citizens awareness through an innovative antipiracyframework of digital content based on Machine Learning and Artificial Intelligence Digital piracy and counterfeit activity causes incredible economic damages in creative  ecommerce sectors It jeopardizes the rights of all creative individuals puts jobs at risks and undermines new legal business models and distribution platforms Piracy and counterfeiting the statistic losses sum 125 billion and 25 million of jobs Part of those loss are transformed into benefits to those who break the law and rights Consumer is not property aware of such impact3antS aims to become the main reference cybersecurity service framework to fight against contents piracy  digital distribution of counterfeited goods  3ANTS mission is to deliver a set of breakthrough cybersecurity SaaS services built over a disruptive selfdeveloped algorithm based on machine learning techniques that follows as a crawler pirated content  goods through the internet web torrents mobile applications social networks ecommerce etc automatically geolocating 100 accuracy the items and forcing their withdrawal 983antS  over this unique technology provides a framework of an innovative set of added value SaaS services as a response to the business challenges and opportunities 1SaaS to remove specific pirated content  goods 2Smart Analysis  Reports Scorecard to Support Decision Taken 3Gamification mobile applications to raise awareness and engage content public targets against the pirate fighting 4APIs to allow third parties data entrance or developing of new services over it3ants has gone through processes of design thinking and customer discovery  validation  with more than 31 million of contents removed having demonstrated the value proposal with reference entities in the media sector as WarnerBros or SonyPictures TRL73ants aims to scaleup the product internationally covering all digital content video books music and main ecommerce segments fashion pharma electronics achieving an accumulated EBITDA of 448M by 2023 with 80 margin",
+          "Rcn" : "211163",
+          "Acronym" : "3ants"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3094",
+        "_score" : 20.611008,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "hapticom launches the worlds 1st special tablet for over 20 million visually impaired people in the EU enabling them access to barrierfree digital information and communication with all of society Within the EU there live far more than 20 million blind and partially sighted people There are even over 150000 deafblind people who miss out seeing AND hearing at the same time Most of the blind suffer from strongly limited communication and often live in huge social isolation Even the UN and also EU parliament have already stipulated that a specific product solution for particular blind is needed This mobile device ought to offer barrierfree communication and information to assist those people daily livesTherefore the SME hapticom an academic spinoff develops the worlds first smartpad and corresponding ICT infrastructure for visual impaired The device is named haptiPad and similar to a special haptic multifunctional pad or tablet This innovation will change the life of blind people in whole Europe radically and strongly foster integration and inclusion Due to the groundbreaking chances the haptiPad offers it addresses a huge market High social gains employment and commercialisation potential can be expected  Via several governmental fundings and the international investor Wayra Telefonica telecommunications group a convincing working prototype TRL 6 is already developed and successfully testedDue to several international business concept contests the innovative business model of hapticom got very challenged and thus advanced and was rewarded highly many times The competent team intends to prove the adaptability and viability of the projects concept and product solution on a European level with the help of a feasibility study At the end of phase 1 SME instrument hapticom aims for reference customer for the commercial beta version of the haptiPad to finally successfully finance the growth of the venture",
+          "Rcn" : "196265",
+          "Acronym" : "Ph1ProHap2"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17070",
+        "_score" : 20.551445,
+        "_source" : {
+          "identifier" : "H2020SC6CULTCOOP2017twostage",
+          "Text" : "Culture Labs recipes for social innovation The proposals central concept is CultureLabs an open and evolving ICTempowered infrastructure which comprises a rich variety of resources including guidelines methodologies digital tools existing community engagement projects as well as novel ideas and approaches that can facilitate social innovation in culture The infrastructure is addressed to both institutional stakeholders and community members to make use of existing shared and in many cases commonly created resources according to their missions and needs Different resources the ingredients can be combined in various ways to form a recipe that describes how to carry out a participatory project to address the needs of a specific target audience The primary focus will be on approaches that build positive awareness about communities own heritage and memories and engage their members as bearers and producers of culture CultureLabs case studies focus on different immigrants communities eg refugees second generation immigrants female immigrants etc CultureLabs toolkits and infrastructure are reusable and extensible and its ingredients can be easily combined and adjusted to meet the needs of different stakeholders and target groups At least 20 concrete recipes will be designed through the collaboration between different stakeholders including museums civil organisations and policy makers Four of these recipes will be implemented and evaluated as pilots in three different countries Research outcomes and the empirical evidence gained from the projects activities including the recipes design and implementation will be consolidated into generalpurpose methodological guidelines and best practices that can be adopted by any stakeholder who wishes to organise participatory approaches to CH with a social impact",
+          "Rcn" : "214474",
+          "Acronym" : "CultureLabs"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "16912",
+        "_score" : 20.423782,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2017",
+          "Text" : "Lost in an Ocean of Information Media in the Everyday Life of Conspiracy Theorists The question of truth receives much societal attention today as fake news alternative facts and conspiracy theories seem everywhere People speak in alarmed terms about filter bubbles echo chambers the distrust of official knowledge and the dawn of a posttruth era The contemporary media landscape plays an important role in the rise and spread of these alternative forms of knowledge but how is largely unknown Wishing to delve deeper than current media hypes and moral panics allow for I propose to ethnographically study the role of media in the everyday life of conspiracy theorists CT from a cultural sociological perspective by means of the following three research projects 1 To study what media sources TVchannels newspapers internet sites blogs Facebook pagesgroups etc do CTs use to inform themselves about the world and why I will ask them to keep a media diary for two weeks and reflect on that in a followup interview 2 To study how CTs use media technologies in a world where search engines and social media algorithms filter the information people receive I will ask them in an interview setting to perform several search queries online to show me they use or circumvent such filtering technologies 3 to study how do CTs read interpret appropriate and authenticate media contents texts and videos I will conduct a photovideo elicitation interview to actively study how they do so and ask them to reflect on their practice These three objectives together should illuminate the way people engage with media technologies in an era of information overload Such insights are valuable not just for scholars interested in the topic itself but speak more broadly to professionals in the field eg journalists policy makers government officials scientists NGOs and politicians who have to deal with the broader distrust of official knowledge in Western European societies especially as enacted by the internet",
+          "Rcn" : "214225",
+          "Acronym" : "Media andConspiracy"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1026",
+        "_score" : 19.952261,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Digital Do It Yourself Digital do it yourself DiDIY is a new sociotechnological phenomenon in which the widespread availability of digital devices supporting the convergence of physical and informational components and the growing accessibility of knowledge and data through open online communities presage scenarios in which the distinction between users and producers of physical artefacts is fuzzy and new opportunities and threats emerge DiDIYrelated technologies and social practices amplify the creativity and skills of individuals who affordably develop digitally selfmade objects eg uniquebydesign objects designed by 3D modelling software and generated by 3D printers or networked smart objects equipped with microcontrollers dealing with context information via sensors and actuators Two network effects catalyse DiDIY what is custom produced by an individual could be the outcome of contributions from a worldwide community of developers sharing their interest towards open innovation thus operating as knowledge multiplier what is made available here and now by a smart object could be the aggregation of signals from a set of sources in the network thus operating as information extenderIn this presumed industrial revolution the project aims at Setting a conceptual framework to explore the impact of DiDIY Producing information models and guidelines to support education and policy making on DiDIY that while enabled by technology should be driven by social and cultural strategiesThe project will study how DiDIY is Reshaping organization and work education and research Impacting on social and legal systems Changing creative design and ethicsThe development of a systemic interpretation is the challenge for the multidisciplinary project team which will collaboratively explore a complex phenomenon with implications on identity privacy reputation responsibility and safety and will offer a roadmap fostering a DiDIYbased humancentric European development",
+          "Rcn" : "194194",
+          "Acronym" : "DiDIY"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9672",
+        "_score" : 19.939125,
+        "_source" : {
+          "identifier" : "H2020FOF2016",
+          "Text" : "Industrial scenarios for connected factories There is a consensus among industry and policymakers that Europe is currently in the middle of an industrial revolution initiated by the digitisation of industrial processes Cyber Physical Systems CPS the Industrial Internet and the Internet of Things IoT connect people devices machines and enterprises like never before For many years companies and research organisations have been addressing these challenges and opportunities both at European level through the Factories of the Future PPP and related activities and at national level The ConnectedFactories project will build upon these activities and consolidate their expert networks aiming at industrial consensus building across Europe The ConnectedFactories project will establish and maintain a structured overview of available and upcoming technological approaches and best practices that are needed for mastering this paradigm shift Present and future needs and challenges of the manufacturing industries will be identified in order to then identify possible scenarios of how digital platforms will enable the digital integration and interoperability of manufacturing systems and processes Developing these scenarios will require detailed work with companies and other stakeholders through a series of workshops at national and regional level in order to reach a necessary industrial consensus on aspects such as innovative technology proposals business models aspects standardization etc  while considering the establishment of industrial ecosystems where multisided IT platforms create valueThis work will enhance the awareness among companies of the use of digital technologies in the manufacturing sector and equip them with knowledge to make informed decisions regarding technology and business model choices It will reinforce the European manufacturing industries position in the international scene",
+          "Rcn" : "205762",
+          "Acronym" : "ConnectedFactories"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5752",
+        "_score" : 19.845966,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Largescale RINA benchmark on FIRE ARCFIRE will bring RINA from labs into the realworld RINA the Recursive InterNetwork Architecture is an innovative backtobasics network architecture that solves current limitations and facilitates full integration between distributed computing and networking RINA addresses the challenges that drive the communications industry in moving from dedicated hardware to almost completely virtualised infrastructure The next shift 5G on the horizon for 2020 will change the communication industry even more significantly Now is the right time for ARCFIRE to provide experimental evidence of RINAs benefits at large scale in compelling and realistic business cases thus motivating RINA adoption ARCFIRE will experimentally demonstrate RINAs key benefits integrating current EC investment in advanced networks IRATI PRISTINE and Future Internet testbeds FIRE focusing on 5 goals 1 Facilitate comparison of converged operator networks using RINA to operators current network designs 2 Produce a robust RINA software suite ready for Europe to engage in largescale deployments and longliving experiments 3 Provide relevant experimental evidence of RINA benefits to network operators their equipment vendors application developers and endusers 4 Build on the current EU Future Internet community and raise the number of organisations involved in RINA development and deployment 5 Enhance the FIRE infrastructure with ready to use RINA software ARCFIRE will have longterm sustainable impact on how we build infrastructure for the Networked Society ARCFIREs deployed software suite will enable equipment vendors to shorten their innovation life cycle network operators to run advanced networks addressing their needs in a futureproof fashion European SMEs to find and exploit specialised markets and application developers to explore unseen opportunities ARCFIREs consortium has the experience and resources to achieve these goals and provide this impact",
+          "Rcn" : "199487",
+          "Acronym" : "ARCFIRE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1576",
+        "_score" : 19.826437,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "cAPTor captures Advanced System Threats CAPTOR is a set of tools whose main objective is to characterize identify and detect APTs as well as minimize their impact in the target organization CAPTOR should be able to operate in complex environments like Urban Critical Infrastructures where IT industrial energy and network infrastructures must be protected from security threatsThe most important innovation of CAPTOR is the application of a set of techniques and methodologies known as anomaly detection which will be later explained and an approach more akin to classic intelligence as opposed to the malwaredetectioncentered approach used by the vast majority of proposed commercial solutions S2 s objective is to position CAPTOR as a leading European toolset to protect Critical Infrastructures in general and Urban Soft Targets and Critical Infrastructures in particularAdvances in the integration of ICT technologies in urban areas and their infrastructures have brought undeniable advantages to the cities economic management inhabitability and have helped to reduce their environmental impactUnfortunately together with these advantages many cyber security vulnerabilities have been introduced in infrastructures where these threats have never before been taken into account The threat posed by cyber terrorists and cyber criminals continually grows and organizations are increasing their awareness of the possibility of an incidentAn APT Advanced Persistent Threat is a planned multimodal attack targeted at a specific organization or infrastructure where several types of malware under control of a command center is combined with techniques like social engineering use of insiders or access through third parties with the objective of gaining access to critical physical or virtual assets and exfiltrate information obtain economic advantage or sabotage infrastructures APTs are the most important kind of cyber attacks a critical infrastructure can suffer today",
+          "Rcn" : "194745",
+          "Acronym" : "CAPTOR"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5485",
+        "_score" : 19.394695,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Breaking Educational Barriers with Contextualised Pervasive and Gameful Learning BEACONING BEACONING sets a forefront in multifaceted education technologies through largescale piloting of a digital learning platform that blend physical and digital spaces As innovation action strategies pilots combine opportunities for new ICTs in multiple ways that merge learning acquired in formal nonformal and informal means developing the skills for todays abled and disabled learners and workforce The BEACONING platform will be a ubiquitous solution that exploits advances in user experience design mobile communication locationbased and context aware systems procedural content generation pedagogydriven gamification learning analytics and cloud technology though innovative integration towards a blended learning space The BEACONING demonstrator will facilitate assess and author gamified learning activities integrating existing educational tools and services of the participating organisations Focusing on STEM Science Technology Engineering and Mathematics the crosssubject approach embedded in a ProblemBased Learning model will contextualise learning within real world problem solving and applications The role of learners is amplified in the process of filtering and connecting concepts framed under practical investigative and exploratory scenarios  Largescale pilots will validate and inform the development of the BEACONING ecosystem that democratises learning across and among fully abled and those with mild to moderate physical and mental impairments age 15 to 24 undergoing general and vocational training BEACONING anticipates the benefits of making crosssubject matter more understandable fostering the application of subject specialism to other domains The pilot substantiates the technical and economic viability and the impact of the innovative platform to strategise market adoption and replication By integrating experiences in a highly engaging contextualized and personalised manner learning can beyond the barriers of space and time",
+          "Rcn" : "199217",
+          "Acronym" : "BEACONING"
+        }
+      }
+    ]
+  }
+}

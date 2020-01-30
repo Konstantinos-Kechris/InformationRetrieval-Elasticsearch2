@@ -1,0 +1,256 @@
+{
+  "took" : 22,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 18300,
+    "max_score" : 368.7208,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10066",
+        "_score" : 110.16379,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "European Cloud InMemory Database Appliance with Predictable Performance for Critical Applications The project aims at producing a European Cloud Database Appliance for providing a Database as a Service able to match the predictable performance robustness and trustworthiness of on premise architectures such as those based on mainframes The project will evolve cloud architectures to enable the increase of the uptake of cloud technology by providing the robustness trustworthiness and performance required for applications currently considered too critical to be deployed on existing cloudsCloudDBAppliance will deliver a cloud database appliance featuring1    A scalable operational database able to process high update workloads such as the ones processed by banks or telcos combined with a fast analytical engine able to answer analytical queries in an online manner 2    A Hadoop data lake integrated with the operational database to cover the needs from companies on big data3    A cloud hardware appliance leveraging the next generation of hardware to be produced by Bull the main European hardware provider This hardware is a scaleup hardware similar to the one of mainframes but with a more modern architecture Both the operational database and the inmemory analytics engine will be optimized to fully exploit this hardware and deliver predictable performance Additionally CloudDBAppliance will deal with the need to tolerate catastrophic cloud data centres failures eg a fire or natural disaster providing data redundancy across cloud data centres",
+          "Rcn" : "206178",
+          "Acronym" : "CloudDBAppliance"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6022",
+        "_score" : 109.407616,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : """STREAMLINE STREAMLINE will address the competitive advantage needs of European online media businesses EOMB by delivering fast reactive analytics suitable in solving a wide array of problems including addressing customer retention personalised recommendation and more broadly targeted services STREAMLINE will develop crosssectorial analytics drawing on multisource data originating from online media consumption online games telecommunications services and multilingual web content STREAMLINE partners face big and fast data challenges They serve over 100 million users offer services that produce billions of events yielding over 10 TB of data daily and possess over a PB of data at rest Their business usecases are representative of EOMB which cannot be handled efficiently  effectively by stateoftheart technologies as a consequence of system and human latencies System latency issues arise due to the lack of appropriate data streamoriented analytics tools and more importantly the added complexity cost and burden associated with jointly supporting analytics for both data at rest and data in motion Human latency results from the heterogeneity of existing tools and the low level programming languages required for development using an inordinate number of boilerplate codes that are system specific eg Hadoop SolR Esper Storm and databases and a plethora of scripts required to glue systems togetherOur research and innovation actions include addressing the challenges brought on by system and human latencies In this regard STREAMLINE will1	Develop a high level declarative language and userinterface and corresponding automatic optimisation parallelisation and system adaptation technologies that reduce the programming expertise required by data scientists thereby enabling them to more freely focus on domain specific matters2	Overcome the complexity of the socalled lambda architecture by delivering simplified operations that jointly support data at rest and data in motion in a single system and is compatible with the Hadoop ecosystem3	Develop fast reactive machine learning technologies based on distributed parameter servers and fully distributed asynchronous and approximate algorithms for fast results at high input ratesThe impact of developing a European open source tool for analysing data at rest and data in motion in a single system featuring a high level declarative language and a fast reactive machine learning library is much wider than just the recommender ad targeting and customer retention applications that the industrial partners in STREAMLINE will use to demonstrate the business value of our work for the data economy Our open source tools will help Europe in general since they lower the big data analytics skills barrier broaden the reach of data analytics tools and are applicable to diverse market sectors including healthcare manufacturing and transportation Thereby enabling a broad number of European SMEs in other markets to explore and integrate these technologies into their businesses At the same time STREAMLINE will provide a solid foundation for big data leadership in Europe by providing an opensource platform ready to be used by millions of stakeholders in companies households and governmentThe STREAMLINE consortium comprises worldrenowned scientists and innovators in the areas of database systems DFKI distributed systems SICS and machine learning SZTAKI who have won many international awards hold 18 patents collectively and have founded and advised nine startups Complementing the research excellence are four leading European enterprises in the data economy in the areas of global telecommunication services eg Internet IPTV mobile and landline networks PT games and entertainment Rovio media content streaming NMusic and webscale data extraction and business analytics IMR with Petab""",
+          "Rcn" : "199862",
+          "Acronym" : "STREAMLINE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11990",
+        "_score" : 101.763954,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2016",
+          "Text" : "Next gEneration Sequence sTORage Sequential data are everywhere from DNA sequences to astronomical light curves and from aircraft engine monitoring data to the prices of stock options Recent advances in various fields such as those of data storage networking and sensing technologies have allowed organizations to gather overwhelming amounts of sequential data at unprecedented speedsThis wealth of information enables analysts to identify patterns find abnormalities and extract knowledge It is noteworthy that common practice in various domains is to use custom data analysis solutions usually built using higher level programming languages such as RPython Such techniques however while commonly acceptable in small data processing scenarios are unfit for larger scale data management and exploration This is because they come in contrast to all previous database research not taking advantage of indexes physical data independence query optimization and data processing methods designed for scalability In these domains database systems are used merely for storing and retrieving data and not as the sophisticated query processing systems they areCurrent relational storage layers cannot handle the access patterns that analysts of sequential data are interested in without scanning large amounts of unnecessary data or without large processing overhead Thus making complex analytics inefficientIn order to exploit this new opportunity we plan to develop specialized data series storage and retrieval systems which will allow analysts  across different fields  to efficiently manipulate the sequences of interestThe proposed research project named NESTOR Next gEneration Sequence sTORage has the potential of great economic and social impact in Europe as multiple scientific and industrial fields are currently in need of the right tools in order to handle their massive collections of data series",
+          "Rcn" : "208656",
+          "Acronym" : "NESTOR"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6806",
+        "_score" : 98.89834,
+        "_source" : {
+          "identifier" : "ERC2015CoG",
+          "Text" : "Translating from Multiple Modalities into Text Recent years have witnessed the development of a wide range of computational methods that process and generate natural language text  Many of these have become familiar to mainstream computer users such as tools that retrieve documents matching a query perform sentiment analysis and translate between languages Systems like Google Translate can instantly translate between any pair of over fifty human languages allowing users to read web content that wouldnt have otherwise been available The accessibility of the web could be further enhanced with applications that translate within the same language between different modalities or different data formats  There are currently no standard tools for simplifying language eg for lowliteracy readers or second language learners The web is rife with nonlinguistic data eg databases images source code that cannot be searched since most retrieval tools operate over textual data In this project we maintain that in order to render electronic data more accessible to individuals and computers alike new types of models need to be developed Our proposal is to provide a unified framework for translating from comparable corpora ie collections consisting of data in the same or different modalities that address the same topic without being direct translations of each other We will develop general and scalable models that can solve different translation tasks and learn the necessary intermediate representations of the units involved in an unsupervised manner without extensive feature engineering Thanks to recent advances in deep  learning we will induce  representations for different modalities their interactions and correspondence to natural language Beyond addressing a fundamental aspect of the translation problem the proposed research will lead to novel internetbased applications that simplify and summarize text produce documentation for source code and meaningful descriptions for images",
+          "Rcn" : "200779",
+          "Acronym" : "TransModal"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10948",
+        "_score" : 97.89412,
+        "_source" : {
+          "identifier" : "ERC2016STG",
+          "Text" : "A Rigorous Approach to Consistency in Cloud Databases Modern Internet services store data in novel cloud databases which partition and replicate the data across a large number of machines and a wide geographical span To achieve high availability and scalability cloud databases need to maximise the parallelism of data processing Unfortunately this leads them to weaken the guarantees they provide about data consistency to applications The resulting programming models are very challenging to use correctly and we currently do not have advanced methods and tools that would help programmers in this taskThe goal of the project is to develop a synergy of novel reasoning methods static analysis tools and database implementation techniques that maximally exploit parallelism inside cloud databases while enabling application programmers to ensure correctness We intend to achieve this by first developing methods for reasoning formally about how weakening the consistency guarantees provided by cloud databases affects application correctness and the parallelism allowed inside the databases This will build on techniques from the areas of programming languages and software verification The resulting theory will then serve as a basis for practical implementation techniques and tools that harness database parallelism but only to the extent such that its side effects do not compromise application correctnessThe proposed project is highrisk because it aims not only to develop a rigorous theory of consistency in cloud databases but also to apply it to practical systems design The project is also highgain since it will push the envelope in availability scalability and costeffectiveness of cloud databases",
+          "Rcn" : "207381",
+          "Acronym" : "RACCOON"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15355",
+        "_score" : 97.715965,
+        "_source" : {
+          "identifier" : "H2020SC6COCREATION2017",
+          "Text" : "Big DATA approaches FOR improved monitoring of research and innovation performance and assessment of the societal IMPACT in the Health Demographic Change and Wellbeing Societal Challenge Recent technological developments in data mining data treatment and data analysis have been rapid and far reaching offering new dimensions and opportunities for performance analytics in various domains The introduction of new technologies and initiatives including open access mechanisms and social mediaonline media has been generating increasing volumes of new data on the research domain Data4Impact aims to capitalise on these developments and utilise big data approaches to improve the monitoring of research and innovation performance and assessment of the societal impact in the Health Demographic Change and Wellbeing Societal Challenge The project has he following main objectives a define develop analyse and disseminate new indicators for assessing the performance of EU and national research and innovation systems b explore and collect big data on healthrelated societal challenges at input throughput outputresult and impact levels c employ big data approaches to yield more data on the societal impact of national and EU funding on tackling healthrelated societal challenges d engage stakeholders in the project activities validate the project results and develop new indicators and tools using a handson approach It will do so by developing a robust conceptual model addressing all key stages of the innovation process mining large volumes of data on research results and impacts and analysis of these data using topic modelling machine learning and other techniques aimed at natural language processing The Data4Impact consortium possesses specialist knowledge of the health domain  indicator systems and is uniquely placed to mine data and apply big data approaches thanks to the partners longstanding involvement in OA einfrastructures and big data analytics Through these objectives activities and competences Data4Impact addresses both key issues described in the specific COCREATION0820162017 call",
+          "Rcn" : "212386",
+          "Acronym" : "Data4Impact"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15398",
+        "_score" : 97.038,
+        "_source" : {
+          "identifier" : "H2020EO2017",
+          "Text" : "DataCube Service for Copernicus Copernicus has boosted the availability of Earth Observation data both in terms of quality as well as quantity This has on the one hand unleashed new opportunities for intermediate business users IBUs who provide services to an inherently diverse group of end users On the other hand however the handling of big data volumes the integration of data streams from different sources and the generation of highquality information from the novel sensors of the Sentinels pose significant technical and scientific challenges to many IBUs The lacking expert skills often hinder the user uptake of Copernicus products and services and eventually impede economic growth of the sectorThe DataCube Service for Copernicus project DCS4COP addresses these obstacles by implementing the Copernicus Water DataCube Service CoWaDaCS  the first instance of a new service model integrating Sentinel data Copernicus Service data and user supplied data in a DataCube system The offered service comprises Processing as a Service PaaS Software as a Service SaaS consultancy and training It is targeting the valueadding Earth Observation industry and public organisations at highly competitive costs and with userfriendly interfaces which can be tailored to specific needsCapitalising on the scientific achievements of the recent FP7 funded HIGHROC research project and operated by experienced service providing institutions CoWaDaCS will demonstrate the value of satellite Earth Observation data for the market segment of coastal and inland water services Currently this market is largely underexploited due to market blockages and offers a large growth potential The combination of access to high quality data wide selection of thematic data layers stateoftheart tools and unrivalled expertise in the domain and exploiting cutting edge IT solutions will allow IBUs to concentrate on their valueadding downstream business and turn CoWaDaCS into a sustainable service",
+          "Rcn" : "212442",
+          "Acronym" : "DCS4COP"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5505",
+        "_score" : 96.66992,
+        "_source" : {
+          "identifier" : "H2020EO2015",
+          "Text" : "Platform for wildlife monitoring integrating Copernicus and ARGOS data EO4wildlife main objective is to bring large number of multidisciplinary scientists such as biologists ecologists and ornithologists around the world to collaborate closely together while using European Sentinel Copernicus Earth Observation more heavily and efficientlyIn order to reach such important objective an open service platform and interoperable toolbox will be designed and developed It will offer high level services that can be accessed by scientists to perform their respective research The platform front end will be easytouse access and offer dedicated services that will enable them process their geospatial environmental stimulations using Sentinel Earth Observation data that are intelligently combined with other observation sourcesSpecifically the EO4wildlife platform will enable the integration of Sentinel data ARGOS archive databases and real time thematic databank portals including Wildlifetrackingorg Seabirdtrackingorg and other Earth Observation and MetOcean databases locally or remotely and simultaneouslyEO4wildlife research specialises in the intelligent management big data processing advanced analytics and a Knowledge Base for wildlife migratory behaviour and trends forecast The research will lead to the development of webenabled open services using OGC standards for sensor observation and measurements and data processing of heterogeneous geospatial observation data and uncertaintiesEO4wildlife will design implement and validate various scenarios based on real operational use case requirements in the field of wildlife migrations habitats and behaviour These include 1 Management tools for regulatory authorities to achieve realtime advanced decisionmaking on the protection of protect seabird species 2 Enhancing scientific knowledge of pelagic fish migrations routes reproduction and feeding behaviours for better species management and 3 Setting up tools to assist marine protected areas and management",
+          "Rcn" : "199237",
+          "Acronym" : "EO4wildlife"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5999",
+        "_score" : 96.6469,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Scalable online machine learning for predictive analytics and realtime interactive visualization PROTEUS mission is to investigate and develop readytouse scalable online machine learning algorithms and interactive visualization techniques for realtime predictive analytics to deal with extremely large data sets and data streams The developed algorithms and techniques will form a library to be integrated into an enhanced version of Apache Flink the EU Big Data platform PROTEUS will contribute to the EU Big Data area by addressing fundamental challenges related to the scalability and responsiveness of analytics capabilities The requirements are defined by a steelmaking industrial use case The techniques developed in PROTEUS are however general flexible and portable to all data streambased domains In particular the project will go beyond the current stateofart technology by making the following specific original contributionsi Realtime scalable machine learning for massive highvelocity and complex data streams analyticsii Realtime hybrid computation batch data and data streamsiii Realtime interactive visual analytics for Big Dataiv Enhancement of Apache Flink the EU Big Data platform andv Realworld industrial validation of the technology developedThe PROTEUS impact is manifold i strategic by reducing the gap and dependency from the US technology empowering the EU Big Data industry through the enrichment of the EU platform Apache Flink ii economic by fostering the development of new skills and new job positions and opportunities towards economic growth iii industrial by considering realworld requirements from industry and by validating the outcome on an operational setting and iv scientific by developing original hybrid and streaming analytic architectures that enable scalable online machine learning strategies and advanced interactive visualisation techniques that are applicable for general data streams in other domains",
+          "Rcn" : "199839",
+          "Acronym" : "PROTEUS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "4735",
+        "_score" : 93.69308,
+        "_source" : {
+          "identifier" : "H2020EINFRA20151",
+          "Text" : "Open Digital Research Environment Toolkit for the Advancement of Mathematics OpenDreamKit will deliver a flexible toolkit enabling research groups to set up Virtual Research Environments customised to meet the varied needs of research projects in pure mathematics and applications and supporting the full research lifecycle from exploration through proof and publication to archival and sharing of data and codeOpenDreamKit will be built out of a sustainable ecosystem of communitydeveloped open software databases and services including popular tools such as LinBox MPIR Sagesagemathorg GAP PariGP LMFDB and Singular We will extend the Jupyter Notebook environment to provide a flexible UI By improving and unifying existing building blocks OpenDreamKit will maximise both sustainability and impact with beneficiaries extending to scientific computing physics chemistry biology and more and including researchers teachers and industrial practitioners We will define a novel componentbased VRE architecture and the adapt existing mathematical software databases and UI components to work well within it on varied platforms  Interfaces to standard HPC and grid services will be built in  Our architecture will be informed by recent research into the sociology of mathematical collaboration so as to properly support actual research practice The ease of set up adaptability and global impact will be demonstrated in a variety of demonstrator VREsWe will ourselves study the social challenges associated with largescale open source code development and of publications based on executable documents to ensure sustainabilityOpenDreamKit will be conducted by a Europewide demandsteered collaboration including leading mathematicians computational researchers and software developers long track record of delivering innovative open source software solutions for their respective communities All produced code and tools will be open source",
+          "Rcn" : "198334",
+          "Acronym" : "OpenDreamKit"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1058",
+        "_score" : 93.66268,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Social Semantic Emotion Analysis for Innovative Multilingual Big Data Analytics Markets MixedEmotions will develop innovative multilingual multimodal Big Data analytics applications that will analyze a more complete emotional profile of user behavior using data from mixed input channels multilingual text data sources AV signal input multilingual speech audio video social media social network comments and structured data Commercial applications implemented as pilot projects will be in Social TV Brand Reputation Management and Call Centre Operations Making sense of accumulated user interaction from different data sources modalities and languages is challenging and has not yet been explored in fullness in an industrial context Commercial solutions exist but do not address the multilingual aspect in a robust and largescale setting and do not scale up to huge data volumes that need to be processed or the integration of emotion analysis observations across data sources andor modalities on a meaningful level MixedEmotions will implement an integrated Big Linked Data platform for emotion analysis across heterogeneous data sources different languages and modalities building on existing state of the art tools services and approaches that will enable the tracking of emotional aspects of user interaction and feedback on an entity level The MixedEmotions platform will provide an integrated solution for largescale emotion analysis and fusion on heterogeneous multilingual text speech video and social media data streams leveraging open access and proprietary data sources and exploiting social context by leveraging social network graphs semanticlevel emotion information aggregation and integration through robust extraction of social semantic knowledge graphs for emotion analysis along multidimensional clusters",
+          "Rcn" : "194226",
+          "Acronym" : "MixedEmotions"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11313",
+        "_score" : 93.56286,
+        "_source" : {
+          "identifier" : "ERC2016COG",
+          "Text" : "The Computational Database for Real World Awareness Two major hardware trends have a significant impact on the architecture of database management systems DBMSs First main memory sizes continue to grow significantly Machines with 1TB of main memory and more are readily available at a relatively low price Second the number of cores in a system continues to grow from currently 64 and more to hundreds in the near future This trend offers radically new opportunities for both business and science  It promises to allow for informationatyourfingertips ie large volumes of data can be analyzed and deeply explored online in parallel to regular transaction processing Currently deep data exploration is performed outside of the database system which necessitates huge data transfers This impedes the processing such that realtime interactive exploration is impossible  These new hardware capabilities now allow to build a true computational database system that integrates deep exploration functionality at the source of the data This will lead to a drastic shift in how users interact with data as for the first time interactive data exploration becomes possible at a massive scaleUnfortunately traditional DBMSs are simply not capable to tackle these new challengesTraditional techniques like interpreted code execution for query processing become a severe bottleneck in the presence of such massive parallelism causing poor utilization of the hardware I pursue a radically different approach Instead of adapting the traditional diskbased approaches I am integrating a new justintime compilation framework into the inmemory database that directly exploits the abundant parallel hardware for largescale data processing and exploration By explicitly utilizing cores I will be able to build a powerful computational database engine that scales the entire spectrum of data processing  from transactional to analytical to exploration workflows  far beyond traditional architectures",
+          "Rcn" : "207899",
+          "Acronym" : "CompDB"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11631",
+        "_score" : 90.7847,
+        "_source" : {
+          "identifier" : "ERC2016STG",
+          "Text" : "Big Data for 4D Global Urban Mapping  1016 Bytes from Social Media to EO Satellites By 2050 around three quarters of the worlds population will live in cities The new dimension of ongoing global migration into the cities poses fundamental challenges to our societies across the globe Despite of increasing efforts global urban mapping still drags behind the geometric thematic and temporal resolutions of geoinformation needed to address these challengesNowadays diverse sets of incomplete data exist For example Earth observation EO satellites reliably provide geodetically accurate large scale geoinformation of the cities on a routine basis from space But the data availability is limited by resolutions and acquisition geometries of the sensors Complementarily massive imagery text messages and GIS data from open sources and social media are temporally quasiseamless spatially multiperspective but with diversely unknown qualities With So2Sat I will jointly exploit big data from social media and satellite observations for global urban mapping and aim at breakthroughs in 3D4D urban modelling infrastructure occupancy classification and very high resolution population density mapping on a global scale for revolutionizing urban geographic research The following methodological and application objectives will be addressed improving urbanrelated information retrieval from EO satellite data MO1 mining urban imagery and text messages from social media data MO2 information fusion from heterogeneous data sources MO3 big data processing MO4 as well as pilot applications in informal settlements classification AO1 and global population density estimation AO2The outcome of So2Sat will be the first and unique global and consistent spatial data set on urban morphology 3D4D of settlements and a multidisciplinary application derivate assessing population density This is seen as a giant leap for urban geography research as well as for formation of opinions for stakeholders based on resilient data",
+          "Rcn" : "208283",
+          "Acronym" : "So2Sat"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "2893",
+        "_score" : 89.87562,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2014",
+          "Text" : "A Scalable and Elastic Platform for NearRealtime Analytics for The Graph of Everything The SMARTER A Scalable and Elastic Platform for NearRealtime Analytics for The Graph of EveryThing project aims to build a platform that provide the ability to derive actionable information from enormous amount of data generated by the Internet of Everything  to leverage datadriven strategies to innovate compete and capture value from deep web and realtime information The project targets innovative research outcomes by addressing Big Dynamic Data Analytic requirements from three relevant aspects variety and velocity and volume The project introduces the concept Graph of Everything GoT  to deal with the issue of data variety in data analytics for Internet of Things IoT data The Graph of Everything extends Linked Data model RDF  that has been widely used for representing deep web data to connect dynamic data from data streams generated from IoT eg sensor readings with any knowledgebase to create a single graph as an integrated database serving any analytical queries on a set of nodesedges of the graph so called analytical lens of everything The dynamic data represented as Linked Data Model called Linked Stream Data may contain valuable but perishable insights which are only valuable if it can be detected to act on them right at the right time Moreover to derive such insights the dynamic data needs to be correlated with various large datasets Therefore SMARTER has to deal both the velocity  requirements together volume requirements of analysing GoT to make the platform able support nearrealtime analytical operations with the elastically scalability",
+          "Rcn" : "196064",
+          "Acronym" : "SMARTER"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1017",
+        "_score" : 89.7518,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Scalable Hybrid Variability for Distributed Evolving Software Systems HyVar proposes a development framework for continuous and individualized evolution of distributed software applications running on remote devices in heterogeneous environments The framework will combine variability modeling from software product lines with formal methods and software upgrades and be integrated in existing software development processes HyVars objectives are O1 to develop a Domain Specific Variability Language DSVL and tool chain to support software variability for such applications O2 to develop a cloud infrastructure that exploits software variability as described in the DSVL to track the software configurations deployed on remote devices and to enable i the collection of data from the devices to monitor their behavior and ii secure and efficient customized updates O3 to develop a technology for overtheair updates of distributed applications which enables continuous software evolution after deployment on complex remote devices that incorporate a system of systems and O4 to test HyVars approach as described in the above objectives in an industryled demonstrator to assess in quantifiable ways its benefits HyVar goes beyond the stateoftheart by proposing hybrid variability  ie the automatic generation and deployment of software updates combines the variability model  describing  possible software configurations  with sensor data collected from the device HyVars scalable cloud infrastructure will elastically support monitoring and customization for numerous application instances Software analysis will exploit the structure of the variability models Upgrades will be seamless and sufficiently nonintrusive to enhance the user quality experience without compromising the robustness reliability and resilience of the distributed application instances To maximize impact and innovation the consortium balances carefully selected academic and industrial partners ensuring both technology pull and push",
+          "Rcn" : "194185",
+          "Acronym" : "HyVar"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13768",
+        "_score" : 89.25095,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2016",
+          "Text" : "Biomedical Information Synthesis with Deep Natural Language Inference Deep neural networks DNNs have become a critical tool in natural language processing NLP for a wide variety of language technologies from syntax to semantics to pragmatics In particular in the field of natural language inference NLI DNNs have become the defacto model providing significantly better results than previous paradigms Their power lies in their ability to embed complex language ambiguities in high dimensional spaces coupled with nonlinear compositional transformations learned to directly optimize taskspecific objective functions We propose to adapt Deep NLI techniques to the biomedical domain specifically investigating question answering information extraction and synthesis The biomedical domain presents many key challenges and a critical impact that standard NLI challenges do not posses First while standard NLI data sets requires a system to model basic world knowledge eg that soccer is a sport they do not presume a rich domain knowledge encoded in various and often heterogeneous resources such as scientific articles textbooks and structured databases Second while standard NLI data sets presume that the answerinference is encoded in a single utterance the ability to reason and extract information from biomedical domains often requires information synthesis from multiple utterances paragraphs and even documents Finally whereas standard NLI is a broad challenge aimed at testing whether computers can make general inferences in language biomedical texts are a grounded and impactful domain where progress in automated reasoning will directly impact the efficacy of researchers physicians publishers and policy makers",
+          "Rcn" : "210588",
+          "Acronym" : "DNLIBiomed"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10696",
+        "_score" : 88.966896,
+        "_source" : {
+          "identifier" : "H2020MSCARISE2016",
+          "Text" : "Learning and Analysing Massive  Big complex Data LAMBDA aims at transferring game changing technologies to the European industry in critical areas of Machine learning Based on recent algorithmic breakthroughs we adapt sophisticated methods to targeted industries with a twofold goal First to help turn cutting edge tools into innovative software products and processes tailored to realworld issues Second based on the available data to organise open data repositories and benchmarks or to simulate data with the same statistical properties when such data is confidential following anonymisationLAMBDA focuses on two distinct application domains 3D shape analysis and unstructured data mining They share challenging features such as inherent complexity in modeling the data high dimensionality which raises the issue of curse of dimensionality and the need to address such datasets at a massive scale Moreover they correspond to the expertise of the participants LAMBDA is characterised by a unique blend of theoretically rigorous and geometrically inclined methods thus supporting a strong aspect of interdisciplinarity between Theory of Algorithms and Machine Learning This shall be supported by advanced software development ranging from publicdomain prototype implementations to licensed software and integrated libraries where the latter is based on the highlyoptimised platform BIDMach developed at UC BerkeleyLAMBDA strengthens existing links within Europe and across the Atlantic while creating new synergies in the directions of two industrial domains namely 3D shape search and insurance data The two clusters are organised around representative companies in the respective domains The Project is built so as to support knowledge transfer beyond its lifetime Besides intersectoral collaborations we exploit the international dimension by associating leading USA Universities so as to bring stateoftheart methods developed at the global level into the European framework",
+          "Rcn" : "207038",
+          "Acronym" : "LAMBDA"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "12430",
+        "_score" : 88.92438,
+        "_source" : {
+          "identifier" : "ERC2016COG",
+          "Text" : "Robust algorithms for learning from modern data Machine learning is needed and used everywhere from science to industry with a growing impact on many disciplines While first successes were due at least in part to simple supervised learning algorithms used primarily as black boxes on mediumscale problems modern data pose new challenges Scalability is an important issue of course with large amounts of data many current problems far exceed the capabilities of existing algorithms despite sophisticated computing architectures But beyond this the core classical model of supervised machine learning with the usual assumptions of independent and identically distributed data or welldefined features outputs and loss functions has reached its theoretical and practical limitsGiven this new setting existing optimizationbased algorithms are not adapted The main objective of this proposal is to push the frontiers of supervised machine learning in terms of a scalability to data with massive numbers of observations features and tasks b adaptability to modern computing environments in particular for parallel and distributed processing c provable adaptivity and robustness to problem and hardware specifications and d robustness to nonconvexities inherent in machine learning problemsTo achieve the expected breakthroughs we will design a novel generation of learning algorithms amenable to a tight convergence analysis with realistic assumptions and efficient implementations They will help transition machine learning algorithms towards the same widespread robust use as numerical linear algebra libraries Outcomes of the research described in this proposal will include algorithms that come with strong convergence guarantees and are welltested on reallife benchmarks coming from computer vision bioinformatics audio processing and natural language processing For both distributed and nondistributed settings we will release opensource software adapted to widely available computing platforms",
+          "Rcn" : "209141",
+          "Acronym" : "SEQUOIA"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10070",
+        "_score" : 88.872,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "DeveloperCentric Knowledge Mining from Large OpenSource Software Repositories Recent reports state that the adoption of opensource software OSS helps resulting in savings of about 60 billion per year to consumers However the use of OSS also comes at enormous cost choosing among OSS projects and maintaining dependence on continuously changing software requires a large investment Deciding if an OSS project meets the required standards for adoption is hard and keeping uptodate with an evolving project is even harder It involves analysing code documentation online discussions and issue trackers There is too much information to process manually and it is common that uninformed decisions have to be made with detrimental effectsCROSSMINER remedies this by automatically extracting the required knowledge and injecting it into the IDE of the developers at the time they need it to make their design decisions This allows them to reduce their effort in knowledge acquisition and to increase the quality of their code CROSSMINER uniquely combines advanced software project analyses with online monitoring in the IDE The developer will be monitored to infer which information is timely based on readily available knowledge stored earlier by a set of advanced offline deep analyses of related OSS projects To achieve this timely and ambitious goal CROSSMINER combines six enduser partners in the domains of IoT multisector IT services API coevolution software analytics software quality assurance and OSS forges along with RD partners that have a long trackrecord in conducting cuttingedge research on largescale software analytics natural language processing reverse engineering of software components modeldriven engineering and delivering results in the form of widelyused sustainable and industrialstrength OSS The development of the CROSSMINER platform is guided by an advisory board of worldclass experts and the dissemination of the project will be led by The Open Group",
+          "Rcn" : "206182",
+          "Acronym" : "CROSSMINER"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6168",
+        "_score" : 87.91263,
+        "_source" : {
+          "identifier" : "H2020INSO2015CNECT",
+          "Text" : "Personalised public services in support of the implementation of the CAP Public administrations responsible for the implementation of the Common Agricultural Policy CAP need to monitor farmers compliance to standards Monitoring is performed by infield visits and through remote sensing Due to the high complexity and diversity of the obligations that need to be monitored both methods have limitations and entail a high cost for public administrations RECAP proposes a methodology for improving the efficiency and transparency of the compliance monitoring procedure through a cloudbased Software as a Service SaaS platform which will make use of large volumes of publicly available data provided by satellite remote sensing and usergenerated data provided by farmers through mobile devices georeferenced and timestamped photosThe RECAP platform will extract useful features from Earth Observation open data correlate them with usergenerated and geoinformation data available to public organisations and model this information for enabling the identification of potential breaches of compliance by public authorities and inspectors RECAP will offer farmers a tool supporting them to comply with regulations imposed by the CAP providing personalised information for simplifying the interpretation of complex regulations and early alerts on potential breachesRECAP will allow agricultural consultants and developers to create addons to the main application that extend its functionality and exploit the data collected through an Application Programming Interface API and a Software Development Kit SDK Consultants will be able to access data available in the platform subject to security and privacy policies and to develop their own services within the platform using design tools libraries and communication with the database under an open approach The RECAP services will be tested and validated in an operational environment in 5 countries with the participation of public authorities farmers and agricultural consultants",
+          "Rcn" : "200015",
+          "Acronym" : "RECAP"
+        }
+      }
+    ]
+  }
+}

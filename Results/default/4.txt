@@ -1,0 +1,256 @@
+{
+  "took" : 72,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 254,
+    "max_score" : 100.40449,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10066",
+        "_score" : 32.44929,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "European Cloud InMemory Database Appliance with Predictable Performance for Critical Applications The project aims at producing a European Cloud Database Appliance for providing a Database as a Service able to match the predictable performance robustness and trustworthiness of on premise architectures such as those based on mainframes The project will evolve cloud architectures to enable the increase of the uptake of cloud technology by providing the robustness trustworthiness and performance required for applications currently considered too critical to be deployed on existing cloudsCloudDBAppliance will deliver a cloud database appliance featuring1    A scalable operational database able to process high update workloads such as the ones processed by banks or telcos combined with a fast analytical engine able to answer analytical queries in an online manner 2    A Hadoop data lake integrated with the operational database to cover the needs from companies on big data3    A cloud hardware appliance leveraging the next generation of hardware to be produced by Bull the main European hardware provider This hardware is a scaleup hardware similar to the one of mainframes but with a more modern architecture Both the operational database and the inmemory analytics engine will be optimized to fully exploit this hardware and deliver predictable performance Additionally CloudDBAppliance will deal with the need to tolerate catastrophic cloud data centres failures eg a fire or natural disaster providing data redundancy across cloud data centres",
+          "Rcn" : "206178",
+          "Acronym" : "CloudDBAppliance"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13768",
+        "_score" : 32.34659,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2016",
+          "Text" : "Biomedical Information Synthesis with Deep Natural Language Inference Deep neural networks DNNs have become a critical tool in natural language processing NLP for a wide variety of language technologies from syntax to semantics to pragmatics In particular in the field of natural language inference NLI DNNs have become the defacto model providing significantly better results than previous paradigms Their power lies in their ability to embed complex language ambiguities in high dimensional spaces coupled with nonlinear compositional transformations learned to directly optimize taskspecific objective functions We propose to adapt Deep NLI techniques to the biomedical domain specifically investigating question answering information extraction and synthesis The biomedical domain presents many key challenges and a critical impact that standard NLI challenges do not posses First while standard NLI data sets requires a system to model basic world knowledge eg that soccer is a sport they do not presume a rich domain knowledge encoded in various and often heterogeneous resources such as scientific articles textbooks and structured databases Second while standard NLI data sets presume that the answerinference is encoded in a single utterance the ability to reason and extract information from biomedical domains often requires information synthesis from multiple utterances paragraphs and even documents Finally whereas standard NLI is a broad challenge aimed at testing whether computers can make general inferences in language biomedical texts are a grounded and impactful domain where progress in automated reasoning will directly impact the efficacy of researchers physicians publishers and policy makers",
+          "Rcn" : "210588",
+          "Acronym" : "DNLIBiomed"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6292",
+        "_score" : 31.233515,
+        "_source" : {
+          "identifier" : "ERC2015CoG",
+          "Text" : "Foundations of Factorized Data Management Systems The objective of this project is to investigate scalability questions arising with a new wave of smart relational data management systems that integrate analytics and query processing These questions will be addressed by a fundamental shift from centralized processing on tabular data representation as supported by traditional systems and analytics software packages to distributed and approximate processing on factorized data representationFactorized representations exploit algebraic properties of relational algebra and the structure of queries and analytics to achieve radically better data compression than generic compression schemes while at the same time allowing processing in the compressed domain They can effectively boost the performance of relational processing by avoiding redundant computation in the oneserver setting yet they can also be naturally exploited for approximate and distributed processing Large relations can be approximated by their subsets and supersets ie lower and upper bounds that factorize much better than the relations themselves Factorizing relations which represent intermediate results shuffled between servers in distributed processing can effectively reduce the communication cost and improve the latency of the systemThe key deliverables will be novel algorithms that combine distribution approximation and factorization for computing mixed loads of queries and predictive and descriptive analytics on largescale data This research will result in fundamental theoretical contributions such as complexity results for largescale processing and tractable algorithms and also in a scalable factorized data management system that will exploit these theoretical insights We will collaborate with industrial partners who are committed to assist in providing datasets and realistic workloads infrastructure for largescale distributed systems and support for transferring the products of the research to industrial users",
+          "Rcn" : "200139",
+          "Acronym" : "FADAMS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11985",
+        "_score" : 30.439463,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2016",
+          "Text" : "Multilanguage text summarization In our daily life we are submerged by huge amounts of text coming from different sources such as emails news reports and so on The availability of unprecedented volumes of data represents both a challenge and an opportunity On one hand it can lead to information overload a phenomenon that limits ones capacity to understand an issue and act in the presence of too much information On the other hand the effective harnessing of this information has undeniable economical potential Furthermore In the European context special needs to be put to multilingualism to guarantee global access to high quality informationThe objective of this application is to develop MLTEXTSUM a system for efficient and accurate multilingual text summarization That is given as input a text document the system will output a summary of the document in the same or in a different language Building on recent breakouts in machine learning and natural language processing I propose a novel architecture for MLTEXTSUM that will be able to produce high quality summaries while at same time remain modular enough so that new languages can be added with minimal effort The availability of such system shall allow citizens regardless of their language to better handle the information overload and to gain access to critically distilled information eg what is a certain newspapers opinion on the same topic this year Are malefemale athletes portrayed differently by the media The project is characterized by the interplay of multiple disciplines the proposed architecture requires to master a combination of natural language processing and machine learning techniques At the same time the formidable scale of this system will require the development of novel distributed optimization methods This interplay will be achieved thanks to my past and future collaborations my solid background in optimization and machine learning as well as through the acquisition of new adhoc skills",
+          "Rcn" : "208651",
+          "Acronym" : "ML-TEXTSUM"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1159",
+        "_score" : 30.253752,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "MMT will deliver a language independent commercial online translation service based on a new opensource machine translation distributed architecture The goal of MMT is to deliver a language independent commercial online translation service based on a new opensource machine translation distributed architecture MMT does not require any initial training phase Once fed with training data MMT will be ready to translate MMT defacto will merge translation memory and machine translation technology into one single product Quality of translations will increase as soon as new training data are addedMMT manages context automatically so that it will not require building domain specific systems MMT will provide best translation quality for any topicdomain by storing training segments together with context linking informationMMT enables scalability of data and users so that no more expensive adhoc hardware installations are needed The MMT architecture will support high performance and linear scalability up to thousands of nodes The same software will work to setup a personal translation system or to create a webbased service on a cluster of commodity nodes able to handle terabytes of data and millions of usersMMT will create a data collection infrastructure that accelerates the process of filling the data gap between large IT companies and the MT industry  MMT will leverage the data crawled on the web by Common Crawl TAUS Translateds MyMemory and Matecat data and facilities to set up a processing pipeline that will create unprecedented  amounts of clean parallel and monolingual data to develop machine translation systems",
+          "Rcn" : "194327",
+          "Acronym" : "MMT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6806",
+        "_score" : 29.992413,
+        "_source" : {
+          "identifier" : "ERC2015CoG",
+          "Text" : "Translating from Multiple Modalities into Text Recent years have witnessed the development of a wide range of computational methods that process and generate natural language text  Many of these have become familiar to mainstream computer users such as tools that retrieve documents matching a query perform sentiment analysis and translate between languages Systems like Google Translate can instantly translate between any pair of over fifty human languages allowing users to read web content that wouldnt have otherwise been available The accessibility of the web could be further enhanced with applications that translate within the same language between different modalities or different data formats  There are currently no standard tools for simplifying language eg for lowliteracy readers or second language learners The web is rife with nonlinguistic data eg databases images source code that cannot be searched since most retrieval tools operate over textual data In this project we maintain that in order to render electronic data more accessible to individuals and computers alike new types of models need to be developed Our proposal is to provide a unified framework for translating from comparable corpora ie collections consisting of data in the same or different modalities that address the same topic without being direct translations of each other We will develop general and scalable models that can solve different translation tasks and learn the necessary intermediate representations of the units involved in an unsupervised manner without extensive feature engineering Thanks to recent advances in deep  learning we will induce  representations for different modalities their interactions and correspondence to natural language Beyond addressing a fundamental aspect of the translation problem the proposed research will lead to novel internetbased applications that simplify and summarize text produce documentation for source code and meaningful descriptions for images",
+          "Rcn" : "200779",
+          "Acronym" : "TransModal"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10070",
+        "_score" : 29.949015,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "DeveloperCentric Knowledge Mining from Large OpenSource Software Repositories Recent reports state that the adoption of opensource software OSS helps resulting in savings of about 60 billion per year to consumers However the use of OSS also comes at enormous cost choosing among OSS projects and maintaining dependence on continuously changing software requires a large investment Deciding if an OSS project meets the required standards for adoption is hard and keeping uptodate with an evolving project is even harder It involves analysing code documentation online discussions and issue trackers There is too much information to process manually and it is common that uninformed decisions have to be made with detrimental effectsCROSSMINER remedies this by automatically extracting the required knowledge and injecting it into the IDE of the developers at the time they need it to make their design decisions This allows them to reduce their effort in knowledge acquisition and to increase the quality of their code CROSSMINER uniquely combines advanced software project analyses with online monitoring in the IDE The developer will be monitored to infer which information is timely based on readily available knowledge stored earlier by a set of advanced offline deep analyses of related OSS projects To achieve this timely and ambitious goal CROSSMINER combines six enduser partners in the domains of IoT multisector IT services API coevolution software analytics software quality assurance and OSS forges along with RD partners that have a long trackrecord in conducting cuttingedge research on largescale software analytics natural language processing reverse engineering of software components modeldriven engineering and delivering results in the form of widelyused sustainable and industrialstrength OSS The development of the CROSSMINER platform is guided by an advisory board of worldclass experts and the dissemination of the project will be led by The Open Group",
+          "Rcn" : "206182",
+          "Acronym" : "CROSSMINER"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5999",
+        "_score" : 29.516218,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Scalable online machine learning for predictive analytics and realtime interactive visualization PROTEUS mission is to investigate and develop readytouse scalable online machine learning algorithms and interactive visualization techniques for realtime predictive analytics to deal with extremely large data sets and data streams The developed algorithms and techniques will form a library to be integrated into an enhanced version of Apache Flink the EU Big Data platform PROTEUS will contribute to the EU Big Data area by addressing fundamental challenges related to the scalability and responsiveness of analytics capabilities The requirements are defined by a steelmaking industrial use case The techniques developed in PROTEUS are however general flexible and portable to all data streambased domains In particular the project will go beyond the current stateofart technology by making the following specific original contributionsi Realtime scalable machine learning for massive highvelocity and complex data streams analyticsii Realtime hybrid computation batch data and data streamsiii Realtime interactive visual analytics for Big Dataiv Enhancement of Apache Flink the EU Big Data platform andv Realworld industrial validation of the technology developedThe PROTEUS impact is manifold i strategic by reducing the gap and dependency from the US technology empowering the EU Big Data industry through the enrichment of the EU platform Apache Flink ii economic by fostering the development of new skills and new job positions and opportunities towards economic growth iii industrial by considering realworld requirements from industry and by validating the outcome on an operational setting and iv scientific by developing original hybrid and streaming analytic architectures that enable scalable online machine learning strategies and advanced interactive visualisation techniques that are applicable for general data streams in other domains",
+          "Rcn" : "199839",
+          "Acronym" : "PROTEUS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9143",
+        "_score" : 28.487492,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "DigiSCAN Mobile Devices are becoming the preferred tools for work and communication resulting in the new megatrend of necessity for a mobilefirst strategy Episcans project focuses on the 3 trends dominating the mobile device industry 1 Analytics will take centre stage as the volume of data generated by embedded systems increases and vast pools of structured  unstructured data are analysed 2 The microprocessors embedded in these devices are becoming increasingly powerful and capable of delivering complex functionalities and incorporating new technologies 3 Demand and push for new sensor types to capture and interpret data Episcan has successfully developed scanning technology incorporating sophisticated detection  verification capabilities for the niche market of printpackaging verification aimed at highly regulated industries such as pharma biosciences medical devices where detection of error in labels and packaging is crucial To keep abreast with the digital trends of migration of technologies to mobile device in addition to the inline manufacturing scanning device Episcans strategy is to develop the technology in the context of a handheld mobile device In order to eliminate the need for creation of bespoke hardware possibility of incorporating the technology into a mobile phone was investigated Episcans technological partner  authority in microprocessor development and existing supplier to mobile phone OEMs was that this technology has huge potential for the niche market that Episcan targets but also as a RD platform for a number of spinoff applications which would represent high value for the enduser and manufacturers Hardware elimination and sensoryanalyitcs capability of scanning technology makes it a high value asset that can be commercialized successfully  objective is developing prototype software to validate technological feasibility of migrating this technology to mobile phones",
+          "Rcn" : "205164",
+          "Acronym" : "DigiSCAN"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6022",
+        "_score" : 28.111355,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : """STREAMLINE STREAMLINE will address the competitive advantage needs of European online media businesses EOMB by delivering fast reactive analytics suitable in solving a wide array of problems including addressing customer retention personalised recommendation and more broadly targeted services STREAMLINE will develop crosssectorial analytics drawing on multisource data originating from online media consumption online games telecommunications services and multilingual web content STREAMLINE partners face big and fast data challenges They serve over 100 million users offer services that produce billions of events yielding over 10 TB of data daily and possess over a PB of data at rest Their business usecases are representative of EOMB which cannot be handled efficiently  effectively by stateoftheart technologies as a consequence of system and human latencies System latency issues arise due to the lack of appropriate data streamoriented analytics tools and more importantly the added complexity cost and burden associated with jointly supporting analytics for both data at rest and data in motion Human latency results from the heterogeneity of existing tools and the low level programming languages required for development using an inordinate number of boilerplate codes that are system specific eg Hadoop SolR Esper Storm and databases and a plethora of scripts required to glue systems togetherOur research and innovation actions include addressing the challenges brought on by system and human latencies In this regard STREAMLINE will1	Develop a high level declarative language and userinterface and corresponding automatic optimisation parallelisation and system adaptation technologies that reduce the programming expertise required by data scientists thereby enabling them to more freely focus on domain specific matters2	Overcome the complexity of the socalled lambda architecture by delivering simplified operations that jointly support data at rest and data in motion in a single system and is compatible with the Hadoop ecosystem3	Develop fast reactive machine learning technologies based on distributed parameter servers and fully distributed asynchronous and approximate algorithms for fast results at high input ratesThe impact of developing a European open source tool for analysing data at rest and data in motion in a single system featuring a high level declarative language and a fast reactive machine learning library is much wider than just the recommender ad targeting and customer retention applications that the industrial partners in STREAMLINE will use to demonstrate the business value of our work for the data economy Our open source tools will help Europe in general since they lower the big data analytics skills barrier broaden the reach of data analytics tools and are applicable to diverse market sectors including healthcare manufacturing and transportation Thereby enabling a broad number of European SMEs in other markets to explore and integrate these technologies into their businesses At the same time STREAMLINE will provide a solid foundation for big data leadership in Europe by providing an opensource platform ready to be used by millions of stakeholders in companies households and governmentThe STREAMLINE consortium comprises worldrenowned scientists and innovators in the areas of database systems DFKI distributed systems SICS and machine learning SZTAKI who have won many international awards hold 18 patents collectively and have founded and advised nine startups Complementing the research excellence are four leading European enterprises in the data economy in the areas of global telecommunication services eg Internet IPTV mobile and landline networks PT games and entertainment Rovio media content streaming NMusic and webscale data extraction and business analytics IMR with Petab""",
+          "Rcn" : "199862",
+          "Acronym" : "STREAMLINE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5735",
+        "_score" : 27.628428,
+        "_source" : {
+          "identifier" : "ERC2015STG",
+          "Text" : "Induction of BroadCoverage Semantic Parsers In the last one or two decades language technology has achieved a number of important successes for example producing functional machine translation systems and beating humans in quiz games The key bottleneck which prevents further progress in these and many other natural language processing NLP applications eg text summarization information retrieval opinion mining dialog and tutoring systems is the lack of accurate methods for producing meaning representations of texts Accurately predicting such meaning representations on an open domain with an automatic parser is a challenging and unsolved problem primarily because of language variability and ambiguity The reason for the unsatisfactory performance is reliance on supervised learning learning from annotated resources with the amounts of annotation required for accurate opendomain parsing exceeding what is practically feasible  Moreover representations defined in these resources typically do not provide abstractions suitable for reasoning In this project we will induce semantic representations from large amounts of unannotated data ie text which has not been labeled by humans while guided by information contained in humanannotated data and other forms of linguistic knowledge This will allow us to scale our approach to many domains and across languages We will specialize meaning representations for reasoning by modeling relations eg facts appearing across sentences in texts documentlevel modeling across different texts and across texts and knowledge bases Learning to predict this linked data is closely related to learning to reason including learning the notions of semantic equivalence and entailment We will jointly induce semantic parsers eg loglinear featurerich models and reasoning models latent factor models relying on this data thus ensuring that the semantic representations are informative for applications requiring reasoning",
+          "Rcn" : "199469",
+          "Acronym" : "BroadSem"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1382",
+        "_score" : 27.614796,
+        "_source" : {
+          "identifier" : "ERC2014CoG",
+          "Text" : "Lexical Acquisition Across Languages Due to the growing volume of textual information available in multiple languages there is a great demand for Natural Language Processing NLP techniques that can automatically process and manage multilingual texts supporting information access and communication in core areas of society eg healthcare business science Many NLP tasks and applications rely on taskspecific lexicons eg dictionaries word classifications for optimal performance Recently automatic acquisition of lexicons from relevant texts has proved a promising costeffective alternative to manual lexicography It has the potential to considerably enhance the viability and portability of NLP technology both within and across languages However this approach has been explored for a very small number of resourcerich languages only leaving the vast majority of worlds languages without useful technology The ambitious goal of this project is to take research in lexical acquisition to the level where it can support multilingual NLP involving also languages for which no parallel language resources eg corpora knowledge resources are available Building on an emerging line of research which uses mainly naturally occurring supervision connections between languages to guide crosslingual NLP we will develop a radically novel approach to lexical acquisition This approach will transfer lexical knowledge from one language to another as well as will learn it simultaneously for a diverse set of languages using new methodology based on guiding joint learning and inference with rich knowledge about crosslingual connections We not only aim to create next generation lexical acquisition technology but also aim to take crosslingual NLP a big step toward to the direction where it is no longer dependent on parallel resources We will use our approach to support fundamental tasks and applications aimed at broadening the global reach of NLP to areas where it is now critically needed",
+          "Rcn" : "194550",
+          "Acronym" : "LEXICAL"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1093",
+        "_score" : 27.46439,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "AEGLE Ancient Greek    An analytics framework for integrated and personalized healthcare services in Europe The data generated in the health domain is coming from heterogeneous multimodal multilingual dynamic and fast evolving medical technologies Today we are found in a big health landscape characterized by large volume versatility and velocity 3Vs which has led to the evolution of the informatics in the big biodata domain AEGLE project will build an innovative ICT solution addressing the whole data value chain for health based on cloud computing enabling dynamic resource allocation HPC infrastructures for computational acceleration and advanced visualization techniques AEGLE will Realize a multiparametric platform using algorithms for analysing big biodata including features such as volume properties communication metrics and bottlenecks estimation of related computational resources needed handling data versatility and managing velocity  Address the systemic health big biodata in terms of the 3V multidimensional space using analytics based on PCA techniques  Demonstrate AEGLEs efficiency through the provision of aggregated services covering the 3V space of big biodata Specifically it will be evaluated in abig biostreams where the decision speed is critical and needs nonlinear and multiparametric estimators for clinical decision support within limited time bbigdata from nonmalignant diseases where the need for NGS and molecular data analytics requires the combination of cloud located resources coupled with local demands for data and visualization and finally cbigdata from chronic diseases including EHRs and medication with needs for quantified estimates of important clinical parameters semantics extraction and regulatory issues for integrated care  Bring together all related stakeholders leading to integration with existing open databases increasing the speed of AEGLE adaptation  Build a business ecosystem for the wider exploitation and targeting on crossborder production of custom multilingual solutions based on AEGLE",
+          "Rcn" : "194261",
+          "Acronym" : "AEGLE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11990",
+        "_score" : 27.271866,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2016",
+          "Text" : "Next gEneration Sequence sTORage Sequential data are everywhere from DNA sequences to astronomical light curves and from aircraft engine monitoring data to the prices of stock options Recent advances in various fields such as those of data storage networking and sensing technologies have allowed organizations to gather overwhelming amounts of sequential data at unprecedented speedsThis wealth of information enables analysts to identify patterns find abnormalities and extract knowledge It is noteworthy that common practice in various domains is to use custom data analysis solutions usually built using higher level programming languages such as RPython Such techniques however while commonly acceptable in small data processing scenarios are unfit for larger scale data management and exploration This is because they come in contrast to all previous database research not taking advantage of indexes physical data independence query optimization and data processing methods designed for scalability In these domains database systems are used merely for storing and retrieving data and not as the sophisticated query processing systems they areCurrent relational storage layers cannot handle the access patterns that analysts of sequential data are interested in without scanning large amounts of unnecessary data or without large processing overhead Thus making complex analytics inefficientIn order to exploit this new opportunity we plan to develop specialized data series storage and retrieval systems which will allow analysts  across different fields  to efficiently manipulate the sequences of interestThe proposed research project named NESTOR Next gEneration Sequence sTORage has the potential of great economic and social impact in Europe as multiple scientific and industrial fields are currently in need of the right tools in order to handle their massive collections of data series",
+          "Rcn" : "208656",
+          "Acronym" : "NESTOR"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "2893",
+        "_score" : 27.184422,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2014",
+          "Text" : "A Scalable and Elastic Platform for NearRealtime Analytics for The Graph of Everything The SMARTER A Scalable and Elastic Platform for NearRealtime Analytics for The Graph of EveryThing project aims to build a platform that provide the ability to derive actionable information from enormous amount of data generated by the Internet of Everything  to leverage datadriven strategies to innovate compete and capture value from deep web and realtime information The project targets innovative research outcomes by addressing Big Dynamic Data Analytic requirements from three relevant aspects variety and velocity and volume The project introduces the concept Graph of Everything GoT  to deal with the issue of data variety in data analytics for Internet of Things IoT data The Graph of Everything extends Linked Data model RDF  that has been widely used for representing deep web data to connect dynamic data from data streams generated from IoT eg sensor readings with any knowledgebase to create a single graph as an integrated database serving any analytical queries on a set of nodesedges of the graph so called analytical lens of everything The dynamic data represented as Linked Data Model called Linked Stream Data may contain valuable but perishable insights which are only valuable if it can be detected to act on them right at the right time Moreover to derive such insights the dynamic data needs to be correlated with various large datasets Therefore SMARTER has to deal both the velocity  requirements together volume requirements of analysing GoT to make the platform able support nearrealtime analytical operations with the elastically scalability",
+          "Rcn" : "196064",
+          "Acronym" : "SMARTER"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1017",
+        "_score" : 27.175018,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Scalable Hybrid Variability for Distributed Evolving Software Systems HyVar proposes a development framework for continuous and individualized evolution of distributed software applications running on remote devices in heterogeneous environments The framework will combine variability modeling from software product lines with formal methods and software upgrades and be integrated in existing software development processes HyVars objectives are O1 to develop a Domain Specific Variability Language DSVL and tool chain to support software variability for such applications O2 to develop a cloud infrastructure that exploits software variability as described in the DSVL to track the software configurations deployed on remote devices and to enable i the collection of data from the devices to monitor their behavior and ii secure and efficient customized updates O3 to develop a technology for overtheair updates of distributed applications which enables continuous software evolution after deployment on complex remote devices that incorporate a system of systems and O4 to test HyVars approach as described in the above objectives in an industryled demonstrator to assess in quantifiable ways its benefits HyVar goes beyond the stateoftheart by proposing hybrid variability  ie the automatic generation and deployment of software updates combines the variability model  describing  possible software configurations  with sensor data collected from the device HyVars scalable cloud infrastructure will elastically support monitoring and customization for numerous application instances Software analysis will exploit the structure of the variability models Upgrades will be seamless and sufficiently nonintrusive to enhance the user quality experience without compromising the robustness reliability and resilience of the distributed application instances To maximize impact and innovation the consortium balances carefully selected academic and industrial partners ensuring both technology pull and push",
+          "Rcn" : "194185",
+          "Acronym" : "HyVar"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11313",
+        "_score" : 27.0989,
+        "_source" : {
+          "identifier" : "ERC2016COG",
+          "Text" : "The Computational Database for Real World Awareness Two major hardware trends have a significant impact on the architecture of database management systems DBMSs First main memory sizes continue to grow significantly Machines with 1TB of main memory and more are readily available at a relatively low price Second the number of cores in a system continues to grow from currently 64 and more to hundreds in the near future This trend offers radically new opportunities for both business and science  It promises to allow for informationatyourfingertips ie large volumes of data can be analyzed and deeply explored online in parallel to regular transaction processing Currently deep data exploration is performed outside of the database system which necessitates huge data transfers This impedes the processing such that realtime interactive exploration is impossible  These new hardware capabilities now allow to build a true computational database system that integrates deep exploration functionality at the source of the data This will lead to a drastic shift in how users interact with data as for the first time interactive data exploration becomes possible at a massive scaleUnfortunately traditional DBMSs are simply not capable to tackle these new challengesTraditional techniques like interpreted code execution for query processing become a severe bottleneck in the presence of such massive parallelism causing poor utilization of the hardware I pursue a radically different approach Instead of adapting the traditional diskbased approaches I am integrating a new justintime compilation framework into the inmemory database that directly exploits the abundant parallel hardware for largescale data processing and exploration By explicitly utilizing cores I will be able to build a powerful computational database engine that scales the entire spectrum of data processing  from transactional to analytical to exploration workflows  far beyond traditional architectures",
+          "Rcn" : "207899",
+          "Acronym" : "CompDB"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14145",
+        "_score" : 26.976177,
+        "_source" : {
+          "identifier" : "H2020ICT20162",
+          "Text" : "X5gon Cross Modal Cross Cultural Cross Lingual Cross Domain and Cross Site Global OER Network The proposal X5gon stands for easily implemented freely available innovative technology elements converging currently scattered Open Educational Resources OER available in various modalities across Europe and the globe X5gon combines content understanding user modelling quality assurance methods and tools to boost a homogenous network of OER sites and provides users teachers learners with a common learning experience X5gon deploys open technologies for recommendation learning analytics and learning personalisation services that works across various OER sites independent of languages modalities scientific domains and sociocultural contexts It develops services OER media convergence including full courses course materials modules textbooks videos tests software related events tools materials techniques used to support access to knowledge Fivefold solutions are offered to OER sites Crossmodal technologies for multimodal content understanding Crosssite technologies to transparently accompany and analyse users across sites Crossdomain technologies for cross domain content analytics Crosslanguage technologies for cross lingual content recommendation Crosscultural technologies for cross cultural learning personalisationX5gon collects and index OER resources track data of users progress and feed an analytics engine driven by stateoftheart machine learning improve recommendations via user understanding and match with knowledge resources of all types The project will create three services X5oerfeed X5analytics and X5recommend and run a series of pilot case studies that enable the measurement of the broader goals of delivering a useful and enjoyable educational experience to learners in different domains at different levels and from different cultures Two exploitation scenarios are planned i free use of services for OER ii commercial exploitation of the multimodal big data realtime analytics pipeline",
+          "Rcn" : "211074",
+          "Acronym" : "X5gon"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17197",
+        "_score" : 26.735563,
+        "_source" : {
+          "identifier" : "ERC2017COG",
+          "Text" : "Integrated Connectedness for a New Representation of Biology The aim of the project is to develop a comprehensive framework for generalizing network analytics and fusion paradigms of nonnegative matrix factorization to medical data Heterogeneous interconnected systemslevel omics data are becoming increasingly available and important in precision medicine We are seeking to better stratify and subtype patients into risk groups discover new biomarkers for complex and rare diseases personalize medical treatment based on genomics and exposures of an individual and repurpose known drugs to different patient groups Existing methodologies for dealing with these big data are limited and a paradigm shift is needed to achieve quantitatively and qualitatively better results The project is motivated by the recent success of nonnegative matrix trifactorization NMTF based methods for fusion of heterogeneous data in biomedicine Though these methods have been known for some time the availability of large datasets coupled with modern computational power and efficient optimization methods allowed for creation and efficient training of complex models that can make a qualitative breakthrough For example NMTF has recently achieved unprecedented performance on exceptionally hard problems of simultaneously utilizing the wealth of diverse molecular and clinical data in precision medicine However research thus far has been limited to special variants of this problem and used only fixed point methods to address these exciting examples of hard nonconvex highdimensional nonlinear optimization problemsThe ambition of the project is to develop general data fusion methods from mathematical models to efficient and scalable software implementation and apply them to the domain of biomedical informatics The project will lead to a paradigm shift in biomedical and computational understanding of data and diseases that will open up ways to solving some of the major bottlenecks in precision medicine and other domains",
+          "Rcn" : "214655",
+          "Acronym" : "ICON-BIO"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "560",
+        "_score" : 26.49815,
+        "_source" : {
+          "identifier" : "ERC2014STG",
+          "Text" : "Domain Adaptation for Statistical Machine Translation Rapid translation between European languages is a cornerstone of good governance in the EU and of great academic and commercial interest Statistical approaches to machine translation constitute the stateoftheart The basic knowledge source is a parallel corpus texts and their translations For domains where large parallel corpora are available such as the proceedings of the European Parliament a high level of translation quality is reached However in countless other domains where large parallel corpora are not available such as medical literature or legal decisions translation quality is unacceptably poor Domain adaptation as a problem of statistical machine translation SMT is a relatively new research area and there are no standard solutions The literature contains inconsistent results and heuristics are widely used We will solve the problem of domain adaptation for SMT on a larger scale than has been previously attempted and base our results on standardized corpora and open source translation systemsWe will solve two basic problems The first problem is determining how to benefit from large outofdomain parallel corpora in domainspecific translation systems This is an unsolved problem The second problem is mining and appropriately weighting knowledge available from indomain texts which are not parallel While there is initial promising work on mining weighting is not well studied an omission which we will correct We will scale mining by first using Wikipedia and then mining from the entire webOur work will lead to a breakthrough in translation quality for the vast number of domains with less parallel text available and have a direct impact on SMEs providing translation services The academic impact of our work will be large because solutions to the challenge of domain adaptation apply to all natural language processing systems and in numerous other areas of artificial intelligence research based on machine learning approaches",
+          "Rcn" : "193728",
+          "Acronym" : "DASMT"
+        }
+      }
+    ]
+  }
+}

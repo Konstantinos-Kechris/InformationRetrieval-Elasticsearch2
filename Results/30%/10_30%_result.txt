@@ -1,0 +1,256 @@
+{
+  "took" : 21,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 18150,
+    "max_score" : 123.13731,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1117",
+        "_score" : 58.388756,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Universal mobilecentric and opportunistic communications architecture Cars sensors home appliances every device in the daily life of citizens is becoming a constituent in Future Internet adding to the need to reconsider requirements and assumptions in terms of network availability and affordability to support the ever increasing traffic demand Still the current Internet can only evolve adequately if its infrastructure can be devised to accommodate the emerging services The increased cost of adding new infrastructure and capacity has a drastic effect on rural and remote communities as well as nomadic users as they become marginalized by not gaining access to crucial Internet services Our goal is to make the Future Internet universally pervasive supporting a diverse set of services To achieve this we develop a universal mobilecentric and opportunistic communications architecture which integrates the principles of Delay Tolerant Networking DTN and Information Centric Networking ICN in a common framework We utilize the benefits of both ICN and DTN to enable resource exploitation at minimal bandwidth opportunistic access to information and more localized access to information through novel caching strategies UMOBILE focuses on assisting users in getting access to the content they want or content that may be of shared interest to their trust circles By relying on an instance of the UMOBILE architecture users are able to share information directly with other peers without relying on infrastructure or expensive connectivity services The proposed architecture targets the mobile part of the networks extends Internet connectivity to regions that are not typically covered enhancing network resilience and is fully backward compatible with the current Internet architecture We will validate our architecture in a real world trial as well as participate strategically in carefully planned dissemination standardization and exploitation activities to ensure that our architecture transcends from the lab to real world deployments",
+          "Rcn" : "194285",
+          "Acronym" : "UMOBILE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "4370",
+        "_score" : 55.6903,
+        "_source" : {
+          "identifier" : "ERC2014ADG",
+          "Text" : "Smart Device Communication A paradigm for  high PERformance FUture Mobile nEtworking Advances in theory integration techniques and standardization have led to huge progress in wireless technologies Despite successes with past and current 5G research new paradigms leading to greater spectral efficiencies and intelligent network organizations will be in great demand to absorb the continuous growth in mobile data Our ability to respond suitably to this challenge in the next decade will ensure sustained competitiveness in the digital economyWith few exceptions such as adhoc topologies classical wireless design places the radio device under the tight control of the network Promising technologies envisioned in 5G such as i Coordinated MultiPoint CoMP techniques ii Massive MIMO or ii Millimeterwave MMW byandlarge abide by this model Pure networkcentric designs such as optical cloudsupported ones raise cost and security concerns and do not fit all deployment scenarios Also they make the network increasingly dependent on a large amount of signaling and devicecreated measurements Our project envisions a radically new approach to designing the mobile internet which taps into the devices new capabilities Our approach recasts devices as distributed computational nodes solving together multiagent problems allowing to maximize the network performance by exploiting local measurement and information exchange capabilities The success of the project relies on the understanding of new information theory limits for systems with decentralized information the development of novel device communication methods and advanced teambased statistical signal processing algorithms The potential gains associated with exploiting the devices collective network friendly intelligence are huge The project will demonstrate longterm impact of the new paradigm in pushing the frontiers of mobile internet performance as well as short to midterm impact through its adaptation to currently known communications scenarios and techniques",
+          "Rcn" : "197928",
+          "Acronym" : "PERFUME"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9672",
+        "_score" : 53.753643,
+        "_source" : {
+          "identifier" : "H2020FOF2016",
+          "Text" : "Industrial scenarios for connected factories There is a consensus among industry and policymakers that Europe is currently in the middle of an industrial revolution initiated by the digitisation of industrial processes Cyber Physical Systems CPS the Industrial Internet and the Internet of Things IoT connect people devices machines and enterprises like never before For many years companies and research organisations have been addressing these challenges and opportunities both at European level through the Factories of the Future PPP and related activities and at national level The ConnectedFactories project will build upon these activities and consolidate their expert networks aiming at industrial consensus building across Europe The ConnectedFactories project will establish and maintain a structured overview of available and upcoming technological approaches and best practices that are needed for mastering this paradigm shift Present and future needs and challenges of the manufacturing industries will be identified in order to then identify possible scenarios of how digital platforms will enable the digital integration and interoperability of manufacturing systems and processes Developing these scenarios will require detailed work with companies and other stakeholders through a series of workshops at national and regional level in order to reach a necessary industrial consensus on aspects such as innovative technology proposals business models aspects standardization etc  while considering the establishment of industrial ecosystems where multisided IT platforms create valueThis work will enhance the awareness among companies of the use of digital technologies in the manufacturing sector and equip them with knowledge to make informed decisions regarding technology and business model choices It will reinforce the European manufacturing industries position in the international scene",
+          "Rcn" : "205762",
+          "Acronym" : "ConnectedFactories"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "8557",
+        "_score" : 53.72504,
+        "_source" : {
+          "identifier" : "ERC2015STG",
+          "Text" : "Resolving the Tussle in the Internet Mapping Architecture and Policy Making The Internet has revolutionalized the way people and corporations communicate publish access and search for information As our globallyconnected digital civilization increasingly relies on its smooth operation any disruption has a direct negative impact on both the economy and society However the Internet was not designed to serve its current role nor was foreseen to be a public good On the contrary it was designed to be fully decentralized and thus administrated by the owners of independent networks Today the various Internet players have diverse and often conflicting objectives Indeed the tussle between Internet players or between them and governments hit the news and the negative externalities affect the life of potentially billions of Internet users worldwide and harm innovation in the InternetWe propose a research agenda to resolve the tussle in the Internet First we propose the use of sophisticated techniques to collect and analyze massive network data to unveil the complex interactions among the various Internet players that lead to disputes and to identify the conditions under which conditions a resolution is possible Second we utilize additional degrees of freedom to resolve the tussle in the Internet by enabling coordination of the various Internet players To this end we introduce expressiveness of all the involved parties in existing and emerging protocols and enable agile deployment of thirdparty services and applications inside operational networks Third we contribute to the Internet policy making debate by providing an unbiased view of the state and health of the Internet as well as providing recommendations on how to resolve the Internet tussle This is an interdisciplinary effort to foster a dialogue for Internets future and sustainability in light of its everincreasing growth and competitiveness",
+          "Rcn" : "204439",
+          "Acronym" : "ResolutioNet"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6009",
+        "_score" : 52.289845,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "A DIY networking toolkit for locationbased collective awareness DoItYourself networking refers to a conceptual approach to the use of lowcost hardware and wireless technology in deploying local communication networks that can operate independently from the Internet owned and controlled by local actors MAZI means together in Greek and MAZI httpmazizoneeu invests in this paradigm of technologysupported networking as a means to bring closer together those living in physical proximity Through an experienced interdisciplinary consortium MAZI delivers a DIY networking toolkit that offers tools and guidelines for the easy deployment and customization of local networks and services MAZI toolkit is designed to take advantage of particular characteristics of DIY networking the de facto physical proximity between those connected the increased privacy and autonomy and the inclusive access Such characteristics are used to promote information exchanges that can develop the locationbased collective awareness as a basis for fostering social cohesion conviviality knowledge sharing and sustainable living To achieve this objective MAZI brings together partners from different disciplines computer networks urban planning and interdisciplinary studies humancomputer interaction community informatics and design research These academic partners will collaborate closely with four community partners to ensure that MAZI toolkit benefits from the grounded experience of citizen engagement MAZI draws from the diverse mix of competencies of its consortium to develop a transdisciplinary research framework which will guide a series of longterm pilot studies in a range of environments and enhanced by crossfertilization events The main goal of this process and measure of success is establishing DIY networking as a mainstream technology for enabling the development of collective awareness between those in physical proximity and the development of surrounding research and theorizing of this approach",
+          "Rcn" : "199849",
+          "Acronym" : "MAZI"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15469",
+        "_score" : 51.513187,
+        "_source" : {
+          "identifier" : "H2020INFRAIA20171twostage",
+          "Text" : "European Infrastructure Powering the Internet of Things EnABLES will integrate key European research infrastructures in powering the Internet of Things IoT 6 research institutes together with 5 knowledge hubs of excellence will address the long term needs of energy management in selfpowered smart sensor systems as required by IoT innovation To enable truly invisible unobtrusive and selfpowered autonomous wireless devices a key challenge is to bridge the gap between capturing energy supply from energy harvesting sources EH integrating new devices for energy storage ES and taking into account the micropower management MPM requirements for the miniaturised system operation Through providing access to unique infrastructure worldleading expertise advanced equipment and stateoftheart technologies EnABLES will empower several hundreds of academic researchers and technologists to advance energy harvesting storage and micropower management solutions for the integrated design and deployment of miniaturised autonomous sensors Access will range from materials  models to devices and systems and the access providers will work with the user community to accelerate adoption and innovation in reallife applications The EnABLES integration offers a paradigm shift in building an infrastructure network that links new scientific knowledge with applicationdriven research Specifically for energy management solutions this will deliver a mindset change for early concurrent and collaborative development of systemoptimised IoT devices This presents a unique opportunity for Europe to uphold global leadership in microsystem energy management and be positioned at a pivotal time at the heart of the IoT innovation",
+          "Rcn" : "212582",
+          "Acronym" : "EnABLES"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9619",
+        "_score" : 50.009907,
+        "_source" : {
+          "identifier" : "H2020EUJ20161",
+          "Text" : "ICN2020 Advancing ICN towards realworld deployment through research innovative applications and global scale experimentation Information access on the Internet is exploding Usage is shifting to multimedia applications social networking and IoE Cellular networks are moving to the next generation Networking technology is shifting towards virtualization with SDN and NFV likely to change the infrastructure landscape The cloud concept is transforming the Internet to a network of data centers with a communication model consisting of computertocloudtocomputer interactions Security concerns are leading to an encryption of all traffic wreaking havoc with established network mechanismsIn this scenario with dramatic growth and evolution where abstractions and interfaces become fundamental ICN is just the perfect solution ICN2020 will build on the wealth of studies performed on ICN with six main aims a design and develop a set of innovative applications such as video delivery interactive videos and social networks to exploit ICN b augment ICN with IoT features and cloudCDNvirtualization services c accordingly enhance existing ICN solutionsarchitectures d build local and global testbeds to experiment the applications services and ICN enhancements e contribute to common APIs and standards by continuing the work that project partners are already doing and f Industry POCs of products and services exploiting ICNThe ICN2020 consortium includes leading experts in ICN and contributors to ICN testbeds in EU Japan and USA thus making the goal of federating them a credible one Partners are also coordinators of running projects on 5G and Cloud topics allowing fruitful cooperation with fellow projects of the EUJP1 EUJP2 calls and increasing the overall expected impact of the EUJapan cooperation In a time when 5G networks are being designed with foreseen unprecedented flexibility due to the virtualization and slice concepts the development of compelling demonstrations of ICN for realworld usecases will encourage critical industry investment of resources",
+          "Rcn" : "205699",
+          "Acronym" : "ICN2020"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15579",
+        "_score" : 49.912445,
+        "_source" : {
+          "identifier" : "ERC2017STG",
+          "Text" : "The cost of limited communication bandwidth in distributed computing Distributed systems underlie many modern technologies a prime example being the Internet The everincreasing abundance of distributed systems necessitates their design and usage to be backed by strong theoretical foundationsA major challenge that distributed systems face is the lack of a central authority which brings many aspects  of uncertainty into the environment in the form of unknown network topology or unpredictable dynamic behavior A practical restriction of distributed systems which is at the heart of this proposal is the limited bandwidth available for communication between the network componentsA central family of distributed tasks is that of local tasks which are informally described as tasks which are possible to solve by sending information through only a relatively small number of hops A cornerstone example is the need to break symmetry and provide a better utilization of resources which can be obtained by the task of producing a valid coloring of the nodes given some small number of colors Amazingly there are still huge gaps between the known upper and lower bounds for the complexity of many local tasks This holds even if one allows powerful assumptions of unlimited bandwidth While some known algorithms indeed use small messages the complexity gaps are even larger compared to the unlimited bandwidth case This is not a mere coincidence and in fact the existing theoretical infrastructure is provably incapable ofgiving stronger lower bounds for many local tasks under limited bandwidthThis proposal zooms in on this crucial blind spot in the current literature on the theory of distributed computing namely the study of local tasks under limited bandwidth The goal of this research is to produce fast algorithms for fundamental distributed local tasks under restricted bandwidth as well as understand their limitations by providing lower bounds",
+          "Rcn" : "212699",
+          "Acronym" : "BANDWIDTH"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15276",
+        "_score" : 49.531208,
+        "_source" : {
+          "identifier" : "ERC2017STG",
+          "Text" : "A Scalable Quantum Network based on Individual Erbium Ions A future quantum network will consist of quantum processors that are connected by quantum channels just like conventional computers are wired up to form the Internet In contrast to classical devices however the entanglement and nonlocal correlations available in a quantumcontrolled system facilitate novel fundamental tests of quantum theory and numerous applications in distributed quantum information processing quantum communication and precision measurement While pioneering experiments have demonstrated the entanglement of two quantum nodes separated by up to 13 km accessing the full potential of quantum networks requires scaling of these prototypes to more nodes and larger distances To this end a new technology that overcomes the bottlenecks of existing physical systems has to be developedHere I propose to harness the exceptional properties of individual Erbium ions embedded in Yttrium crystals to increase the size of quantum networks via implementation of the seminal quantum repeater proposal which is one of the most intensively pursued research topics in current quantum science The key proposed steps to this goal are I implementation of a quantum spinphoton interface at a telecommunication wavelength II multiplexing of many quantum bits in one device via frequencyselective addressing and III implementation of remote entanglement swapping and purification to increase the range of quantumsecure communication beyond its current fundamental limitThese goals have been out of reach for any experimental platform until now They become feasible by combining the powerful concepts developed in cavity quantum electrodynamics using cold atoms with the exceptional coherence of spins in specific host crystals Successful implementation will demonstrate the feasibility of quantum networks over global distances a milestone advancement for quantum communication and quantum science in general",
+          "Rcn" : "212301",
+          "Acronym" : "QuantumNet"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "2694",
+        "_score" : 47.88673,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2014",
+          "Text" : "INnovatiVE cohereNt detecTIon Optical access Networks In the called information age digital communications play an essential role on the economy and sustainable growth of the society  Access networks are essential part of the communication infrastructure as bridge between endusers and core networks Their design must make possible the provision of realtime highbandwidth access to Internet essential for advanced communication services as immersive video and ubiquitous cloud computing It is clearly foreseen that the only longterm solution to the problem involves optical fiber as transmission medium the so called optical access networks Passive optical network PON is the most widely employed technology because of the cost reduction it entails but the capacity of actual timedivision multiplexed PONs will be exhausted eventually as more bandwidthhungry applications become available in the near future Telecommunications carriers face the challenge of meeting the unprecedented bandwidth demand by end users at the same time the capital and operating expenditures requirements are reducedINVENTION project targets the development of costeffective and high capacity communication architectures for their employment on optical accessmetro networks The proposed concept will be based on the employment of coherent detection with lowcost and simplified optical receiver architectures making sure that the proposed approaches meet the cost requirements of these optical networks The proposed concepts will be implemented by a suitable combination of optical signal processing techniques and digitalsignalprocessing DSP algorithms keeping the required DSP at realizable levels The final scope of INVENTION is the proposal of midterm and longterm solutions for the achievement of the objectives included in the digital agenda 2020 for the ICT strategy",
+          "Rcn" : "195865",
+          "Acronym" : "INVENTION"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5611",
+        "_score" : 47.422077,
+        "_source" : {
+          "identifier" : "H2020SMEINST12015",
+          "Text" : "Internet 40 based Manufacturing Execution System for the SME sector Lamberprom is a Spanish company providing Advanced Technology Solutions to the manufacturing industry Having executed several projects in the manufacturing industry we know the market and the companies needs We see a business opportunity in addressing the niche market of manufacturing SMEs in the pharmaceutical fine chemists and foodbeverage sector that has  out of financial aspects  no access to existing sophisticated Manufacturing Execution Systems MESThese systems at the moment are tailored to the needs of large enterprisesWe aim at developing and commercializing Industrial FW 40 which is an open 40 Industrial Internet Framework that enables communication between industrial systems MES and the Internet cloud This solution integrates production systems with Internet B2B Social Media and Digital Marketing in realtime and allows context aware automated decision making Our prototype and the first pilot tests have delivered promising technological results Bringing the solution to the market would provide SMEs with a marketplace where they can acquire a set of functional modules according to their MES needs thus keeping the system complexity and the associated costs at the level of their financial capabilities Furthermore Industrial FW 40 is an open system that allows interoperability between heterogeneous systems thus giving Independence from developers and integratorsOur concept fits very well in the concept of Industry 40 a project promotes the computerization of traditional industries such as manufacturing This has now become a worldwide trend because the industry could save billions of euros if the Industrial Internet achieved an increase of only 1 annual productivity growth over the next 15 yearsWe expect that this phase 1 project will bring us closer to commercialization of Industrial FW 40 through assessing its feasibility and commercialization potential",
+          "Rcn" : "199343",
+          "Acronym" : "Industrial FW 4.0"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "7830",
+        "_score" : 46.957516,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2015",
+          "Text" : "Traditional Organised Crime and the Internet The changing organization of illegal gambling  networks Transnational criminal networks utilise Information Communication Technology ICT to commit old and new types of crime  ICT assists in transnational crime ie hacking and also as a way to exchange information or plan new crimes Empirical research has provided ample evidence that social and familial networks play a crucial role in the formation and growth recruitment of criminal networks However ICT now makes it possible for organised crime to form networks without the restrictions of geographic proximity and with the growth in the online gambling sector estimated at 13 billion Euros per annum in the EU worth approximately 15 percent of EU gambling market such sums of revenue attracts unwanted attention from organised cybercriminals This proposal will therefore examine online gambling and extortion networks The reasons for this is that gambling  illegal and legal  has often attracted organised crime and empirical evidence regarding online gambling and extortion in EU is limited The objectives of this research areestablish tools and technique that facilitate management of internalexternal cyberthreats to online gambling sector  validate tools and techniques that will facilitate the management of internalexternal cyberthreats to online gambling sectorset standards of information management set standards of dissemination and flows of information to cybersecurity centres from online gambling sector in EUThis is to be achieved byinterviews with key individuals systems managers at online sites and law enforcementanalyse data for information flows and breaking down volume of information into accessible data for internal and external use analyse current decision making processessystems and processing information analyse exchange of data to improve and implement best practice available in cybersecurity across EU online gambling sites",
+          "Rcn" : "202926",
+          "Acronym" : "OCGN"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3204",
+        "_score" : 46.92031,
+        "_source" : {
+          "identifier" : "H2020SMEINST22014",
+          "Text" : "Telemetry and Telecontrol for the Internet of things IoT Machinetomachine M2M is a broad label that can be used to describe any technology that enables networked devices to exchange information and perform actions without the manual assistance of humans M2M communication is often used for remote monitoring In product restocking for example a vending machine can message the distributor when a particular item is running low M2M communication is an important aspect of warehouse management remote control robotics traffic control logistic services supply chain management fleet management and telemedicine It forms the basis for a concept known as the Internet of Things IoTThe market for M2M will be the fastest growing segment of the IT industry from now until 2017 The M2M market including technologies related to the Internet of Things will grow from 440 billion in 2011 to 290 billion in 2017M2M Cloud Factory is a private white label supplier to major manufacturers and system integrators of a M2M  IoT application development framework based on a cloud solution called MIIMETIQ MIIMETIQ is the most flexible powerful and scalable M2M development framework in the IoT market MIIMETIQ provides the highest levels of scalability and security as well as a set of powerful tools on which our customers can quickly build and deliver custom M2M  IoT applications for the most demanding requirements and integrate data into customer key enterprise applications and systemsWe have identified two disruptive improvements for our current framework to both simplify and accelerate the development of M2M and IoT applications which will secure the continuous growth of the company not only on the EU level but globally",
+          "Rcn" : "196395",
+          "Acronym" : "MIIMETIQ"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13176",
+        "_score" : 46.800217,
+        "_source" : {
+          "identifier" : "H2020SEC201620171",
+          "Text" : "Maritime Integrated Surveillance Awareness Combating irregular migration human smuggling terrorism at sea piracy as well as arms and drug trafficking has become a high priority on Europes security agenda Securing the sea requires a daytoday collaboration activities among European actors of maritime surveillance Member States administrations and European agencies principally and a significant number of initiatives are being taken at EU level to address this challenge The large amount of raw data available today are not usable by systems supporting maritime security since they are not accessible at the same time and often they are not interoperable Therefore the overarching goal of MARISA project is to provide the security communities operating at sea with a data fusion toolkit which makes available a suite of methods techniques and modules to correlate and fuse various heterogeneous and homogeneous data and information from different sources including Internet and social networks with the aim to improve information exchange situational awareness decisionmaking and reaction capabilities The proposed solution will provide mechanisms to get insights from any big data source perform analysis of a variety of data based on geographical and spatial representation use techniques to search for typical and new patterns that identify possible connections between events explore predictive analysis models to represent the effect of relationships of observed object at sea Enterprise and adhoc reporting and services within the CISE context will be provided to support users and operational systems in their daily activities as well as presentation tools for navigating and visualizing results of data fusion processing The involvement of 5 practitioners as full partners will allow on the one hand to align innovation to user needs on the other hand to validate the toolkit through a number of trials addressing cross countrycross domain applications",
+          "Rcn" : "209952",
+          "Acronym" : "MARISA"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "234",
+        "_score" : 46.35907,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "Open social transport network for urban approach to carpooling SocialCar is an Intelligent Transport System based on an innovative approach to transport demand management and more specifically to carpooling in urban and periurban areas SocialCars main objective is devopping a new communication network for intelligent mobility sharing information of carpooling integrated with existing transport and mobility systems It will be achieved by means of powerful planning algorithms and integration in a liveable environment of big data related to public transport carpooling and crowdsourcing in order to provide the final user with a simplified travel experience allowing comparison and choice between multiple optionsservicesSocialCar will take advantage Social Media to communicate share information and  provide the best justintime notifications to the travellersSocialCar will  take advantage of the ever growing connectivity of people and objects and the propagation of Internet services the potential of Future Internet and the availability of GNSS based location and social media to create an integrated mobility service with the potential to sensibly reduce mobility problems of European citizensSocialCar will capitalise on a strong pan European team with a solid background in social psychological and economic sciences the involvement of 10 European urban sites will prove the concepts validity and business case SocialCar General Objectives are to  contribute to the EU2020 targets on energy efficiency and renewable energy sources reducing congestion by improving and maximising connectivity and information in realtime  overcoming the limitations of current carpooling practices moving from long trips to effective urban and periurban use validate green driving support systems active management based on European GNSS identify a suitable big data management architecture for integrating mobility data produce a citybased open integrated mobility repository of public transport and traffic citybased data",
+          "Rcn" : "193402",
+          "Acronym" : "SocialCar"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15677",
+        "_score" : 46.31237,
+        "_source" : {
+          "identifier" : "ERC2017STG",
+          "Text" : "The Disrupted Society mapping the societal effects of blockchain technology diffusion Recent advances in cryptography yielded the blockchain technology which enables a radically new and decentralized method to maintain authoritative records without the need of trusted intermediaries Bitcoin a cryptocurrency blockchain application has already demonstrated that it is possible to operate a purely cryptographybased global distributed decentralized anonymous financial network independent from central and commercial banks regulators and the stateThe same technology is now being applied to other social domains eg public registries of ownership and deeds voting systems the internet domain name registry But research on the societal impact of blockchain innovation is scant and we cannot properly assess its risks and promises In addition crucial knowledge is missing on how blockchain technologies can and should be regulated by law The BlockchainSociety project focuses on three research questions 1 What internal factors contribute to the success of a blockchain application 2 How does society adopt blockchain  3 How to regulate blockchain It breaks new ground as it 1 maps the most important blockchain projects their governance and assesses their disruptive potential 2 documents and analyses the social diffusion of the technology and builds scenarios about the potential impact of blockchain diffusion and 3 it creates an inventory of emerging policy responses compares and assesses policy tools in terms of efficiency and impact The project will 1 build the conceptual and methodological bridges between information law the study of the selfgovernance of technological systems via Science and Technology Studies and the study of collective control efforts of complex sociotechnological assemblages via Internet Governance studies 2 address the most pressing blockchainspecific regulatory challenges via the analysis of emerging policies and the development of new proposals",
+          "Rcn" : "212798",
+          "Acronym" : "BLOCKCHAINSOCIETY"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15920",
+        "_score" : 45.94812,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "Secure and Safe Internet of Things The IoT is coming upon us faster than we think catapulting EU industry homes and society into the huge arena of security risks that accompany an untested yet already universal technology that directly manages our cyberphysical reality on a daily and indeed second by second basis Attacks on content and quality of service of the IoT platforms can have economic energetic and physical security consequences that go way beyond the traditional Internets claimed lack of security and beyond the threats posed by attacks to mobile telephony The secure SerIoT platform is a key step that can be used to implement secure IoT platforms and networks anywhere and everywhere The SerIoT project will develop implement and test a generic IoT framework based on an adaptive smart Software Defined Network with verified software secure routers advanced analytics and user friendly visual analytics SerIoT will optimize the information security in IoT platforms and networks in a holistic crosslayered manner ie IoT platforms  devices honeypots SDN routers and operators controller that will be based both on dynamic and distributed processing of variable complexity by single network components ie IoT platforms devices and honeypots will perform lightweighted processes while SDN routers will be shouldered with more heavy processes as well as on a centrally located servercontroller that will have the main control of the network and will collect aggregate and fuse the relevant information Largescale pilots will test SerIoT technology in various use cases including intelligent transport and surveillance flexible manufacturing within Industrie 40 and other emerging domains such as food chain  logistics mHealth both at Home  in Hospitals business scenarios and energy smart gridThrough these technology developments and testbeds the project will deliver a unique portable softwarebased SerIoT network that can spearhead Europes success in the IoT",
+          "Rcn" : "213102",
+          "Acronym" : "SerIoT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5752",
+        "_score" : 45.740852,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Largescale RINA benchmark on FIRE ARCFIRE will bring RINA from labs into the realworld RINA the Recursive InterNetwork Architecture is an innovative backtobasics network architecture that solves current limitations and facilitates full integration between distributed computing and networking RINA addresses the challenges that drive the communications industry in moving from dedicated hardware to almost completely virtualised infrastructure The next shift 5G on the horizon for 2020 will change the communication industry even more significantly Now is the right time for ARCFIRE to provide experimental evidence of RINAs benefits at large scale in compelling and realistic business cases thus motivating RINA adoption ARCFIRE will experimentally demonstrate RINAs key benefits integrating current EC investment in advanced networks IRATI PRISTINE and Future Internet testbeds FIRE focusing on 5 goals 1 Facilitate comparison of converged operator networks using RINA to operators current network designs 2 Produce a robust RINA software suite ready for Europe to engage in largescale deployments and longliving experiments 3 Provide relevant experimental evidence of RINA benefits to network operators their equipment vendors application developers and endusers 4 Build on the current EU Future Internet community and raise the number of organisations involved in RINA development and deployment 5 Enhance the FIRE infrastructure with ready to use RINA software ARCFIRE will have longterm sustainable impact on how we build infrastructure for the Networked Society ARCFIREs deployed software suite will enable equipment vendors to shorten their innovation life cycle network operators to run advanced networks addressing their needs in a futureproof fashion European SMEs to find and exploit specialised markets and application developers to explore unseen opportunities ARCFIREs consortium has the experience and resources to achieve these goals and provide this impact",
+          "Rcn" : "199487",
+          "Acronym" : "ARCFIRE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11177",
+        "_score" : 45.73019,
+        "_source" : {
+          "identifier" : "H2020SMEINST220162017",
+          "Text" : "The Worlds First ApplicationAware Network Enabling Dynamic Bandwidth Management and Guaranteed Data Connection Quality in Mobile Networks Unmet challenges related to explosive demand for mobile internet data volumes pressure the telecoms and interrupt the service quality for endusers Cloudstreet is now commercialising a unique Dynamic Profile Controller DPC solution for smart optimisation of limited bandwidth resource in current and forthcoming LTE networksThe disruptive innovation enables to identify the exact data need for each internet connected device or application onthefly and deliver the required bandwidth accordingly The Cloudstreet DPC enables the worlds first consumer ready Application Aware Network solutionThe DPC solves challenges for telecoms webservice providers and mobile internet endusers Meets the rapidly increasing mobile data demand by smart bandwidth management Gives endusers 9999 service reliability and guaranteed connection for even to most datademanding tasks in mobile networks Unlocks the huge potential of web services and smart innovation especially in busy urban centres or in remote areas Monetises the increasing data volumes and creates 50 revenue income potential for telecoms Provides tools for achieving Net Neutrality goals and building capable 5G networks for minimum costs and risksThe AWARENET project marks a key phase in Cloudstreets road to market clearance It aims to achieve DPC architecture scaleup and create standardised integration solution for most telecoms globally As a key task in the project Cloudstreet will pilot the DPC within 5 CentralEuropean networks to achieve market validation in the targeted consumer and business segments As a direct result of the AWARENET project Cloudstreet will unlock the EU markets that will create disruptive spillover effect on other regions and application areas By 2020 Cloudstreet aims to be the global leader in Application Aware Network solutions providing universal dynamic bandwidth management solution for over 100 LTE networks and 7 million endusers globally",
+          "Rcn" : "207696",
+          "Acronym" : "AWARENET"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6399",
+        "_score" : 45.586246,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Open virtual neighbourhood network to connect intelligent buildings and smart objects The lack of interoperability is considered as the most important barrier to achieve the global integration of IoT ecosystems across borders of different disciplines vendors and standards Indeed the current IoT landscape consists of a large set of isolated islands that do not constitute a real internet preventing the exploitation of the huge potential expected by ICT visionariesTo overcome this situation VICINITY presents a virtual neighborhood concept which is a decentralized bottomup and crossdomain approach that resembles a social network where users can configure their set ups integrate standards according to the services they want to use and fully control their desired level of privacy VICINITY then automatically creates technical interoperability up to the semantic level This allows users without technical background to get connected to the vicinity ecosystem in an easy and open way fulfilling the consumers needs Furthermore the combination of services from different domains together with privacyrespectful userdefined share of information enables synergies among services from those domains and opens the door to a new market of domaincrossing servicesVICINITYs approach will be demonstrated by a largescale demonstration connecting 8 facilities in 7 different countries The demonstration covers various domains including energy building automation health and transport VICINITYs potential to create new domaincrossing services will be demonstrated by value added services such as microtrading of DSM capabilities AIdriven optimization of smart urban districts and business intelligence over IoTOpen calls are envisioned in the project to integrate further preferably public IoT infrastructures and to deploy additional added value services This will not only extend the scale of VICINITY demonstration but also efficiently raise the awareness of industrial communities of VICINITY and its capabilities",
+          "Rcn" : "200252",
+          "Acronym" : "VICINITY"
+        }
+      }
+    ]
+  }
+}

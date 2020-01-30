@@ -1,0 +1,256 @@
+{
+  "took" : 17,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 6182,
+    "max_score" : 23.611916,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14049",
+        "_score" : 15.174692,
+        "_source" : {
+          "identifier" : "ERC2016ADG",
+          "Text" : "Firms and Their Networks There is mounting evidence that firms are becoming more fragmented production is less often made inhouse Firms buy inputs from abroad Tasks are often split in parts Some are offshored others are subcontracted Hence firms buy services from other local or international firms But they also supply inputs to other firms Technical change the internet and globalization all facilitate this transformation In order to better understand how firms thrive in the new global environment the proposed research aims to construct a networks view of the firm Fragmentation offers new opportunities firms may specialize in what they make best hence creating a business network of customers and suppliers Networks are also useful to secure provision of fragmented tasks The firms suppliers of goods and services  accountants logisticians consultants  may well be related to the firm through its workers social networks family ties boardroom relations These social networks should be useful when times are tough  board members could help find financing in banks where their schoolmates have a job  or when times are unusually good  employees could help in spotting the right hires among their former coworkers The proposed research will focus on how firms social and business networks help firms to be resilient in the face of shocks Resilience will be measured using the firms and workers outcomes  valueadded wages employment or occupations The research will have a theoretical component using general equilibrium models with heterogeneous firms an empirical component with unique data sources from at least two countries France Sweden and an econometric theory component which will seek to develop techniques for the study of manytoone matches in the presence of networks The research will speak to the labor economics community but also to the international trade community the management community as well as the econometrics community",
+          "Rcn" : "210977",
+          "Acronym" : "FIRMNET"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1117",
+        "_score" : 12.265327,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Universal mobilecentric and opportunistic communications architecture Cars sensors home appliances every device in the daily life of citizens is becoming a constituent in Future Internet adding to the need to reconsider requirements and assumptions in terms of network availability and affordability to support the ever increasing traffic demand Still the current Internet can only evolve adequately if its infrastructure can be devised to accommodate the emerging services The increased cost of adding new infrastructure and capacity has a drastic effect on rural and remote communities as well as nomadic users as they become marginalized by not gaining access to crucial Internet services Our goal is to make the Future Internet universally pervasive supporting a diverse set of services To achieve this we develop a universal mobilecentric and opportunistic communications architecture which integrates the principles of Delay Tolerant Networking DTN and Information Centric Networking ICN in a common framework We utilize the benefits of both ICN and DTN to enable resource exploitation at minimal bandwidth opportunistic access to information and more localized access to information through novel caching strategies UMOBILE focuses on assisting users in getting access to the content they want or content that may be of shared interest to their trust circles By relying on an instance of the UMOBILE architecture users are able to share information directly with other peers without relying on infrastructure or expensive connectivity services The proposed architecture targets the mobile part of the networks extends Internet connectivity to regions that are not typically covered enhancing network resilience and is fully backward compatible with the current Internet architecture We will validate our architecture in a real world trial as well as participate strategically in carefully planned dissemination standardization and exploitation activities to ensure that our architecture transcends from the lab to real world deployments",
+          "Rcn" : "194285",
+          "Acronym" : "UMOBILE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1061",
+        "_score" : 12.065326,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "architectuRe for an Internet For Everybody RIFE addresses the major societal challenge of providing affordable Internet access to those who cannot afford it by solving the technological challenge to increase the efficiency of the underlying transport networks and the involved architectures and protocols The RIFE solution will harness unused transmission capacity combined with placing content caches and service functionality closer to the user and will use heterogeneous transmission opportunities that range from localized mesh and home networks over wellconnected ISP backhauls to scarce satellite resources RIFE will build upon recent advances on informationcentric and delaytolerant networking by developing optimized dissemination strategies for the involved transport networks unified within a novel communication architecture that will provide clear abstractions to application developers We will develop deploy and showcase our solution in a reallife setting within a largescale community network in Spain demonstrating the technology and economic opportunities that the RIFE platform provides We will complement our reallife testbeds with emulation scenarios to enable the evaluation of our novel resource management schemes at scale while integrating with our prototype platform On the economic side we will develop business opportunities for local authorities as well as backhaul network providers to create a sustainable value chain by introducing virtual network operators that utilize the underused capacity in a new business relationship with local customers enabling novel and often sociallydriven business models The involvement of a technology equipment as well as satellite and community network provider will allow for maximizing the commercial exploitation of RIFE within real deployments and towards standard communities within the IETFIRTF and beyond placing RIFE in the centre of a growing community of practitioners that all share the same goal making the Internet affordable to everybody",
+          "Rcn" : "194229",
+          "Acronym" : "RIFE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "7239",
+        "_score" : 11.878506,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2015",
+          "Text" : "Identification of hostfactors restricting Salmonella Typhi Typhoid fever is a lifethreatening systemic infection that continues to be a serious global health concern claiming the lives of over 200000 patients every year It is caused by the intracellular bacterium Salmonella Typhi a humanadapted pathogen unable to infect species others than humans The molecular mechanisms underlying S Typhi infection are only partially understood Span and Galn recently discovered an antimicrobial pathway that is required to restrict the growth of S Typhi macrophages derived from mouse a nonsusceptible host and contributes to S Typhi hostrestriction Despite this finding the exact mechanisms used by macrophages to kill S Typhi as well as the role of these mechanisms in the adaptation to the human host remain unknown Through this project I will investigate the mechanisms used by nonpermissive hosts to eliminate S Typhi I will combine my strong background in molecular microbiology with the worldrenowned expertise of S Typhihost interactions of the receiving group to identify host genes required to kill S Typhi I will apply stateoftheart technologies including pooled shRNA screens coupled to nextgeneration sequencing and the novel and powerful CRISPRCas9 technology supported by a network of local and international collaborators Specifically I will 1 identify Rab GTPases required for S Typhi killing 2 identify novel factors involved in pathogen killing through an unbiased genomewide screen and 3 elucidate the role of wellcharacterized antimicrobial factors in the Rab32dependent killing of S Typhi The results will reveal new strategies of hostdefence and will extend our knowledge of the host immunity mechanisms controlling the growth of intracellular pathogens They have the potential to identify new therapeutic approaches to treat typhoid fever",
+          "Rcn" : "201389",
+          "Acronym" : "KILLINGTYPHI"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "8557",
+        "_score" : 11.725101,
+        "_source" : {
+          "identifier" : "ERC2015STG",
+          "Text" : "Resolving the Tussle in the Internet Mapping Architecture and Policy Making The Internet has revolutionalized the way people and corporations communicate publish access and search for information As our globallyconnected digital civilization increasingly relies on its smooth operation any disruption has a direct negative impact on both the economy and society However the Internet was not designed to serve its current role nor was foreseen to be a public good On the contrary it was designed to be fully decentralized and thus administrated by the owners of independent networks Today the various Internet players have diverse and often conflicting objectives Indeed the tussle between Internet players or between them and governments hit the news and the negative externalities affect the life of potentially billions of Internet users worldwide and harm innovation in the InternetWe propose a research agenda to resolve the tussle in the Internet First we propose the use of sophisticated techniques to collect and analyze massive network data to unveil the complex interactions among the various Internet players that lead to disputes and to identify the conditions under which conditions a resolution is possible Second we utilize additional degrees of freedom to resolve the tussle in the Internet by enabling coordination of the various Internet players To this end we introduce expressiveness of all the involved parties in existing and emerging protocols and enable agile deployment of thirdparty services and applications inside operational networks Third we contribute to the Internet policy making debate by providing an unbiased view of the state and health of the Internet as well as providing recommendations on how to resolve the Internet tussle This is an interdisciplinary effort to foster a dialogue for Internets future and sustainability in light of its everincreasing growth and competitiveness",
+          "Rcn" : "204439",
+          "Acronym" : "ResolutioNet"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6706",
+        "_score" : 11.378122,
+        "_source" : {
+          "identifier" : "H2020MSCAITN2015",
+          "Text" : "Doctoral Industrial School on Human Skin models for Staphylococcal infections Staphylococcus aureus S aureus is a major human pathogen and cutaneous infections are among the leading cause of emergency department visits Unfortunately S aureus vaccine development is hindered by the lack of known correlates of protection Three dimensional organotypic human skin models may represent a valid alternative to animal infection modelIndeed S aureus expresses several humanspecific virulence factors However at the present such models have been rarely used in the S aureus research field and to our knowledge never with immunecompetent models Therefore a major aim of this proposal is to develop a human skin equivalent and integrate key immune components in the epithelial matrix To accomplish this goal we will take advantage of cuttingedge technologies such as induced pluripotent stem cells to generate macrophages and neutrophils The model will be used and optimized to the following main objectives better understanding of humanspecific pathogenesis of S aureus as well as protective mechanisms against the pathogen development of the first immunecompetent human skin models for vaccine research determine the role of bacterial communities on skin infections provide alternative methods to animal models The proposed scientific program will be complemented with a number of training courses based on specific skills for which both the University of Utrecht and Novartis Vaccines are renowned Complementary courses on dermatology human skin infections hydrogel scaffolds mass spectrometry and induced pluripotent stem technology will be held by associate partners At the end of the project the students will receive a PhD degree in the area of Infection and Immunity We believe that this project is at the leading edge of science and technology and represents a good opportunity for students that are willing to grow both in basic science as well as innovative and applicative research",
+          "Rcn" : "200679",
+          "Acronym" : "DISSection"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1142",
+        "_score" : 11.239613,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Trustful hyperlinked entities in dynamic networks The Internet revolution has changed traditional business and forces it to reinvent itself Traditional operatorenabled services are losing on their importance due to a variety of new communication services like chat and social networks which complement or supersede traditional ones like voice telephony Technical progress has minimized the need for accesscontrolled communication services and is moving instead to context based communication which is presumably available at only marginal or no additional costHowever unlike traditional telecommunication services that enable universal communication Internet communication tools are characterized by their walled garden approach where users can only communicate with users of the same application and are not free to change application without losing their data or contactsThe main goal of the reTHINK project is to design and prototype a new non telecom centric but Webcentric P2P Service Architecture enabling dynamic trusted relationships among distributed applications called Hyperlinked Entities that support usecases such as contextual and social communications M2MIoT and content oriented services This project will enable any type of service delivery through specialized endtoend network quality commitments powered by specialized P2P andor Cloud services delivered as SaaSPaaS or IaaS The major structural difference between the operators approach and the web companies is related to a recurring concept in the deployment of ICT solutions full deperimeterisation of services Operators today cannot directly compete at a global level because their services are not and cannot be provided outside of the deployed and owned network The services operators provide are tightly coupled with the networks functionalities and its geographical extension The work is performed by a consortium of 3 global telecom operators 2 SMEs 2 Universities and 2 leading research institutes coordinated by Eurescom",
+          "Rcn" : "194310",
+          "Acronym" : "reTHINK"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17163",
+        "_score" : 11.110218,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2016",
+          "Text" : "Staphylococcus aureus sRNA targetomes and regulatory networks involved in fast adaptive responses structure mechanisms and dynamics Staphylococcus aureus is an opportunistic human pathogen responsible for severe nosocomial and community acquired infections S aureus has evolved a large number of strategies to regulate the synthesis of multiple virulence factors including the use of small regulatory RNAs sRNAs These sRNAs in combination with transcriptional regulators adapt cell growth in response to various stresses and environmental conditions Hence the identification of sRNAs regulatory networks is of crucial importance in the fight against emerging multidrug resistant strains Using recent and innovative technologies ie MS2affinity purification coupled with RNA sequencing and ribosome profiling we will investigate biological roles of sRNAs elucidate their targetomes and their mechanisms of action that was not possible to obtain with classical genetic and biochemical approaches This project is aimed to draw comprehensive sRNA regulatory networks which may contain many new targets regulated by unexpected mechanisms and unravel the deepest mysteries in sRNA field in this major opportunistic pathogen Finally sRNAmediated regulation dynamics will be analyzed with unprecedented scrutiny in singlecell studies The recent development of techniques to visualize RNA and to monitor gene expression in individual bacterium offer the possibility to address specific questions related to the dynamics of sRNA regulation Proposed single cell studies will be crucial to investigate the dynamics of sRNAsdependent regulation but also to monitor its impact on a monoclonal population behavior in response to a particular stress Such analysis will open long term perspectives such as to monitor the influence of the microbiome on S aureus physiology It should also pave the way to the identification of novel targets for drug design and to the development of novel antimicrobial compounds New findings will be commercially exploited through patenting and licensing before publications",
+          "Rcn" : "214593",
+          "Acronym" : "SaRNAReg"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5752",
+        "_score" : 10.563948,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Largescale RINA benchmark on FIRE ARCFIRE will bring RINA from labs into the realworld RINA the Recursive InterNetwork Architecture is an innovative backtobasics network architecture that solves current limitations and facilitates full integration between distributed computing and networking RINA addresses the challenges that drive the communications industry in moving from dedicated hardware to almost completely virtualised infrastructure The next shift 5G on the horizon for 2020 will change the communication industry even more significantly Now is the right time for ARCFIRE to provide experimental evidence of RINAs benefits at large scale in compelling and realistic business cases thus motivating RINA adoption ARCFIRE will experimentally demonstrate RINAs key benefits integrating current EC investment in advanced networks IRATI PRISTINE and Future Internet testbeds FIRE focusing on 5 goals 1 Facilitate comparison of converged operator networks using RINA to operators current network designs 2 Produce a robust RINA software suite ready for Europe to engage in largescale deployments and longliving experiments 3 Provide relevant experimental evidence of RINA benefits to network operators their equipment vendors application developers and endusers 4 Build on the current EU Future Internet community and raise the number of organisations involved in RINA development and deployment 5 Enhance the FIRE infrastructure with ready to use RINA software ARCFIRE will have longterm sustainable impact on how we build infrastructure for the Networked Society ARCFIREs deployed software suite will enable equipment vendors to shorten their innovation life cycle network operators to run advanced networks addressing their needs in a futureproof fashion European SMEs to find and exploit specialised markets and application developers to explore unseen opportunities ARCFIREs consortium has the experience and resources to achieve these goals and provide this impact",
+          "Rcn" : "199487",
+          "Acronym" : "ARCFIRE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14574",
+        "_score" : 10.460407,
+        "_source" : {
+          "identifier" : "H2020MSCAITN2017",
+          "Text" : "Doctoral Training Network in Terahertz Technologies for Imaging Radar and Communication Applications Our future world will be one of ubiquitous sensor systems  a Real World Web where billions of devices machines or things will connect to the internet In 2008 more machines were connected to the internet than there are humans on the planet and by 2020 there are predicted to be 50 billion machines connected to the internet As a consequence there will be an everincreasing hunger for communications bandwidth both at a local level within an office or apartment and at nodes within data centres and server farms The terahertz THz band is yet to be exploited and occupies frequencies from 03 to 3 GHz 1mm to 100um occupying a middle ground between microwaves and infrared light THz technologies are also set to revolutionize a range of imaging sensing and quantum optics applicationsRecently tunneling devices have been shown to be the leading candidate in realizing compact low cost high performance THz transmitters and receivers once coupled to suitable antennas Also new two dimensional 2D materials such as graphene or 1D nanowires are emerging as suitable platforms for realising highly sensitive detectors of THz radiation  These emerging research areas link eg semiconductor materials synthesis high speed electronic device physics and engineering antenna design THz optics and a raft of diverse applications A new generation of academic and industry leaders in developing these devices and systems in the terahertz spectral band is now required However the research community is dispersed and this highly multidisciplinary field requires specialist trainingThis network addresses this future societal need by addressing this training gap and crystallising world leading groups in a concentrated research effort A specialist training plan including entrepreneurship and transferrable skills along with advanced research topic specific has been devised Partners include a strong mix of industrial and academics linking strongly with other lea",
+          "Rcn" : "211522",
+          "Acronym" : "TeraApps"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "4370",
+        "_score" : 10.380644,
+        "_source" : {
+          "identifier" : "ERC2014ADG",
+          "Text" : "Smart Device Communication A paradigm for  high PERformance FUture Mobile nEtworking Advances in theory integration techniques and standardization have led to huge progress in wireless technologies Despite successes with past and current 5G research new paradigms leading to greater spectral efficiencies and intelligent network organizations will be in great demand to absorb the continuous growth in mobile data Our ability to respond suitably to this challenge in the next decade will ensure sustained competitiveness in the digital economyWith few exceptions such as adhoc topologies classical wireless design places the radio device under the tight control of the network Promising technologies envisioned in 5G such as i Coordinated MultiPoint CoMP techniques ii Massive MIMO or ii Millimeterwave MMW byandlarge abide by this model Pure networkcentric designs such as optical cloudsupported ones raise cost and security concerns and do not fit all deployment scenarios Also they make the network increasingly dependent on a large amount of signaling and devicecreated measurements Our project envisions a radically new approach to designing the mobile internet which taps into the devices new capabilities Our approach recasts devices as distributed computational nodes solving together multiagent problems allowing to maximize the network performance by exploiting local measurement and information exchange capabilities The success of the project relies on the understanding of new information theory limits for systems with decentralized information the development of novel device communication methods and advanced teambased statistical signal processing algorithms The potential gains associated with exploiting the devices collective network friendly intelligence are huge The project will demonstrate longterm impact of the new paradigm in pushing the frontiers of mobile internet performance as well as short to midterm impact through its adaptation to currently known communications scenarios and techniques",
+          "Rcn" : "197928",
+          "Acronym" : "PERFUME"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10597",
+        "_score" : 10.366661,
+        "_source" : {
+          "identifier" : "ERC2016STG",
+          "Text" : "Faith Online Transnational Religious Politics on New Media in India and Europe This project explores new media practices in India and its diaspora in Europe to examine the relations between the expanding Internet media and the political cultures of religious identities in the current moment of globalization As opposed to understanding new media as discrete channels of communication or an abstract technological context that defines globalization the project uses a unique conceptual frame of approaching the Internet as an arena of multiple interfaces This frame foregrounds the profound mediation of the Internet media in bringing distinct actors levels of authority ideologies and motivations in close confrontation the nation state market diaspora homeland publics and divergent religious communities Each project in the proposed program will illuminate one important strand of the interfaces to ask how these interfaces constitute new mediated spaces of collisions and contiguities which allow political actors within and beyond the national frontiers to negotiate and collaborate in unprecedented ways It examines how in turn the generative capacity of such mediated interfaces has opened up new locations modulations and means of practice for the political use of religion especially for interreligious difference as a political concept It scrutinizes the implications of these developments for relations of sovereignty and citizenship with a theoretical objective to approach the emerging confluence of religious enterprise political conservatism and economic liberalization To achieve the objectives the study in a rare methodological move combines social media network analysis with ethnography of actual people posting the messages on online media",
+          "Rcn" : "206939",
+          "Acronym" : "ONLINERPOL"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13197",
+        "_score" : 10.2282295,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2016",
+          "Text" : "The Internet of Musical Things  An ecosystem of interoperable devices connecting performers and audiences This project aims at designing developing and validating new interfaces for technologicallymediated interaction between performers and audiences in order to achieve novel forms of musical expression and foster audience engagement in live performing arts Current systems for networked music performances that allow performers to collaboratively create music over a network and for participatory live music performance that enable audiences to actively engage in the music creation process are limited both from the technological and artistic perspectives To progress the stateoftheart we propose to extend the concepts of the Internet of Things to the musical domain leading to a subfield that we coin as the Internet of Musical Things IoMUT IoMUT refers to the network of physical objects Musical Things dedicated to the production and fruition of multimodal musical content This project will implement the IoMUT by creating Musical Things in the form of new musical instruments and new wearable devices and by delivering a technological infrastructure that allows for their bidirectional wireless communication both locally and remotely Such an infrastructure will enable an ecosystem of interoperable devices connecting performers as well as performers and audiences to support new performerperformer and audienceperformers interactions not possible beforehand The project will define and implement some use cases demonstrating the proposed IoMUT and evaluate them This approach aspires to effect a stepchange in the design of interfaces for musical expression resulting in a potentially high economic impact on the whole music industry The project also contributes to the fundamental understanding of the mechanisms underlying music perception and music performance in interactive and multimodal contexts",
+          "Rcn" : "209974",
+          "Acronym" : "IoMUT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9514",
+        "_score" : 10.2233925,
+        "_source" : {
+          "identifier" : "H2020MSCAITN2016",
+          "Text" : "SEcure Network Coding for Reduced Energy nexT generation Mobile Small cells SECRET is a collaborative European Training Network ETN committed to create an excellent educational training platform that is multidisciplinary and intersectoral in nature for Early Stage Researchers ESRs in the field of wireless communications and networking In this dynamic field the challenges are always evolving and more stringent in line with market expectation and socioeconomical requirements The chapter of 4G 4th Generation of mobile systems is finally coming to an end with waves of 4G systems deployed over Europe and worldwide 4G systems provide a universal platform for broadband mobile services at any time any place and anywhere However mobile traffic is still growing at an unprecedented rate and the need for more sophisticated broadband services is still further pushing the limits on current standards to provide even tighter integration between wireless technologies and higher speeds The increase in number of mobile devices and traffic the change in the nature of service and device along with the pressure on operation and capital costs and energy efficiency are all continuously putting stringent limits on the requirement of the design of mobile networks It is widely accepted that incremental enhancements of current networking paradigm will not achieve or come close to meeting the requirements of networking by 2020  This has led to the need of a new generation of mobile communications the socalled 5G The interests of stakeholders and academic researchers are now focused on 5G paradigm Although 5G systems are not expected to penetrate the market till 2020 the evolution towards 5G is widely accepted to be the convergence of internet services with existing mobile networking standards leading to the commonly used term mobile internet over heterogeneous networks HetNets with very high connectivity speeds This proposal aims to narrow the gap between current networking technologies and the foreseen requirements of future 2",
+          "Rcn" : "205591",
+          "Acronym" : "SECRET"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1948",
+        "_score" : 10.211121,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2014",
+          "Text" : "NextCOMM Eventdriven design approach to achieve maximum energy efficiency for the next generation digital communication circuits Dr Christos Vezyrtzis is currently employed in the US as an IBM Research Staff Member after concluding his PhD at Columbia University in the City of New York Instead of a lifelong career in the US he decided to take the step back to Europe Through his unique expertise in continuoustime digital signal processors he will acquire a career in Europe establishing himself in the field of nextgeneration communication circuits The primary technical focus is the novel eventdriven design approach to achieve maximum energy efficiency for the next generation digital communication circuits This will lead to a drastic reduction in power cost environmentally friendly products and significantly prolonged operation time The novel radios will have a cleaner emitted spectrum less interference which leads to higher data rates closer to the theoretical limit Improvement in energyefficiency will help the European market get one step ahead of the competitors mainly in the US and AsiaInfineon as the host organization is highly supportive to this idea gaining one of the toplevel experts in asynchronous and continuoustime digital circuits to strengthen the European Semiconductor Industry Such effort will greatly benefit from Dr Vezyrtzis extensive skills in the new and upcoming field of continuoustime digital circuits The Marie S Curie funding gives Dr Vezyrtzis the freedom to develop his own strategy to reintegrate in Europe while gaining additional industry experience and support an application oriented research project for future communication solutions  The career goal for the researcher is to find a longterm position in European research starting in industry to get an additional set of capabilities while investing his knowhow in the project At the end of the Marie S Curie fellowship he will have clarity about his further path in Europe  being qualified for industry as well as for academia",
+          "Rcn" : "195118",
+          "Acronym" : "Next-COMM"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13684",
+        "_score" : 10.181182,
+        "_source" : {
+          "identifier" : "H2020SFS20162",
+          "Text" : "Program for Innovative Global Prevention of Streptococcus suis Streptococcus suis is an endemic porcine disease causing causing significant economic losses to the pork meat production industry in all countries where pigs are reared on a large scale In some countries S suis is the primary cause of mortality and morbidity in young pigs and the most frequent reason to prescribe antibiotics of the aminopenicillin group as a preventative measure S suis is also a zoonotic pathogen of humans and infections reported worldwide has increased significantly in the past years Within S suis many different types serotypes genotypes pathotypes exist causing problems in the development of control strategies targeting all types Asymptomatic carriage in adult pigs is common and combined with a lack of knowledge on the hostpathogenenvironment interactions are the main reasons for failure to control the endemic nature of this pathogen  The project outputs will impact on on understanding hostpathogenenvironment interactions of S suis infections through the genome sequencing of 12001500 S suis isolates from representative geographic areas of the major pork producing countries and performing genomewideassociation studies with invasive disease and asymptomatic carriage New diagnostic methods will be developed for global monitoring of infection risk and tested on casefarms Epidemiology studies will determine risk factors for invasive S suis disease including the role of coinfections and for the first time properly assess the dynamics of the disease on a representative farm We will increase our understanding of the virulence mechanisms involved in pathogenesis including interactions of S suis with the innate immune system The project outputs will strengthen the evidence base for prevention and control strategies through testing of novel conserved vaccine antigens in pigs and prevention strategies based on manipulation of the microbiota and stimulation and maturation of the innate immune system",
+          "Rcn" : "210504",
+          "Acronym" : "PIGSs"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3204",
+        "_score" : 10.123935,
+        "_source" : {
+          "identifier" : "H2020SMEINST22014",
+          "Text" : "Telemetry and Telecontrol for the Internet of things IoT Machinetomachine M2M is a broad label that can be used to describe any technology that enables networked devices to exchange information and perform actions without the manual assistance of humans M2M communication is often used for remote monitoring In product restocking for example a vending machine can message the distributor when a particular item is running low M2M communication is an important aspect of warehouse management remote control robotics traffic control logistic services supply chain management fleet management and telemedicine It forms the basis for a concept known as the Internet of Things IoTThe market for M2M will be the fastest growing segment of the IT industry from now until 2017 The M2M market including technologies related to the Internet of Things will grow from 440 billion in 2011 to 290 billion in 2017M2M Cloud Factory is a private white label supplier to major manufacturers and system integrators of a M2M  IoT application development framework based on a cloud solution called MIIMETIQ MIIMETIQ is the most flexible powerful and scalable M2M development framework in the IoT market MIIMETIQ provides the highest levels of scalability and security as well as a set of powerful tools on which our customers can quickly build and deliver custom M2M  IoT applications for the most demanding requirements and integrate data into customer key enterprise applications and systemsWe have identified two disruptive improvements for our current framework to both simplify and accelerate the development of M2M and IoT applications which will secure the continuous growth of the company not only on the EU level but globally",
+          "Rcn" : "196395",
+          "Acronym" : "MIIMETIQ"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17416",
+        "_score" : 10.027726,
+        "_source" : {
+          "identifier" : "ERC2017ADG",
+          "Text" : "Network Motion NEMO NEtwork MOtion is an interdisciplinary proposal centered on network dynamics The interdisciplinarity spans from communication engineering to mathematics with an innovative interplay between the twoNEMOs focus is on stochastic geometry This emerges as one of the most important new conceptual  and operational tools of the last 10 years in wireless networking with a major academic and industrial impact on architecture protocol design planning and economic analysisNevertheless the state of the art is unable to cope with the dynamics introduced in recent and future network functionalities NEMOs aim is to introduce dynamics in wireless stochastic geometry The dynamic versions of stochastic geometry to be developed will capture these new functionalities and specifically tackle two core promises and challenges of the future of wireless networking that of ultralow latency networking required for enabling the unfolding of future real time interactions and that of draining to the Internet the unprecedented amount and structure of data stemming fromthe Internet of ThingsSeveral fundamental types of random network dynamics underpinning these functionalities are identified General mathematical tools combining stochastic geometry random graph theory and the theory of dynamical systems will be developed to analyze them This will provide parametric models mastering the complexity of such networks which will be instrumental in addressing the above challenges The aim is to have through these dynamical versions the same academic and industrial impact on wireless networks as static stochastic geometry has todayNEMO will leverage structural interactions of INRIA with Ecole Normale Suprieure on the mathematical side and with Nokia Bell Labs and Orange on the engineering side This will create in Europe a group focused on this mathematicscommunication engineering interface and to become the top innovation group of the field worldwide",
+          "Rcn" : "214933",
+          "Acronym" : "NEMO"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17599",
+        "_score" : 9.980881,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2017",
+          "Text" : "Wireless Powered Communication Networks Architectures Protocols and Optimized ResourceAllocation Wireless powered communication network WPCN is a promising networking paradigm for future wireless communication systems where the batteries of wireless devices WDs are remotely replenished by means of microwave wireless power transfer WPT technology Compared to the conventional batterypowered communication networks WPCN is in general more convenient by eliminating the hassle of connecting cables more costeffective by enabling ondemand energy supplies and maintenancefree operations more environmentalfriendly by avoiding tons of battery disposal yearly and is sometimes essential for scenarios where manual battery replacementrecharging is too dangerous eg in hazardous environment or even impossible eg for biomedical implants  However the practical deployment of WPCN is hampered by several critical issues such as the low endtoend WPT efficiency over a long  distance the interplay between power and information transmissions within the same network and the challenges of scalability in large networks This project aims to resolve the above issues by paving the way for the practical deployment of WPCN Towards this end a comprehensive study on WPCN will be pursued ranging from the networking architecture and protocol designs to optimized resource allocation A number of innovative techniques will be proposed and thoroughly investigated in this project including the new heterogeneous networking architecture for WPCN the harvestandtransmit protocol facilitated by the concept of energyandinformation fullduplexing and the distributed energy beamforming technique with the idea of WDinitiated WPT The results obtained in this project will find a wide range of applications in the fifth generation 5G wireless communication system which involves numerous lowpower WDs including those in wireless sensor networks WSNs internet of things IoT and massive machinetype communications",
+          "Rcn" : "215129",
+          "Acronym" : "WPCN"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15200",
+        "_score" : 9.940027,
+        "_source" : {
+          "identifier" : "H2020EUB2017",
+          "Text" : "Remote area Access Network for 5th GEneration 5G is considered the next revolution in communication Several researches focus efforts in tackling challenges for enhancing data rate reducing latency improving connectivity and reducing consumption However there is one relevant mode that has not been strongly supported by the research efforts which is Internet access for remote areas As of today we estimate 14 billion of unconnected people live in areas where mobile broadband coverage is not available showing the immense impact of a network that can deliver high quality Internet access in remote areas It is clear that a sustainable rural service will not be available unless network deployments and business strategies are specifically tailored to this scenario Integrating stateoftheart in mobile communication with business concepts of sharing economy would allow any local entrepreneur to become a profitable mobile rural infrastructure operator with extremely capillary commercialization and operating capabilities The goal of 5GRANGE is surpass the limitations of current technologies making the coverage of low populate areas a feasible business We aim for a cell radius above 50 km with at least 100 Mbps at the edge employing both licensed and unlicensed frequencies while cognitive radio techniques will be used to protect incumbents Clearly this new 5G mode needs to be flexible to comply with different applications and services The current standards cannot use spectral wholes and have limited spectrum mobility A new waveform needs to be considered and the mechanisms in the MAC and Network layers must take advantage of the features of this waveform in order to provide the desirable dynamic and fragmented spectrum allocation The combination of an innovative PHY and a cognitive MAC will result in a 5G mode able to reach the unconnected people not only in Brazil but worldwide This network will also trigger new agribusiness services bringing new revenues for different sectors of our society",
+          "Rcn" : "212224",
+          "Acronym" : "5GRANGE"
+        }
+      }
+    ]
+  }
+}

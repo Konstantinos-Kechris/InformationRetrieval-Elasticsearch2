@@ -1,0 +1,256 @@
+{
+  "took" : 75,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 18246,
+    "max_score" : 206.496,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13439",
+        "_score" : 83.724304,
+        "_source" : {
+          "identifier" : "H2020DSSC72016",
+          "Text" : "Supporting Cyberinsurance from a  Behavioural Choice Perspective CYBECO will research develop demonstrate evaluate and exploit a new framework for managing cybersecurity risks one that is focusing on cyberinsurance as key risk management treatment CYBECO integrates multidisciplinary research methods from Behavioural Economics Statistics Game and Decision Theory Security Engineering and Behavioral Psychology in order to develop new concepts and models that are combined within a prototype software architecture CYBECO Toolbox 20 CYBECO recognizes that the cyberinsurance domain is not adequately developed partly due to the lack of sufficiently large statistical data sample and partly due to the difficulties customers face when deciding on their cyberinsurance investment options CYBECO will address both these barriers aiming at delivering advances clearly positioned beyond the StateoftheArt We plan to implement a prototype tool that will demonstrate and promote the CYBECO model and concepts We then foresee to perform behavioural experiments to validate current institutional cybersecurity frameworks and to provide relevant policy insights particularly in reference to behavioural nudges in cybersecurity The CYBECO consortium is composed by complementary partners coming from the addressed research technological and market domains that have a proven track record of high quality research capacity Thus the carefully structured workplan embodies a holistic approach towards meeting the CYBECO objectives and delivering marketrelevant outcomes of significant exploitation potential",
+          "Rcn" : "210232",
+          "Acronym" : "CYBECO"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1133",
+        "_score" : 71.93962,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Modelling the European data economy The Modelling the European Data Economy EuDEco project will assist European science and industry in understanding and exploiting the potentials of data reuse in the context of Big and Open Data big data The aim isto establish a self sustaining data market and thereby increase the competitiveness of Europe To be able to extract the benefits of data reuse it is crucial to know how to understand the underlying economic societal legal and technological framework conditions and challenges to build useful applications and services Despite the amount of activities in this domain an effort is missing to develop use cases and business models that are economic viable legally certain and taking societal needs and concerns into accountEuDEco will accomplish this by leveraging the engagement of other projects conducting pilots on data reuse as well as by the engagement of external experts and stakeholders EuDEco moves beyond the classical approaches by applying the approach of complex adaptive systems to model the data economy in order to indentify value networks use cases and business models for data reuse In the course of the project will develop and refine the data economy model in several steps further by case studies on previous pilots on data reuse by indepth analysis from legal socioeconomic and technological point of view and by extensive tests of use cases and business models with other projects Therefore it will analyse framework conditions relevant and challenges related to data reuse and the emergence of a selfsustaining data marketFinally EuDEco will deliver a model of the data economy including viable use cases and business models as well as suggestions and recommendations addressing the main legal contractual societal and technological concerns and challenges such as contractual framework or data protection Above that EuDEco will develop an observatory for policy makers enabling them to track the development of the data economy",
+          "Rcn" : "194301",
+          "Acronym" : "EuDEco"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3880",
+        "_score" : 71.893585,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Mobile Positioning Data as a Source for Aggregated Human Mobility Statistics Mobile positioning data can increase our understanding of movements in society and for businesses it helps map the locations of its customers In an industry worth 11 billion in a few short years there are few competitors Positium positions itself between the client and mobile network operator to analyze Big Data of mobile phone locations providing clients with faster and more costeffective analysis based on a large population rather than a sampleThere are multiple domains where such data is directly relevant The objective of the business plan is to conduct domainspecific market research assess the requirements for development of the technology and specify the business model for Positium Data Mediator  a product to extract process and deliver the insights from mobile big data to users globally At current stage Positium Data Mediator works in Estonia in domains like urban planning transportation planning geomarketing tourism statistics Positium is transforming from a global market leader in its home market to a global player in multiple markets in the EU and emerging countriesThe business plan will be vital to narrow down the focus for expansion and determine strategies to pick the lowhanging fruit In the business plan the selection of domains geographical regions and development requirements will be investigated using surveys and interviews among potential customers market research and financial calculations The outcome of the business plan is a recommendation on the geographic expansion business model and the need for technology development and a business plan",
+          "Rcn" : "197167",
+          "Acronym" : "MOBPOSSTAT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10397",
+        "_score" : 71.04123,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Transforming Transport Big Data will have a profound economic and societal impact in the mobility and logistics sector which is one of the mostused industries in the world contributing to approximately 15 of GDP Big Data is expected to lead to 500 billion USD in value worldwide in the form of time and fuel savings and savings of 380 megatons CO2 in mobility and logistics With freight transport activities projected to increase by 40 in 2030 transforming the current mobility and logistics processes to become significantly more efficient will have a profound impact A 10 efficiency improvement may lead to EU cost savings of 100 BEUR Despite these promises interestingly only 19  of EU mobility and logistics companies employ Big Data solutions as part of value creation and business processesThe TransformingTransport project will demonstrate in a realistic measurable and replicable way the transformations that Big Data will bring to the mobility and logistics market To this end TransformingTransport validates the technical and economic viability of Big Data to reshape transport processes and services to significantly increase operational efficiency deliver improved customer experience and foster new business models TransformingTransport will address seven pilot domains of major importance for the mobility and logistics sector in Europe 1 Smart Highways 2 Sustainable Vehicle Fleets 3 Proactive Rail Infrastructures 4 Ports as Intelligent Logistics Hubs 5 Efficient Air Transport 6 Multimodal Urban Mobility 7 Dynamic Supply Chains The TransformingTransport consortium combines knowledge and solutions of major European ICT and Big Data technology providers together with the competence and experience of key European industry players in the mobility and logistics domain",
+          "Rcn" : "206575",
+          "Acronym" : "TT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "16413",
+        "_score" : 69.42174,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "Prediction and optimisation platform for the mobile assets management Everysens a French SME company expert in IoT and Software as a Service SaaS solutions for the traceability and logistic sectors proposes the next generation of intelligent based tracking solution for the market niches that face the challenges of mobile assets management More precisely this project targets business holding or renting highvalue assets such as construction and public work equipment dumpster of waste and transport and logistic companies eg rail freight logistics Today most mobile tracking systems are addressed to motorised mobile assets and do not have enough autonomy to operate on nonmotorised items as wagons or dumpsters They ensure a so called continuous tracking which practically is limited to sending periodic alerts with no realtime tracking and are not based on intelligent analysis and statistics that allows forecasting Besides current technologies experiment from inefficient data transmission coverage challenges in remote areas and high energy consumption for the sensors Everysens will offer them OMNISCIENT a prediction SaaS platform based on bespoke artificial intelligence not only for inventory but also to allow the realtime mobile asset localisation management and accurate forecasting and planning to enhance operational efficiency of our clients and increase their revenues Our technology presents a data transmission reliability of 98 and its modular structure allows to easily apply different business rules for different market applications In this way our customers will be able to contribute to European Initiatives to improve railway competitiveness such as the Shift2Rail Joint Undertaking S2R JU initiative or the Waste Directive Framework to buildup the traceability capacity along the recycling value chain With the commercialization of OMNISICIENT Everysens expects 103 million of accumulated revenues in 2024 which will require to dimension the company structure with 40 additional employees",
+          "Rcn" : "213660",
+          "Acronym" : "OMNISCIENT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14145",
+        "_score" : 68.897964,
+        "_source" : {
+          "identifier" : "H2020ICT20162",
+          "Text" : "X5gon Cross Modal Cross Cultural Cross Lingual Cross Domain and Cross Site Global OER Network The proposal X5gon stands for easily implemented freely available innovative technology elements converging currently scattered Open Educational Resources OER available in various modalities across Europe and the globe X5gon combines content understanding user modelling quality assurance methods and tools to boost a homogenous network of OER sites and provides users teachers learners with a common learning experience X5gon deploys open technologies for recommendation learning analytics and learning personalisation services that works across various OER sites independent of languages modalities scientific domains and sociocultural contexts It develops services OER media convergence including full courses course materials modules textbooks videos tests software related events tools materials techniques used to support access to knowledge Fivefold solutions are offered to OER sites Crossmodal technologies for multimodal content understanding Crosssite technologies to transparently accompany and analyse users across sites Crossdomain technologies for cross domain content analytics Crosslanguage technologies for cross lingual content recommendation Crosscultural technologies for cross cultural learning personalisationX5gon collects and index OER resources track data of users progress and feed an analytics engine driven by stateoftheart machine learning improve recommendations via user understanding and match with knowledge resources of all types The project will create three services X5oerfeed X5analytics and X5recommend and run a series of pilot case studies that enable the measurement of the broader goals of delivering a useful and enjoyable educational experience to learners in different domains at different levels and from different cultures Two exploitation scenarios are planned i free use of services for OER ii commercial exploitation of the multimodal big data realtime analytics pipeline",
+          "Rcn" : "211074",
+          "Acronym" : "X5gon"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15902",
+        "_score" : 67.71222,
+        "_source" : {
+          "identifier" : "H2020ICT20171",
+          "Text" : "Highperformance datacentric stack for big data applications and operations The new datadriven industrial revolution highlights the need for big data technologies to unlock the potential in various application domains To this end BigDataStack delivers a complete highperformant stack of technologies addressing the emerging needs of data operations and applications The stack is based on a frontrunner infrastructure management system that drives decisions according to data aspects thus being fully scalable runtime adaptable and performant for big data operations and dataintensive applicationsBigDataStack promotes automation and quality and ensures that the provided data are meaningful of value and fitforpurpose through its Data as a Service offering that addresses the complete data path with approaches for data cleaning modelling semantic interoperability and distributed storage BigDataStack introduces a pioneering technique for seamless analytics which analyses data in a holistic fashion across multiple data stores and locations handling analytics on both data in flight and at rest Complemented with an innovative CEP running in federated environments for realtime crossstream processing predictive algorithms and process mining BigDataStack offers a complete suite for big data analytics BigDataStack holistic solution incorporates approaches for datafocused application analysis and dimensioning and process modelling towards increased performance agility and efficiency A toolkit allowing the specification of analytics tasks in a declarative way their integration in the data path as well as an adaptive visualization environment realize BigDataStacks vision of openness and extensibilityWith an emphasis on standardisation and open source contributions targeting high impact BigDataStack will enable data operations and dataintensive applications to take full advantage of the developed technologies exhibiting their applicability through three commercial use cases from the maritime market and financing domains",
+          "Rcn" : "213081",
+          "Acronym" : "BigDataStack"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "212",
+        "_score" : 67.1189,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "Multisource Big Data Fusion Driven Proactivity for Intelligent Mobility Transportation sector undergoes a considerable transformation as it enters a new landscape where connectivity is seamless and mobility options and related business models are constantly increasing Modern transportation systems and services have to mitigate problems emerging from complex mobility environments and intensive use of transport networks including excessive CO2 emissions high congestion levels and reduced quality of life Due to the saturation of most urban networks innovative solutions to the above problems need to be underpinned by collecting processing and broadcasting an abundance of data from various sensors systems and service providers Furthermore such novel transport systems have to foresee situations in near real time and provide the means for proactive decisions which in turn will deter problems before they even emerge Our vision is to provide the required interoperability adaptability and dynamicity in modern transport systems for a proactive and problemfree transportation system OPTIMUM will establish a largely scalable distributed architecture for the management and processing of multisource bigdata enabling continuous monitoring of transportation systems needs and proposing proactive decisions and actions in an semi automatic way OPTIMUM follows a cognitive approach based on the Observe Orient Decide Act loop of the big data supply chain for continuous situational awareness OPTIMUMs goals will be achieved by incorporating and advancing state of the art in transport and traffic modeling travel behavior analysis sentiment analysis big data processing predictive analysis and realtime eventbased processing persuasive technologies and proactive recommenders The proposed solution will be deployed in reallife pilots in order to realise challenging use cases in the domains of proactive improvement of transport systems quality and efficiency proactive charging for freight transport and Car2X communication integration",
+          "Rcn" : "193380",
+          "Acronym" : "OPTIMUM"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1058",
+        "_score" : 65.94205,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Social Semantic Emotion Analysis for Innovative Multilingual Big Data Analytics Markets MixedEmotions will develop innovative multilingual multimodal Big Data analytics applications that will analyze a more complete emotional profile of user behavior using data from mixed input channels multilingual text data sources AV signal input multilingual speech audio video social media social network comments and structured data Commercial applications implemented as pilot projects will be in Social TV Brand Reputation Management and Call Centre Operations Making sense of accumulated user interaction from different data sources modalities and languages is challenging and has not yet been explored in fullness in an industrial context Commercial solutions exist but do not address the multilingual aspect in a robust and largescale setting and do not scale up to huge data volumes that need to be processed or the integration of emotion analysis observations across data sources andor modalities on a meaningful level MixedEmotions will implement an integrated Big Linked Data platform for emotion analysis across heterogeneous data sources different languages and modalities building on existing state of the art tools services and approaches that will enable the tracking of emotional aspects of user interaction and feedback on an entity level The MixedEmotions platform will provide an integrated solution for largescale emotion analysis and fusion on heterogeneous multilingual text speech video and social media data streams leveraging open access and proprietary data sources and exploiting social context by leveraging social network graphs semanticlevel emotion information aggregation and integration through robust extraction of social semantic knowledge graphs for emotion analysis along multidimensional clusters",
+          "Rcn" : "194226",
+          "Acronym" : "MixedEmotions"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11540",
+        "_score" : 65.263725,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "PROXITRAK  next generation IoT tracking solution for a connected logistics  collect analyse and visualise big data in a true real time ProxiGroup delivers innovative cloud software solutions for effective and inexpensive deployment and management of Internet of Things IoT asset tracking systems exploiting live and actionable Big Data analytics We are a team of experienced entrepreneurs highlyqualified engineers and commercialisation experts Our knowledge experience from the previous projects and a support of investors and business partners providing distribution channels will enable us to introduce disruptive PROXITRAK solution to the marketThe problem we are addressing is limited visibility of assets throughout the enterprise and in the supply chain which generates billions EUR lost every year in the EU The emerging Internet of Things IoT concept is providing opportunity for efficient management of the company assets more than 64 billion connected things will be in use worldwide in 2016 On the other hand expensive site surveys large IT infrastructure requirements deployment cost etc are holding the growth of IoT ProxiGroup is taking this opportunity by offering an innovative software solution which enables 1 true real time tracking of assets enabling immediately identifying and reacting for any potential bottlenecks in the operation globally 2 virtual 3D site surveys for the connected logistics systems providing 5fold decrease in deployment cost 3 full warehouse inventory available anytime in a realtime 4 realtime tracking of multiple locations globally from the cloud PROXITRAK will be offered in a SoftwareasaService model which significantly reduces price for the enduser it will be especially beneficial for the SMEsWithin the proposed Phase 1 SME Instrument project we will conduct a comprehensive feasibility study including a detailed business plan The Phase 2 project will be focused on bringing PROXITRAK from the current TRL 6 to TRL 9 and confirm its technological excellence through pilot deployment with the business partner",
+          "Rcn" : "208145",
+          "Acronym" : "PROXITRAK"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10232",
+        "_score" : 65.033714,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "PrEstoCloud  Proactive Cloud Resources Management at the Edge for Efficient RealTime Big Data Processing PrEstoCloud project will make substantial research contributions in the cloud computing and realtime data intensive applications domains in order to provide a dynamic distributed selfadaptive and proactively configurable architecture for processing Big Data streams In particular PrEstoCloud aims to combine realtime Big Data mobile processing and cloud computing research in a unique way that entails proactiveness of cloud resources use and extension of the fog computing paradigm to the extreme edge of the network The envisioned PrEstoCloud solution is driven by the microservices paradigm and has been structured across five different conceptual layers i Metamanagement ii Control iii Cloud infrastructure iv CloudEdge communication and v Devices layers This innovative solution will address the challenge of cloudbased selfadaptive realtime Big Data processing including mobile stream processing and will be demonstrated and assessed in several challenging complementary and commerciallypromising pilots There will be three PrEstoCloud pilots from the logistics mobile journalism and security surveillance application domains The objective is to validate the PrEstoCloud solution prove that it is domain agnostic and demonstrate its addedvalue for attracting early adopters thus initialising the exploitation process early on",
+          "Rcn" : "206360",
+          "Acronym" : "PrEstoCloud"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "7995",
+        "_score" : 63.49828,
+        "_source" : {
+          "identifier" : "H2020SESAR20151",
+          "Text" : "Passengercentric Big Data Sources for Socioeconomic and Behavioural Research in ATM The Flightpath 2050 report envisages a passengercentric air transport system thoroughly integrated with other transport modes with the goal of taking travellers from door to door predictably and efficiently However ATM operations have so far lacked a passengeroriented perspective with performance objectives not necessarily taking into account the ultimate consequences for the passenger There is a lack of understanding of the impact of passengers behaviour on ATM and vice versa Research in this area has so far been constrained by the limited availability of behavioural data The pervasive penetration of smart devices in our daily lives and the emergence of big data analytics open new opportunities to overcome this situation for the first time we have largescale dynamic data allowing us to test hypotheses about travellers behaviour The goal of BigData4ATM is to investigate how these data can be analysed and combined with more traditional demographic economic and air transport databases to extract relevant information about passengers behaviour and use this information to inform ATM decision making processes The specific objectives of the project are1 to integrate and analyse multiple sources of passengercentric spatiotemporal data mobile phone records data from geolocation apps credit card records etc with the aim of eliciting passengers behavioural patterns2 to develop new theoretical models translating these behavioural patterns into relevant and actionable indicators for the planning and management of the ATM system3 to evaluate the potential applications of the new data sources data analytics techniques and theoretical models through a number of case studies including the development of passengercentric doortodoor delay metrics the improvement of air traffic forecasting models the analysis of intraairport passenger behaviour and its impact on ATM and the assessment of the socioeconomic impact of ATM disruptions",
+          "Rcn" : "203290",
+          "Acronym" : "BigData4ATM"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "4813",
+        "_score" : 61.915577,
+        "_source" : {
+          "identifier" : "H2020SMEINST12015",
+          "Text" : "A Genetic Data CUBE  An innovative business model applied to predictive and prescriptive analytics exploring Big Data and empowering cloudservices and urgent computation Business Intelligence Decision Making Processing Predictive Analysis for economic and financial forecasting represent today a brick and mortar set of tools and methodologies to support important business functions aiming at investing purposes storing customer information marketing analysis and related tracking activities Predictive analysis is therefore of paramount importance to diagnose and solve business problems and issues in our VUCA world dominated by Volatility Uncertainty Complexity Ambiguity To meet this EU as well as global challenge we intend to bring Genetic Data Cube GDC to market maturity GDC is a data driven innovative business model powered by a huge trove of realworld realtime preferenceusage feedback data coming from experienced business experts as well as end users Our goal is to architect develop and deploy worldclass data systems to empower multiple services and facilitate SMEs as well large enterprises or industries in diagnosing and solving relevant business problems or challenges We are introducing a new paradigm in predictive analysis a stepchange to prescriptive analysis not only processingbased but also humancentred Considering that Big Data are defined as the oil of our times Big Data Analytic stands at the forefront to data management for economic and financial forecasting to have a crystalclear picture of the business opportunity 90 of the data in the world has been created in the last 2 years alone present estimates project that the Big Data market will top 84B in 2026 GDC will provide a unique brand new business model supporting customers in understanding the past unstructured data to predict future activities in customers investments and business developmentgrowth perspective Main benefits rely on improving quickdecision profit measure social media impact and prevents fraud by making application of advanced analytics and decision optimisation",
+          "Rcn" : "198412",
+          "Acronym" : "GDC"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "625",
+        "_score" : 61.813503,
+        "_source" : {
+          "identifier" : "ERC2014PoC",
+          "Text" : "ExtraLytics Big Data Analytics for Real Estate Data is becoming the key to effective decision making in more and more aspects of modern society Big data analytics provide insight into complex processes considering a breadth of factors This promises to increase the efficiency of decision making in areas such as policy making research product development or financial and retail markets Currently big data analytics is employed only by technologically savvy organisations with control over the relevant data This further exacerbates the information asymmetry that has been plaguing many of these areas real estate where buyers have long suffered from limited information often controlled by the seller or retail markets where sellers are now employing sophisticated competitive price intelligence solutions unaffordable to buyers Who can tell you if it is better to buy a house with a garden or with a garage or where renovations will yield more rent over time ExtraLytics answers these questions through a combination of big data extraction and analytics ExtraLytics introduces analytics and prediction models into DIADEMs platform for accurate big data extraction from the web which is able to extract required data at massive scale from the web For the proofofconcept ExtraLytics initially focuses on residential real estate in the UK a 4135bn market UBS where buyers and renters are required to make fast decision with limited informationtime on market is often below a week or even below a day as for desirable rentals in Oxford In an age when big data is shaping our every move how come an industry that takes so much profit cant keep pace with technology and use it to actually deliver a service worth the money they take in commission The Telegraph ExtraLytics addresses this lack of datadriven analytics by giving consumers and investors alike a tool for better understanding properties their location their neighborhood and their investment potential compared to other properties",
+          "Rcn" : "193793",
+          "Acronym" : "ExtraLytics"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "4134",
+        "_score" : 61.723934,
+        "_source" : {
+          "identifier" : "H2020SMEINST12015",
+          "Text" : "AppIOS Platform for Building Next Generation Enterprise Software Our innovation project is developing and delivering tools and a platform for building next generation enterprise software Enterprise software is a big market which delivers solutions for building IT infrastructures to support organisations business and daily routines The market is characterized with a high failure rate small number of players and low customer satisfaction We aim to change how enterprise software is built and satisfy customer needs Our idea is that complex enterprise software solutions can be built from small building blocks apps which can be developed by domain experts It was proven in the mobile app market that small vendors and individuals can be very successful in implementing specialized apps To bring our idea to life we develop tools to create apps efficiently as well as a platform to run the independentlycreated apps together constituting a single software systemThe core of our platform is our highperforming ACIDcompliant inmemory database management system DBMS with a builtin application server The DBMS is being designed to support real world ontologies which play important role in our solution The communication between the server and clients is being implemented according to a Model View ViewModel MVVM pattern The client part of our platform is built with Web Components and provides the ability to mix user interfaces UIs of independentlydeveloped apps into a single UI representing a software packageOur approach benefits these core audiences in the following ways Developers Simple and fast way to develop apps Software providers Fast timetomarket and expansion of their business Customers Satisfied needs and requirements fast track from idea to working infrastructure reduced cost of ownership and ability to adapt to requirements changes and business expansionThis feasibility project will result in an elaborated business plan outlining the necessary development work and marketing strategy",
+          "Rcn" : "197435",
+          "Acronym" : "AppIOS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "4731",
+        "_score" : 61.200207,
+        "_source" : {
+          "identifier" : "H2020MSCAITN2015",
+          "Text" : "Big Data in Chemistry The advent of the big data era in chemistry and the life sciences requires the development of new computational analysis methods which are not only of scientific but also economic relevance Currently the international data market already grows six times faster than the entire IT sector and growth rates further increase Achieving and sustaining a leadership positions in the big data arena represent critically important challenges for the EU The economic developments in the emerging big data field are sciencedriven Due to complexity and heterogeneity of biochemical and biomedical data largescale data exploration and exploitation are intrinsically interdisciplinary tasks BIGCHEM positions itself at interfaces between chemistry computer science and the life science to provide wellstructured multidisciplinary training and educate highindemand computational specialists capable of operating in interdisciplinary and international research and business settings Cornerstones of BIGCHEMs curriculum include online lectures and periodic schools taught by internationally leading experts in chemical and life science informatics a balanced consortium of academia SMEs and large industry and an unprecedented symbiosis of academic and industrial training and application components Accordingly BIGCHEM is well positioned to boost multilateral collaborations between academia and industry and train scientists who are highly competitive in the international big data market In BIGCHEMs RD and training activities the development and evaluation of conceptually novel methods for largescale data analysis knowledge extraction and information sharing with demonstrated practical application potential take center stage The network has a clearly defined policy for exploitation of new IP through wide involvement of target users SMEs and large industry facilitated by the experienced technology transfer department of the coordinators team",
+          "Rcn" : "198330",
+          "Acronym" : "BIGCHEM"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10067",
+        "_score" : 61.188175,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Advanced Big Data Value Chain for Public Safety and Personal Security AEGIS brings together the data the network  the technologies to create a curated semantically enhanced interlinked  multilingual repository for public  personal safetyrelated big data It delivers a datadriven innovation that expands over multiple business sectors  takes into consideration structured unstructured  multilingual datasets rejuvenates existing models and facilitates organisations in the Public Safety  Personal Security linked sectors to provide better  personalised services to their users AEGIS will introduce new business models through the breed of an open ecosystem of innovation  data sharing principles From the technology perspective AEGIS targets to revolutionise semantic technologies in big data big data analytics  visualisations as well as security  privacy frameworks by addressing current challenges  requirements of crossdomain  multilingual applications The main benefits derived from AEGIS to data identification collection harmonisation storage  utilisation towards value generation for these sectors will be Unified representation of knowledge Accelerated more effective  valuepacked cycles of intelligence extraction  of services  applications development Introduction of novel business models for the data sharing economy  establishment of AEGIS as a prominent big data hub utilising cryptocurrency algorithms to validate transactions  handle effectively IPRs data quality  data privacy issues though a business brokerage framework Based on an early market analysis the Total Addressable Market of AEGIS is up to 31bn 271bn AEGIS is able not only to capture a portion of the market size but also to expand the pie through creating additional uncaptured value based on small data integration in typical big data repositories  algorithms Based on the same analysis the project will break even  will be viable from its launch 2020  will have a ROI investment of EUcommission in the first years",
+          "Rcn" : "206179",
+          "Acronym" : "AEGIS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6022",
+        "_score" : 60.520836,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : """STREAMLINE STREAMLINE will address the competitive advantage needs of European online media businesses EOMB by delivering fast reactive analytics suitable in solving a wide array of problems including addressing customer retention personalised recommendation and more broadly targeted services STREAMLINE will develop crosssectorial analytics drawing on multisource data originating from online media consumption online games telecommunications services and multilingual web content STREAMLINE partners face big and fast data challenges They serve over 100 million users offer services that produce billions of events yielding over 10 TB of data daily and possess over a PB of data at rest Their business usecases are representative of EOMB which cannot be handled efficiently  effectively by stateoftheart technologies as a consequence of system and human latencies System latency issues arise due to the lack of appropriate data streamoriented analytics tools and more importantly the added complexity cost and burden associated with jointly supporting analytics for both data at rest and data in motion Human latency results from the heterogeneity of existing tools and the low level programming languages required for development using an inordinate number of boilerplate codes that are system specific eg Hadoop SolR Esper Storm and databases and a plethora of scripts required to glue systems togetherOur research and innovation actions include addressing the challenges brought on by system and human latencies In this regard STREAMLINE will1	Develop a high level declarative language and userinterface and corresponding automatic optimisation parallelisation and system adaptation technologies that reduce the programming expertise required by data scientists thereby enabling them to more freely focus on domain specific matters2	Overcome the complexity of the socalled lambda architecture by delivering simplified operations that jointly support data at rest and data in motion in a single system and is compatible with the Hadoop ecosystem3	Develop fast reactive machine learning technologies based on distributed parameter servers and fully distributed asynchronous and approximate algorithms for fast results at high input ratesThe impact of developing a European open source tool for analysing data at rest and data in motion in a single system featuring a high level declarative language and a fast reactive machine learning library is much wider than just the recommender ad targeting and customer retention applications that the industrial partners in STREAMLINE will use to demonstrate the business value of our work for the data economy Our open source tools will help Europe in general since they lower the big data analytics skills barrier broaden the reach of data analytics tools and are applicable to diverse market sectors including healthcare manufacturing and transportation Thereby enabling a broad number of European SMEs in other markets to explore and integrate these technologies into their businesses At the same time STREAMLINE will provide a solid foundation for big data leadership in Europe by providing an opensource platform ready to be used by millions of stakeholders in companies households and governmentThe STREAMLINE consortium comprises worldrenowned scientists and innovators in the areas of database systems DFKI distributed systems SICS and machine learning SZTAKI who have won many international awards hold 18 patents collectively and have founded and advised nine startups Complementing the research excellence are four leading European enterprises in the data economy in the areas of global telecommunication services eg Internet IPTV mobile and landline networks PT games and entertainment Rovio media content streaming NMusic and webscale data extraction and business analytics IMR with Petab""",
+          "Rcn" : "199862",
+          "Acronym" : "STREAMLINE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "4925",
+        "_score" : 60.13996,
+        "_source" : {
+          "identifier" : "H2020SMEINST12015",
+          "Text" : "DISRUPTIVE EYE TRACKING FOR MOBILE EXPERIENCE OPTIMISATION The EyeTrack project develops the first eyetracking system truly adapted to mobile usages and seamlessly combined with a usertesting environment accessible to every digital teamMeasuring visual attention in mobile usage is highly challengingOptimising user experience of a mobile application during agile development implies testing the app in the wild with real users It requires methodology to measure observable interaction issues and adapted technology to detect issues from visual interactions with the digital content where people look is undetectable by direct observation of usersMobile user experience is one of the biggest challenges that faces every app launched on the market However thousands of digital project teams lack reliable tools to optimise their work and reduce testing costs while hoping to trigger the right consumer behaviorsThis market is partially addressed by eyetracking solutions that are expensive difficult to use and offering limited capacity in terms of data analysis Current systems for mobile devices are either stationary or inaccurateMatchic Labs develops a new and accurate EyeTracking solution for Mobile Usage and Agile Testing enabling development teams to easily build tests collect data and get results FastMeant for fieldtesting with real users it is built around an innovative eyetracking system adapted to mobile usages ultra light hardware plus Software as a Service environment that analyses visual behaviors of panels of usersDigital teams will reduce project risk and improve their apps based on easy to understand analysisThe EyeTrack project is aimed at a 1B and fast growing market where ad agencies user experience professionals and mobile app developers require cost effective tools adapted to their digital project cyclesPhase 1 will tackle industrial feasibility technical feasibility of eyetracking in daylight customer validation and the development of a detailed business plan",
+          "Rcn" : "198540",
+          "Acronym" : "EyeTrack"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3458",
+        "_score" : 59.826187,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Integrated SOlution to enhance COLD chain and logistic tracking ScenarioTransport  Logistic TL sector has experienced a fast expansion in the last decade the temperature controlled supply chain represents a high value added segment that is experiencing a continuous push for service quality Regulators all over the world are constantly introducing more demanding recommendations eg the recent Good Distribution Practise  EU C34301 2013  for the pharmaceutical products On the other hand the high cost of monitoring tracking information and temperature data during transports and the absence of structured ICT solutions to aggregate operative information efficiently risk frustrating regulators effortInnovationERPlan developed a comprehensive ICT solution able to collect and aggregate information from TL operations including track  trace and temperature data that allow the users to have a complete and updated status of deliveries an historical records depot for regulation compliance and a platform to distribute data to its stakeholders Moreover the solution provide logistic floor and mobile systems equipped with state of art RFID technology to minimize impact of data acquisition procedures on workforce efficiencyTarget MarketTransport and logistic companies working with temperature controlled shipments mainly Pharma  Food sectors are all potential users of the solution as well as their stakeholders Pharma  food producers retailers etc with a focus companies operating in last mile delivery scenario mostly SMEsPhase I Objectives To define the investment and the effort that the company should undertake to penetrate efficiently the European market To validate the ability of the solution to bring economical return to the company into a defined period in order to evaluate sustainability of the business plan To quantify the impact of the solution on standard transport  logistic scenarios to create appropriate selling tools Produce a sustainable marketing strategy to enter the European market",
+          "Rcn" : "196653",
+          "Acronym" : "ISO-COLD"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "took" : 109,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 591,
+    "max_score" : 67.656395,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10397",
+        "_score" : 26.226124,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Transforming Transport Big Data will have a profound economic and societal impact in the mobility and logistics sector which is one of the mostused industries in the world contributing to approximately 15 of GDP Big Data is expected to lead to 500 billion USD in value worldwide in the form of time and fuel savings and savings of 380 megatons CO2 in mobility and logistics With freight transport activities projected to increase by 40 in 2030 transforming the current mobility and logistics processes to become significantly more efficient will have a profound impact A 10 efficiency improvement may lead to EU cost savings of 100 BEUR Despite these promises interestingly only 19  of EU mobility and logistics companies employ Big Data solutions as part of value creation and business processesThe TransformingTransport project will demonstrate in a realistic measurable and replicable way the transformations that Big Data will bring to the mobility and logistics market To this end TransformingTransport validates the technical and economic viability of Big Data to reshape transport processes and services to significantly increase operational efficiency deliver improved customer experience and foster new business models TransformingTransport will address seven pilot domains of major importance for the mobility and logistics sector in Europe 1 Smart Highways 2 Sustainable Vehicle Fleets 3 Proactive Rail Infrastructures 4 Ports as Intelligent Logistics Hubs 5 Efficient Air Transport 6 Multimodal Urban Mobility 7 Dynamic Supply Chains The TransformingTransport consortium combines knowledge and solutions of major European ICT and Big Data technology providers together with the competence and experience of key European industry players in the mobility and logistics domain",
+          "Rcn" : "206575",
+          "Acronym" : "TT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13439",
+        "_score" : 23.85815,
+        "_source" : {
+          "identifier" : "H2020DSSC72016",
+          "Text" : "Supporting Cyberinsurance from a  Behavioural Choice Perspective CYBECO will research develop demonstrate evaluate and exploit a new framework for managing cybersecurity risks one that is focusing on cyberinsurance as key risk management treatment CYBECO integrates multidisciplinary research methods from Behavioural Economics Statistics Game and Decision Theory Security Engineering and Behavioral Psychology in order to develop new concepts and models that are combined within a prototype software architecture CYBECO Toolbox 20 CYBECO recognizes that the cyberinsurance domain is not adequately developed partly due to the lack of sufficiently large statistical data sample and partly due to the difficulties customers face when deciding on their cyberinsurance investment options CYBECO will address both these barriers aiming at delivering advances clearly positioned beyond the StateoftheArt We plan to implement a prototype tool that will demonstrate and promote the CYBECO model and concepts We then foresee to perform behavioural experiments to validate current institutional cybersecurity frameworks and to provide relevant policy insights particularly in reference to behavioural nudges in cybersecurity The CYBECO consortium is composed by complementary partners coming from the addressed research technological and market domains that have a proven track record of high quality research capacity Thus the carefully structured workplan embodies a holistic approach towards meeting the CYBECO objectives and delivering marketrelevant outcomes of significant exploitation potential",
+          "Rcn" : "210232",
+          "Acronym" : "CYBECO"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3880",
+        "_score" : 23.513369,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Mobile Positioning Data as a Source for Aggregated Human Mobility Statistics Mobile positioning data can increase our understanding of movements in society and for businesses it helps map the locations of its customers In an industry worth 11 billion in a few short years there are few competitors Positium positions itself between the client and mobile network operator to analyze Big Data of mobile phone locations providing clients with faster and more costeffective analysis based on a large population rather than a sampleThere are multiple domains where such data is directly relevant The objective of the business plan is to conduct domainspecific market research assess the requirements for development of the technology and specify the business model for Positium Data Mediator  a product to extract process and deliver the insights from mobile big data to users globally At current stage Positium Data Mediator works in Estonia in domains like urban planning transportation planning geomarketing tourism statistics Positium is transforming from a global market leader in its home market to a global player in multiple markets in the EU and emerging countriesThe business plan will be vital to narrow down the focus for expansion and determine strategies to pick the lowhanging fruit In the business plan the selection of domains geographical regions and development requirements will be investigated using surveys and interviews among potential customers market research and financial calculations The outcome of the business plan is a recommendation on the geographic expansion business model and the need for technology development and a business plan",
+          "Rcn" : "197167",
+          "Acronym" : "MOBPOSSTAT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10232",
+        "_score" : 23.369127,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "PrEstoCloud  Proactive Cloud Resources Management at the Edge for Efficient RealTime Big Data Processing PrEstoCloud project will make substantial research contributions in the cloud computing and realtime data intensive applications domains in order to provide a dynamic distributed selfadaptive and proactively configurable architecture for processing Big Data streams In particular PrEstoCloud aims to combine realtime Big Data mobile processing and cloud computing research in a unique way that entails proactiveness of cloud resources use and extension of the fog computing paradigm to the extreme edge of the network The envisioned PrEstoCloud solution is driven by the microservices paradigm and has been structured across five different conceptual layers i Metamanagement ii Control iii Cloud infrastructure iv CloudEdge communication and v Devices layers This innovative solution will address the challenge of cloudbased selfadaptive realtime Big Data processing including mobile stream processing and will be demonstrated and assessed in several challenging complementary and commerciallypromising pilots There will be three PrEstoCloud pilots from the logistics mobile journalism and security surveillance application domains The objective is to validate the PrEstoCloud solution prove that it is domain agnostic and demonstrate its addedvalue for attracting early adopters thus initialising the exploitation process early on",
+          "Rcn" : "206360",
+          "Acronym" : "PrEstoCloud"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1133",
+        "_score" : 22.869328,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Modelling the European data economy The Modelling the European Data Economy EuDEco project will assist European science and industry in understanding and exploiting the potentials of data reuse in the context of Big and Open Data big data The aim isto establish a self sustaining data market and thereby increase the competitiveness of Europe To be able to extract the benefits of data reuse it is crucial to know how to understand the underlying economic societal legal and technological framework conditions and challenges to build useful applications and services Despite the amount of activities in this domain an effort is missing to develop use cases and business models that are economic viable legally certain and taking societal needs and concerns into accountEuDEco will accomplish this by leveraging the engagement of other projects conducting pilots on data reuse as well as by the engagement of external experts and stakeholders EuDEco moves beyond the classical approaches by applying the approach of complex adaptive systems to model the data economy in order to indentify value networks use cases and business models for data reuse In the course of the project will develop and refine the data economy model in several steps further by case studies on previous pilots on data reuse by indepth analysis from legal socioeconomic and technological point of view and by extensive tests of use cases and business models with other projects Therefore it will analyse framework conditions relevant and challenges related to data reuse and the emergence of a selfsustaining data marketFinally EuDEco will deliver a model of the data economy including viable use cases and business models as well as suggestions and recommendations addressing the main legal contractual societal and technological concerns and challenges such as contractual framework or data protection Above that EuDEco will develop an observatory for policy makers enabling them to track the development of the data economy",
+          "Rcn" : "194301",
+          "Acronym" : "EuDEco"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "212",
+        "_score" : 22.050642,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "Multisource Big Data Fusion Driven Proactivity for Intelligent Mobility Transportation sector undergoes a considerable transformation as it enters a new landscape where connectivity is seamless and mobility options and related business models are constantly increasing Modern transportation systems and services have to mitigate problems emerging from complex mobility environments and intensive use of transport networks including excessive CO2 emissions high congestion levels and reduced quality of life Due to the saturation of most urban networks innovative solutions to the above problems need to be underpinned by collecting processing and broadcasting an abundance of data from various sensors systems and service providers Furthermore such novel transport systems have to foresee situations in near real time and provide the means for proactive decisions which in turn will deter problems before they even emerge Our vision is to provide the required interoperability adaptability and dynamicity in modern transport systems for a proactive and problemfree transportation system OPTIMUM will establish a largely scalable distributed architecture for the management and processing of multisource bigdata enabling continuous monitoring of transportation systems needs and proposing proactive decisions and actions in an semi automatic way OPTIMUM follows a cognitive approach based on the Observe Orient Decide Act loop of the big data supply chain for continuous situational awareness OPTIMUMs goals will be achieved by incorporating and advancing state of the art in transport and traffic modeling travel behavior analysis sentiment analysis big data processing predictive analysis and realtime eventbased processing persuasive technologies and proactive recommenders The proposed solution will be deployed in reallife pilots in order to realise challenging use cases in the domains of proactive improvement of transport systems quality and efficiency proactive charging for freight transport and Car2X communication integration",
+          "Rcn" : "193380",
+          "Acronym" : "OPTIMUM"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "16413",
+        "_score" : 21.677326,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "Prediction and optimisation platform for the mobile assets management Everysens a French SME company expert in IoT and Software as a Service SaaS solutions for the traceability and logistic sectors proposes the next generation of intelligent based tracking solution for the market niches that face the challenges of mobile assets management More precisely this project targets business holding or renting highvalue assets such as construction and public work equipment dumpster of waste and transport and logistic companies eg rail freight logistics Today most mobile tracking systems are addressed to motorised mobile assets and do not have enough autonomy to operate on nonmotorised items as wagons or dumpsters They ensure a so called continuous tracking which practically is limited to sending periodic alerts with no realtime tracking and are not based on intelligent analysis and statistics that allows forecasting Besides current technologies experiment from inefficient data transmission coverage challenges in remote areas and high energy consumption for the sensors Everysens will offer them OMNISCIENT a prediction SaaS platform based on bespoke artificial intelligence not only for inventory but also to allow the realtime mobile asset localisation management and accurate forecasting and planning to enhance operational efficiency of our clients and increase their revenues Our technology presents a data transmission reliability of 98 and its modular structure allows to easily apply different business rules for different market applications In this way our customers will be able to contribute to European Initiatives to improve railway competitiveness such as the Shift2Rail Joint Undertaking S2R JU initiative or the Waste Directive Framework to buildup the traceability capacity along the recycling value chain With the commercialization of OMNISICIENT Everysens expects 103 million of accumulated revenues in 2024 which will require to dimension the company structure with 40 additional employees",
+          "Rcn" : "213660",
+          "Acronym" : "OMNISCIENT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "16648",
+        "_score" : 21.296366,
+        "_source" : {
+          "identifier" : "H2020ICT20171",
+          "Text" : "Big Data Value Spaces for COmpetitiveness of European COnnected Smart FacTories 40 EFFRA recommendations on Factories 40 and Beyond Sept 2016 clearly stated the need for development of large scale experimentation and demonstration of datadriven connected smart Factories 40 to retain European manufacturing competitiveness BOOST 40 will address this need by demonstrating in a measurable and replicable way an open standardised and transformative shared datadriven Factory 40 model through 10 lighthouse factories BOOST 40 will also demonstrate how European industry can build unique strategies and competitive advantages through big data across all phases of product and process lifecycle engineering planning operation production and aftermarket services building upon the connected smart Factory 40 model to meet the Industry 40 challenges lot size one distributed manufacturing operation of zero defect processes  products zero break down sustainable operations agile customerdriven manufacturing value network management and human centred manufacturing Our chief objectives include 1 Establish 10 big data lighthouse smart connected factories VW FILL AutoEuropa GF FIAT Phillips Volvo GESTAMP Benteler Whirlpool 2 Provide the RAMI 40 and IDS based BOOST 40 open EU framework and governance model for both services and data assets 3 Put together methodologies assets models and communities in order to maximise visibility mobilization replication potential and impact business financial standardization of BOOST 40The investment leveraging factor of BOOST 40 will be well above the 41 ratio up to 101 In terms of exploitation in 5years horizon after the project end just only the participating lighthouse factories will make a direct followon investment above 33Meuro ROI 1061 while the commercialisation of the BOOST 40 products in the market is expected to generate some 96Meuro cumulative profits  ROI 473 for the rest of the partners",
+          "Rcn" : "213926",
+          "Acronym" : "BOOST 4.0"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14287",
+        "_score" : 20.701643,
+        "_source" : {
+          "identifier" : "H2020MG2017SingleStageINEA",
+          "Text" : "Leveraging Big Data to Manage Transport Operations Big data has opened a wide spectrum of opportunities in the field of transport research Observing the recent emergent interest in the application of big data within transport as well as the extended scope of its applications it is evident that most of the challenges have yet to be addressedLeveraging Big Data to Manage Transport Operations LeMO project will explore the implications of the utilisation of big data to enhance the economic sustainability and competitiveness of European transport sector The project will study and analyse big data in the European transport domain in particular with respect to five transport dimensions mode sector technology policy and evaluation LeMO will accomplish this by conducting a series of case studies in order to provide recommendations on the prerequisites of effective big data implementation in the transport fieldThrough case studies LeMO will investigate methodological technological governmental and institutional issues which in turn contribute to evidencebased decision making LeMO will supplement these case studies with a horizontal analysis that identifies the barriers and limitations of the transportation system to exploit big data opportunities In collaboration with strong advisory and reference group and expert stakeholders LeMO will devise and develop research and policy roadmap that will provide incremental steps necessary towards data openness and sharing to make transport safer more efficient and more sustainable Notably LeMO will bring crucial issues linked to privacy data security and legal aspects to the forefront paving the way for future legal framework for the collection and exploitation of big data in transportFurthermore LeMO will disseminate project findings to a large population of stakeholders including transport authorities and industries leading to better understanding of travellers and consumers behaviour targeted information and identify policy interventions",
+          "Rcn" : "211234",
+          "Acronym" : "LeMO"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5505",
+        "_score" : 20.645853,
+        "_source" : {
+          "identifier" : "H2020EO2015",
+          "Text" : "Platform for wildlife monitoring integrating Copernicus and ARGOS data EO4wildlife main objective is to bring large number of multidisciplinary scientists such as biologists ecologists and ornithologists around the world to collaborate closely together while using European Sentinel Copernicus Earth Observation more heavily and efficientlyIn order to reach such important objective an open service platform and interoperable toolbox will be designed and developed It will offer high level services that can be accessed by scientists to perform their respective research The platform front end will be easytouse access and offer dedicated services that will enable them process their geospatial environmental stimulations using Sentinel Earth Observation data that are intelligently combined with other observation sourcesSpecifically the EO4wildlife platform will enable the integration of Sentinel data ARGOS archive databases and real time thematic databank portals including Wildlifetrackingorg Seabirdtrackingorg and other Earth Observation and MetOcean databases locally or remotely and simultaneouslyEO4wildlife research specialises in the intelligent management big data processing advanced analytics and a Knowledge Base for wildlife migratory behaviour and trends forecast The research will lead to the development of webenabled open services using OGC standards for sensor observation and measurements and data processing of heterogeneous geospatial observation data and uncertaintiesEO4wildlife will design implement and validate various scenarios based on real operational use case requirements in the field of wildlife migrations habitats and behaviour These include 1 Management tools for regulatory authorities to achieve realtime advanced decisionmaking on the protection of protect seabird species 2 Enhancing scientific knowledge of pelagic fish migrations routes reproduction and feeding behaviours for better species management and 3 Setting up tools to assist marine protected areas and management",
+          "Rcn" : "199237",
+          "Acronym" : "EO4wildlife"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9056",
+        "_score" : 20.426907,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "LIGHTHOUSE concentrated thermal solar power directly connected to the heating and cooling systems of buildings at the local level The idea of LIGHTHOUSE patented is pretty simple we concentrate the solar power as we used to do when we were playing as children in order to transform the power of the sun into pure heat in high temperature and connect it  to our building heating andor cooling systems and this way reduce the costs up to 60 and protect the environment at the same time LIGHTHOUSE  brings the power of the big solar power plants at every building  at the local level in a financially feasible way allowing collection of solar energy at high temperatures with excellent and reliable performance all year round all day long with maximum efficiency Solar heating and cooling is a key player in the EU energy policy framework especially towards achieving the 2020 targets and European Energy Council describes the  heating and cooling need in buildings at the local level  as a Sleeping Giant LIGHTHOUSE primary target is to reduce the fossil fuels that are burned inside the cities and the electricity consumed from the citys grid for heating and cooling our buildings 49 of the global energy consumption much more efficient than any other solutions like photovoltaic or CPV which produces only electricity and not high quality thermal energy heat that is needed for heating and cooling  The aim of the feasibility study is to identify and select the best materials and components in terms of costeffectiveness and availability by means of a market research then the performance of the key parts  will be evaluated by testing several Fresnel lens key component in parallel a study on the LIGHTHOUSE design will be carried out taking into account issues like safety durability efficiency and aesthetics together with costeffectiveness The systematic collection of results will enable the participating SME to approach Phase2 with a completed prototype design and a first market research done in order to proceed with pilot implementations in Mediterranean countries ",
+          "Rcn" : "205077",
+          "Acronym" : "LIGHTHOUSE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10069",
+        "_score" : 20.208254,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "QROWD  Because Big Data Integration is Humanly Possible Big Data integration in European cities is of utmost importance for municipalities and companies to offer effective information services enable efficient datadriven transportation and mobility reduce CO2 emissions assess the efficiency of infrastructure as well as enhance the quality of life of citizens At present this integration is substantially limited due to the following factors 1 Urban Big Data is locked in isolated industrial and public sectors and 2 The actual Big Data integration is an extremely hard technical problem due to the heterogeneity of data sources variety of formats sizes quality as well as update rates such that the integration requires significant human intervention QROWD addresses these challenges by offering methods to perform crosssectoral streaming Big Data integration including geographic transport meteorological cross domain and news data while capitalizing on human feedback channels The main objectives of QROWD are 1 Facilitating crosssectoral Big Data stream integration for urban mobility including realtime data on individual and public transportation combined with further available sources such as weather conditions and infrastructure information to create a comprehensive overview of the city traffic 2 Supporting participation and feedback of various stakeholder groups to foster datadriven innovation in cities and 3 Building a platform providing hybrid computational methods relying on efficient algorithms complemented with human computation and feedback The main outcomes of QROWD are 1 Two data value chains in the sectors of urban mobility and public transportation using a mix of large scale heterogeneous multilingual datasets and 2 Crosssectoral and crosslingual technology including algorithms and tools covering all phases of the crosssectoral Big Data Value Chain building on W3C standards and capitalizing on a flexible and efficient combination of human and machinebased computation",
+          "Rcn" : "206181",
+          "Acronym" : "QROWD"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10406",
+        "_score" : 19.46088,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "DataDriven Bioeconomy The data intensive target sector selected for the DataBio project is the DataDriven Bioeconomy focusing in production of best possible raw materials from agriculture forestry and fisheryaquaculture for the bioeconomy industry to produce food energy and biomaterials taking into account also various responsibility and sustainability issues DataBio proposes to deploy a state of the art big data platform on top of the existing partners infrastructure and solutions  the Big DATABIO PlatformThe work will be continuous cooperation of experts from end user and technology provider companies from bioeconomy and technology research institutes and of other partners In the pilots also associated partners and other stakeholders will be actively involved The selected pilots and concepts will be transformed to pilot implementations utilizing coinnovative methods and tools where the bioeconomy sector end user experts and other stakeholders will give input to the user and sector domain understanding for the requirements specifications for ICT Big Data and Earth Observation experts and for other solution providers in the consortium Based on the preparation and requirement specifications work the pilots are implemented utilizing and selecting the best suitable market ready or almost market ready Big Data and Earth Observation methods technologies tools and services to be integrated to the common Big DATABIO Platform During the pilots the close cooperation continues and feedback from the bioeconomy sector user companies will be utilized in the technical and methodological upgrades to pilot implementations Based on the pilot results and the new solutions also new business opportunities are expected In addition during the pilots the end user utilizers are participating trainings to learn how to use the solutions and developers also outside the consortium will be activated in the Hackathons to design and develop new tools services and application for the platform",
+          "Rcn" : "206584",
+          "Acronym" : "DataBio"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9900",
+        "_score" : 19.192322,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Scalable Linking and Integration of Big POI data POIs are the content of any application service and product even remotely related to our physical surroundings From navigation applications to social networks to tourism and logistics we use POIs to search communicate decide and plan our actions The Big Data assets for POIs and the evolved POI value chain introduced opportunities for growth but also complexity intensifying the challenges relating to their qualityassured integration enrichment and data sharing POI data are by nature semantically diverse and spatiotemporally evolving representing different entities and associations depending on their geographical temporal and thematic context Pioneered by the FP7 project GeoKnow linked data technologies have been applied to effectively extract the maximum possible value from open crowdsourced and proprietary Big Data sources Validated in the domains of tourism and logistics these technologies have proven their benefit as a costeffective and scalable foundation for the qualityassured integration enrichment and sharing of genericpurpose geospatial dataIn SLIPO we argue that linked data technologies can address the limitations gaps and challenges of the current landscape in integrating enriching and sharing POI data Our goal is to transfer the research output generated by our work in project GeoKnow to the specific challenge of POI data introducing validated and costeffective innovations across their value chain",
+          "Rcn" : "206003",
+          "Acronym" : "SLIPO"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10116",
+        "_score" : 18.666077,
+        "_source" : {
+          "identifier" : "H2020S2RJUOC2016012",
+          "Text" : "Semantic Transformations for Rail Transportation The objective of the proposal is research in semantic ontology based automation of transformations between heterogeneous data formats and its application to a complex aftersales process use case in an actual runtime demonstration scenario The technology will leverage Shift2Rail Interoperability Framework IF components developed in the IT2Rail lighthouse project extending it for use in related Shift2Rail projects under the S2RCFMIP4012015 Shopping booking and ticketing of multimodal travel solutions and S2RCFMIP4022015 Travel companion and tracking services calls  The project will additionally provide a case scenario for exercising the Governance and management structure developed under the related S2ROCIP4012016 IF Governance ensuring its market uptake and sustainability callThe objectives will be achieved through a partnership of specialist participants including research institutions a major European rail operator industry associations representing the rail sector and public transportation authorities and industrial providers of mission critical ICT solutions to the rail sector  Participants which are also involved in the original consortium of designers for the IF in IT2Rail will perform work organised in specific work packages focused on fundamental industrial research in semantic web technologies These technologies will comprise ontology engineering and automated semantic transformations in a dedicated work package to provide the actual runtime demonstration scenario of the application of such technology to transformations of existing European TAPTSI specification exchanges executed on an existing industrial platform for such exchangesThe project extends the capabilities of the IF as described in the Shift2Rail Multi Annual Action Plan contributing to the realisation of a distributed semantic web of transport integrating the TAPTSI specification as one of its elements",
+          "Rcn" : "206228",
+          "Acronym" : "ST4RT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "12082",
+        "_score" : 18.262136,
+        "_source" : {
+          "identifier" : "H2020FETOPEN420162017",
+          "Text" : "Resource AuctiOning Engine for the Mobile Digital MArket The ROMA project builds on the theories of strategic interactions developed in the FET CONGAS project and performs the engineering of a new technology for billing and pricing of mobile network infrastructures under competitive sharing of storage computation power and services The project will apply such concepts to a specific pilot The pilot is a mobile edge computing MEC platform engineered on cloud technology such platform is currently under development at CN and will be scaled and customized to achieve the objectives of the ROMA project ROMA will thus realize modules for the application of advanced network economic concepts to the MEC domain the modules will permit to a Mobile Network Operator MNO to lease the infrastructure to customers for carrier grade premium services ROMA will provide the implementation of the algorithms for pricing and billing and it will also perform in parallel he assessment for the MEC market penetration In turn such kind of technology has great potential to trigger new offers in the digital economy nurturing a rich ecosystem serving the upcoming mobile digital market The project will thus address a technology potentially appealing for several future intermediate actors who can become customers of mobile operators including mobile data brokers mobile application developers advertisers etc In order to ensure maximum visibility the project will deliver also pitches and presentations to industrial venues and fairs in order to promote the technology and will validate the IPR strategy most effective in order to approach the emerging MEC market with maximum impact",
+          "Rcn" : "208749",
+          "Acronym" : "ROMA"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15594",
+        "_score" : 17.962711,
+        "_source" : {
+          "identifier" : "ERC2017STG",
+          "Text" : "Data Assimilation for AgentBased Models Applications to Civil Emergencies Civil emergencies such as flooding terrorist attacks fire etc can have devastating impacts on people infrastructure and economies Knowing how to best respond to an emergency can be extremely difficult because building a clear picture of the emerging situation is challenging with the limited data and modelling capabilities that are available Agentbased modelling ABM is a field that excels in its ability to simulate human systems and has therefore become a popular tool for simulating disasters and for modelling strategies that are aimed at mitigating developing problems However the field suffers from a serious drawback models are not able to incorporate uptodate data eg social media mobile telephone use public transport records etc Instead they are initialised with historical data and therefore their forecasts diverge rapidly from realityTo address this major shortcoming this research will develop dynamic data assimilation methods for use in ABMs These techniques have already revolutionised weather forecasts and could offer the same advantages for ABMs of social systems There are serious methodological barriers that must be overcome but this research has the potential to produce a step change in the ability of models to create accurate shortterm forecasts of social systems The project is largely methodological and will evidence the efficacy of the new methods by developing a cuttingedge simulation of a city  entitled the Dynamic Urban Simulation Technique DUST  that can be dynamically optimised with streaming big data The model will ultimately be used in three areas of important policy impact 1 as a tool for understanding and managing cities 2 as a planning tool for exploring and preparing for potential emergency situations and 3 as a realtime management tool drawing on current data as they emerge to create the most reliable picture of the current situation",
+          "Rcn" : "212715",
+          "Acronym" : "DUST"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15373",
+        "_score" : 17.596636,
+        "_source" : {
+          "identifier" : "H2020SCC2017",
+          "Text" : "Integrated and Replicable Solutions for CoCreation in Sustainable Cities The IRIS project supports the Lighthouse cities of Utrecht NL Gteborg SE and Nice Cte dAzur FR and their Follower cities Vaasa FI Alexandroupolis GR Santa Cruz de Tenerife ES and Focsani RO to address their urgent need to deliver energy and mobility services in their cities that are cheaper better accessible reliable and that contribute to a better and more sustainable urban quality of lifeBy demonstrating smart solutions that integrate energy mobility and ict rooted in a City Innovation Platform IRIS quantifies their value and connects interests of many different stakeholders in innovative business models allowing for upscale and replication of integrated solutions for sustainable cities across Europe and worldwideTo achieve this IRIS works along five Transition Tracks based on common challenges encompassing 16 integrated solutions that cities can mix and match according to their characteristics and district specific needs Track 1 2 and 3 enhance energy efficiency and utilize grid flexibility by balancing supply and demand dynamically and by 2nd life battery and V2G storage to allow increase of renewable energy production and rollout of ecars and ebuses Track 4 supports this by data sharing a common architecture use of standards and governance practices accelerating innovation standardisation and implementation of affordable smart applications Track 5 integrates interdisciplinary citizen engagement and cocreation in Tracks 1 to 4 connecting the needs of endusers with those of other stakeholders in further support of innovative business models The expected impacts of IRIS are an open innovation ecosystem motivating citizens to act as prosumers more effective urban planning and governance of integrated solutions exploitation of validated innovative business models based on multistakeholder collaboration more stable secure and affordable energy and mobility services for citizens with improved air quality",
+          "Rcn" : "212411",
+          "Acronym" : "IRIS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3108",
+        "_score" : 17.485952,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Generation of a business plan for the production of a compact and reliable device able to measure in realtime the cerebral  workload state of high responsibility operators in the transport domain The present proposal aims to generate a business plan related to the realization and commercialization of an already developed prototype able to track in realtime the cerebral workload of aircraft pilots or other operators in the transport domain Such operators could be for instance the Air Traffic Controllers ATCos or those devoted to control the traffic of an high speed train network or subway The developed device named BrainWorkloadReader BWR will be used i during trainingassessment programs to quantify the progress of the learners in terms of amount of cognitive resources requested during simulated or real tasks ii  during the normal daily activities of an operator in order to monitor in real time hisher cerebral workload for traffic control of airplanes trains or cars in specialized control rooms The BWR device consists in a easy wearable cap with 68 electrodes connected in a wireless way to a portable recording systems The already developed prototype has the size of a smartphone and it is able to return information about the level of cognitive workload of the operator eg pilots ATCos etc etc The BWR device has no counterpart actually in the market and its role will be not limited to the transport domain but it is potentially applicable in every situation in the close future in which there will be an operator and a task to be performed This means that it will be possible to measure the level of cerebral effort across different contexts including operators in remote surveillance tasks etc etc Possible applications will be in any environment in which a human has to monitor a system or a process and in which the occurrence of an error due to the excessive operators workload could have significant consequences for the safety of both the operators and other human subjects",
+          "Rcn" : "196279",
+          "Acronym" : "BrainWorkloadReader"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "18238",
+        "_score" : 17.337612,
+        "_source" : {
+          "identifier" : "H2020FETHPC2017",
+          "Text" : "European eXtreme Data and Computing Initiative  2 The project EXDCI2 builds upon the success of EXDCI and will continue the coordination of the HPC ecosystem with important enhancements to better address the convergence of big data cloud and HPC EXDCI2 strategic objectives are a Development and advocacy of a competitive European HPC Exascale Strategy and b Coordination of the stakeholder community for European HPC at the ExascaleEXDCI2 mobilizes the European HPC stakeholders through the joint action of PRACE and ETP4HPC It will promote global community structuring and synchronization in HPC Big Data Cloud and embedded computing for a more competitive related value chain in Europe It will develop a HPC technology roadmap addressing the convergence with HPDA and the emergence of new HPC uses It will deliver application and applied mathematics roadmaps that will pave the road towards exascale simulation in academic and industrial domains It will develop a shared vision for the future of HPC that increases the synergies and prepares for targeted research collaborations EXDCI2 will work to increase the impact of the H2020 HPC research projects by identifying synergies and supporting market acceptance of the resultsAt the international level EXDCI2 will contribute to the international visibility of Europe develop contacts with the world leading HPC ecosystems and increase European impact on HPC standardsEXDCI2 will improve the HPC awareness by developing international event such as the European HPC Summit and by targeting specific audience through dedicated media It will disseminate the achievements of the European HPC ecosystem",
+          "Rcn" : "215826",
+          "Acronym" : "EXDCI-2"
+        }
+      }
+    ]
+  }
+}

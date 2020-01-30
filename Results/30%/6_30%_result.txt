@@ -1,0 +1,256 @@
+{
+  "took" : 17,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 16892,
+    "max_score" : 191.84799,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13898",
+        "_score" : 121.56935,
+        "_source" : {
+          "identifier" : "H2020MG2016TwoStages",
+          "Text" : "Unlocking LargeScale Access to Combined Mobility through a European MaaS Network Following recent megatrends in the mobile and sharing economy and thanks to the latest ITS developments Mobility as a Service is conceived as the way people will move themselves and their goods in the future The as a service paradigm can be a real revolution when it is able to ensure higher continuity among the different means of transport and enable offering combined mobility packages as a viable alternative to fragmented mobility and car ownership  Though some MaaS initiatives have already been tested in Europe they encountered several obstacles in reaching scale and stable business operation IMOVE will learn from such initiatives as UBIGO in Gothenburg or Hannovermobil launched a decade ago in Hannover and will step forward contributing to radically change mobility paradigms bringing in disruptive elements of mobility services Innovative business and technology enablers will be investigated able to concretely put into action accelerate and scale up the MaaS market deployment in Europe ultimately paving the way for a roaming capability for MaaS users at the European level IMOVE research and innovation action is based on investigation development and validation of bottom up novel solutions able to define sound MaaS business models smoothing their efficient and profitable service operation A suite of ITS elements empowering MaaS schemes will be delivered by IMOVE including technology components for realtime collection of finegrained data on mobility user needs habits and preferences as well as components enabling the exchange of information and enhancing seamless interoperability among different MaaS subsystems and multiple MaaS schemes IMOVE solutions will be investigated and validated in 5 European Living Labs currently engaged in or having plans for MaaS development The participation of UITP will ensure active participation of PTAs as well as key private stakeholders from other sites and will further guarantee a multiplier effect",
+          "Rcn" : "210789",
+          "Acronym" : "IMOVE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "16055",
+        "_score" : 99.01514,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "The onestopshop for urban and regional mobility With cities mobility changing rapidly new trends such as sharingeconomy and smartphone penetration and challenges such as densification and pollution commuters are dreading for solutions than can effectively integrate the diverse mobility landscape and improve their travelling experience The Mobility as a Service MaaS concept is as such gaining interest as a solution to increase public and shared transport modalities and offer a smooth commuting However it also brings complexities as many different transport players and stakeholders have to be integrated In response to that we have developed Mobility Services Hub MSH a unique platform that provides the necessary interoperability to allow the different transport stakeholders to collaborate with each other MSHs platform combines all kinds of transport options from different providers and handles everything from travel planning to ticket booking and payments reservations or billing services and supplies reliable realtime data and incident information Moreover MSH will incorporate a Green Loyalty Scheme a greenpoints approach to encourage and reward travellers for using ecofriendly transport modes and health and safety services through a collection points approach Our MSH pilot in Vienna  SMILE was recognised as one of the most innovative projects in The Future of urban Mobility 20 in 2014At MEP we are experts in innovation in mobility and mobile payment Together with our partner Fluidtime a software developing company with over 10 years experience creating tomorrows mobility solutions we envision cities that are smart easy to live in and green The global intelligent mobility market is estimated to grow from its current annual value of 57bn to over 1000bn a year by 2025 a staggering annual growth With MSH MEP will grow x12 times and reach net benefits of 8M by 2022 Our goal is to make MSH the standard supranational registry for all mobility services in Europe",
+          "Rcn" : "213250",
+          "Acronym" : "MSH"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1690",
+        "_score" : 87.08702,
+        "_source" : {
+          "identifier" : "H2020GV2014",
+          "Text" : "Easily diStributed Personal RapId Transit Today transportation both tofrom citycentres and within periurban areas is unsatisfactory in terms of congestion environmental and societal aspects To answer identified needs the Easily diStributed Personal RapId Transit ESPRIT project aims to develop a purposebuilt light weight L6 category electric vehicle that can be stacked together to gain space Thanks to pioneering coupling systems up to 8 ESPRIT vehicles can be nested together in a road train 7 being towed for an efficient redistribution of fleets and a smartlybalanced and cost efficient transport system Within the project 2 user scenarios are foreseen a oneway carsharing system within city centres and a lastkilometre personal mobility system to existing public transport infrastructures in periurban areas These will be tested through 3 different geographical use cases Glasgow Lyon and L LHospitalet de LLobregat near BarcelonaThis innovative transport system concept will be demonstrated to TRL5 though stateoftheart developments of diverse technological bricks including vehicle and road train architecture coupling and guiding systems kinetic and dynamic behaviour management systems efficient energy supply and rapid charge battery strategies To prove the ESPRIT concept the project will also work on modelling and simulation tools to predict once ESPRIT vehicles are deployed the economic social and environmental benefits as well as key operating strategiesThis concept will incite citizens to use public transport and carsharing solutions rather than their private vehicles leading to seamless intermodal transport decongestion significant reduction of noise and air pollution To reach all stakeholders the ESPRIT project will not only rely on its technical expertise but also on the knowledge and network of its end user community represented by several partners as well as the Advisor Board which includes carsharing organisations public authorities and transport operators",
+          "Rcn" : "194859",
+          "Acronym" : "ESPRIT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13988",
+        "_score" : 84.43558,
+        "_source" : {
+          "identifier" : "H2020MG2016TwoStages",
+          "Text" : "Accelerating CITS Mobility Innovation and depLoyment in Europe The CMobILE Accelerating CITS Mobility Innovation and depLoyment in Europe vision is a fully safe  efficient road transport without casualties and serious injuries on European roads in particular in complex urban areas and for Vulnerable Road Users We envision a congestionfree sustainable and economically viable mobility minimizing the environmental impact of road transport CMobILE will set the basis for large scale deployment in Europe elevating research pilot sites to deployment locations of sustainable services that are supported by local authorities using a common approach that ensures interoperability and seamless availability of services towards acceptable end user cost and positive business case for parties in the supply chainThe CMobILE project will produce 7 key results CITS framework defined in partnerships with major stakeholders for proposing key deployment enabling solutions on existing pilot sites including business cases Strategic Research Agenda defined for key researching and innovation areas that promote sustainable CITS deployments and will lead towards automated transport in Europe Assessment including CBA of the cumulative reallife benefits of clustering CITS applications and integrating multiple transport modes in the CITS ecosystem Open secure largescale CITS deployment of new and existing applications demonstrated in complex urban environments interoperable across countries involving large groups of end users Provide an open platform towards CITS sources to support deployment of service concepts on commodity devices validated by developer communities Validated operational procedures for largescale deployment of sustainable CITS services in Europe Released testing methodologies to evaluate the proven impact of CITS architectures and services",
+          "Rcn" : "210916",
+          "Acronym" : "C-MobILE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10527",
+        "_score" : 81.71393,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "A shared mobility OnDemand Service SHOTL wwwshotlcom is an ondemand collective transport service that redefines the daily commute Comprising a fleet of minivans and intelligent routing software SHOTL will enable millions of people living and working in firstmile and lastmile areas to reach their daily destinations offering a convenient and affordable alternative to private carsEvery day around 60M Europeans commute to work by car spending 68 B annually This is the primary cause of road congestion responsible for lost productive time wasted fuel air pollution increased cost of doing business and considerable losses in GDP SHOTL will empower existing public transportation networks by delivering novel routing technology that offers a truly usercentric travel experience easytouse mobile Apps for commuters and drivers and integration with public transit networks for seamless endtoend travel  Our solution is truly unique in the market Other ondemand mobility services carry only 12 people per trip apply surge pricing during peak times and do not effectively reduce congestion SHOTL will be the only solution that effectively combines collective transport a firstrate user experience and affordability eliminating 165K cars from urban roads saving 300K hours of productive time and avoiding nearly 40K tonnes of CO2 emissions annually across Europe by 2022We have completed Alpha tests in a real city environment in Barcelona providing initial validation of our innovations technical performance and our participation in the StartUp4Cities program has demonstrated SHOTLs market potentialIn Phase 1 we will carry out a feasibility study in order to demonstrate SHOTL Alpha to key stakeholders improve the product based on real user needs strengthen our IP protection strategy define our commercialisation strategy and create a detailed business plan that will ensure rapid expansion into key European markets eventually extending to North America and beyond",
+          "Rcn" : "206824",
+          "Acronym" : "SHOTL"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1491",
+        "_score" : 79.40959,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Advanced Analytics for Trip OriginDestination Matrices The planning and management of transport systems requires accurate reliable and updated travel demand information including travellers socioeconomic profile origin and destination of the trips trip purpose transport modes and route choice Traditional data collection methods such as household travel surveys are expensive and require months or even years to complete TripOD is an innovative solution developed by Nommon that mines and analyses a variety of ICTbased data sources eg mobile phone records smart cards alone or in combination with traditional data eg census traffic counts to provide frequently updated and rich demographic and travel demand information in a fraction of the time and cost required by traditional methods The targeted users are those stakeholders in need of travel demand data including public authorities and agencies in charge of transport planning and management public and private transport operators and service providers eg toll road concessionaires consultants and researchers Altogether these users constitute a market of significant size which is expected to grow continuously along the coming decades due to the increasing awareness about the importance of sustainable and efficient transport systems and the costefficiency of the TripOD solution which makes it affordable for public bodies and companies of any sizeThe overall goal of the feasibility study is to assess the technological and economic viability of the proposed concept and elaborate a detailed business plan The specific objectives are to evaluate the technical feasibility of the solution in operational conditions to provide an indepth analysis of the market at worldwide level including users and their needs competitors and entry barriers data providers stakeholders and potential alliances to evaluate financial feasibility to design a strategy to protect intellectual property rights to identify risks and opportunities",
+          "Rcn" : "194660",
+          "Acronym" : "TripOD"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11402",
+        "_score" : 78.028854,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "potential analysis of Ecovs shortdistance realtime carpooling stations relying onroadside connected hardware Cities outskirts generally have less developed public transport networks Thus in these areas the most frequently used means of transport is still the car Ecov aims at tackling this lack of affordable and flexible mobility solution outside of city centres Its concept is based on connected carpooling stations that match drivers in their local car use with passengers looking for a flexible and costsaving journey Existing carpooling solutions have not addressed the problem properly since they either require users to possess a smartphone ask drivers to put in time and efforts to participate not the case for short distance trips or need a critical mass of users to actually work Ecov avoids these issues drivers do not need to register nor do they need to commit to a particular itinerary or schedule The innovation lies in the communication between street terminals road signs and the IT system managing payment between passengers and drivers Currently it is estimated that 5 of the total passengerkilometres pkm could be carpooled locally This means that the market potential is around 133b pkm in France Germany Spain and the United Kingdom combined monetisation at 002km yields a market worth 27b To tap into this potential Ecov has conceived an innovative business model that includes partnerships with local governments and private companies willing to install carpooling stations The former are looking for disruptive costeffective public transport solutions for their remote fringes and the latter face difficulties attracting jobseekers and clients with mobility issues LOCARP4EU will identify the most promising EU countries that have the most potential for Ecovs concept and will adjust the business model to national conditions The proposal meets European objectives by proposing a mobility solution that will contribute to making transport cleaner and more sustainable and will participate in mitigating CO2 emission",
+          "Rcn" : "207988",
+          "Acronym" : "LOCARP4EU"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3215",
+        "_score" : 77.9505,
+        "_source" : {
+          "identifier" : "H2020SMEINST22014",
+          "Text" : "Automation and INtelligence solutions for Automated Road trAnsport systems With an expertise of the highest European level in robotics 10 years of experience in the field of autonomous vehicles and several proofs of concept in operational environment TRL67 RDS spin off of ROBOSOFT is the only European company to master all of the software components allowing Autonomous Road Transport Systems to reach the levels of robustness and reliability required for passenger transportWithout waiting for the legal framework which is being implemented thanks to the efforts of the CityMobil2 project the market study conducted as part of the TAXISAT project revealed that the 1st wave of user demand would emerge in Europe in 2015 for autonomous transport services in pedestrian city centres and private sites such as industrial or theme parks These markets will grow even faster that the vehicle manufacturers Transport Organising Authorities or Operators will be able to adapt their services to future mobility challenges For this they will need key skills in robotics intelligence and fleet management RDS has the means to satisfy them by providing offtheshelf ARTS AUTOMATION and INTELLIGENCE solutions Current solutions are highly customized in an engineering mode and are not compatible with a wider uptake of its technology To take a solid position on the emerging global autonomous vehicles market and acquire an industrial dimension RDS is convinced that best strategy is to deliver Commercial OfftheShelf software packages which will offer recurring revenues and promising growth and profitability prospects thanks to software licences salesThe objective for RDS is now to industrialise its software offer to be fully compliant with the new EU Directive under development and to test the relevance of the associated business model with the ultimate ambition to become a leader in the provision of software solutions for vehicle automation and fleet management for passengers and goods transportation",
+          "Rcn" : "196406",
+          "Acronym" : "AINARA"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "234",
+        "_score" : 74.99139,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "Open social transport network for urban approach to carpooling SocialCar is an Intelligent Transport System based on an innovative approach to transport demand management and more specifically to carpooling in urban and periurban areas SocialCars main objective is devopping a new communication network for intelligent mobility sharing information of carpooling integrated with existing transport and mobility systems It will be achieved by means of powerful planning algorithms and integration in a liveable environment of big data related to public transport carpooling and crowdsourcing in order to provide the final user with a simplified travel experience allowing comparison and choice between multiple optionsservicesSocialCar will take advantage Social Media to communicate share information and  provide the best justintime notifications to the travellersSocialCar will  take advantage of the ever growing connectivity of people and objects and the propagation of Internet services the potential of Future Internet and the availability of GNSS based location and social media to create an integrated mobility service with the potential to sensibly reduce mobility problems of European citizensSocialCar will capitalise on a strong pan European team with a solid background in social psychological and economic sciences the involvement of 10 European urban sites will prove the concepts validity and business case SocialCar General Objectives are to  contribute to the EU2020 targets on energy efficiency and renewable energy sources reducing congestion by improving and maximising connectivity and information in realtime  overcoming the limitations of current carpooling practices moving from long trips to effective urban and periurban use validate green driving support systems active management based on European GNSS identify a suitable big data management architecture for integrating mobility data produce a citybased open integrated mobility repository of public transport and traffic citybased data",
+          "Rcn" : "193402",
+          "Acronym" : "SocialCar"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10118",
+        "_score" : 73.522194,
+        "_source" : {
+          "identifier" : "H2020S2RJUOC2016012",
+          "Text" : "Governance of the Interoperability Framework for Rail and Intermodal Mobility The establishment of good governance will effectively secure the confidence of the industry to use the Interoperability Framework IF semantic technologies that will be established under the IP4 Shift2Rail program The objective of the Governance of the IF for Rail and Intermodal Mobility GoF4R project is to define sustainable governance for the IF that will create the right conditions to introduce seamless mobility services and foster the development of multimodal travel services GoF4R will help to overcome obstacles currently impeding development of market innovation by fostering a large acceptance of the semantic web for transportationThe objectives will be achieved through a partnership of specialist participants including research institutions a major European rail operator industry associations representing the passenger and multimodal transport sectors and public transportation authorities Participants who are also involved in the consortium of designers for the IF will focus on the establishment of sustainable governance that will promote community confidence The governance structure will create the basis for long term stability and controlled future evolution of the IF promoting industry confidence so that it is attractive to invest in future products and servicesThe project encompasses all current and future stakeholders who will exploit the IF as described in the Shift2Rail Multi Annual Action Plan contributing to the realisation of a distributed semantic web of transport integrating the TAPTSI specifications as one of its elementsThe governance models proposed in GoF4R will assure the interests of European travellers by fostering market uptake by mobility service providers It will facilitate new business opportunities for improved mobility and travel related services and improve the incorporation of new stakeholders in the European arena by removing technological administrative and economic boundaries",
+          "Rcn" : "206230",
+          "Acronym" : "GoF4R"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1529",
+        "_score" : 73.191956,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Mobile ticketing system for urban transport For over years integrated ticketing based on Smartphones has been on the agenda of EU transport policy due to his potential for intermodal transport The future challenge of transport sector is to combine all urban transport modes metro bus train on a single ticket facilitating transfer between them and to enable pay per use approach offering novel pricing model to passengersUntil now the only two systems enabling users to pay with Smartphones are based on Quick Response QR code and Near Field Communications NFC technology However none of them can be adopted as mobile eticketing system applicable on a wider scale in Europe QR code pose serious security risks and NFC suffer with lack of interoperability limited versatility and is not supported by Apple iOS the landmark for mobile technology trends The overall objective of the project is to provide novel eticketing based on Bluetooth Low Energy BLE technology This new approach represents a real breakthrough in eticketing systems due to their low cost low consumption ultra rapid connection improved coverage and interoperability of operators and platforms BLE is already incorporated by Apple and most important brands featuring Android are also adopting it The proposed system offer huge number of benefits to all stakeholders involved Bus transport operators will obtain better transport statistics reduced smallcash transaction and reduced fareprocessing time and better passenger throughput Passengers will have more flexible mode choice and easier interchange enhanced ease of use and more flexible choice and easier interchange Authorities will reduce environment impact increase in transport usage and reduce traffic congestions  The objective of this phase 1 is to complete a feasibility study to find out the workability and profitability of the business venture If the result of the feasibility study is positive we will write the Business Plan and we will apply to phase 2",
+          "Rcn" : "194698",
+          "Acronym" : "BLEticket"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "218",
+        "_score" : 73.01459,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "Enhanced real time services for an optimized multimodal mobility relying on cooperative networks and open data Europe would be close to solving problems related to congestion traffic safety and environmental challenges if people vehicles infrastructure and business were connected into one cooperative ecosystem combining integrated traffic and transport management with new elements of ubiquitous data collection and system selfmanagement The main objective is increasing the safety sustainability flexibility and efficiency of road transport systems by taking advantage of cooperative communication and by processing open data related to travel through a cooperative open web based platform and mobile application developed with the purpose of delivering information and services to drivers businesses and Vulnerable Road Users in real time The operative objectives will be to Analyse stakeholders needs incorporating them in the specification of the transport services delivered by the platform Identify transport open data sources of information and harmonizing this data to be used as realtime information Define and implement and fully distributed global architecture to enable cooperative sensing in ITS Leverage the information gathered from vehicular communications GNSS and open data by means of artificial intelligence techniques Develop hybrid networks supporting 80211p and mobile communications which will allow assuring a stable communication channel between vehicles and VRU usually bringing smartphone  Empower drivers to deliver data to the platform by leveraging the information generated by their mobile phones exponentially increasing the information available on traffic status Implement ITS services arranged in the following main areas driver assistance vulnerable users and multimodal dynamic commuter enhanced real time traffic information API and TIMON collaborative ecosystem Design two validation environments a test bed site and another located in an interurban area",
+          "Rcn" : "193386",
+          "Acronym" : "TIMON"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10397",
+        "_score" : 72.79858,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Transforming Transport Big Data will have a profound economic and societal impact in the mobility and logistics sector which is one of the mostused industries in the world contributing to approximately 15 of GDP Big Data is expected to lead to 500 billion USD in value worldwide in the form of time and fuel savings and savings of 380 megatons CO2 in mobility and logistics With freight transport activities projected to increase by 40 in 2030 transforming the current mobility and logistics processes to become significantly more efficient will have a profound impact A 10 efficiency improvement may lead to EU cost savings of 100 BEUR Despite these promises interestingly only 19  of EU mobility and logistics companies employ Big Data solutions as part of value creation and business processesThe TransformingTransport project will demonstrate in a realistic measurable and replicable way the transformations that Big Data will bring to the mobility and logistics market To this end TransformingTransport validates the technical and economic viability of Big Data to reshape transport processes and services to significantly increase operational efficiency deliver improved customer experience and foster new business models TransformingTransport will address seven pilot domains of major importance for the mobility and logistics sector in Europe 1 Smart Highways 2 Sustainable Vehicle Fleets 3 Proactive Rail Infrastructures 4 Ports as Intelligent Logistics Hubs 5 Efficient Air Transport 6 Multimodal Urban Mobility 7 Dynamic Supply Chains The TransformingTransport consortium combines knowledge and solutions of major European ICT and Big Data technology providers together with the competence and experience of key European industry players in the mobility and logistics domain",
+          "Rcn" : "206575",
+          "Acronym" : "TT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1479",
+        "_score" : 72.60659,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Off The Rails Off the Rails is a concept to develop a mobile application that intelligently understands user movement patterns not just in terms of location speed and transport mode Utilising smartphone sensors GPS mapping and game mechanics it will give the user the vectored detail of their daily travels  The unique concept is being developed in the context of Mudlarks worldleading digital public transport game Chromaroma which turns all swipes of a players London travel smartcard into gameplays and achievements promoting sustainable transport use by encouraging nonrush hour travelThe advent and increasing accuracy of geolocation data harnessed with the prevalence of powerful personal mobile devices means we use OTR to make the individual traveller a transport integrator  We can build a platform that attracts these solo integrators and retains them by improving their travel experience at the same time capturing individual journey data That platform can then flip the transport integration problem by addressing it from the user level upBy combining and transferring new and existing knowledge into an innovative disruptive and competitive solution we will enhance the profitability and growth performance of Mudlark an SME We need the funding from this grant to help seize the European and global business opportunity As well furthering our understanding the commercial case our project objectives are to Discover and understand the user needs This will culminate in a framework and design scoping document Test initial technical and tracking assumptions with an enduser group Design the user experience and game using screen and paper prototypes  Produce a detailed report game design document and business planning roadmapWe will conduct a variety of analyses to confirm the viability of our game and justify further external investment specifically Phase 2 funding from this programme",
+          "Rcn" : "194648",
+          "Acronym" : "OTR"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9129",
+        "_score" : 72.07008,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "SFOOT  Development of single fibre data transport system Current trends in IT require increasing data transfer speeds in fixed and mobile networks cloud services and virtualization that all require several high bandwidths communication channels to come closer to the end user This need is not adequately serviced by traditional two fibre data transport systems that are designed to create large backbone country wide transport systems with high number of channelsXenya doo proposes a solution in data communication over optical fibre that will enable cost effective solutions of transporting data for small to medium scale data transport systems that cover short to medium distances The proposal applies to SMEInst0120162017 Open Disruptive Innovation Scheme programmeCompared to the traditional systems that are built on a pair of optic fibres the proposed solution uses a single optic fibreConsequently significant reduction in communication system complexity less equipment simpler design simpler implementation higher reliability effective network operation management is achievedThe economic impact of the solution on lower costs for data transport over optical fibres is evident at first sight but all impacts are quite complex to de defined and have two aspects the cost reduction and the consequent market growth The solution is targeting SMEs as it allows the users to appropriately align the supporting IT and communication technology with the business right performance for affordable costs Estimated time for the development 15 yearsFunds requested 09 million EUR",
+          "Rcn" : "205150",
+          "Acronym" : "SFOOT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "212",
+        "_score" : 71.715614,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "Multisource Big Data Fusion Driven Proactivity for Intelligent Mobility Transportation sector undergoes a considerable transformation as it enters a new landscape where connectivity is seamless and mobility options and related business models are constantly increasing Modern transportation systems and services have to mitigate problems emerging from complex mobility environments and intensive use of transport networks including excessive CO2 emissions high congestion levels and reduced quality of life Due to the saturation of most urban networks innovative solutions to the above problems need to be underpinned by collecting processing and broadcasting an abundance of data from various sensors systems and service providers Furthermore such novel transport systems have to foresee situations in near real time and provide the means for proactive decisions which in turn will deter problems before they even emerge Our vision is to provide the required interoperability adaptability and dynamicity in modern transport systems for a proactive and problemfree transportation system OPTIMUM will establish a largely scalable distributed architecture for the management and processing of multisource bigdata enabling continuous monitoring of transportation systems needs and proposing proactive decisions and actions in an semi automatic way OPTIMUM follows a cognitive approach based on the Observe Orient Decide Act loop of the big data supply chain for continuous situational awareness OPTIMUMs goals will be achieved by incorporating and advancing state of the art in transport and traffic modeling travel behavior analysis sentiment analysis big data processing predictive analysis and realtime eventbased processing persuasive technologies and proactive recommenders The proposed solution will be deployed in reallife pilots in order to realise challenging use cases in the domains of proactive improvement of transport systems quality and efficiency proactive charging for freight transport and Car2X communication integration",
+          "Rcn" : "193380",
+          "Acronym" : "OPTIMUM"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14399",
+        "_score" : 71.29707,
+        "_source" : {
+          "identifier" : "H2020MG2017SingleStageINEA",
+          "Text" : "Shared mobility opporTunities And challenges foR European citieS The goal of STARS is to close the gap between the potential benefits of shared vehicle services with special emphasis on those innovative forms that are enabled by recent technology applications in the transport sector and their real impacts in terms of congestion mitigation environmental footprints and social inclusion that are mediated by both individual preferences and social innovation patterns STARS will achieve this goal by integrating knowledge expertise and research methods from transport engineering environmental psychology and economics thanks to the unique blend of different competences and kinds of organisation within the consortiumThe role of car sharing in improving mobility in European urban areas and providing new business opportunities to the automotive sector will be assessed through an integrated comodality approach where the impact of car sharing on other travel modes public transport active means private cars will be quantified To this effect both business as usual and rupture mobility scenarios will be studied the former referring to future projections of actual trends concerning the diffusion of car sharing in EU countries and the latter to an assessment of its full potential in presence of appropriate policy actions aimed at maximising social benefits These policy actions will be informed by the definition of a decision support toolkit that will allow the identification of the best strategy to implement a car sharing service kind of service to promote rough estimation of the market dimension accompanying measures for competing travel modes business opportunities for different economic actors as a function of the socioeconomic characterisation of the area of the related mobility lifestyles of the policy context and of the related Sustainable Urban Mobility Planning measures and priorities Both guidelines in the form of whatif scenarios and practical examples will be provided",
+          "Rcn" : "211346",
+          "Acronym" : "STARS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6075",
+        "_score" : 71.21936,
+        "_source" : {
+          "identifier" : "H2020MG2015SingleStageA",
+          "Text" : "Action Plan for the future of Mobility in Europe Global socioeconomic and environmental megatrends are urging for a paradigm shift in mobility and transport that involves disruptive technologies and multimodal solutions The individual transport sectors face diverse technical and nontechnical requirements and rather individual sometimes contradicting challenges An action plan for the coherent implementation of innovative transport and mobility solutions in Europe is thus urgently needed and should be sustained by a wide range of societal stakeholders The MOBILITY4EU project will develop such a plan taking into account all modes of transport as well as a multitude of societal drivers encompassing health environment and climate protection public safety and security demographic change urbanisation and globalisation economic development digitalisation and smart system integration In order to obtain a widely supported and consensusbased action plan a MultiActor MultiCriteria Analysis MAMCA methodology will be used to consult a broad stakeholder community representing the main societal actors including vulnerable to exclusion citizens in Europe This stepwise and scientifically sound approach will allow the consortium of the MOBILITY4EU project to involve a large group of stakeholders in the process The participation will be strengthened by a visualisationbased story map process The successful implementation of the vision for the future transport and mobility system of Europe will require a continuous crossmodal and interstakeholder dialogue and collaboration For this purpose will the developed action plan also contain the blueprint for the implementation of a sustainable and continuous European Transport and Mobility Forum beyond the duration of the project eg in the form of a new European Technology Platform The work will be complemented by extensive networking and engagement activities and by dissemination with special focus on young generations and transport users in general",
+          "Rcn" : "199915",
+          "Acronym" : "MOBILITY4EU"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5242",
+        "_score" : 71.11207,
+        "_source" : {
+          "identifier" : "H2020SMEINST12015",
+          "Text" : "Datadriven decisions for intelligent management of public transportation The planning and management of public transport systems is essential for urban decision makers and public and private transport operators The key for the planning of public transport systems is the knowledge of user demand  These data has been traditionally obtained from home surveys that are expensive inaccurate and only show a small sample in a particular moment in time Automatic passenger counting systems are a solution for obtaining more reliable information but the inaccuracy of the current technologies is a drawbackCounterest has developed an innovative solution that will provide decision makers in the public transportation industry with a cheap accurate permanent and accurate realtime travel demand information by means of 3D depth sensors and WiFi signal tracking that will create a predictive model allowing for disruptive features like dynamic scheduling and allocation of resources overcrowding detection and management fare evasion detection OriginDestination matrix generation and the provision of open data on occupancy in realtime by means of an APIThe target users are the public authorities and agencies managing the public transport and the public and private transport operators using bus trams metro and suburban rail The need for a sustainable demandandservice oriented and efficient public transport system indicates that there is a growing market and a significant business opportunity for our solutionWe have deployed pilot installations with London Underground and 4 Barcelona Urban Bus lines that have proven our solutionThe overall goal of the feasibility study is to assess the technological and economic viability of the proposed concept and elaborate a detailed business plan The feasibility assessment will provide us with reliable markettechnicalfinancial information allowing us to take a decision based on evidences and eventually apply for the required funding through SME Instrument Phase 2",
+          "Rcn" : "198881",
+          "Acronym" : "D3IMPACT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3458",
+        "_score" : 70.81341,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Integrated SOlution to enhance COLD chain and logistic tracking ScenarioTransport  Logistic TL sector has experienced a fast expansion in the last decade the temperature controlled supply chain represents a high value added segment that is experiencing a continuous push for service quality Regulators all over the world are constantly introducing more demanding recommendations eg the recent Good Distribution Practise  EU C34301 2013  for the pharmaceutical products On the other hand the high cost of monitoring tracking information and temperature data during transports and the absence of structured ICT solutions to aggregate operative information efficiently risk frustrating regulators effortInnovationERPlan developed a comprehensive ICT solution able to collect and aggregate information from TL operations including track  trace and temperature data that allow the users to have a complete and updated status of deliveries an historical records depot for regulation compliance and a platform to distribute data to its stakeholders Moreover the solution provide logistic floor and mobile systems equipped with state of art RFID technology to minimize impact of data acquisition procedures on workforce efficiencyTarget MarketTransport and logistic companies working with temperature controlled shipments mainly Pharma  Food sectors are all potential users of the solution as well as their stakeholders Pharma  food producers retailers etc with a focus companies operating in last mile delivery scenario mostly SMEsPhase I Objectives To define the investment and the effort that the company should undertake to penetrate efficiently the European market To validate the ability of the solution to bring economical return to the company into a defined period in order to evaluate sustainability of the business plan To quantify the impact of the solution on standard transport  logistic scenarios to create appropriate selling tools Produce a sustainable marketing strategy to enter the European market",
+          "Rcn" : "196653",
+          "Acronym" : "ISO-COLD"
+        }
+      }
+    ]
+  }
+}

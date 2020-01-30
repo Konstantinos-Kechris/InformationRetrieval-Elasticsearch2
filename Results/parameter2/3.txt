@@ -1,0 +1,256 @@
+{
+  "took" : 46,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1191,
+    "max_score" : 69.193695,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "234",
+        "_score" : 27.052433,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "Open social transport network for urban approach to carpooling SocialCar is an Intelligent Transport System based on an innovative approach to transport demand management and more specifically to carpooling in urban and periurban areas SocialCars main objective is devopping a new communication network for intelligent mobility sharing information of carpooling integrated with existing transport and mobility systems It will be achieved by means of powerful planning algorithms and integration in a liveable environment of big data related to public transport carpooling and crowdsourcing in order to provide the final user with a simplified travel experience allowing comparison and choice between multiple optionsservicesSocialCar will take advantage Social Media to communicate share information and  provide the best justintime notifications to the travellersSocialCar will  take advantage of the ever growing connectivity of people and objects and the propagation of Internet services the potential of Future Internet and the availability of GNSS based location and social media to create an integrated mobility service with the potential to sensibly reduce mobility problems of European citizensSocialCar will capitalise on a strong pan European team with a solid background in social psychological and economic sciences the involvement of 10 European urban sites will prove the concepts validity and business case SocialCar General Objectives are to  contribute to the EU2020 targets on energy efficiency and renewable energy sources reducing congestion by improving and maximising connectivity and information in realtime  overcoming the limitations of current carpooling practices moving from long trips to effective urban and periurban use validate green driving support systems active management based on European GNSS identify a suitable big data management architecture for integrating mobility data produce a citybased open integrated mobility repository of public transport and traffic citybased data",
+          "Rcn" : "193402",
+          "Acronym" : "SocialCar"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17190",
+        "_score" : 24.822582,
+        "_source" : {
+          "identifier" : "H2020MG2017TwoStages",
+          "Text" : "New ICT infrastructure and reference architecture to support Operations in future PI Logistics NETworks ICONET will significantly extend state of the art research and development around the PI concept in pursuit of a new networked architecture for interconnected logistics hubs that combine with IoT capabilities and aiming towards commercial exploitation of results ICONET strives to achieve the end commercial goal of allowing shipments to be routed towards final destinations automatically by using collaborative decisions inspired by the information centric networking paradigm and optimizing efficiency and customer service levels across the whole network According to this vision cargo regarded as smart physical packets will flow between hubs based on content of the cargo influencing key commercial imperatives such as cost optimisation routing efficiency and advancing EUs Green agenda  Consequently the consortium are discernibly aimed at three 3 avenues of commercialisation and exploitation from the ICONET innovation specifically targeted in the areas of a Warehousing as a service b Ecommerce fulfillment as a service and c Synchromodality as a servicePI based logistic configurations will be simulated prototyped and validated in the project  Modelling and analysis techniques will be combined with serious game type simulation physical and digital prototyping using living lab LL requirements scenarios and data With analyses and simulations optimal topologies and distribution policies for PI will be determined  The project implementation will be based on a succession of phases of modelling and designprototyping learning and experimentation and feedback and interaction with the wider business community including the ALICE logistics platform as well as members of the partner Associations ESC UIRR and ELUPEG  Through  its Living Labs the project will address under the PI paradigm both Supply Network Collaboration and Supply Network Coordination",
+          "Rcn" : "214637",
+          "Acronym" : "ICONET"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9907",
+        "_score" : 22.624613,
+        "_source" : {
+          "identifier" : "H2020GV2016RTD",
+          "Text" : "ERANET Cofund Electric Mobility Europe In collaboration with the European Commission and the European Green Vehicles Initiative Association European countries and regions will setup an ERANET Cofund to further promote electric mobility in Europe Electric Mobility Europe builds on the experiences networks and results of Electromobility and is designed to take transnational emobility research and policy exchange to the next levelWith a twotrack approach the initiative will link research and policy practice in support of electric mobility at the European levelThe first of two pillars of Electric Mobility Europe will fund innovation projects focussing on the application and demonstration of emobility with the objective of advancing the mainstreaming of the electrification of mobility in Europe The initiative will bring together about 30 million EUR for supporting applied innovation projects including up to 10 million EUR of cofunding provided by the European Commission under Horizon 2020In 2016 the initiative will issue a call for project proposals addressing the key areas of electric mobility1 System integration transport suburban areas2 Integration of urban freight and city logistics in the emobility3 Smart Mobility concepts and ICT applications4 Public transport5 Consumer behaviour and societal trendsIn addition to funding innovation and demonstration projects the ERANET Cofund Electric Mobility Europe will establish a second pillar of activity The network will provide a platform for cooperation and exchange of information and experiences among participating countries and regions In this context knowhow will be shared on setting conducive conditions for the development of electric mobility in Europe eg on charging infrastructure The network will support this by facilitating suitable means of cooperation such as workshops or seminars in order to exchange or coordinate required actions in attunement with the European Green Vehicle Initiative Association",
+          "Rcn" : "206010",
+          "Acronym" : "EMEurope"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "7755",
+        "_score" : 21.316721,
+        "_source" : {
+          "identifier" : "H2020BES2015",
+          "Text" : "Integrated system for realtime TRACKing and collective intelligence in civilian humanitarian missions The enduring humanitarian crisis in the Middle East the unrelenting high levels of violence in Afghanistan and new outbursts of violence in SouthSudan have made 2014 another recordbreaking year for acts of violence against humanitarian aid workers In 2000 41 significant attacks on aid workers were recorded across the globe By 2014 that number had risen to 190 In this 15year period over 3000 aid workers have been killed injured or kidnapped Despite the increasing availability of tracking and monitoring technologies the number of humanitarian workers that fall victim to attacks continues to rise Clearly a novel and innovative approach to tracking and decisionmaking is needed  Information systems for fleet management GPS for navigation and location or RFID tags for inventory management are just a few of the technologies that have changed the humanitarian operations Until now however there is no integrated decision support system that provides realtime analyses from the data streams that are generated by these technologies  This lack of integrated realtime information prevents an understanding of potentially threatening situations increases response times and creates insecure communications all leading to inadequate protection and hampered efficiency and effectivenessThe aim of better protection and more efficient and effective operations can only be achieved by developing technologies along with the policies for their use GPS for example notwithstanding its capability to provide live tracking of vehicles for recovery cannot prevent an ambush or kidnapping Technologies therefore need to go hand in hand with procedures and policies in order to provide useful early warnings to decisionmakers on the ground as well as decision support for scheduling navigation risk management and coordination Policies in other words provide for the essential guidance on how to use the technologies in the field This project will develop humancentred technologies that take into account actual realworld practices of humanitarian aid workers and provide policies for better protection and a more effective and efficient responseBased on principles of Privacy by Design this project will build the iTRACK system an integrated intelligent realtime tracking and threat identification system to improve protection of responders and assets and provide information management and logistics services such as realtime information updates and analyses as well as navigation routing and scheduling iTRACK will achieve this through an interdisciplinary sociotechnical approach which will draw on the latest advances in sensor development GIS security  privacy artificial intelligence information management risk analysis and humanitarian logistics",
+          "Rcn" : "202695",
+          "Acronym" : "iTRACK"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1078",
+        "_score" : 19.949425,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Accelerating Entrepreneurial Learning across European Regions Accelerating Entrepreneurial Learning across European RegionsThere are a number of profound challenges facing the European Union Despite the single market being in existence for quite some time startups and entrepreneurs tend not to think European wide and business scaling is very fragmented The entrepreneurial ecosystem is also fragmented and not joined up between countries Unemployment levels are very high with high rates of over 50 of under25s among Mediterranean countries such as Spain and Greece Entrepreneurship in Europe lags behind the US in terms of effectiveness scale and impact Set in this context the focus of the proposal is to develop more ICT entrepreneurs and this is adopted as the key objectives which is the core outcomes required from the Horizon 2020 ICT 35 call  Specifically this programme sets out to train ICT entrepreneurs to be incubator ready and this is informed by research into current practice in incubators across Europe The Horizon 2020 is an ideal opportunity for Europe to enable a different breed of European ICT entrepreneurs Some of the characteristics of achieving this include the need to spend an appropriate amount of time to allow ICT entrepreneurs develop the commercial skills as well as the technical proposition   This project will develop a network of ICT entrepreneurship creative physical and virtual spaces and coordinate European wide intensive entrepreneurial action training events called Startup Scrums between consortia members with international teams The programme will cultivate a European entrepreneurial mindset and pilot a Born European Enterprise annual event It is recognised that ICT enterprises take time to develop the technology The proposal sets out to engage with 300 ICT students using an intensive training package over 4 months starting with the startup Scrums continuing with virtual support via the EU Virtual Incubator and culminating with the best teams competing in the Born European Enterprise Challenge A key element of the programme is student exchange as well as staff exchange which will enable crossfertilisation This proposal is thematically focused on creating Born European Enterprises and fulfills the three objectives of the Horizon 2020 2014 ICT 35 a b  c call a pan European competition across over 10 MS summer schools Startup Scrums and supporting the creation of new virtual and physical ICT creative spaces Athens  The ICT teams will have opportunities to pursue their new ventures in a number of European incubators within the consortia  The action will combine ICT physical and virtual entrepreneurship spaces which facilitate European collaboration and ongoing support after workshop events",
+          "Rcn" : "194246",
+          "Acronym" : "EU-XCEL"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3458",
+        "_score" : 19.821493,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Integrated SOlution to enhance COLD chain and logistic tracking ScenarioTransport  Logistic TL sector has experienced a fast expansion in the last decade the temperature controlled supply chain represents a high value added segment that is experiencing a continuous push for service quality Regulators all over the world are constantly introducing more demanding recommendations eg the recent Good Distribution Practise  EU C34301 2013  for the pharmaceutical products On the other hand the high cost of monitoring tracking information and temperature data during transports and the absence of structured ICT solutions to aggregate operative information efficiently risk frustrating regulators effortInnovationERPlan developed a comprehensive ICT solution able to collect and aggregate information from TL operations including track  trace and temperature data that allow the users to have a complete and updated status of deliveries an historical records depot for regulation compliance and a platform to distribute data to its stakeholders Moreover the solution provide logistic floor and mobile systems equipped with state of art RFID technology to minimize impact of data acquisition procedures on workforce efficiencyTarget MarketTransport and logistic companies working with temperature controlled shipments mainly Pharma  Food sectors are all potential users of the solution as well as their stakeholders Pharma  food producers retailers etc with a focus companies operating in last mile delivery scenario mostly SMEsPhase I Objectives To define the investment and the effort that the company should undertake to penetrate efficiently the European market To validate the ability of the solution to bring economical return to the company into a defined period in order to evaluate sustainability of the business plan To quantify the impact of the solution on standard transport  logistic scenarios to create appropriate selling tools Produce a sustainable marketing strategy to enter the European market",
+          "Rcn" : "196653",
+          "Acronym" : "ISO-COLD"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15545",
+        "_score" : 19.724964,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2016",
+          "Text" : "Cavitymediated entanglement of trappedion qubit arrays for quantum information processing Longcoherence times highfidelity individualion control and entanglementmediating Coulomb interactions make trappedion qubits a very attractive platform for quantum information processing QIP Entangling gates performed by coupling the internal states of ions in the same potential well via their shared motional mode have recently reached the high fidelities necessary for the implementation of quantum error correction protocols which can enable faulttolerant QIP However scaling this type of gate up to long ion chains 20 ions is not feasible large ion numbers lead to crowding of the motional mode spectrum of the chain eventually preventing addressing of specific modesCavitymediated ionphoton coupling is a promising avenue to scalability Photons emitted into a shared cavity mode can be used as a quantum bus to entangle short ion arrays If implemented between arrays of N ions this photonic interface benefits from an Nfold enhancement of the ionphoton coupling Strong collective coupling has been shown with neutral atoms and 3D ion crystals but has not been performed in a system with individualqubit control and Coulombmediated entanglement capabilitiesProfVuletics MIT group operates a multizone ion trap which holds several linear ion arrays of up to 20 ions each spaced along the trap axis and features an integrated optical cavity Cooperativity measurements indicate that the strongcoupling regime should be achievable with this apparatus for cavitymediated entanglement of arrays as short as 5 ions in length As an MSCA fellow I will use this trap to pursue the first demonstration of cavitymediated entanglement of two spatially separate ion arrays On returning to Oxford I will implement cavityenhanced ionphoton coupling between Sr ions in separate vacuum systems as part of Oxfords drive to build photonicallyinterfaced quantum computing nodes which currently employs inefficient freespace ionphoton coupling techniques",
+          "Rcn" : "212663",
+          "Acronym" : "CMEQIP"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13296",
+        "_score" : 19.279772,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2016",
+          "Text" : """scalaBle and grEen wireleSs coMmunications for a sustAinable netwoRked socieTy The goal of the project is to develop energyefficient and scalable designs for distributed mobile networks operated by renewable energy sources and with very limited signaling overhead and computational complexity  The project will design  wireless networks composed by smart nodes which are able to perform the following tasks	1 Selfconfigure autonomously allocating their own physical layer radio resources through energyefficient feedbackaware and complexityaware radio resource allocation	2 Selfsustain by harvesting energy from renewable and intermittent energy sources such as solar and wind as well as from dedicated radio frequency signals present over the air	             3 Sharing or trading energy with other network nodes in order to prolong the lifetime of nodes which are low on battery and to obtain a more fair energy distribution across the whole networkThe longterm vision of the project is to kickstart a paradigm shift from corecentric throughputoptimized networks towards devicecentric energyoptimized networks The development of autonomous energyindependent and selforganizing wireless networks will enable          a 100 coverage in urban environments in a power efficient manner         b network coverage in remotedeveloping areas where currently it is commercially unattractive to do so These advancements will make the vision of a connected society sustainable almost zeroing the operational expenses related to power and hence revolutionizing the business models for ICT by radically reducing energy costs This will also facilitate the rise of new markets and applications in remote areas which contributes to closing the digital divide between densely populated and scarcely populated or rural areas""",
+          "Rcn" : "210081",
+          "Acronym" : "BESMART"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1731",
+        "_score" : 18.874342,
+        "_source" : {
+          "identifier" : "H2020MG2014SingleStageB",
+          "Text" : "ITS Observatory The proposal is to create an ITS Observatory providing easily accessible and understandable information on Intelligent Transport Systems and their deployment The main objectives of the ITS Observatory are to bridge knowledge fragmentation across Europe support ITS deployment by creating an online inventory of ITS implementations and a dynamic ITS information marketplace and community and provide a convenient onestop ITS shop for the benefit of all stakeholders in the ITS communityThe ITS Observatory will comprise three main elements 1 a database of deployment projects completed or underway 2 a selfservice platform for entering all kinds of ITS content and 3 a dynamic information marketplace to find directly answers and solutions for specific needs  In addition the ITS Observatory will contain insight articles briefing notes fact sheets etc illustrating results of ITS deploymentThe ITS Observatory responds to the call MG72b2014 Towards seamless mobility addressing fragmentation in ITS deployment in Europe of the Mobility for Growth call of the Transport challenge Smart Green and integrated transport of the EU Framework Programme for Research and Innovation Horizon 2020 In particular the ITS Observatory will directly address the objective to Reduce the thematic and geographical knowledge fragmentationThe ITS Observatory will alleviate existing gaps and fragmentation of the European ITS landscape by providing decision makers and related stakeholders with access to reliable understandable and coherent information on outcomes benefits and impacts of existing and ongoing ITS deployment supporting them in developing factbased policy objectives and strategies Through knowledge sharing the ITS Observatory will foster a faster takeup of deployment avoiding reinventing the wheel and previously identified pitfalls and hence leading to larger scale implementation",
+          "Rcn" : "194900",
+          "Acronym" : "ITS OBSERVATORY"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5540",
+        "_score" : 18.40013,
+        "_source" : {
+          "identifier" : "H2020EO2015",
+          "Text" : "Operational Network of Individual Observation Nodes Two trends have recently emerged in space systems and could even further strengthen in the future small satellites with the development of key modularisation and miniaturisation technologies and the deployment of constellations and distributed networks of satellites It is of primordial importance for Europe to properly analyse those trends and determine whether or not they could provide a competitive advantage for Earth Observation EO systems To address those challenges Operational Network of Individual Observation Nodes ONION investigates the distribution of spacecraft functionalities into multiple cooperating nodes leveraging on the emerging fractionated and federated satellite system concepts The proposed concept provides augmentation supplementation and possibilities of new mission for future EO Missions for science and commercial applications ONION objectives1 Review the emerging fractionated and federated observation system concepts2 Identify potential benefits to be obtained in light of observation needs in different Earth Observation domains3 Identify key required technology challenges entailed by the emerging fractionated and federated satellite system concepts to be faced in Horizon 202120274 Validate observation needs with the respective user communities to be fit for purpose in terms of scientific and commercial applications5 To propose an overall strategy and technical guidelines to implement such concepts at Horizon 20212027ONION will confirm the feasibility of the first established concepts to respond to the identified needs through usecases The baseline of the concept consists to supplementing current mission profiles with missing observation bands augmenting mission lifetimes and ultimately sharing the capabilities across multiple spacecraft platforms ONION will enable mission designers and implementers to decide which fractionated and federated concepts will provide competitive imaging from space",
+          "Rcn" : "199272",
+          "Acronym" : "ONION"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "16475",
+        "_score" : 18.190388,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "An ICT decision support system for clinical interpretation of genomic data used by geneticists to rapidly and accurately pinpoint unique diseasecausing variants With the increasing volume of genetic sequences bioinformatics methods data about variants and mutations and research publications clinical interpretation remains a complex and labourintensive task As a result clinical interpretation became the costly piece of genetic testing limiting scale keeping turnaround time high and driving up costs of a test Moreover after the geneticists work is done clinicians still remain with partial insufficient information to base their clinical decisions onEmedgene have developed an ICT platform for clinical interpretation of genomic data The platform continuously scans all public resources and databases available retrieves information from written publications using Natural Language Processing and intelligently integrates the data into unified ontologies It is the first artificial intelligence platform modelled on the behaviour of sophisticated genomic interpreters to automatically pinpoint the unique diseasecausing variants and deliver results with solid evidence and reasoning providing a clear path to clinical decisionsWithin the overall project Emedgene plan to optimise the platforms interpretations capabilities demonstrate and validate it in clinical environments and fully establish the European commercialisation strategy",
+          "Rcn" : "213722",
+          "Acronym" : "Emedgene"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10048",
+        "_score" : 18.18045,
+        "_source" : {
+          "identifier" : "H2020COMPET2016",
+          "Text" : "Integrated 3D Sensors suite The I3DS platform Integrated 3D sensors is a generic and modular system answering the needs of nearfuture space exploration missions in terms of exteroceptive and proprioceptive sensors with integrated preprocessing and data concentration functions It consists in stateofthe art sensors and illumination devices integrated in a coherent architecture as interchangeable building blocks and targeting a vast range of missions such as interplanetary missions formation flying missions noncooperative target capture such as debris removal missions cooperative rendezvous servicing  spacetugs landers rovers etc The architecture of I3DS enables pushing the vision sensors as part of future exploration satellite platforms standard GNC units It enables computing navigation solutions with onboard computers to be available for post2020 missions autonomously from Ground To do so the data throughput provided by the sensors is preprocessed filtering compression correction of distortions by dedicated boards within I3DS I3DS provides also an abstraction of the many electrical interfaces of the sensors by centralising the data flux using dedicated communication nodes The mechanical interface is also simplified through the integration of the different sensors and boards in an integrated moduleThe I3DS design enables easy and lowcost configurations and reconfigurations of a robotic platform for any mission using the modular sensors The I3DS project intends to develop autonomous robotic platforms to achieve a large scope of spatial mission Ultimately three demonstrators will be tested in laboratory thanks to appropriate tests benches and infrastructures in order to demonstrate the INSES concept modularity and performances",
+          "Rcn" : "206160",
+          "Acronym" : "I3DS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "4602",
+        "_score" : 18.118492,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2014",
+          "Text" : "Intercommunal Space in Late Antiquity Educated Europeans hotly debate the position of religion in civil society both in Europe and now in the emerging democracies of the Middle East In so doing they draw on inaccurate assumptions about Mediterranean life in late antiquity which derive from origins myths forged during the Enlightenment or during the 4th7th c itself But recent work on cities in this period has revealed a society more complex than previously supposed religious coexistence as much as conflict was an important reality Yet whilst the history of urban religious space is now being revised there has been little work on intercommunal space which was equally important in defining how different communities lived together Luke Lavan a specialist in the urban archaeology of late antiquity will spend two years in Paris researching this theme resulting in a monograph whilst sharing with scholars and the general public his innovative fieldwork tracing the late occupation of nonreligious space alongside his detailed visualisations of everyday urban life The Centre dHistoire et civilisation de Byzance UMR 8167 Monde Byzantin has an exceptional concentration of specialists in archaeology philology and epigraphy to support the research To this LL will bring skills to enhance the understanding of archaeological excavations and of the everyday details of ancient texts Above all the action will produce a balanced view of late antiquity pointing out its positive contribution as an ancestor of European society to the art of living together despite our differences",
+          "Rcn" : "198201",
+          "Acronym" : "IntercommunalSpace"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10719",
+        "_score" : 18.071068,
+        "_source" : {
+          "identifier" : "H2020MSCARISE2016",
+          "Text" : "Industry 40 for SMEs  Smart Manufacturing and Logistics for SMEs in an Xtoorder and Mass Customization Environment Industry 40 refers to the fourth industrial revolution and technological evolution from embedded systems to cyberphysical systems CPS in production The main objectives of Industry 40 can be summarized as the introduction of intelligent systems in production and logistics the development of highly adaptable and modular manufacturing and logistics systems the integration of sustainable and advanced manufacturing technologies as well as the promotion of automation technology and humanmachine interaction In the context of Industry 40 new ICT and web technologies act as booster or enabler of smart autonomous and selflearning factories facing the challenges of even more individualized and customized product portfolioA great challenge for the future lies in the transfer of Industry 40 expertise and technologies in small and medium sized enterprises SME SMEs represent the backbone of the economy and have an enormous importance in the development programs of the European Union for strengthening the competitiveness of European enterprises Although the high potential of Industry 40 in SMEs the main limit lies in a lack of concrete models for its implementation and application in small and medium enterprises Thus this research project titled Industry 40 for SMEs  Smart Manufacturing and Logistics for SMEs in an Xtoorder and Mass Customization Environment aims to close and overcome this gap through the creation of an international and interdisciplinary research network Identifying the needs and enablers for a smart and intelligent SMEFactory creating adapted concepts and design solutions for production and logistics systems in SMEs and developing suitable organisation and business models will be the three main objectives of this research network The applicability of the results is ensured through a close collaboration with a European small and medium sized enterprise nonacademic partner from mass customization industry",
+          "Rcn" : "207061",
+          "Acronym" : "SME 4.0"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10397",
+        "_score" : 17.830856,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Transforming Transport Big Data will have a profound economic and societal impact in the mobility and logistics sector which is one of the mostused industries in the world contributing to approximately 15 of GDP Big Data is expected to lead to 500 billion USD in value worldwide in the form of time and fuel savings and savings of 380 megatons CO2 in mobility and logistics With freight transport activities projected to increase by 40 in 2030 transforming the current mobility and logistics processes to become significantly more efficient will have a profound impact A 10 efficiency improvement may lead to EU cost savings of 100 BEUR Despite these promises interestingly only 19  of EU mobility and logistics companies employ Big Data solutions as part of value creation and business processesThe TransformingTransport project will demonstrate in a realistic measurable and replicable way the transformations that Big Data will bring to the mobility and logistics market To this end TransformingTransport validates the technical and economic viability of Big Data to reshape transport processes and services to significantly increase operational efficiency deliver improved customer experience and foster new business models TransformingTransport will address seven pilot domains of major importance for the mobility and logistics sector in Europe 1 Smart Highways 2 Sustainable Vehicle Fleets 3 Proactive Rail Infrastructures 4 Ports as Intelligent Logistics Hubs 5 Efficient Air Transport 6 Multimodal Urban Mobility 7 Dynamic Supply Chains The TransformingTransport consortium combines knowledge and solutions of major European ICT and Big Data technology providers together with the competence and experience of key European industry players in the mobility and logistics domain",
+          "Rcn" : "206575",
+          "Acronym" : "TT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14722",
+        "_score" : 17.622484,
+        "_source" : {
+          "identifier" : "H2020FOF2017",
+          "Text" : "Logistics for Manufacturing SMEs L4MS Logistics For Manufacturing SMEs will spark incremental productivity increase of new users by a factor of 4 and system setup time reduction by a factor of 10 and disruptive innovation batch size one  consumerization for over 100000 European Manufacturing SMEs  MidCaps building on their intrafactory logistics challenge 50 of the production cost of an item unleashing their digitalization potential by powering new robot systems that are more cost effective at lower lot sizesL4MS relies upon An open industrial IoT platform with enablers for rapid and efficient deployment of customized logistics solutions A suite of Smartization services including business modelling technical support mentoring access to skills and to finance The L4MS Marketplace a onestopshop where European Manufacturing SMEs  MidCaps will access the L4MS services A portfolio of 23 crossborder Application Experiments by 50 SMEs selected through 2 competitive Open Calls that will test more than 40 services  apps leveraging 10M of public funding across 12 established and emerging Digital Innovation Hubs A growing ecosystem that will foster Smart Specialization in each single region linked to L4MSL4MS will transform a panEuropean ecosystem into a selfsustainable startup operating an Open Platform for Innovations in Logistics OPIL and L4MS marketplace consisting of 21 members Comprising 6 Competence Centres 5 technology providers 4 industry associations 3 endusers and 3 business developers currently engaged in I4MS XS2I4MS HORSE and BEinCPPS and FIWARE plus 6 Satellites Nodes L4MS covers 14 EU countries 15 regions with 8 of them from East EuropeL4MS will help demonstrate that public funded research with a Smartization approach accelerating Industry 40 can help manufacturing SMEs  MidCaps achieve digital excellence and global competitiveness through logistics automation become entrepreneurial states and digital industries",
+          "Rcn" : "211673",
+          "Acronym" : "L4MS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "657",
+        "_score" : 17.55631,
+        "_source" : {
+          "identifier" : "H2020Galileo20141",
+          "Text" : "Galileobased solutions for urban freight transport Urban Freight Transport action relates to find solutions to better manage and monitor freight transport flows and ensure efficient lastmile delivery while maximizing the economic efficiency of urban distribution and minimizing the environmental and social impacts GALENA develops the hardware equipment as well as the information system and the supervision platform needed for the cross supply chain orchestration of a community of shippers involved in urban freight pooling particularly for the lastmile delivery GALENA relies on the development of a robust and GNSSbased liability binding application enabling the different carrier operators to join a Mutualized Transportation Community to timestamp geolocate and formalize as a real authentication their trip as well as any events occurring during the shipping An innovative accurate and affordable hybrid system GalileoRTLS will be developed for this purpose ensuring a seamless robust and continuous handover indooroutdoor localization and continuous realtime reliable accurate and available Position Velocity and Time PVT of carriers and high value parcels An already existing logistics information systems will be adapted to exchange and store shipment authenticated data between all stakeholders ensuring the traceability of goods management of status changes while drawing up an objective review of the sharing of added value between the various stakeholders of a shared supply chain A web service application will be set up for continuously supervising transactions and support to the orchestration decision making process A truly interdisciplinary collaboration between GNSS wireless sensors logistics information systems urban logistics and freight transport experts is set up to meet the objectives The consortium gathers 8 EU partners committed within 2year project to disseminate results towards potential customers and confirm the conditions for a successful larger scale deployment",
+          "Rcn" : "193825",
+          "Acronym" : "GALENA"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15978",
+        "_score" : 17.55433,
+        "_source" : {
+          "identifier" : "H2020ICT20171",
+          "Text" : "Personalized intelligent platform enabling interaction with digital services to individuals with profound and multiple learning disabilities The INSENSION project will create an ICT platform that enables persons with profound and multiple learning disabilities PMLD to use digital applications and services that can enhance the quality of their lives increase their ability to selfdetermination and enrich their lives The target end users of the proposed solution are capable of using only nonconventional nonsymbolic means of interaction with their environment Therefore the platform aims to provide technological means for seamless and adaptable recognition of a range of highly individual nonsymbolic behavioral signals of people with PMLD to detect behavioral patterns happening in the context of specific situations These patterns are translated into the affective intents of the end user their approval or disapproval to the given situation and allow to communicate them to assistive services This way an individual with PMLD gains a possibility to seamlessly influence their living environment through new means of communication with other people changing conditions of their environment or use new types of assistive digital applications The project employs recent advances in a range of ICT disciplines equipping the proposed assistive ICT platform with natural behavior recognition mechanisms based on gesture facial expression and vocalization recognition technologies This is complemented by novel techniques of artificial intelligence and stateoftheart Internet of Things models The research and development of the project is conducted within the inclusive design paradigm with individual with PMLD and their caregivers directly participating in the RD process throughout the whole duration of the project This process links a highly interdisciplinary team of experts of ICT specialists and researchers and practitioners of disability studies and care with due participation of an assistive technology industry representatives",
+          "Rcn" : "213171",
+          "Acronym" : "INSENSION"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "18256",
+        "_score" : 17.257092,
+        "_source" : {
+          "identifier" : "H2020FETOPEN420162017",
+          "Text" : "A Quantitative Approach for Smart Parking Ubiwhere has been commercialising a lowcost seamless and straightforwardtoinstall system entitled Smart Parking composed of vehicledetection electromagnetic sensors and an intelligent software platform to collect and process all the data Through this system parking operators can enhance their ongoing operations by knowing in every instance what is happening and by analysing reports on the behavioural patterns detected by the platform improving their operational and enforcement efficiencyThe potential market of Parking has increased the number of competing solutions in this sector despite the lack of a market leader composed of both ICT startups and wellestablished companies With so many competitors and taking into account that several cities have started to dismantle the spaces reserved for parking in their urban areas Ubiwhere intends to enrich its Smart Parking platform with urban planning capabilities unlocking a new business opportunity and consequently standing out from its competitorsQPARK aims at upscaling the current Smart Parking solution enriching it with a new service feature that enables the generation of reports via a thorough analysis of which areas of the city are more affected by certain events and how that sudden increase in people affects the city traffic and the parking occupancy The FET Open project QUANTICOL will support this whatif analysis by providing the necessary tools and mechanisms to advance in the problem space and provide useful knowledge quicklyQPARK will allow Ubiwhere a software company focused on Smart Cities and Communities to disrupt the global market by enriching its solutions with urban planning capabilities powered by complex adaptative systems developed in QUANTICOL",
+          "Rcn" : "215847",
+          "Acronym" : "QPARK"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9906",
+        "_score" : 17.141642,
+        "_source" : {
+          "identifier" : "H2020EO2016",
+          "Text" : "European Group of Enterprises for a Network of Information Using Space The Copernicus program is today at a cornerstoneThe Sentinel satellites are being deployed Their images associated with Third Party missions data are being used for delivering Copernicus core services results at global European and regional levelsThe European structures EEA ECMWF EMSA  etc and the scientific community are starting to use operationally these data and the results for a better knowledge and understanding of the key landcover stakes and environmental monitoringBut the regional actors who are responsible for managing at least partially landcover and natural resources policies have still difficulties to get access to these data and information and moreover are not in position to combine them with their existing geoinformation systemsA group of five SMEs TerraNIS Spacebel Planetek Terraspatium and Sertit supported by a consulting firm specialized in Space market innovation and organization Cap High Tech are proposing to provide the regional institutional and commercial users with operational information services These services will take the highest benefit from Copernicus outputs for territory monitoring and managementThese SMEs have decided to put in common their complementary skills and products in the frame of a dedicated association called EUGENIUS They will implement regional hubs Geoinformation platforms building the first instance of the EUGENIUS network These regional hubs shall deliver services in the following domainsUrbanization monitoring and management densification preservation of rural and green areas transportation means etcAgriculture areas and activities crop monitoring crop identification and classification potential yield assessment water resources and irrigation etcForest monitoring surfaces trees species classification exploitation status etcassessing and monitoring some natural risks at regional levels flooding landslides and water quality",
+          "Rcn" : "206009",
+          "Acronym" : "EUGENIUS"
+        }
+      }
+    ]
+  }
+}

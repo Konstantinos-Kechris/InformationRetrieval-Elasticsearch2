@@ -1,0 +1,256 @@
+{
+  "took" : 45,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 294,
+    "max_score" : 88.29824,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "234",
+        "_score" : 27.052433,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "Open social transport network for urban approach to carpooling SocialCar is an Intelligent Transport System based on an innovative approach to transport demand management and more specifically to carpooling in urban and periurban areas SocialCars main objective is devopping a new communication network for intelligent mobility sharing information of carpooling integrated with existing transport and mobility systems It will be achieved by means of powerful planning algorithms and integration in a liveable environment of big data related to public transport carpooling and crowdsourcing in order to provide the final user with a simplified travel experience allowing comparison and choice between multiple optionsservicesSocialCar will take advantage Social Media to communicate share information and  provide the best justintime notifications to the travellersSocialCar will  take advantage of the ever growing connectivity of people and objects and the propagation of Internet services the potential of Future Internet and the availability of GNSS based location and social media to create an integrated mobility service with the potential to sensibly reduce mobility problems of European citizensSocialCar will capitalise on a strong pan European team with a solid background in social psychological and economic sciences the involvement of 10 European urban sites will prove the concepts validity and business case SocialCar General Objectives are to  contribute to the EU2020 targets on energy efficiency and renewable energy sources reducing congestion by improving and maximising connectivity and information in realtime  overcoming the limitations of current carpooling practices moving from long trips to effective urban and periurban use validate green driving support systems active management based on European GNSS identify a suitable big data management architecture for integrating mobility data produce a citybased open integrated mobility repository of public transport and traffic citybased data",
+          "Rcn" : "193402",
+          "Acronym" : "SocialCar"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9907",
+        "_score" : 23.876339,
+        "_source" : {
+          "identifier" : "H2020GV2016RTD",
+          "Text" : "ERANET Cofund Electric Mobility Europe In collaboration with the European Commission and the European Green Vehicles Initiative Association European countries and regions will setup an ERANET Cofund to further promote electric mobility in Europe Electric Mobility Europe builds on the experiences networks and results of Electromobility and is designed to take transnational emobility research and policy exchange to the next levelWith a twotrack approach the initiative will link research and policy practice in support of electric mobility at the European levelThe first of two pillars of Electric Mobility Europe will fund innovation projects focussing on the application and demonstration of emobility with the objective of advancing the mainstreaming of the electrification of mobility in Europe The initiative will bring together about 30 million EUR for supporting applied innovation projects including up to 10 million EUR of cofunding provided by the European Commission under Horizon 2020In 2016 the initiative will issue a call for project proposals addressing the key areas of electric mobility1 System integration transport suburban areas2 Integration of urban freight and city logistics in the emobility3 Smart Mobility concepts and ICT applications4 Public transport5 Consumer behaviour and societal trendsIn addition to funding innovation and demonstration projects the ERANET Cofund Electric Mobility Europe will establish a second pillar of activity The network will provide a platform for cooperation and exchange of information and experiences among participating countries and regions In this context knowhow will be shared on setting conducive conditions for the development of electric mobility in Europe eg on charging infrastructure The network will support this by facilitating suitable means of cooperation such as workshops or seminars in order to exchange or coordinate required actions in attunement with the European Green Vehicle Initiative Association",
+          "Rcn" : "206010",
+          "Acronym" : "EMEurope"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14701",
+        "_score" : 22.785917,
+        "_source" : {
+          "identifier" : "H2020SC6REVINEQUAL2017",
+          "Text" : "The HUB for boosting the Responsibility and inclusiveness of ICT enabled Research and Innovation through constructive interactions with SSH research The long term strategic objective of HubIT is to contribute to the high level of European research and innovation and ensure that H2020 funded and further ICT related innovation is responsible inclusive and aimed at reversing inequalitiesThe direct objective of HubIT is to build a hub that will activate and improve constructive and cocreating interactions between SSH and ICT disciplines in developing and implementing a shared vision of inclusive HubIT will activate constructive interactions between the stakeholders forming the RRISSH ecosystem via various network and engagement activities embedded intro the WP structure that have the overall goal of developing a tangible European Framework Model for implementing responsible and inclusive ICT research and innovation The Framework Model is a comprehensive set of jointly developed and used definitions guidelines and tools for enforcing RRI and SSH issues in ICT research and innovation The concept of responsible RI Matrix of the key challenges Tool for assessment of RRI and SSH perspectives in ICT within an organisation Guidelines for responsible ICT RI informed by SSH Best Practice Repository Fact Sheets and Policy briefs Key measurable success indicators  Policy Recommendations Virtual Matching Catalogue HubIT exploitation plan The mechanisms for network building engagement and awareness rising embedded in the WP structure are Advisory Board workshops Expert Group workshops Community building and knowledge sharing  national network events thematic workshops policy SSH researchers and ICT industries workshops Practical collaborations and experimentation  Common Ground Camps Interactive ICT Labs Inclusive HackathonsIn total 35 network activities are implemented and in total 1140 participants HubIT online platform will be the interactive environment where the project tools and services can be accessed in modular visually attractive and dynamic way",
+          "Rcn" : "211652",
+          "Acronym" : "HubIT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14326",
+        "_score" : 22.543476,
+        "_source" : {
+          "identifier" : "H2020NMBPCSA2017",
+          "Text" : "Next generation Technologies for networked Europe Currently most of EU research activities in the area of supply chain has been supported through programmes specifically focusing on some aspects as for example technologies for handling and transportation in ALICE for internal logistics and production networks in EFFRA Integrated platforms for implementing new communication paradigms in ICT platfomrs for industrial symbiosis in SPIRE  The aim of the project is to put in place a crosssectoral and crosstechnological initiative at European level to increase integration between production and distribution proposing research and innovation priorities for the future of supply chain In particular the project will develop a Strategic Research Agenda where the effort of different communities like EFFRA SPIRE ALICE and other ICT are put together to face important challenges like customization and sustainability Most important steps of the project will be i Creating a European network where most important stakeholders will be involved reaching a critical mass of people from all targeted industries and scientific domains by mean of direct actions along the whole project life ii Identifying future industrial scenarios for 2050 through the analysis of the socioeconomic trends and drivers in the market and their impact on innovation  technology development it will be possible to fix some promising scenarios for the future iii Developing a strategic research agenda and a joint action plan on broader innovation policy issues of common interest NEXTNET will be grounded on the analysis of most important European and national roadmaps status of implementation on identification of the most promising enabling technologies for the future industrial scenarios to develop the research and innovation priorities on workshops focus groups brainstorming sessions  with experts and stakeholders from more that 4 supply chains accross Europe",
+          "Rcn" : "211273",
+          "Acronym" : "NEXT-NET"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15949",
+        "_score" : 21.73632,
+        "_source" : {
+          "identifier" : "H2020ICT20171",
+          "Text" : "Supporting European Experts Presence in International Standardisation Activities in ICT StandICTeu defines a pragmatic approach to reinforcing EU expert presence in international ICT standardisation By setting up managing  monitoring a continuous open call StandICTeu will provide a streamlined process supporting the participation  contribution of EU specialists in SDOs  SSOs in the 5 essential building blocks of the Digital Single Market DSM viz cloud computing 5G communications IoT cybersecurity  data technologies Through a Standards Watch StandICTeu maps  monitors the international ICT standards landscape  then liaises with SDOs SSOs  industryled groups identifying gaps  priorities which match EU DSM objectives These will become topics for the continuous open call Engagement will be supported through a series of motivational drivers maximising impact  highlevel commitment to standardisation from a broad stakeholder base Specifying  strategically addressing DSM standardisation challenges StandICTeu analyses how to bolster EUs presence and influence in international ICT standardisation  importantly the business impact on digital transformation on industry  consumers in strategic sectors such as eHealth smart energy intelligent transport systems  advanced manufacturing The Consortium Partners have a history of contributing to ICT Standards arena  consolidating a highly influential international network TrustIT Expert SME in communicating benefits of standards in ICT Fraunhofer SCAI Institute for applied research contributing to development of standards with an active role in different SDOs The Consortium is supported by an Expert Advisory Group of 15 members Main Project outputs are 1 web platform with interactive global ICT standards map  online open call facility 10 ICT standards priority reports 1 continuous open call with 10 bimonthly cycles for applications targeting 1000 proposals 300 specialists supported 50 external evaluators and 8 ICT standards workshops",
+          "Rcn" : "213137",
+          "Acronym" : "StandICT.eu"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9440",
+        "_score" : 21.340456,
+        "_source" : {
+          "identifier" : "H2020ICT2016INT",
+          "Text" : "Enhancing FIWARE collaboration between Europe and Mexico FIWARE Mexico aims at enhancing FIWAREdriven collaboration between EU and Mexico based on the adoption deployment and improvement of FIWARE in Mexico as a framework that will open up new horizons for future cooperation in the ICT domain The Mexican FIWARE Lab node operated by INFOTEC is part of the FIWARE infrastructure which facilitates the use of the FIWARE platform for local innovative players However to bring new Mexican players into the FIWARE arena and create a sustainable collaborative environment between Europe and Mexico it is necessary to set and manage the proper conditions needed to support the pillars of FIWARE in Mexico to go beyond the Lab initiative FIWARE Mexico proposes a new approach to actively and strategically engage all relevant stakeholders in supporting the uptake of FIWARE technologies for sustainable collaboration between EU and Mexico The project will establish Working Groups to engage innovators from the industry research communities and end users such as Smart Cities players in the FIWARE ecosystem In parallel dedicated FIWARE technology training programmes will be implemented for developers integrators and contributors embracing the whole open source community which will facilitate the adoption of FIWARE technologies and the development of applications to be commercialized in Mexico and EU Also FIWARE Mexico will focus on key aspects that until now have only partly been addressed in the EUMexico policy dialogue such as the identification of ICT priorities and FIWARE topics of strategic interest for future RI collaborationThe FIWARE Mexico consortium is in a unique position to leverage the required expertise foster engagement with key players ensure a shared vision encourage networking reach a wide range of policymakers industrial and economic leaders throughout EU and Mexico and mobilize resources towards resultoriented actions that will significantly reinforce the EUMexico collaboration in FIWARE",
+          "Rcn" : "205517",
+          "Acronym" : "FIWARE Mexico"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "7755",
+        "_score" : 21.316721,
+        "_source" : {
+          "identifier" : "H2020BES2015",
+          "Text" : "Integrated system for realtime TRACKing and collective intelligence in civilian humanitarian missions The enduring humanitarian crisis in the Middle East the unrelenting high levels of violence in Afghanistan and new outbursts of violence in SouthSudan have made 2014 another recordbreaking year for acts of violence against humanitarian aid workers In 2000 41 significant attacks on aid workers were recorded across the globe By 2014 that number had risen to 190 In this 15year period over 3000 aid workers have been killed injured or kidnapped Despite the increasing availability of tracking and monitoring technologies the number of humanitarian workers that fall victim to attacks continues to rise Clearly a novel and innovative approach to tracking and decisionmaking is needed  Information systems for fleet management GPS for navigation and location or RFID tags for inventory management are just a few of the technologies that have changed the humanitarian operations Until now however there is no integrated decision support system that provides realtime analyses from the data streams that are generated by these technologies  This lack of integrated realtime information prevents an understanding of potentially threatening situations increases response times and creates insecure communications all leading to inadequate protection and hampered efficiency and effectivenessThe aim of better protection and more efficient and effective operations can only be achieved by developing technologies along with the policies for their use GPS for example notwithstanding its capability to provide live tracking of vehicles for recovery cannot prevent an ambush or kidnapping Technologies therefore need to go hand in hand with procedures and policies in order to provide useful early warnings to decisionmakers on the ground as well as decision support for scheduling navigation risk management and coordination Policies in other words provide for the essential guidance on how to use the technologies in the field This project will develop humancentred technologies that take into account actual realworld practices of humanitarian aid workers and provide policies for better protection and a more effective and efficient responseBased on principles of Privacy by Design this project will build the iTRACK system an integrated intelligent realtime tracking and threat identification system to improve protection of responders and assets and provide information management and logistics services such as realtime information updates and analyses as well as navigation routing and scheduling iTRACK will achieve this through an interdisciplinary sociotechnical approach which will draw on the latest advances in sensor development GIS security  privacy artificial intelligence information management risk analysis and humanitarian logistics",
+          "Rcn" : "202695",
+          "Acronym" : "iTRACK"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15742",
+        "_score" : 20.887592,
+        "_source" : {
+          "identifier" : "H2020MG2017SingleStageRTDMOVE",
+          "Text" : "Accelerating the Path Towards Physical Internet Results from a simulation experiment with top retailers Carrefour and Casino in France and their 100 top suppliers moving from actual practice to a Physical Internet Model showed a potential economic benefit of 32 a 60 reduction of greenhouse gas emissions and a potential of 50 of volume shifted from road to rail Accelerating the Path Towards Physical Internet SENSE  project strategic objective is to accelerate the path towards the Physical Internet PI so advanced pilot implementations of the PI concept are well functioning and extended in industry practice by 2030 and hence contributing to at least 30  reduction in congestion emissions and energy consumptionTo that end SENSE aims to increase the level of understanding of PI concept and the opportunities that brings to transport and logistics By building stronger and wider support of industry public bodies and research worlds towards the PI we may reach consensus and enable coordinated strategic public and private investments in research and innovation embracing Physical Internet that could lead us to a new much more efficient and sustainable paradigmSENSE will 1 enhance and stabilize a solid framework for industry research and public bodies to share advances barriers opportunities and best practices regarding Physical Internet implementation 2 build awareness and raise wide consensus on the Detailed Roadmap towards the Physical Internet developed in the frame of the project 3 Create The Reference Knowledge Platform so the Physical Internet Community has access to recent developments including PI implementation cases assessment industry programs and activities related startups research and innovation projects public initiatives and programs and last but not least 4 assist and support Industry European Commission Member States and Regional Governments in the process of defining high impact research policies to fast track to Physical Internet",
+          "Rcn" : "212876",
+          "Acronym" : "SENSE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "982",
+        "_score" : 20.69299,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "European Network of competencies and platforms for Enabling SME from any sector building Innovative CPS products to sustain demand for European manufacturing SMEs play a key role in European economies they constitute the largest business block and provide the bulk of employment They generate most of the innovative ideas for ICT and CPSenabled IoT products two areas which represent an inflection point for innovators and industry in Europe  EuroCPS is an ambitious project that aims to arm Europe with a network of design centres that will boost and initiate synergies between SMEs major CPSplatforms and CPScompetency providers to capture the emerging markets for IoT products EuroCPS will1 Leverage the existing regional ecosystem across the full value chain from microelectronics smart systems and CPS to high value added products and services and range of expertise and competencies to provide innovators from any sector with an easy path to build innovative CPSenabled systems 2 Act as a onestopshop that provides a critical mass of technologies and competencies by facilitating usersupplier partnerships across valuechains and regions Hence the typical development time of innovative for CPS applications will be significantly decreased through the ease of access to the platforms and coaching by the competence partners within EuroCPS3 Link software system and nanoelectronic industries along the full CPS value chain to demonstrate a new cooperation model evidenced by experiments initiated and led by innovators that translate the rich pool of ideas from end users into implementation of CPS applications made in Europe EuroCPS gathers major European system suppliers and world class research centres and technology providers all rooted in the top European regional ecosystems Based on strong foundations in European and national initiatives EuroCPS will through pan European collaboration and knowledge exchange and access to the strong value chain in this strategic sector significantly reduce development time and certification efforts thus putting Europe at the cutting edge of CPS development and implementation",
+          "Rcn" : "194150",
+          "Acronym" : "EuroCPS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5283",
+        "_score" : 20.58953,
+        "_source" : {
+          "identifier" : "H2020SMEINST12015",
+          "Text" : "Express Delivery endtoend Management System through collaborative intelligence The logistics and transportation sector which amounted 930 billion in 2010 and represents 5 of EUs GDP has a remarkable problem of inefficiency merely 43 according to Eurostar weakening considerably the competitiveness of EUs economyThis lack of efficiency is even greater in the last stage of the delivery process due to what is known as the last mile problem which accounts for most of the inefficiencies in logistics and 28 of the total cost of transportation And it is expected to increase mostly due to the rapid growth of ecommerce services which will represent up to 30 of global transported goods by 2025COLLOGISTICS aims at developing an innovative endtoend Delivery Management System that could achieve up to 50 efficiency improvements in the last mile delivery COLLOGISTICS is based on three novel concepts a collaborative behaviour among members of the delivery fleet b realtime bidirectional communication between the company and the client and c dynamic pricing that will me achieved through the application of cutting edge ICT conceptsThe final objective is to allow express delivery carriers to make a better use of their resources improving revenue and profit margins as well as providing a better service COLLOGISTICS will be commercialized as a Software as a Service and will leverage the rich array of functionalities of the installed base of smartphones GPS Internet connection etc to dramatically reduce adoption costs aiming to make the technology accessible to a mass market to maximize its impactThe feasibility study financed over phase I will help to validate the initial observations performed in Spain and gain a deeper knowledge of the European express delivery market size competitors key users needs and entry barriers as well as the costs of the project and its financial viability",
+          "Rcn" : "198922",
+          "Acronym" : "COLLOGISTICS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13296",
+        "_score" : 20.584599,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2016",
+          "Text" : """scalaBle and grEen wireleSs coMmunications for a sustAinable netwoRked socieTy The goal of the project is to develop energyefficient and scalable designs for distributed mobile networks operated by renewable energy sources and with very limited signaling overhead and computational complexity  The project will design  wireless networks composed by smart nodes which are able to perform the following tasks	1 Selfconfigure autonomously allocating their own physical layer radio resources through energyefficient feedbackaware and complexityaware radio resource allocation	2 Selfsustain by harvesting energy from renewable and intermittent energy sources such as solar and wind as well as from dedicated radio frequency signals present over the air	             3 Sharing or trading energy with other network nodes in order to prolong the lifetime of nodes which are low on battery and to obtain a more fair energy distribution across the whole networkThe longterm vision of the project is to kickstart a paradigm shift from corecentric throughputoptimized networks towards devicecentric energyoptimized networks The development of autonomous energyindependent and selforganizing wireless networks will enable          a 100 coverage in urban environments in a power efficient manner         b network coverage in remotedeveloping areas where currently it is commercially unattractive to do so These advancements will make the vision of a connected society sustainable almost zeroing the operational expenses related to power and hence revolutionizing the business models for ICT by radically reducing energy costs This will also facilitate the rise of new markets and applications in remote areas which contributes to closing the digital divide between densely populated and scarcely populated or rural areas""",
+          "Rcn" : "210081",
+          "Acronym" : "BESMART"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "16468",
+        "_score" : 20.275818,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "Optimizing Retail Operation With RealTime Customer Activity Intelligence Brick and mortar stores still generate 89 of the total volume of sales in Europe Not knowing lost sales statistics creates a major blind spot Not knowing lost sales statistics might lead to overunderstaffing stores stocking the wrong inventory and missing opportunities due to price or product placement There is a clear need for lost sales based business intelligence that gives store managers the agility to optimize resources and maximize sales They need lost sales and sales information to detect trends early and be proactive Our technology SENSEI enables retailers to gather lost sales data and merge it with their sales data by using every store as a customer research lab allowing the development of effective customercentric strategies SENSEI is built on 1 computer vision 2 sensors and 3 instore devices and is able to provide precise information about how each visitor is interacting with the store space even if they dont buy We have identified our target market as the fashion and apparel retail chains where store footprints are small when compared with grocery highly scalable due to multiple heavily standardized stores and with a strong need and appetite to invest in data analytics and business intelligence Smart cities involve optimizing information technology to better understand our infrastructures and the behaviors of people and to be able to make informed decisions that meet the needs of citizens institutions and companies with a view to the community and sustainable development SENSEI does exactly that for stores In the long run our technology will definitely contribute to Smart Cities on a larger scale The founders vision when creating SENSEI was to fill a gap in the market and that is destined to create real smart stores They believe with high certainty that both market share and revenue projections will be achieved within the projected time frame We are already using SENSEI with a series of pilot users",
+          "Rcn" : "213715",
+          "Acronym" : "SENSEI"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6368",
+        "_score" : 20.147312,
+        "_source" : {
+          "identifier" : "H2020Galileo20151",
+          "Text" : "Low Cost GNSS and Computer Vision Fusion for Accurate Lane Level Navigation and Enhanced Automatic Map Generation Lanelevel positioning and map matching are some of the biggest challenges for navigation systems Although vehicle telematics provide services with positioning requirements fulfilled by lowcost GNSS receivers more complex road and driver assistance applications are increasingly been deployed due to the growing demand These include lanelevel information as well as lanelevel navigation and prioritised alerts depending on the scenario composition traffic sign navigation instructions ADAS instructions These applications need a more accurate and reliable positioning subsystem A good example of these new requirements can be witnessed in the increasing interest in navigation at lanelevel with applications such as enhanced driver awareness intelligent speed alert and simple lane allocation As well as the accuracy of positioning data being a big driver there is also a question around the adaptability of navigation systems to these applications This depends firstly on the availability of an accurate common reference for positioning an enhanced map and secondly on the level of the provided pose estimation integrity However neither the current road maps nor the traditional integrity parameters seem to be well suited for these purposes Delivering lanelevel information to an invehicle navigation system and combining this with the opportunity for vehicles to exchange information between themselves will give drivers the opportunity to select the optimal road lane even in dense traffic in urban and extraurban areas Every driver will be able to choose the appropriate lane and will to be able to reduce the risks associate with lastmoment lanechange manoeuvres inLane proposes new generation lowcost lanelevel precise turnbyturn navigation applications through the fusion of EGNSS and Computer Vision technology This will enable a new generation of enhanced mapping information based on crowdsourcing",
+          "Rcn" : "200219",
+          "Acronym" : "INLANE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "838",
+        "_score" : 20.096628,
+        "_source" : {
+          "identifier" : "H2020EUJ2014",
+          "Text" : "FEderated interoperable SmarT ICT services deVelopment And testing pLatforms The development of the Internet of Things is set to have a strong impact on many aspects of society Testbeds and experimental facilities both of small scale and up to city scale will be an essential enabler to facilitate the development of this vision Facilitating the access to these testbeds to a large community of experimenters approach is a key asset to the development of a large and active community of application developers necessary to address the many challenges faced by European and Japanese societies FESTIVAL projects vision is to provide IoT experimentation platforms providing interaction facility with physical environments and endusers where experimenters can validate their Smart ICT service developments in various domains such as smart city smart building smart public services smart shopping participatory sensing etc FESTIVAL testbeds will connect cyber world to the physical world from large scale deployments at a city scale to small platforms in lab environments and dedicated physical spaces simulating reallife settings Those platforms will be connected and federated via homogeneous access APIs with an Experimentation as a Service EaaS model for experimenters to test their added value services There have been long years of research work in Europe and Japan on federation of testbeds and more recently on IoT testbeds FESTIVAL will as much as possible make reuse of existing software and hardware available in Europe and in Japan for building such testbeds Mutually applying European enablers for Japanese testbeds and vice versa in reallife trials that the project will organize FESTIVAL will bring have a strong impact in bridging the gap among the aforementioned component technologies FESTIVAL as a common testbed infrastructure for efficient communication and collaboration among stakeholders will push European and Japanese IoT testbeds and their practices one step beyond the current state of the art",
+          "Rcn" : "194006",
+          "Acronym" : "FESTIVAL"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "18256",
+        "_score" : 20.007069,
+        "_source" : {
+          "identifier" : "H2020FETOPEN420162017",
+          "Text" : "A Quantitative Approach for Smart Parking Ubiwhere has been commercialising a lowcost seamless and straightforwardtoinstall system entitled Smart Parking composed of vehicledetection electromagnetic sensors and an intelligent software platform to collect and process all the data Through this system parking operators can enhance their ongoing operations by knowing in every instance what is happening and by analysing reports on the behavioural patterns detected by the platform improving their operational and enforcement efficiencyThe potential market of Parking has increased the number of competing solutions in this sector despite the lack of a market leader composed of both ICT startups and wellestablished companies With so many competitors and taking into account that several cities have started to dismantle the spaces reserved for parking in their urban areas Ubiwhere intends to enrich its Smart Parking platform with urban planning capabilities unlocking a new business opportunity and consequently standing out from its competitorsQPARK aims at upscaling the current Smart Parking solution enriching it with a new service feature that enables the generation of reports via a thorough analysis of which areas of the city are more affected by certain events and how that sudden increase in people affects the city traffic and the parking occupancy The FET Open project QUANTICOL will support this whatif analysis by providing the necessary tools and mechanisms to advance in the problem space and provide useful knowledge quicklyQPARK will allow Ubiwhere a software company focused on Smart Cities and Communities to disrupt the global market by enriching its solutions with urban planning capabilities powered by complex adaptative systems developed in QUANTICOL",
+          "Rcn" : "215847",
+          "Acronym" : "QPARK"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6549",
+        "_score" : 19.830458,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Understanding Collective Awareness Platforms with the Maker Movement Powerful tools provided by ICT software and hardware have revolutionised and many would claim democratised publishing broadcasting and communications Now the same is happening to manufacturing as tangible objects are created and designed as virtual bits which can be shared globally but then reproduced as things which manifest themselves locally This is the maker movementMAKEIT will study maker communities both through ten different case studies and innovation action research to enhance their use of Collective Awareness Platforms CAPs CAPs support maker communities and networks to innovate design and make physical products based on peer collaboration and sharing MAKEIT in which key maker platforms technology firms and citizen communities participate will focus on three perspectives organisation and governance of the communities their peer and collaborative activities and behaviour and their economic and societal value and impact Together the findings will inform recommendations for the maker movement itself and its implementation through CAPs and be made assessable to many other CAPs uses in areas like health education and transport MAKEIT will also offer strategic advice for industry and give recommendations for nationallevel and European policy makersA better understanding of how CAPs are central to the maker movement will enable more sustainable production and consumption patterns by generating awareness and by leveraging peer pressure for better lifestyles through behavioural and system change It will also contribute directly to constructing a more circular economy by stimulating resource efficiency reusing materials and energy and redesigning production processes to move towards zero waste CAPssupported maker communities can create new types of jobs and new ways of working both bottomup and linking to smart industry which are widely distributed across society both geographically and amongst the population",
+          "Rcn" : "200424",
+          "Acronym" : "MAKE-IT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9906",
+        "_score" : 19.82523,
+        "_source" : {
+          "identifier" : "H2020EO2016",
+          "Text" : "European Group of Enterprises for a Network of Information Using Space The Copernicus program is today at a cornerstoneThe Sentinel satellites are being deployed Their images associated with Third Party missions data are being used for delivering Copernicus core services results at global European and regional levelsThe European structures EEA ECMWF EMSA  etc and the scientific community are starting to use operationally these data and the results for a better knowledge and understanding of the key landcover stakes and environmental monitoringBut the regional actors who are responsible for managing at least partially landcover and natural resources policies have still difficulties to get access to these data and information and moreover are not in position to combine them with their existing geoinformation systemsA group of five SMEs TerraNIS Spacebel Planetek Terraspatium and Sertit supported by a consulting firm specialized in Space market innovation and organization Cap High Tech are proposing to provide the regional institutional and commercial users with operational information services These services will take the highest benefit from Copernicus outputs for territory monitoring and managementThese SMEs have decided to put in common their complementary skills and products in the frame of a dedicated association called EUGENIUS They will implement regional hubs Geoinformation platforms building the first instance of the EUGENIUS network These regional hubs shall deliver services in the following domainsUrbanization monitoring and management densification preservation of rural and green areas transportation means etcAgriculture areas and activities crop monitoring crop identification and classification potential yield assessment water resources and irrigation etcForest monitoring surfaces trees species classification exploitation status etcassessing and monitoring some natural risks at regional levels flooding landslides and water quality",
+          "Rcn" : "206009",
+          "Acronym" : "EUGENIUS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3458",
+        "_score" : 19.821493,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Integrated SOlution to enhance COLD chain and logistic tracking ScenarioTransport  Logistic TL sector has experienced a fast expansion in the last decade the temperature controlled supply chain represents a high value added segment that is experiencing a continuous push for service quality Regulators all over the world are constantly introducing more demanding recommendations eg the recent Good Distribution Practise  EU C34301 2013  for the pharmaceutical products On the other hand the high cost of monitoring tracking information and temperature data during transports and the absence of structured ICT solutions to aggregate operative information efficiently risk frustrating regulators effortInnovationERPlan developed a comprehensive ICT solution able to collect and aggregate information from TL operations including track  trace and temperature data that allow the users to have a complete and updated status of deliveries an historical records depot for regulation compliance and a platform to distribute data to its stakeholders Moreover the solution provide logistic floor and mobile systems equipped with state of art RFID technology to minimize impact of data acquisition procedures on workforce efficiencyTarget MarketTransport and logistic companies working with temperature controlled shipments mainly Pharma  Food sectors are all potential users of the solution as well as their stakeholders Pharma  food producers retailers etc with a focus companies operating in last mile delivery scenario mostly SMEsPhase I Objectives To define the investment and the effort that the company should undertake to penetrate efficiently the European market To validate the ability of the solution to bring economical return to the company into a defined period in order to evaluate sustainability of the business plan To quantify the impact of the solution on standard transport  logistic scenarios to create appropriate selling tools Produce a sustainable marketing strategy to enter the European market",
+          "Rcn" : "196653",
+          "Acronym" : "ISO-COLD"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17190",
+        "_score" : 19.794827,
+        "_source" : {
+          "identifier" : "H2020MG2017TwoStages",
+          "Text" : "New ICT infrastructure and reference architecture to support Operations in future PI Logistics NETworks ICONET will significantly extend state of the art research and development around the PI concept in pursuit of a new networked architecture for interconnected logistics hubs that combine with IoT capabilities and aiming towards commercial exploitation of results ICONET strives to achieve the end commercial goal of allowing shipments to be routed towards final destinations automatically by using collaborative decisions inspired by the information centric networking paradigm and optimizing efficiency and customer service levels across the whole network According to this vision cargo regarded as smart physical packets will flow between hubs based on content of the cargo influencing key commercial imperatives such as cost optimisation routing efficiency and advancing EUs Green agenda  Consequently the consortium are discernibly aimed at three 3 avenues of commercialisation and exploitation from the ICONET innovation specifically targeted in the areas of a Warehousing as a service b Ecommerce fulfillment as a service and c Synchromodality as a servicePI based logistic configurations will be simulated prototyped and validated in the project  Modelling and analysis techniques will be combined with serious game type simulation physical and digital prototyping using living lab LL requirements scenarios and data With analyses and simulations optimal topologies and distribution policies for PI will be determined  The project implementation will be based on a succession of phases of modelling and designprototyping learning and experimentation and feedback and interaction with the wider business community including the ALICE logistics platform as well as members of the partner Associations ESC UIRR and ELUPEG  Through  its Living Labs the project will address under the PI paradigm both Supply Network Collaboration and Supply Network Coordination",
+          "Rcn" : "214637",
+          "Acronym" : "ICONET"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13811",
+        "_score" : 19.73271,
+        "_source" : {
+          "identifier" : "H2020ICT20162",
+          "Text" : "Global vision standardisation  stakeholder engagement in 5G Global5Gorg addresses the ICT07 call as the EU led project dedicated to international technology advances in 5G with a focus on standardisation regulations  market verticals  identifying existing gaps in technology A Collaboration web platform will showcase  monitor EU  international initiatives and joint RI programmes with regard to 5G capabilities standardisation verticals  related spectrumGlobal5Gorg analyses the sustainability strategies and identifies new business models considering also private  public investments through pragmatic engagement driversGlobal5Gorg will report on research findings taken to standardisation testing validation to market uptake with a close eye on the vertical markets selected and mapping them into the right stakeholder groupsThe Global5Gorg consortium is domainskilled  complementary TrustIT Expert SME in communicating ICT innovation engaging in ICT standards activities developing ICT tools  gotomarket strategies Aalto university A Finnish multidisciplinary university takes an active role in shaping the 5G research agenda IDC Premier global provider of market intelligence consumer technology market research with over 1100 analysts across the world inno TSD Experts in innovation management  technology transfer international cooperation  EU  US focus on 5G key to involving multiple stakeholder groups An influential External Advisory Group EAG passionate and competent around 5G technology supports the consortiumMain Outputs Continuously updated technology radar  online catalogue  experimental platforms 5G PPP results through a collaboration web platform a permanent international multistakeholder group 3 market gathering workshops 3 int satellite events 6 webinars Roadmap on Int cooperation  standardisation 3 Strategic Research Agendas a Common Reference Model for regulations a sustained international Business oriented Working Group",
+          "Rcn" : "210631",
+          "Acronym" : "global5g.org"
+        }
+      }
+    ]
+  }
+}

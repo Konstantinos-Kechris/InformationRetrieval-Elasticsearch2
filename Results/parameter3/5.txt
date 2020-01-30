@@ -1,0 +1,256 @@
+{
+  "took" : 18,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 2198,
+    "max_score" : 30.021526,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15916",
+        "_score" : 18.911987,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "SOFIE  Secure Open Federation for Internet Everywhere SOFIE addresses the challenges of the call by creating a secure and open IoT federation architecture and framework We use Distributed Ledger Technology DLT including blockchains and interledger technologies to enable actuation auditability smart contracts and management of identities and encryption keys and to enable totally decentralised solutions with virtually unlimited scalabilityWe address the fragmentation of IoT through federation rather than integration Virtually any IoT platform can join the federation by creating relatively simply an adapter Data remains in the respective IoT platforms and is usable by all the applications within the limits set by the applicable security and privacy policiesWe exercise security and privacy by design We provide endtoend security key management authorisation accountability and auditability utilising DLTs where applicable The user shall retain control over their data also after the data have been stored in the Cloud or Fog in an EU GDPR or other regulations compliant mannerWe base our work on existing open standards interfaces and components such as FIWARE W3C Web of Things WoT and oneM2M We will select existing components develop new ones and collect them  together with documentation instructions and examples  into an IoT federation framework for creating administratively decentralised open and secure IoT business platforms from existing IoT platformsWe will demonstrate the practicality of our approach by using it in three pilots in three different sectors food chain gaming and energy market Three business platforms will be realised for the pilots The results of the pilots will be evaluated against the key performance indicatorsWe actively participate in standardisation and disseminate our results through scientific journals conferences and workshops but also the Web social media and developer communities  We also aim to make at least two of the pilots sustainable",
+          "Rcn" : "213097",
+          "Acronym" : "SOFIE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17333",
+        "_score" : 18.216572,
+        "_source" : {
+          "identifier" : "H2020DSSC72017",
+          "Text" : "Advanced CyberThreat Intelligence Detection and Mitigation Platform for a Trusted Internet of Things The CYBERTRUST project aims to develop an innovative cyberthreat intelligence gathering detection and mitigation platform to tackle the grand challenges towards securing the ecosystem of IoT devices The security problems arising from the flawed design of legacy hardware and embedded devices allows cybercriminals to easily compromise them and launch largescale attacks toward critical cyberinfrastructures The proposed interdisciplinary approach will capture different phases of such emerging attacks before and after known even years old or unknown zeroday vulnerabilities have been widely exploited by cybercriminals to launch the attack Emphasis is given on building a proactive cyberthreat intelligence gathering and sharing system to prevent the exploitation of zeroday vulnerabilities This intelligence information will be used to maintain accurate vulnerability profiles of IoT devices in accordance with data protection privacy or other regulations and optimally alter their attack surface to minimise the damage from cyberattacks Novel technologies will be developed based on distributed ledgers and blockchains to monitor devices integrity state and network behaviour that will considerably increase the detection and response capabilities against targeted and interdisciplinary cyberattacks In the case of alleged malicious activity tools for collecting and storing forensic evidence on a tamperproof blockchain structure will be delivered taking into account the specific needs of law enforcement agencies Privacypreserving network monitoring and advanced virtual realitybased visualisation techniques will be employed for quickly detecting botnets DDoS attacks and other incidents Relying on interdisciplinary research an intelligent autonomous cyberdefence framework will be built for providing intelligent ways of isolating the devices under an attackers control or infected and effectively responding to and mitigating largescale attacks",
+          "Rcn" : "214839",
+          "Acronym" : "CYBER-TRUST"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13440",
+        "_score" : 17.035395,
+        "_source" : {
+          "identifier" : "H2020DSSC72016",
+          "Text" : "SafeGuarding Home  IoT  Environments with Personalised  Realtime Risk Control To effectively respond to the multitude  complexity of cybersecurity challenges in smarthomes GHOST deploys a pioneering softwareenabled usable security solution The project brings professional level security to the European citizens and to this end it a increases the automation level  effectiveness of existing security services b opens up the cybersecurity blackbox to consumers creates understanding and builds trust through effortless decision support  advanced usable transparency c enhances the systems selfdefence by safeguarding critical securityrelated data using blockchain technology GHOST software will be embedded in an adequately adapted smarthome network gateway though it will be designed to be vendorindependent A dedicated middleware layer ensures interoperability with multiple gateways  IoT devices GHOST considers the relationship between security and usability to be an integration challenge positive sum game and definitely not a tradeoff zerosum game In this context the project envisions to lead a paradigm shift in consumer cybersecurity by successfully coupling usable security with transparency and behavioural engineering The envisaged user experience will systematically trigger securityfriendly behaviour aiming at establishing appropriate habitual behaviours The solution will perform network analysis  deep packet inspection for suspicious pattern recognition will apply machine learning for malicious behaviour detection will carry out contextaware realtime risk assessment and widely apply analytics  visualization for effortless user comprehension  decision support In short GHOST will i increase cybersecurity resilience ii boost usability  automation and iii enhance the competitiveness of European ICT security industry GHOST will be demonstrated in more than 140 real smarthomes in Spain Norway  Romania via the Red Cross network and beta testers from the customer basis of Televes  ThingsMaze",
+          "Rcn" : "210233",
+          "Acronym" : "GHOST"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17589",
+        "_score" : 15.37289,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2017",
+          "Text" : "Anticipatory design and ethical framework for Distributed Ledger Technologies blockchain or DAG and applications smart contracts IoTs and supply chain The proposed research analyzes the current blockchain paradox also described as a governance crisis in the emerging DLTs Distributed Ledger Technologies as a challenge of connecting prototyping practices with policy analysis and ethical deliberation which is also an important goal for the STS Science Technology and Society studies scholarship reflecting emerging technologies The research will contribute to the fields of Design methods STS scholarship and DLTs development by offering a method for involving stakeholders in the DLT design which combines prototyping reflection and stakeholder panels In this attempt to integrate technology ethics and governance we plan to identify and categorize the assumptions behind various coins and DLTs protocols and reflect upon their connections to current social and political realities The objective is to create test and evaluate an experimental framework described as anticipatory design of DLTs applications which involves the public and various stakeholders directly in the design process rather than only the adoption and implementation of smart contracts This experimental design and policy driven research will and focus on private healthbody data but also sensor data related to the environment as oracles and escrows in the smart contracts over Ethereum and IOTA platforms With anticipatory design of smart contracts we will evaluate the neglected issues of DLTs governance accountability shared responsibility division of powers or solidarity but also ethical principles deontological versus utilitarian rules and laws and future scenarios and use cases smart contracts with AI smart contracts for wearables or IoTs with a focus on environmental sensors",
+          "Rcn" : "215119",
+          "Acronym" : "AnticipatoryLedgers"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "16963",
+        "_score" : 14.929319,
+        "_source" : {
+          "identifier" : "CIP201620172",
+          "Text" : "RESIlience enhancement and risk control platform for communication infraSTructure Operators Communications play a fundamental role in the economic and social wellbeing of the citizens and on operations of most of the CIs Thus they are a primary target for criminals having a multiplier effect on the power of attacks and providing enormous resonance and gains Also extreme weather events and natural disasters represents a challenge due to their increase in frequency and intensity requiring smarter resilience of the Communication CIs which are extremely vulnerable due to the everincreasing complexity of the architecture also in light of the evolution towards 5G the extensive use of programmable platforms and exponential growth of connected devices The fact that most enterprises still manage physical and cyber security independently represents a further challenge RESISTO platform is an innovative solution for Communication CIs holistic situation awareness and enhanced resilience aligned with ECSO objectives Based on an Integrated Risk and Resilience analysis management and improvement process availing all resilience cycle phases prepare prevent detect absorb etc and technical resilience capabilities sense model infer act adopt RESISTO implements an innovative Decision Support System to protect communication infrastructures from combined cyberphysical threats exploiting the Software Defined Security model on a suite of state of the art cyberphysical security components Blockchain Machine Learning IoT security Airborne threat detection holistic audiovideo analytics and services Responsible Disclosure Framework for detection and reaction in presence of attacks or natural disastersThrough RESISTO Communications Operators will be able to implement a set of mitigation actions and countermeasures that significantly reduce the impact of negative events in terms of performance losses social consequences and cascading effects in particular by bouncing efficiently back to original and forward to operational states of operation",
+          "Rcn" : "214347",
+          "Acronym" : "RESISTO"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "12346",
+        "_score" : 14.118049,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2016",
+          "Text" : "Blockchain a new framework for swarm RObotic Systems Swarms of robots will revolutionize many industrial applications from targeted material delivery to precision farming However the characteristics that make them ideal for certain future applications robot autonomy decentralized control collective emergent behavior etc can also be an obstacle when transferring this technology from academic institutions to realworld problems Blockchain an emerging technology originating in the Bitcoin field demonstrates that by combining peertopeer networks with cryptographic algorithms a group of agents can reach an agreement on a particular state of affairs without the need for a controlling authority Using a novel combination of blockchain technology and swarm robotics systems BROS will generate new models to address three fundamental issues by using the robots as nodes in a network and encapsulating their transactions in blocks First new security models and methods can be implemented in order to give data confidentiality and entity validation to robot swarms therefore making them suitable for trustsensitive applications Second distributed decisionmaking and collaborative missions can be easily designed implemented and carried out by using special transactions in the blockchain which enable robotic agents to vote and reach agreements Third robots may be able to function in diverse and changing environments without any change in their control algorithm if their operation corresponds to different blockchains that use different parameters In the initial stage blockchain technology will be used as a main control plane in combination with novel largescale robot simulation tools such as ARGoS Finally the feasibility of the models obtained under the previous objective will be validated in realrobot swarms outputting a prototypical system that can serve as initial step towards transferring the proposed techniques from the academia into the industry",
+          "Rcn" : "209037",
+          "Acronym" : "BROS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10259",
+        "_score" : 14.102911,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Decentralised Citizens Owned Data Ecosystem Todays Internet is becoming increasingly centralised slowing innovation and challenging its potential to revolutionise society and the economy in a pluralistic manner DECODE will develop practical alternatives through the creation evaluation and demonstration of a distributed and open architecture for managing online identity personal and other data and collective governance in a citizenfriendly and privacyaware fashion Strong digital rights that makes it possible for data subjects to determine access rights to their information through flexible entitlements and open standardbased agreements regarding data governance on the model of Creative Commons licenses will be woven into the technological architectureDECODE will increase digital sovereignty of European citizens by enabling them to produce access and control their data and exchange contextualised information in realtime and in a confidential and scalable manner DECODE will develop a modular privacyaware IoT hub with a free and open source operating system backed by a state of the art blockchain infrastructure supporting smartcontracts and privacy protectionsThe architecture will be demonstrated through four pilots in Barcelona and Amsterdam in the field of digital democracy citizen sensing and collaborative economy The pilots will be run with the active involvement of social entrepreneurs hackers and makers Innovators will be able to build solutions on top of the platform through hackathons and open challenges while ensuring their security resilience and privacy preserving qualities This aims to create a decentralised innovation ecosystem that will attract a critical mass able to shift the current centralised datadriven economy towards a decentralised sustainable and commonsbased economy DECODE puts agency and data control in the hands of citizens to improve citizens wellbeing and society for the collective benefit of all",
+          "Rcn" : "206387",
+          "Acronym" : "DECODE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5349",
+        "_score" : 13.932516,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "LargeScale Experiments of IoT Security Trust The InternetofThings IoT is rapidly heading for large scale meaning that all mechanisms and features for the future IoT need to be especially designed and duly testedcertified for largescale conditions Also Security Privacy and Trust are critical elements of the IoT where inadequacy of these is a barrier to the deployment of IoT systems and to broad adoption of IoT technologies Suitable duly tested solutions are then needed to cope with security privacy and safety in the large scale IoTInterestingly worldclass European research on IoT Security  Trust exists in European companies especially SME and academia where even there are available technologies that were proven to work adequately in the lab andor smallscale pilots More unique experimental IoT facilities exist in the EU FIRE initiative that make possible largescale experimentallydriven research but that are not well equipped to support IoT Security  Trust experiments But notably Europe is a leader in IoT Security  Trust testing solutions eg RASEN toolbox ETSI Security TC etc that can be extended to largescale testing environments and be integrated in FIRE IoT testbeds for supporting experimentationsThe ARMOUR project is aimed at providing duly tested benchmarked and certified Security  Trust technological solutions for largescale IoT using upgraded FIRE largescale IoTCloud testbeds properlyequipped for Security  Trust experimentations To this ARMOUR will 1 Enhance two outstanding FIRE testbeds  2700nodes 500users with the ARMOUR experimentation toolbox for enabling largescale IoT Security  Trust experiments 2 Deliver six properly experimented suitably validated and duly benchmarked methods and technologies for enabling Security  Trust in the largescale IoT and 3 Define a framework to support the design of Secure  Trusted IoT applications as well as establishing a certification scheme for setting confidence on Security  Trust IoT solutions",
+          "Rcn" : "199076",
+          "Acronym" : "ARMOUR"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15915",
+        "_score" : 13.704538,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "Predictive Security for IoT Platforms and Networks of Smart Objects The IoT market is currently undergoing transformation from applications involving semipassive devices operating within a single platform to applications involving smart objects with embedded intelligence while spanning multiple platforms Stateoftheart security mechanisms are not sufficient for protecting endtoend this wave of IoT applicationsSecureIoT is a joint effort of global leaders in IoT services and IoT cybersecurity to secure the next generation of dynamic decentralized IoT systems which will span spanning multiple IoT platforms and networks of smart objects through implementing a range of predictive IoT security services SecureIoT will architect predictive security services inline with leading edge reference architectures RA for IoT applications ie RAs of the Industrial Internet Consortium the OpenFog Consortium and the Platform Industrie 40 which will serve as a basis for specifying security building blocks at both the edge and the core of IoT systems SecureIoT will provide concrete implementations of security data collection security monitoring and predictive security mechanisms which will be the basis for offering integrated services for risk assessment compliance auditing against regulations and directives eg GDPR NIS ePrivacy as well as support to IoT developers based on programming annotations  The services will be open and based on the SECaaS SecurityasaService paradigmThe SecureIoT services will be challenged in market driven scenarios and use cases in the areas of smart manufacturing Industrie 40 connected cars and IoTenabled socially assistive robots Their deployment will be based on both enterprisescale globally available IoT platforms and community open source platform of the partners As part of its exploitation strategy SecureIoT will integrate a multisided market platform in order to offer SECaaS services but also to enable integration of additional security mechanisms in its ecosystem",
+          "Rcn" : "213095",
+          "Acronym" : "SecureIoT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15920",
+        "_score" : 13.057282,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "Secure and Safe Internet of Things The IoT is coming upon us faster than we think catapulting EU industry homes and society into the huge arena of security risks that accompany an untested yet already universal technology that directly manages our cyberphysical reality on a daily and indeed second by second basis Attacks on content and quality of service of the IoT platforms can have economic energetic and physical security consequences that go way beyond the traditional Internets claimed lack of security and beyond the threats posed by attacks to mobile telephony The secure SerIoT platform is a key step that can be used to implement secure IoT platforms and networks anywhere and everywhere The SerIoT project will develop implement and test a generic IoT framework based on an adaptive smart Software Defined Network with verified software secure routers advanced analytics and user friendly visual analytics SerIoT will optimize the information security in IoT platforms and networks in a holistic crosslayered manner ie IoT platforms  devices honeypots SDN routers and operators controller that will be based both on dynamic and distributed processing of variable complexity by single network components ie IoT platforms devices and honeypots will perform lightweighted processes while SDN routers will be shouldered with more heavy processes as well as on a centrally located servercontroller that will have the main control of the network and will collect aggregate and fuse the relevant information Largescale pilots will test SerIoT technology in various use cases including intelligent transport and surveillance flexible manufacturing within Industrie 40 and other emerging domains such as food chain  logistics mHealth both at Home  in Hospitals business scenarios and energy smart gridThrough these technology developments and testbeds the project will deliver a unique portable softwarebased SerIoT network that can spearhead Europes success in the IoT",
+          "Rcn" : "213102",
+          "Acronym" : "SerIoT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "16305",
+        "_score" : 12.941078,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "Smart Endtoend Massive IoT Interoperability Connectivity and Security SEMIoTICS aims to develop a patterndriven framework built upon existing IoT platforms to enable and guarantee secure and dependable actuation and semiautonomic behaviour in IoTIIoT applications Patterns will encode proven dependencies between security privacy dependability and interoperability SPDI properties of individual smart objects and corresponding properties of orchestrations involving them The SEMIoTICS framework will support crosslayer intelligent dynamic adaptation including heterogeneous smart objects networks and clouds addressing effective adaptation and autonomic behaviour at field edge and infrastructure backend layers based on intelligent analysis and learning To address the complexity and scalability needs within horizontal and vertical domains SEMIoTICS will develop and integrate smart programmable networking and semantic interoperability mechanisms The practicality of the above approach will be validated using three diverse usage scenarios in the areas of renewable energy addressing IIoT healthcare focusing on humancentric IoT and smart sensing covering both IIoT and IoT and will be offered through an open APISEMIoTICS consortium consists of strong European industry Siemens Engineering STMicroelectronics innovative SMEs Sphynx Iquadrat BlueSoft and academic partners FORTH Uni Passau CTTC covering the whole value chain of IoT local embedded analytics and their programmable connectivity to the cloud IoT platforms with associated security and privacy The consortium is striving for a common vision of creating EUs technological capability of innovative IoT landscape both at European and international level",
+          "Rcn" : "213548",
+          "Acronym" : "SEMIoTICS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10228",
+        "_score" : 12.705715,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Platform for Open Development of Systems of Artificial Intelligence The Bonseyes project aims to develop a platform consisting of a Data Marketplace Deep Learning Toolbox and Developer Reference Platforms for organizations wanting to adopt Artificial Intelligence in low power IoT devices edge computing embedded computing systems or data center servers cloud computing It will bring about orders of magnitude improvements in efficiency performance reliability security and productivity in the design and programming of Systems of Artificial Intelligence that incorporate Smart Cyber Physical Systems while solving a chickenegg problem for organizations who lack access to Data and Models Its open software architecture will facilitate adoption of the whole concept on a wider scale It aims to address one of the most significant trends in the Internet of Things which is the shifting balance between edge computing and cloud computing The early days of the IoT have been characterized by the critical role of cloud platforms as application enablers Intelligent systems have largely relied on the cloud level for their intelligence and the actual devices of which they consist have been relatively unsophisticated This old premise is currently being shaken up as the computing capabilities on the edge level advance faster than those of the cloud level This paradigm shiftfrom the connected device paradigm to the intelligent device paradigm opens up numerous opportunitiesTo evaluate the effectiveness technical feasibility and to quantify the realworld improvements in efficiency security performance effort and cost of adding AI to products and services using the Bonseyes platform four complementary demonstrators will be built Automotive Intelligent Safety Automotive Cognitive Computing Consumer Emotional Virtual Agent and Healthcare Patient Monitoring Bonseyes platform capabilities are aimed at being aligned with the European FIPPP activities and take advantage of its flagship project FIWARE",
+          "Rcn" : "206356",
+          "Acronym" : "Bonseyes"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15677",
+        "_score" : 12.477686,
+        "_source" : {
+          "identifier" : "ERC2017STG",
+          "Text" : "The Disrupted Society mapping the societal effects of blockchain technology diffusion Recent advances in cryptography yielded the blockchain technology which enables a radically new and decentralized method to maintain authoritative records without the need of trusted intermediaries Bitcoin a cryptocurrency blockchain application has already demonstrated that it is possible to operate a purely cryptographybased global distributed decentralized anonymous financial network independent from central and commercial banks regulators and the stateThe same technology is now being applied to other social domains eg public registries of ownership and deeds voting systems the internet domain name registry But research on the societal impact of blockchain innovation is scant and we cannot properly assess its risks and promises In addition crucial knowledge is missing on how blockchain technologies can and should be regulated by law The BlockchainSociety project focuses on three research questions 1 What internal factors contribute to the success of a blockchain application 2 How does society adopt blockchain  3 How to regulate blockchain It breaks new ground as it 1 maps the most important blockchain projects their governance and assesses their disruptive potential 2 documents and analyses the social diffusion of the technology and builds scenarios about the potential impact of blockchain diffusion and 3 it creates an inventory of emerging policy responses compares and assesses policy tools in terms of efficiency and impact The project will 1 build the conceptual and methodological bridges between information law the study of the selfgovernance of technological systems via Science and Technology Studies and the study of collective control efforts of complex sociotechnological assemblages via Internet Governance studies 2 address the most pressing blockchainspecific regulatory challenges via the analysis of emerging policies and the development of new proposals",
+          "Rcn" : "212798",
+          "Acronym" : "BLOCKCHAINSOCIETY"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15940",
+        "_score" : 12.26582,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "Trustworthy and Smart Actuation in IoT systems To unleash the full potential of IoT realizing the digital society and flourishing innovations in application domains such as eHealth smart city intelligent transport systems and smart manufacturing it is critical to facilitate the creation and operation of trustworthy Smart IoT Systems Since smart IoT systems typically operate in a changing and often unpredictable environment the ability of these systems to continuously evolve and adapt to their new environment is decisive to ensure and increase their trustworthiness quality and user experience The DevOps movement advocates a set of software engineering best practices and tools to ensure Quality of Service whilst continuously evolving complex systems and foster agility rapid innovation cycles and ease of use  Therefore DevOps has been widely adopted in the software industry  However there is no complete DevOps support for trustworthy smart IoT systems today The main technical goal of ENACT is to develop novel IoT platform enablers to i Enable DevOps in the realm of trustworthy smart IoT systems and enrich it with novel concepts for endtoend security and privacy resilience and robustness strengthening trustworthiness taking into account the challenges related to collaborative actuation and actuation conflicts ii Facilitate the smooth integration of these to leverage DevOps for existing and new IoT platforms and approaches eg FIWARE SOFIA and TelluCloudThis will be accomplished by evolving current DevOps methods and techniques to support the agile development and operation of smart IoT systems and provide a set of novel mechanisms to ensure quality assurance and trustworthiness such as actuation conflict handling continuous testing and delivery across IoT edge and cloud spaces and end to end security and privacy management Through this ENACT will provide a DevOps framework for smart IoT Systems",
+          "Rcn" : "213127",
+          "Acronym" : "ENACT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14243",
+        "_score" : 12.195477,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "Blockchainbased 100 automated KYC Know Your Customer service Authenteq has developed a smartphonebased 100 automated and tamperproof online identity verification service Authenteq ID that uses multifactor biometric authentication fitting the needs of onlinemobile marketplaces as well as other websites that require or benefit from ID verification such as betting gaming or dating sites This system aims to eliminate user anonymity in online transactions and therefore drastically reduce identify fraud while maintaining the highest level of privacy for consumers Authenteq ID uniquely combines 1 a smartphone app where the enduser creates its certified ID by scanning its passport and taking a selfie 2 backend proprietary services that perform face match recognition image analysis of ID security elements and thirdparty security checks and 3 Blockchain data storage for validationpurposes impossible to reverseengineer and hack Personal details and images are hashed and files deleted from the server and appThe biometric enrolment and verification processes  with several tamperevident analyses  proves that the person requesting an Authenteq ID is unequivocally who she says she is meeting Know Your Customer and AntiMoney Laundering regulations After registration the app will only be accessible to the rightful owner through multifactorauthentication In the app the user will be able to seamlessly grant personal data verification access to the marketplaces where it plans to conduct business by linking its marketplace user profile with the Authenteq ID stored on the blockchain data is verified not sent to marketplacesOur system has the capacity to eliminate identity fraud in linked profiles and these marketplaces no longer need to collect passport scans and manually verify user IDsTo fully develop the Authenteq ID system we aim to conduct a feasibility study BlockchainKYC Phase 1 and a largescale system demonstration in operational environment Phase 2",
+          "Rcn" : "211172",
+          "Acronym" : "BlockchainKYC"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13012",
+        "_score" : 12.191771,
+        "_source" : {
+          "identifier" : "H2020INNOSUP022016",
+          "Text" : "Innovation Associate knowledgeable in blockchain technologyfor real time economy platform business development DLI Ltd operates right now in a synergetic business landscape where the development of national information society and the client assignments collide in a manner profitable for the company DLI Ltd need to complement its expertise with knowledge in blockchain technology for secured Real Time Economy in cloud both in general for providing applications to any client and for piloting the DEEP Digital Enterprise Ecosystem Platform business plan on open innovation with a client in the FinTech The plan targets to leverage the business plan further within the clients global organization one of the worlds largest settlement system for domestic and international securities transactionsThe employment of the Innovation Associate will base on the mutually developed and agreed Personal Career Development Plan which will be first time discussed during the recruitment phase together with the Training Plan suggested by the company The personnel of DLI Ltd offer an innovative working environment in a team of professionals in production design and software development as well as ecosystem builders innovators and people with a high academic degree familiar with practicalities in science Street smart business out of latest in science meets at this knowledge intensive SME The Innovation Associate is free to use her or his full potential to contribute to the client assignments and to the tasks in the workplan as well as to create a career of her or his own at DLI Ltd on the generated Innovation Plan in long runAs the DLI Ltds LifeEngine platform is applicable in any field and DLI Ltd is highly skillful in ecosystem building with stakeholders of the full operational chain DLI Ltd has appealed clients in demand of latest and future Internet technologies in several fields This offers the Innovation Associate the possibility and freedom to cowork with most advanced commercial solutions",
+          "Rcn" : "209748",
+          "Acronym" : "DLInnociate"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11173",
+        "_score" : 12.007271,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "Integral Security  Trust Element for the Internet of Things IntrinsicID is a Dutch SME spinoff from Philips Research and a world leader in security solutions for chips with 25 patents IntrinsicID has created a technology to uniquely identify and authenticate chips based on the inherent characteristics of their memory component SRAM This technology a digital equivalent of a fingerprint is called Physical Unclonable Function PUFIntrinsicID is working on INSTET  a fullyfledged security solution on top of PUF that will protect lowend chips that are omnipresent in IoT devices everywhere by making them physically and cryptographically secure and extremely resilient to advanced attacks INSTET will work as a Root of Trust ie a set of core software components that are always trusted by the chip and provide a trust foundation for the IoT device and distributed IoT systemsINSTET addresses the core problem of semiconductor vendors and OEMs lack of security INSTET can be deployed on almost any chip including the ones that are already in the field without costly redesigns or additional hardware generating savings of up to 35 per chipIn this 6month feasibility study IntrinsicID will investigate the productmarket fit and business model fit in three most promising vertical segments of the semiconductor industry wearables medical electronics and automotive develop a gotomarket strategy and calculate costs of scaling up",
+          "Rcn" : "207692",
+          "Acronym" : "INSTET"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "12148",
+        "_score" : 11.949857,
+        "_source" : {
+          "identifier" : "H2020INNOSUP022016",
+          "Text" : "Cybersecurity Threat Detection for Internet of Things Connected Devices Secure Secure Ltd was founded in 2015 and headquartered in the UK The founding team brings extensive experience inthe fields of cybersecurity scalable software architecture software company leadership and SME growth Given theaccelerating growth and importance of cybersecurity across many sectors of the economy and society we have detectedand aim to solve the lack of effective security provision in software engineeringOur system automates the vulnerability scanning of software assets and reduces the effort required for development teamsto adopt security best practices Further our solution reduces costs by 80 compared to hiring consultants for likeforliketasks By enabling developers to scan their code before going to production we can save firms between 3 to 30 times thecost of development help firms build trust with endusers empower and educate developers The company aims to scale up the business towards the area of IoT security by implementing a disruptive innovative solution taking advantage of the already developed technology that will definitively allow Secure Secure to increase its competitiveness and internationalisation objectives While the infrastructure to support the addition of an IoT security subproduct into the suite of Secure Secures offering already exists significant research and development is required in order to realise opportunities for innovation and significant growth With no similar products on the market the primary objective is to recruit a specialised associate during 12 months to identify and demonstrate the potential research and innovation project the team has detected This is becoming especially relevant since predictions show a surge in the number of IoT devices software services and applications that shall form a habitual part of our daily activities in the near and the long term",
+          "Rcn" : "208832",
+          "Acronym" : "SecIoT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "8091",
+        "_score" : 11.909359,
+        "_source" : {
+          "identifier" : "H2020ECSEL20151RIAtwostage",
+          "Text" : "UltraLow PoweR technologIes and MEmory architectures for IoT The goal of the PRIME project is to establish an open Ultra Low Power ULP Technology Platform containing all necessary design and architecture blocks and components which could enable the European industry to increase and strengthen their competitive and leading ecosystem and benefit from market opportunities created by the Internet of Things IoT revolution Over 3 years the project will develop and demonstrate the key building blocks of IoT ULP systems driven by the applications in the medical agricultural domestics and security domains This will include development of high performance energy efficient and cost effective technology platform flexible design ecosystem including IP and design flow changes in architectural and power management to reduced energy consumption security blocks based on PUF and finally the System of Chip and System in Package memory banks and processing implementations for IoT sensor node systemsDevelopped advanced as 22nm FDSOI low power technologies with logic analog RF and embedded new memory components STT RAM and RRAM together with innovative design and system architecture solutions will be used to build macros and demonstrate functionality and power reduction advantage of the new IoT device componentsThe PRIME project will realize several demonstrators of IoT system building blocks to show the proposed low power wireless solutions functionality and performance of delivered design and technology blocks The consortium semiconductor ecosystem IDMs design houses RD tools  wafer suppliers foundries systemproduct providers covers complementarily all desired areas of expertise to achieve the project goals  The project will enable an increase in Europes innovation capability in the area of ULP Technology design and applications creation of a competitive European ecosystem and help to identify market leadership opportunities in security mobility healthcare and smart cost competitive manufacturing",
+          "Rcn" : "203402",
+          "Acronym" : "PRIME"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14163",
+        "_score" : 11.775918,
+        "_source" : {
+          "identifier" : "H2020ICT20162",
+          "Text" : "Blockchains in the new era of participatory media experience Digital technologies have transformed media content production and distribution in the global entertainment and media industry over the last two decades The market is forecast to continue to grow over the next five years and is currently estimated to be worth just over 2 trillion  Acute challenges remain though especially relating to the way in which digital content can be copied and freely distributed on the Internet and how content contributors are compensated when their materials are used or bought through legitimate channels The blockchain technology and the virtual currencies can provide the ideal cost effective framework for payments preserving privacy low commission fees instant financial transactions without intermediaries The main goal of the Bloomen proposal is to extend the use of the blockchain technology to handle different online user transactions provide an innovative way of content creation sharing personalized consumption monetization and copyrighting  In particular within the Bloomen project  blockchains will be used as a distributed database for media copyright information for fast micropayments of media content and for transparency in copyright management and monetization The project will deliver among others innovative services for the media industry and its results will be validated in three pilot use cases i User generated content and news sharing copyrighting and monetizing through social media and blockchains ii Music industry digital content broadcasting in open blockchain enabled markets iii Media content delivery through WebTV and cyrptocurrency paywalls All three use cases will be operated by well established stakeholders in the broader media industry",
+          "Rcn" : "211092",
+          "Acronym" : "BLOOMEN"
+        }
+      }
+    ]
+  }
+}

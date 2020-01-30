@@ -1,0 +1,256 @@
+{
+  "took" : 21,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 799,
+    "max_score" : 75.8008,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10259",
+        "_score" : 35.39121,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Decentralised Citizens Owned Data Ecosystem Todays Internet is becoming increasingly centralised slowing innovation and challenging its potential to revolutionise society and the economy in a pluralistic manner DECODE will develop practical alternatives through the creation evaluation and demonstration of a distributed and open architecture for managing online identity personal and other data and collective governance in a citizenfriendly and privacyaware fashion Strong digital rights that makes it possible for data subjects to determine access rights to their information through flexible entitlements and open standardbased agreements regarding data governance on the model of Creative Commons licenses will be woven into the technological architectureDECODE will increase digital sovereignty of European citizens by enabling them to produce access and control their data and exchange contextualised information in realtime and in a confidential and scalable manner DECODE will develop a modular privacyaware IoT hub with a free and open source operating system backed by a state of the art blockchain infrastructure supporting smartcontracts and privacy protectionsThe architecture will be demonstrated through four pilots in Barcelona and Amsterdam in the field of digital democracy citizen sensing and collaborative economy The pilots will be run with the active involvement of social entrepreneurs hackers and makers Innovators will be able to build solutions on top of the platform through hackathons and open challenges while ensuring their security resilience and privacy preserving qualities This aims to create a decentralised innovation ecosystem that will attract a critical mass able to shift the current centralised datadriven economy towards a decentralised sustainable and commonsbased economy DECODE puts agency and data control in the hands of citizens to improve citizens wellbeing and society for the collective benefit of all",
+          "Rcn" : "206387",
+          "Acronym" : "DECODE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1259",
+        "_score" : 31.838678,
+        "_source" : {
+          "identifier" : "H2020LCE20143",
+          "Text" : "Prosumer Flexibility Services for Smart Grid Management The advent of distributed power sources such as photovoltaics and windmill plants gave rise to energy prosumers producersconsumers which generate and consume electrical energy Energy demand and energy generation by prosumers are volatile and can impact the grid infrastructure and stakeholders but they can be flexibly adapted to thwart those impactsFlex4Grid aims at creating an open data and service framework that enables a novel concept of managing flexibility of prosumer demand and generation utilising cloud computing for power grid management and opening DSO infrastructure for aggregator services The system will be built up from existing ICT components developed by the consortium partners over many years in research projects on IoT and Cloud computing This high maturity allows Flex4Grid to aim for a system prototype of TRL 7 which guarantees a maximum impact and competitiveness in the area of the smart grid challengeThe Flex4Grid system will include a a data cloud service with anonymised interface and advanced security and privacy mechanisms for data exchange and service management b prosumer generation and demand flexibility and c a more viable business model to accelerate the deployment The major innovations are a opening the market for new entrants by secure and privacy enabling third party cloud data and energy management services b actionable common and multilevel data management and analytics services for Smart Grids and c the use of cocreation to bring end users into the value creation processSystem validation will be carried out in realworld pilots in three live electricity networks with different scenarios ranging from deployment during smart meter rollout and retrofitting to large scale operation and federated demonstration of multisite pilots",
+          "Rcn" : "194427",
+          "Acronym" : "Flex4Grid"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15441",
+        "_score" : 30.775742,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "Cognitive Heterogeneous Architecture for Industrial IoT CHARIOT will provide a design method and cognitive computing platform supporting a unified approach towards Privacy Security and Safety PSS of IoT Systems including the following innovations  A Privacy and security protection method building on state of the art Public Key Infrastructure PKI technologies to enable the coupling of a preprogrammed private key deployed to IoT devices with a corresponding private key on Blockchain system A Blockchain ledger in which categories of IoT physical operational and functional changes are both recorded and affirmedapproved by a combination of a cognitive engine and private key hashing between the cognitive engine and IoT devices to authorise change and likewise invalidating any and all other changes be they malicious or otherwise   A fogbased decentralised infrastructure for Firmware Security integrity checking that leverages a Blockchain ledger to enhance physical operational and functional security of IoT systems including actuation and deactivation  An accompanying IoT Safety Supervision Engine providing a novel solution to the challenges of securing IoT data devices and functionality in new and existing industryspecific safety critical systems   A Cognitive System and Method with accompanying supervision analytics and prediction models enabling high security and integrity of Industrials IoT New methods and tools for static code analysis of IoT devices resulting in more efficient secure and safer IoT software development and VVThree Living Labs will demonstrate realistic and compelling heterogeneous solutions through industry reference implementations at representative scale with the underlying goal of demonstrating that Secure Privacy Mediated and Safety IoT imperatives are collectively met in turn delivering a key stepping stone to the EUs roadmap for the next generation IoT platforms and services",
+          "Rcn" : "212490",
+          "Acronym" : "CHARIOT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "16305",
+        "_score" : 30.696129,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "Smart Endtoend Massive IoT Interoperability Connectivity and Security SEMIoTICS aims to develop a patterndriven framework built upon existing IoT platforms to enable and guarantee secure and dependable actuation and semiautonomic behaviour in IoTIIoT applications Patterns will encode proven dependencies between security privacy dependability and interoperability SPDI properties of individual smart objects and corresponding properties of orchestrations involving them The SEMIoTICS framework will support crosslayer intelligent dynamic adaptation including heterogeneous smart objects networks and clouds addressing effective adaptation and autonomic behaviour at field edge and infrastructure backend layers based on intelligent analysis and learning To address the complexity and scalability needs within horizontal and vertical domains SEMIoTICS will develop and integrate smart programmable networking and semantic interoperability mechanisms The practicality of the above approach will be validated using three diverse usage scenarios in the areas of renewable energy addressing IIoT healthcare focusing on humancentric IoT and smart sensing covering both IIoT and IoT and will be offered through an open APISEMIoTICS consortium consists of strong European industry Siemens Engineering STMicroelectronics innovative SMEs Sphynx Iquadrat BlueSoft and academic partners FORTH Uni Passau CTTC covering the whole value chain of IoT local embedded analytics and their programmable connectivity to the cloud IoT platforms with associated security and privacy The consortium is striving for a common vision of creating EUs technological capability of innovative IoT landscape both at European and international level",
+          "Rcn" : "213548",
+          "Acronym" : "SEMIoTICS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10243",
+        "_score" : 29.92481,
+        "_source" : {
+          "identifier" : "H2020IOT2016",
+          "Text" : "CROSS FERTILISATION THROUGH ALIGNMENT SYNCHRONISATION AND EXCHANGES FOR IoT CREATEIoTs aim is to stimulate collaboration between IoT initiatives foster the take up of IoT in Europe and support the development and growth of IoT ecosystems based on open technologies and platforms This requires synchronisation and alignment on strategic and operational terms through frequent multidirectional exchanges between the various activities under the IoT Focus Areas FAs It also requires cross fertilisation of the various IoT Large Scale Pilots LSPs for technological and validation issues of common interest across the various application domains and use cases CREATEIoT will align the activities with the Alliance for Internet of Things Innovation AIOTI and will coordinate and support the upcoming LSPs in sustaining the ecosystems developed during those projects through mapping the pilot architecture approaches address interoperability and standards approaches at technical and semantic levels for object connectivity protocols data formats privacy security trusted IoT open APIs and share the roadmapping with international initiatives  The project will foster the exchange on requirements for legal accompanying measures development of common methodologies and KPI for design testing and validation and for success and impact measurement federation of pilot activities and transfer to other pilot areas facilitating the access for IoT entrepreneursAPI developersmakers SMEs including combination of ICT  Art CREATEIoT will build strong connections with Member States initiatives and other initiatives and will transfer learning points to the broader IoT policy framework that include contractual PPPs eg Big Data Factories of the Future 5Ginfrastructure Joint Technology Initiatives eg ECSEL European Innovation Partnerships eg on Smart Cities as well as other FAs eg on Autonomous transport It will also maintain a coordinated working relationship with the parallel CSA that is centere on RRISSH",
+          "Rcn" : "206371",
+          "Acronym" : "CREATE-IoT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "975",
+        "_score" : 29.261627,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Enabling Federated Cloud Networking Cloud federation enables cloud providers to collaborate and share their resources to create a large virtual pool of resources at multiple network locations Different types of federation architectures for clouds and datacenters have been proposed and implemented eg cloud bursting cloud brokering or cloud aggregation with different level of resource coupling and interoperation among the cloud resources from loosely coupled typically involving different administrative and legal domains to tightly coupled  federation usually spanning multiple datacenters within an organization In both situations an effective agile and secure federation of cloud networking resources is key to impact the deployment of federated applications The main goal of this project is twofold research and develop techniques to federate cloud network resources and to derive the integrated management cloud layer that enables an efficient and secure deployment of federated cloud applications Our proposal will deliver a homogeneous virtualization layer on top of heterogeneous underlying physical networks computing and storage infrastructures providing enablement for automated federation of applications across different clouds and datacenters The project is fully committed to open source software Cloud networking aspects will be based on OpenDaylight a collaborative project under The Linux Foundation and specifically we will leverage and extend the OpenDOVE project with new rich intercloud APIs to provision crosssite virtual networks overlays The new intercloud network capabilities will be leveraged by existing open source cloud platforms OpenNebula and OpenStack to deploy multicloud applications In particular different aspects of the platforms will be extended to accommodate the federated cloud networking features like multitenancy federated orchestration of networking compute and storage management or the placement and elasticity of the multicloud applications",
+          "Rcn" : "194143",
+          "Acronym" : "BEACON"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9464",
+        "_score" : 28.94958,
+        "_source" : {
+          "identifier" : "H2020FOF2016",
+          "Text" : "Decentralised architectures for optimised operations via virtualised processes and manufacturing ecosystem collaboration Industry 40 is the next developmental stage in the organisation of the manufacturing value chain ICTbased systems will play a major role mainly by creating a virtual copy of the physical world and facilitating decentralised structures through CyberPhysical Systems CPS Over the IoT CPS cooperate with each other and humans in realtime Via the InternetofServices internal and crossorganisational services are utilised by participants of the value chain DISRUPT aims to spearhead the transition to the nextgeneration manufacturing by facilitating the vision of a Smart Factory The new era of manufacturing asks for flexible factories that can be quickly reprogrammed to provide faster timetomarket responding to global consumer demand address masscustomisation needs and bring life to innovative products The traditional automation pyramid seems unable to accommodate this transformation Our concept is to DISRUPT that pyramid by utilising the capabilities offered by modern ICT to facilitate i indepth selfmonitoring of machines and processes ii decision support and decentralised selfadjustment of production iii effective collaboration of the different IoTconnected machines with tools services and actors iv seamless communication of information and decisions from and to the plant floor and v efficient interaction with value chain partners Within DISRUPT each element of production is controlled via the IoT by its virtual counterpart The data collected is analysed to detect complex events that trigger automated actions DISRUPT offers a set of decision support tools based on three core modules modelling simulation and optimisation and a secure and flexible plugnplay platform that will allow engineers from different disciplines to collaborate in developing services It will be cloudbased to accommodate the anticipated high data volume and computational needs while offering accessibility via any device anywhere in the world",
+          "Rcn" : "205541",
+          "Acronym" : "DISRUPT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15435",
+        "_score" : 28.727926,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "IoTCrawler The Internet of Things offers an incredible innovation potential for developing smarter applications and services transforming business models and impacting our society both positively To be able to unlock IoTs full potential many fundamental technological challenges still need to be solved Today we see solutions in the development of vertical applications and services reflecting what used to be the early days of the web leading to fragmentation and intranets of ThingsTo achieve an open IoT ecosystem of systems and platforms several key enablers are needed adaptive and scalable crawling indexing semantic dataservice search and integration privacy and security combined with real world and largescale enablers and products driven by innovative usecase scenarios and new business modelsIoTCrawler will focus on integration and interoperability across different platforms dynamic and reconfigurable solutions for discovery and integration of data and services from legacy and new systems adaptive privacyaware and secure algorithms and mechanisms for crawling indexing search in distributed IoT systemsIoTCrawler will provide extensive development and demonstrations with a focus on Industry 40 Social IoT Smart City and Smart Energy IoTCrawler will seek to provide high impact through research excellence innovation and technology advancement It will address open challenges and issues in crawling discovery indexing semantic integration and securityprivacytrust for an IoT ecosystem IoTCrawler will achieve this through enduser engagement via its industry and city partners trials and collaborative scenario developments validations and show casing IoTCrawler will also offer new business models and will extend the product line of industry and SME partners and will create a wider awareness and thirdparty exploitation via dissemination and standardisation activities and by providing open and generic enablers and APIs",
+          "Rcn" : "212484",
+          "Acronym" : "IoTCrawler"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6019",
+        "_score" : 28.233315,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Symbiosis of smart objects across IoT environments Connected smart objects have invaded our everyday life across multiple domains eg home withautomation solutions assisted living with sensors and wearables to monitor personal activities smart transportation and environmental monitoring IoT is evolving around a plethora of vertically isolated platforms each specifically suited to given scenarios and often adopting nonstandard sometimes fully proprietary protocols to control the variety of sensors actuators and communication elements symbIoTe comes to evolve this fragmented environment and provides an abstraction layer for a unified control view on various IoT platforms and sensingactuating resources symbIoTe designs and develops an IoT orchestration middleware capable of unified and secure access to physical and virtualized IoT resources hierarchical and orchestrated discovery and control across multiple IoT platforms federation of IoT controllers and resources for cooperative sensingactuation tasks seamless roaming of smart objects across smart spaces symbIoTe builds its orchestration middleware on top of existing standards for protocols and interfaces plus a number IoT platforms both proprietary ie developed by its industrial partners and from open source eg OpenIoT This unique set of backgrounds and foreground can result in a significant step forward in horizontal integration and federation of IoT domains Five use cases with real large scale deployments have been selected to validate our vision in representative smart spaces homeresidence educational campus stadium mobility and yachting Engagement with real users is key in our validation process With its research symbIoTe can enable innovative business models for a large set of stakeholders of the IoT value chain and particularly SMEs and new entrants in the IoT market The consortium includes direct beneficiaries of these impacts including small and large industry with IoT business and renowned research performers",
+          "Rcn" : "199859",
+          "Acronym" : "symbIoTe"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1722",
+        "_score" : 27.72064,
+        "_source" : {
+          "identifier" : "H2020DS20141",
+          "Text" : "Online Privacy Enforcement Rights Assurance and Optimization The goal of the OPERANDO project is to specify implement fieldtest validate and exploit an innovative privacy enforcement platform that will enable the Privacy as a Service PaS business paradigm and the market for online privacy servicesThe OPERANDO project will integrate and extend the state of the art to create a platform that will used by independent Privacy Service Providers PSPs to provide comprehensive user privacy enforcement in the form of a dedicated online service called Privacy Authority The OPERANDO platform will support flexible and viable business models including targeting of individual market segments such as public administration social networks and Internet of Things A key aspect addressed by OPERANDO is the need to simplify privacy for end users data subjects OPERANDO will support a simple Privacy Dashboard allowing users to specify their preferences These will be automatically compared with Online Service Provider OSP privacy policies and translated into personal data access control decisions by the PSPOPERANDO will also address OSP requirements for simplified privacy compliance checking and auditing to verify that they will meet user expectations or to satisfy privacy regulators The technology will be trialled in the health care and public administration sectorsThe OPERANDO consortium thereby aims to contribute to the entire ecosystem of online privacy stakeholders Users PSPs Online Service Providers and Regulators Federation of Privacy Authorities will be supported to increase value of the services and their uptake The OPERANDO platform will be positioned for endorsement by European governments and standardization bodies To increase transparency of the privacy services and dissemination of results OPERANDO outcomes will be implemented in Open Source and will be made available to the community for evolution and valueadding beyond the scope of the project",
+          "Rcn" : "194891",
+          "Acronym" : "OPERANDO"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5443",
+        "_score" : 27.096712,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Software Defined Networks and Network Function Virtualization Testbed within FIRE SoftFIRE partners are aiming at Research and Innovation actions pursuing the integration of existing experimental facilities testbeds and laboratories into FIRE The project focuses on new technologies like SDN and NFV in order to create a reliable secure interoperable and programmable experimental network infrastructure within the FIRE initiative The Consortium will federate existing experimental testbeds in order to create an infrastructure that Third Parties can use to develop new services and applications The federation is a step towards the creation of a new network experimental infrastructure that could be used as an initial 5G oriented platformThe SoftFIRE testbed will offer the possibility to assess and improve programmable solutions In this environment there are three key elements to consider programmability interoperability and security These properties have to be assessed in terms of efficiency functional responsiveness and in general terms E2E QoS The main objective of this project is to demonstrate and assess the level of maturity of adopted solutions and to show how they can support the full potential of these properties in a real world infrastructure by creating nurturing and supporting an ecosystem of Third parties able to make use of the SoftFIRE testbed and to functionally extend itThe project aims at creating a broad ecosystem of companies engaged with the evolution of the SoftFIRE testbed In order to achieve this goal the project will spend a considerable part of its effort and budget for involving Third parties in the usage and consolidation of the platform The mechanisms envisaged for this are Open Calls and specific events like Hackathon Plugtests and Challenges The federated infrastructure will be used in order to a develop new services and applications from Third parties and b develop new platform functionalities",
+          "Rcn" : "199171",
+          "Acronym" : "SoftFIRE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6013",
+        "_score" : 26.506683,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Adoptive Gateways for dIverse muLtiple Environments AGILE project aims to create an open flexible and widely usable IoT solution at disposal of industries startups SMEs tech companies and individuals researchers makers entrepreneurs as a framework that consists of A modular IoT gateway enabling various types of devices wearables home appliances sensors actuators etc to be connected with each other and to the Internet Data management and device control maximizing security and privacy at local level and in the cloud technologies and methodologies to better manage data privacy and ownership in the IoT Support of various open and private clouds Recommender and visual developers interfaces enabling easy creation of applications to manage connected devices and data Support of mainstream IoTM2M protocols and SDKs from different standardization bodies for device discovery and communication Two separate gateway hardware versions a the makers version based on the popular RaspberryPi platform for easily prototyping and attracting the current community b the industrial version for more industrial and productionready applications  An ecosystem of IoT applications shareable among users and developers leveraging on existing initiatives by key stakeholders in this domain like Canonical and Ubuntu Snappy IoT ecosystemPiloted in relevant open areas fields and in a port for field  cattle monitoring through drones air quality  pollution monitoring and in smart retail AGILE will be easily adaptable and usable in different contexts serving as an horizontal technology for fast IoT prototyping and engineering in different domains Following an open hardwaresoftware approach harnessing the power of IoT developers and entrepreneurs communities AGILE aims to offer tools to overcome limitations imposed by closed and vertical walled gardens for IoT apps development offering a fully open platform for integration and adaptation with 3rd parties enabling a new marketplace for IoT apps",
+          "Rcn" : "199853",
+          "Acronym" : "AGILE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10352",
+        "_score" : 26.432041,
+        "_source" : {
+          "identifier" : "H2020IOT2016",
+          "Text" : "ACTivating InnoVative IoT smart living environments for AGEing well ACTIVAGE is a European Multi Centric Large Scale Pilot on Smart Living Environments The main objective is to build the first European IoT ecosystem across 9 Deployment Sites DS in seven European countries reusing and scaling up underlying open and proprietary IoT platforms technologies and standards and integrating new interfaces needed to provide interoperability across these heterogeneous platforms that will enable the deployment and operation at large scale of Active  Healthy Ageing IoT based solutions and services supporting and extending the independent living of older adults in their living environments and responding to real needs of caregivers service providers and public authorities The project will deliver the ACTIVAGE IoT Ecosystem Suite AIOTES a set of Techniques Tools and Methodologies for interoperability at different layers between heterogeneous IoT Platforms and an Open Framework for providing Semantic Interoperability of IoT Platforms for AHA addressing trustworthiness privacy data protection and security Userdemand driven interoperable IoTenabled Active  Healthy Ageing solutions will be deployed on top of the AIOTES in every DS enhancing and scaling up existing services for the promotion of independent living the mitigation of frailty and preservation of quality of life and autonomy ACTIVAGE will assess the socioeconomic impact the benefits of IoTbased smart living environments in the quality of life and autonomy and in the sustainability of the health and social care systems demonstrating the seamless capacity of integration and interoperability of the IoT ecosystem and validating new business financial and organizational models for care delivery ensuring the sustainability after the project end and disseminating these results to a worldwide audience The consortium comprises industries research centres SMEs service providers public authorities encompassing the whole value chain in every Deployment Site",
+          "Rcn" : "206513",
+          "Acronym" : "ACTIVAGE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1719",
+        "_score" : 25.851023,
+        "_source" : {
+          "identifier" : "H2020DS20141",
+          "Text" : "Visual Privacy Management in User Centric Open Environments Public Administration PA authorities are working towards upgrading the level of their online services through new governance models such as the Open Government This pushes for greater transparency accountability and innovation aiming at increasing citizen levels of confidence and trust in PA online services In this context user data privacy is an important issue VisiOn will deliver a high Technology Readiness Level TRL Visual Privacy Management Platform which empowers any citizen to achieve desired levels of privacy by creating and monitoring a personal Privacy Level Agreement The platform will provide clear visualisation of privacy preferences relevant threats and trust issues along with an insight into the economic value of user data The platform will equip PAs with the right tools to improve the transparency and accountability of their operations by supporting visual analysis of i privacy issues at different levels eg design runtime and perspectives ie citizen PA ii regulation compliance and iii businessoperational processes The VisiOn consortium will leverage existing software tools and methodologies which partners have developed in previous projects towards the implementation of the privacy platform software components The latter will be tested in an operational environment ie TRL 7 in three different pilot scenarios across two different scenario types ie citizenPA  PAcrossborder PA Pilots will involve users from three European countries Driven by the lack of appropriate products in the market as identified by the relevant market analysis the VisiOn exploitation strategy is based on commercialisation of the project results at three levels platformasawhole fragments of the platform and partner individual exploitation This strategy will enable partners to integrate the project results into their existing commercial offerings thus exploring and establishing new business opportunities and ventures",
+          "Rcn" : "194888",
+          "Acronym" : "VisiOn"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10849",
+        "_score" : 25.486183,
+        "_source" : {
+          "identifier" : "H2020DSLEIT2016",
+          "Text" : "Advanced Networked Agents for Security and Trust Assessment in CPSIOT Architectures The main objective of the ANASTACIA is to address the constant discovery of vulnerabilities in ICT components providing assurance that ICT systems are secure and trustworthy by design To this end ANASTACIA will research and develop a holistic security framework which will address all the phases of the ICT Systems Development Lifecycle and will be able to take autonomous decisions using new networking technologies SDNNFV and dynamic security enforcement and monitoring methodologies and toolsThe ANASTACIA framework will include a comprehensive suite of tools and enablers A security development paradigm based on the compliance to security best practices and the use of the security components and enablers A suite of distributed trust and security components and enablers able to dynamically orchestrate and deploy user security policies and actions within complex and dynamic CPS and IoT architectures  Online monitoring and testing techniques that will allow more automated adaptation of the system to mitigate new and unexpected security vulnerabilities A holistic Dynamic Security and Privacy Seal combining security and privacy standards and real time monitoring and online testing This will provide quantitative and qualitative runtime evaluation of privacy risks and security levels which can be easily understood and controlled by the final usersANASTACIA results will be driven and demonstrated in three high impact Use Cases Mobile Edge Computing Smart Building and IoT networksBringing together leading partners with wideranging expertise the ANASTACIA Consortium will combine the philosophy and business models of communication technologies with inherently integrated security and privacy solutions creating a security framework where the end users will be able to control their security and privacy policies enforcement and application developers in particular SMEs will find an open and sustainable ecosystem for secure SLCD",
+          "Rcn" : "207199",
+          "Acronym" : "ANASTACIA"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9925",
+        "_score" : 25.355417,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Multicloud Executionware for Largescale Optimized DataIntensive Computing MELODIC will enable dataintensive applications to run within defined security cost and performance boundaries seamlessly on geographically distributed and federated cloud infrastructures Serving the users needs and constraints MELODIC will realise the potential of Cloud computing for big data and dataintensive applications by transparently taking advantage of distinct characteristics of available private and public clouds dynamically optimise resource utilisation consider data locality conform to the users privacy needs and service requirements and counter vendor lockinThese benefits are achieved by integrating and extending the results and the open source platforms available from three major European Cloud projects with the Hadoop and Spark big data frameworks The PaaSage platform will be used for intelligent and autonomic crosscloud deployment and is extended with data aware modelling and deployment configuration reasoning the CACTOS platform is extended with support for Hadoop and Spark in crossCloud application deployment and management and the PaaSword platform will ensure unified data security and crossCloud privacyMELODIC will integrate with the existing open source development teams for these platforms and the contributions will be released back to the used platforms as open source The integrated MELODIC platform will be maintained and exploited by a professional software house and tested in several demanding real world applications scalable Customer Relationship Management realtime optimised traffic routing and fast and scalable processing of genomic data",
+          "Rcn" : "206028",
+          "Acronym" : "MELODIC"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15915",
+        "_score" : 25.29322,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "Predictive Security for IoT Platforms and Networks of Smart Objects The IoT market is currently undergoing transformation from applications involving semipassive devices operating within a single platform to applications involving smart objects with embedded intelligence while spanning multiple platforms Stateoftheart security mechanisms are not sufficient for protecting endtoend this wave of IoT applicationsSecureIoT is a joint effort of global leaders in IoT services and IoT cybersecurity to secure the next generation of dynamic decentralized IoT systems which will span spanning multiple IoT platforms and networks of smart objects through implementing a range of predictive IoT security services SecureIoT will architect predictive security services inline with leading edge reference architectures RA for IoT applications ie RAs of the Industrial Internet Consortium the OpenFog Consortium and the Platform Industrie 40 which will serve as a basis for specifying security building blocks at both the edge and the core of IoT systems SecureIoT will provide concrete implementations of security data collection security monitoring and predictive security mechanisms which will be the basis for offering integrated services for risk assessment compliance auditing against regulations and directives eg GDPR NIS ePrivacy as well as support to IoT developers based on programming annotations  The services will be open and based on the SECaaS SecurityasaService paradigmThe SecureIoT services will be challenged in market driven scenarios and use cases in the areas of smart manufacturing Industrie 40 connected cars and IoTenabled socially assistive robots Their deployment will be based on both enterprisescale globally available IoT platforms and community open source platform of the partners As part of its exploitation strategy SecureIoT will integrate a multisided market platform in order to offer SECaaS services but also to enable integration of additional security mechanisms in its ecosystem",
+          "Rcn" : "213095",
+          "Acronym" : "SecureIoT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5349",
+        "_score" : 25.286806,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "LargeScale Experiments of IoT Security Trust The InternetofThings IoT is rapidly heading for large scale meaning that all mechanisms and features for the future IoT need to be especially designed and duly testedcertified for largescale conditions Also Security Privacy and Trust are critical elements of the IoT where inadequacy of these is a barrier to the deployment of IoT systems and to broad adoption of IoT technologies Suitable duly tested solutions are then needed to cope with security privacy and safety in the large scale IoTInterestingly worldclass European research on IoT Security  Trust exists in European companies especially SME and academia where even there are available technologies that were proven to work adequately in the lab andor smallscale pilots More unique experimental IoT facilities exist in the EU FIRE initiative that make possible largescale experimentallydriven research but that are not well equipped to support IoT Security  Trust experiments But notably Europe is a leader in IoT Security  Trust testing solutions eg RASEN toolbox ETSI Security TC etc that can be extended to largescale testing environments and be integrated in FIRE IoT testbeds for supporting experimentationsThe ARMOUR project is aimed at providing duly tested benchmarked and certified Security  Trust technological solutions for largescale IoT using upgraded FIRE largescale IoTCloud testbeds properlyequipped for Security  Trust experimentations To this ARMOUR will 1 Enhance two outstanding FIRE testbeds  2700nodes 500users with the ARMOUR experimentation toolbox for enabling largescale IoT Security  Trust experiments 2 Deliver six properly experimented suitably validated and duly benchmarked methods and technologies for enabling Security  Trust in the largescale IoT and 3 Define a framework to support the design of Secure  Trusted IoT applications as well as establishing a certification scheme for setting confidence on Security  Trust IoT solutions",
+          "Rcn" : "199076",
+          "Acronym" : "ARMOUR"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11006",
+        "_score" : 24.142319,
+        "_source" : {
+          "identifier" : "H2020DSLEIT2016",
+          "Text" : "The European Security Certification Framework In recent years the ICT market has evolved toward a cloudbased approach This shift together with the rapidly changing legal and regulatory landscape has heavily impacted security assurance governance and compliance The information security market players have tried to provide suitable solutions to cope with issues such as i lack of means to provide higher level of assurance eg continuous monitoring and auditing ii privacy not adequately taken into account iii limited transparency and iv lack of means to streamline risk management and compliance In the certification space this has resulted in the creation of several schemas creating an additional problem ie the proliferation of certification scheme The project EUSEC will improve the effectiveness and efficiency of existing approaches for assurance and compliance  The EUSEC aims to create a framework under which existing certification and assurance approaches can coexist The three core ideas behind the EUSEC project are that an effective and efficient approach to trust assurance and compliance has to 1 balance the need of nations and business sectors to develop their specific certification schemas with the need of CSPs to reduce compliance costs 2 avoid that humans auditors do activities that can be performed by machines eg collecting data 3 make sure that accurate and reliable evidencesinformation are provided to relevant people in a timely fashion leveraging as much as possible automatic means The EUSEC framework will equip stakeholders in the ICT security ecosystem with a validated governance structure a reference architecture and the corresponding set of tools to improve the efficiency and effectiveness of their current approach to security governance risks management assurance and compliance The EUSEC aims to enhancing trustworthiness and transparency in the ICT supply chain through business cases developed and piloted by industrial partners",
+          "Rcn" : "207439",
+          "Acronym" : "EU-SEC"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5460",
+        "_score" : 24.13489,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "The business engine for IoT pilots Turning the Internet of things in Europe into an economically successful and socially accepted vibrant ecosystem The project IoTBe will be proposed as a support action run by the consortium with the partners etventure Fraunhofer IAIS Faubourg Numrique Acreo Swedish ICT and Challengy Israel Our vision is to build a broad and vibrant ecosystem around the pilot projects that increase the collaboration between them generates economic impact through new innovative business models and creates trust in the internet of things by transparent information about social challenges such as privacy and security implicationsWe will reach this vision by focussing on following five objectives We will support the collaboration and knowledge exchange between pilots and other relevant EUprojects eg FIWARE We will build the bridge between pilots and relevant stakeholders eg potential customers such as European small and medium sized enterprises SMEs entrepreneurs and developers but also researchers and policy makers and thus expand the ecosystem further We will set the ground for upcoming business building activities by creating awareness and also by facilitating and fostering societal acceptance eg by running a variety of innovation activities  Building on the above mentioned developments we will set the ground for the development of concrete new customeroriented businesses based on the emerging pilots Those business models will be derived through a proven systematic user centric ideation and validation process increasing the market acceptance and success rate of these business models The emerging new businesses shall have a substantial economic impact in Europe We will pave the way for future advances within IoT We will write a whitepaper that explains describes and collects the most promising future standards from pilots and distribute these to relevant parties We will use the consortium existing academies for education activities eg Fraunhofer academy or etventure Berlin School of Digital Business",
+          "Rcn" : "199188",
+          "Acronym" : "Be-IoT"
+        }
+      }
+    ]
+  }
+}

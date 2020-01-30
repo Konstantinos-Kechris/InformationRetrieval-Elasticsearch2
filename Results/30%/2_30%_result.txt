@@ -1,0 +1,256 @@
+{
+  "took" : 42,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 17478,
+    "max_score" : 117.66428,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "16413",
+        "_score" : 55.750496,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "Prediction and optimisation platform for the mobile assets management Everysens a French SME company expert in IoT and Software as a Service SaaS solutions for the traceability and logistic sectors proposes the next generation of intelligent based tracking solution for the market niches that face the challenges of mobile assets management More precisely this project targets business holding or renting highvalue assets such as construction and public work equipment dumpster of waste and transport and logistic companies eg rail freight logistics Today most mobile tracking systems are addressed to motorised mobile assets and do not have enough autonomy to operate on nonmotorised items as wagons or dumpsters They ensure a so called continuous tracking which practically is limited to sending periodic alerts with no realtime tracking and are not based on intelligent analysis and statistics that allows forecasting Besides current technologies experiment from inefficient data transmission coverage challenges in remote areas and high energy consumption for the sensors Everysens will offer them OMNISCIENT a prediction SaaS platform based on bespoke artificial intelligence not only for inventory but also to allow the realtime mobile asset localisation management and accurate forecasting and planning to enhance operational efficiency of our clients and increase their revenues Our technology presents a data transmission reliability of 98 and its modular structure allows to easily apply different business rules for different market applications In this way our customers will be able to contribute to European Initiatives to improve railway competitiveness such as the Shift2Rail Joint Undertaking S2R JU initiative or the Waste Directive Framework to buildup the traceability capacity along the recycling value chain With the commercialization of OMNISICIENT Everysens expects 103 million of accumulated revenues in 2024 which will require to dimension the company structure with 40 additional employees",
+          "Rcn" : "213660",
+          "Acronym" : "OMNISCIENT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13439",
+        "_score" : 52.089554,
+        "_source" : {
+          "identifier" : "H2020DSSC72016",
+          "Text" : "Supporting Cyberinsurance from a  Behavioural Choice Perspective CYBECO will research develop demonstrate evaluate and exploit a new framework for managing cybersecurity risks one that is focusing on cyberinsurance as key risk management treatment CYBECO integrates multidisciplinary research methods from Behavioural Economics Statistics Game and Decision Theory Security Engineering and Behavioral Psychology in order to develop new concepts and models that are combined within a prototype software architecture CYBECO Toolbox 20 CYBECO recognizes that the cyberinsurance domain is not adequately developed partly due to the lack of sufficiently large statistical data sample and partly due to the difficulties customers face when deciding on their cyberinsurance investment options CYBECO will address both these barriers aiming at delivering advances clearly positioned beyond the StateoftheArt We plan to implement a prototype tool that will demonstrate and promote the CYBECO model and concepts We then foresee to perform behavioural experiments to validate current institutional cybersecurity frameworks and to provide relevant policy insights particularly in reference to behavioural nudges in cybersecurity The CYBECO consortium is composed by complementary partners coming from the addressed research technological and market domains that have a proven track record of high quality research capacity Thus the carefully structured workplan embodies a holistic approach towards meeting the CYBECO objectives and delivering marketrelevant outcomes of significant exploitation potential",
+          "Rcn" : "210232",
+          "Acronym" : "CYBECO"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3880",
+        "_score" : 51.58313,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Mobile Positioning Data as a Source for Aggregated Human Mobility Statistics Mobile positioning data can increase our understanding of movements in society and for businesses it helps map the locations of its customers In an industry worth 11 billion in a few short years there are few competitors Positium positions itself between the client and mobile network operator to analyze Big Data of mobile phone locations providing clients with faster and more costeffective analysis based on a large population rather than a sampleThere are multiple domains where such data is directly relevant The objective of the business plan is to conduct domainspecific market research assess the requirements for development of the technology and specify the business model for Positium Data Mediator  a product to extract process and deliver the insights from mobile big data to users globally At current stage Positium Data Mediator works in Estonia in domains like urban planning transportation planning geomarketing tourism statistics Positium is transforming from a global market leader in its home market to a global player in multiple markets in the EU and emerging countriesThe business plan will be vital to narrow down the focus for expansion and determine strategies to pick the lowhanging fruit In the business plan the selection of domains geographical regions and development requirements will be investigated using surveys and interviews among potential customers market research and financial calculations The outcome of the business plan is a recommendation on the geographic expansion business model and the need for technology development and a business plan",
+          "Rcn" : "197167",
+          "Acronym" : "MOBPOSSTAT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10232",
+        "_score" : 50.805122,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "PrEstoCloud  Proactive Cloud Resources Management at the Edge for Efficient RealTime Big Data Processing PrEstoCloud project will make substantial research contributions in the cloud computing and realtime data intensive applications domains in order to provide a dynamic distributed selfadaptive and proactively configurable architecture for processing Big Data streams In particular PrEstoCloud aims to combine realtime Big Data mobile processing and cloud computing research in a unique way that entails proactiveness of cloud resources use and extension of the fog computing paradigm to the extreme edge of the network The envisioned PrEstoCloud solution is driven by the microservices paradigm and has been structured across five different conceptual layers i Metamanagement ii Control iii Cloud infrastructure iv CloudEdge communication and v Devices layers This innovative solution will address the challenge of cloudbased selfadaptive realtime Big Data processing including mobile stream processing and will be demonstrated and assessed in several challenging complementary and commerciallypromising pilots There will be three PrEstoCloud pilots from the logistics mobile journalism and security surveillance application domains The objective is to validate the PrEstoCloud solution prove that it is domain agnostic and demonstrate its addedvalue for attracting early adopters thus initialising the exploitation process early on",
+          "Rcn" : "206360",
+          "Acronym" : "PrEstoCloud"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10397",
+        "_score" : 49.32078,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Transforming Transport Big Data will have a profound economic and societal impact in the mobility and logistics sector which is one of the mostused industries in the world contributing to approximately 15 of GDP Big Data is expected to lead to 500 billion USD in value worldwide in the form of time and fuel savings and savings of 380 megatons CO2 in mobility and logistics With freight transport activities projected to increase by 40 in 2030 transforming the current mobility and logistics processes to become significantly more efficient will have a profound impact A 10 efficiency improvement may lead to EU cost savings of 100 BEUR Despite these promises interestingly only 19  of EU mobility and logistics companies employ Big Data solutions as part of value creation and business processesThe TransformingTransport project will demonstrate in a realistic measurable and replicable way the transformations that Big Data will bring to the mobility and logistics market To this end TransformingTransport validates the technical and economic viability of Big Data to reshape transport processes and services to significantly increase operational efficiency deliver improved customer experience and foster new business models TransformingTransport will address seven pilot domains of major importance for the mobility and logistics sector in Europe 1 Smart Highways 2 Sustainable Vehicle Fleets 3 Proactive Rail Infrastructures 4 Ports as Intelligent Logistics Hubs 5 Efficient Air Transport 6 Multimodal Urban Mobility 7 Dynamic Supply Chains The TransformingTransport consortium combines knowledge and solutions of major European ICT and Big Data technology providers together with the competence and experience of key European industry players in the mobility and logistics domain",
+          "Rcn" : "206575",
+          "Acronym" : "TT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15902",
+        "_score" : 49.01162,
+        "_source" : {
+          "identifier" : "H2020ICT20171",
+          "Text" : "Highperformance datacentric stack for big data applications and operations The new datadriven industrial revolution highlights the need for big data technologies to unlock the potential in various application domains To this end BigDataStack delivers a complete highperformant stack of technologies addressing the emerging needs of data operations and applications The stack is based on a frontrunner infrastructure management system that drives decisions according to data aspects thus being fully scalable runtime adaptable and performant for big data operations and dataintensive applicationsBigDataStack promotes automation and quality and ensures that the provided data are meaningful of value and fitforpurpose through its Data as a Service offering that addresses the complete data path with approaches for data cleaning modelling semantic interoperability and distributed storage BigDataStack introduces a pioneering technique for seamless analytics which analyses data in a holistic fashion across multiple data stores and locations handling analytics on both data in flight and at rest Complemented with an innovative CEP running in federated environments for realtime crossstream processing predictive algorithms and process mining BigDataStack offers a complete suite for big data analytics BigDataStack holistic solution incorporates approaches for datafocused application analysis and dimensioning and process modelling towards increased performance agility and efficiency A toolkit allowing the specification of analytics tasks in a declarative way their integration in the data path as well as an adaptive visualization environment realize BigDataStacks vision of openness and extensibilityWith an emphasis on standardisation and open source contributions targeting high impact BigDataStack will enable data operations and dataintensive applications to take full advantage of the developed technologies exhibiting their applicability through three commercial use cases from the maritime market and financing domains",
+          "Rcn" : "213081",
+          "Acronym" : "BigDataStack"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "4702",
+        "_score" : 47.05875,
+        "_source" : {
+          "identifier" : "H2020EINFRA20151",
+          "Text" : "Building Research environments for fostering Innovation Decision making Governance and Education to support Blue growth BlueBRIDGE responds to the Juncker Investment Plan opening funding opportunities for eInfrastructures innovating current practices in producing  delivering scientific knowledge advice to competent authorities  enlarges the spectrum of growth opportunities in distinctive Blue Growth areas BlueBRIDGE builds on existing EU and International eInfrastructures providing capacity building in interdisciplinary research communities of scientists data managers  educators in academic institutions  industries focusing on 4 major challenges 1 stock assessment 2 socioeconomic performance analysis in aquaculture 3 fisheries  habitat degradation monitoring 4 education  knowledge bridging on protection  management of marine resourcesBlueBRIDGE capitalizes on past investments and uses a proven eInfrastructure connecting 1500 scientists integrating 50 repositories executing 13000 models  algorithmsmonth providing access to over a billion quality records in repositories worldwide with 997 service availabilityBlueBRIDGE focuses on user needs opening services  data to actors  liaising with competent agencies  SME Innovation Clusters Major results include servicedriven research environments addressing concrete challenges data and a wide range of user defined Blue Growth indicatorsBlueBRIDGE leverages a set of common services that together foster the realization of an innovative infrastructurebased approach for collaborative knowledge and data sharing publishing citation traceability  trust concretely contributing to the eInfrastructure CommonsBlueBRIDGE will be deployed in 30 months by an authoritative  complementary consortium with expertise in multiple scientific domains It bundles forces from International Government Organizations research institutes industry SMEs education and computer science domains establishing a network with a proven track in VREs  eInfrastructures marine environmental  fisheries science  economy",
+          "Rcn" : "198301",
+          "Acronym" : "BlueBRIDGE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3458",
+        "_score" : 46.055973,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Integrated SOlution to enhance COLD chain and logistic tracking ScenarioTransport  Logistic TL sector has experienced a fast expansion in the last decade the temperature controlled supply chain represents a high value added segment that is experiencing a continuous push for service quality Regulators all over the world are constantly introducing more demanding recommendations eg the recent Good Distribution Practise  EU C34301 2013  for the pharmaceutical products On the other hand the high cost of monitoring tracking information and temperature data during transports and the absence of structured ICT solutions to aggregate operative information efficiently risk frustrating regulators effortInnovationERPlan developed a comprehensive ICT solution able to collect and aggregate information from TL operations including track  trace and temperature data that allow the users to have a complete and updated status of deliveries an historical records depot for regulation compliance and a platform to distribute data to its stakeholders Moreover the solution provide logistic floor and mobile systems equipped with state of art RFID technology to minimize impact of data acquisition procedures on workforce efficiencyTarget MarketTransport and logistic companies working with temperature controlled shipments mainly Pharma  Food sectors are all potential users of the solution as well as their stakeholders Pharma  food producers retailers etc with a focus companies operating in last mile delivery scenario mostly SMEsPhase I Objectives To define the investment and the effort that the company should undertake to penetrate efficiently the European market To validate the ability of the solution to bring economical return to the company into a defined period in order to evaluate sustainability of the business plan To quantify the impact of the solution on standard transport  logistic scenarios to create appropriate selling tools Produce a sustainable marketing strategy to enter the European market",
+          "Rcn" : "196653",
+          "Acronym" : "ISO-COLD"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "7412",
+        "_score" : 44.565903,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2015",
+          "Text" : "Smartphonebased Mobile Positioning System This project aims to develop two new estimation paradigms for designing a reliable high precision and realtime mobile positioning system MPS clustering for filtering C4F and fitting for smoothing F4S The present MPS faces two immediate challenges from the real life world First little is known about the background and therefore accurate system modelling is difficult or even impossible and the use of conventional filterssmoothers is challenging or even infeasible Secondly the data is very rich in the sense that it comes from multiple and many types of sensors with improved scanning frequency and accuracy The rich sensor data can be used to circumvent poor background knowledge and to provide a greater breadth of observation regardless of individual sensor failure However it is expected that rich data will also pose a great challenge for real time filtering implementationThis project will develop a new concept Big Sensor to flexibly utilize the rich timevarying sensor data in the concerned MPS and to implement C4F and F4S The Big Sensorbased C4F and F4S use all available information including WIFI Bluetooth GPS signals as well as altitude acceleration and direction information based on embedded software to locate mobile devices The resulting MPS will not rely on sophisticated filters and will therefore be more reliable and computationally fasterThe research emphasis of the project will be on flexible and optimal sensor data inference which is found by developing novel clustering and fitting algorithms The researcher and the partitioning organizations have synergic expertise and solid research track records in the related fields Smartphonebased realistic MPS applications apps will be developed with the potential use of European GNSS The resulting MPS and its apps will be integrated into a Home Care system that the Host group has investigated for the purpose of tracking the movement and wellbeing of elderlydisabled people",
+          "Rcn" : "201659",
+          "Acronym" : "SmartPosition"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15828",
+        "_score" : 43.98105,
+        "_source" : {
+          "identifier" : "H2020MSCARISE2017",
+          "Text" : "PDEbased geometric modelling image processing and shape reconstruction Geometric modelling image processing and shape reconstruction have huge applications in various sectors and greatly impact on EUs economy human health security entertainment and others Existing problems such as big data and heavy manual operations in geometric modelling incapacity in image processing in continuous domains and lack of continuity and differentiability in shape reconstruction seriously affect quality efficiency and capacity Partial differential equation PDE based techniques provide effective solutions to these problems Current PDEbased modelling cannot achieve both powerful capacity and high computational performance PDEbased image processing suffers from expensive cost and local minimization PDEbased shape reconstruction has not been developedPDEGIR will tackle above mentioned problems by developing advanced PDE based techniques exploiting their applications through exchanges of research and innovation staff international and intersectoral collaborations and knowledge transfer It consists of four work packages PaMod will develop new PDEbased modelling techniques to obtain powerful capacity and high computational performance VaMod will develop new variational models to improve efficiency and quality ShaRecons will combine new PDEbased modelling with variational models to solve the problems of continuity differentiability and big data MD is designed to efficiently manage the project disseminate research output and promote the applications of the developed techniquesThe consortium consists of leading experts who have been working at the forefront of geometric modelling image processing and shape reconstruction for many years PDEGIR will combine their strengths to achieve the success of the proposed research The developed techniques will be applied in academic and nonacademic sectors and integrated into IDFs services and products to promote technology innovation and realize their commercial value",
+          "Rcn" : "212990",
+          "Acronym" : "PDE-GIR"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1058",
+        "_score" : 43.7336,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Social Semantic Emotion Analysis for Innovative Multilingual Big Data Analytics Markets MixedEmotions will develop innovative multilingual multimodal Big Data analytics applications that will analyze a more complete emotional profile of user behavior using data from mixed input channels multilingual text data sources AV signal input multilingual speech audio video social media social network comments and structured data Commercial applications implemented as pilot projects will be in Social TV Brand Reputation Management and Call Centre Operations Making sense of accumulated user interaction from different data sources modalities and languages is challenging and has not yet been explored in fullness in an industrial context Commercial solutions exist but do not address the multilingual aspect in a robust and largescale setting and do not scale up to huge data volumes that need to be processed or the integration of emotion analysis observations across data sources andor modalities on a meaningful level MixedEmotions will implement an integrated Big Linked Data platform for emotion analysis across heterogeneous data sources different languages and modalities building on existing state of the art tools services and approaches that will enable the tracking of emotional aspects of user interaction and feedback on an entity level The MixedEmotions platform will provide an integrated solution for largescale emotion analysis and fusion on heterogeneous multilingual text speech video and social media data streams leveraging open access and proprietary data sources and exploiting social context by leveraging social network graphs semanticlevel emotion information aggregation and integration through robust extraction of social semantic knowledge graphs for emotion analysis along multidimensional clusters",
+          "Rcn" : "194226",
+          "Acronym" : "MixedEmotions"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10069",
+        "_score" : 42.913887,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "QROWD  Because Big Data Integration is Humanly Possible Big Data integration in European cities is of utmost importance for municipalities and companies to offer effective information services enable efficient datadriven transportation and mobility reduce CO2 emissions assess the efficiency of infrastructure as well as enhance the quality of life of citizens At present this integration is substantially limited due to the following factors 1 Urban Big Data is locked in isolated industrial and public sectors and 2 The actual Big Data integration is an extremely hard technical problem due to the heterogeneity of data sources variety of formats sizes quality as well as update rates such that the integration requires significant human intervention QROWD addresses these challenges by offering methods to perform crosssectoral streaming Big Data integration including geographic transport meteorological cross domain and news data while capitalizing on human feedback channels The main objectives of QROWD are 1 Facilitating crosssectoral Big Data stream integration for urban mobility including realtime data on individual and public transportation combined with further available sources such as weather conditions and infrastructure information to create a comprehensive overview of the city traffic 2 Supporting participation and feedback of various stakeholder groups to foster datadriven innovation in cities and 3 Building a platform providing hybrid computational methods relying on efficient algorithms complemented with human computation and feedback The main outcomes of QROWD are 1 Two data value chains in the sectors of urban mobility and public transportation using a mix of large scale heterogeneous multilingual datasets and 2 Crosssectoral and crosslingual technology including algorithms and tools covering all phases of the crosssectoral Big Data Value Chain building on W3C standards and capitalizing on a flexible and efficient combination of human and machinebased computation",
+          "Rcn" : "206181",
+          "Acronym" : "QROWD"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6022",
+        "_score" : 42.736557,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : """STREAMLINE STREAMLINE will address the competitive advantage needs of European online media businesses EOMB by delivering fast reactive analytics suitable in solving a wide array of problems including addressing customer retention personalised recommendation and more broadly targeted services STREAMLINE will develop crosssectorial analytics drawing on multisource data originating from online media consumption online games telecommunications services and multilingual web content STREAMLINE partners face big and fast data challenges They serve over 100 million users offer services that produce billions of events yielding over 10 TB of data daily and possess over a PB of data at rest Their business usecases are representative of EOMB which cannot be handled efficiently  effectively by stateoftheart technologies as a consequence of system and human latencies System latency issues arise due to the lack of appropriate data streamoriented analytics tools and more importantly the added complexity cost and burden associated with jointly supporting analytics for both data at rest and data in motion Human latency results from the heterogeneity of existing tools and the low level programming languages required for development using an inordinate number of boilerplate codes that are system specific eg Hadoop SolR Esper Storm and databases and a plethora of scripts required to glue systems togetherOur research and innovation actions include addressing the challenges brought on by system and human latencies In this regard STREAMLINE will1	Develop a high level declarative language and userinterface and corresponding automatic optimisation parallelisation and system adaptation technologies that reduce the programming expertise required by data scientists thereby enabling them to more freely focus on domain specific matters2	Overcome the complexity of the socalled lambda architecture by delivering simplified operations that jointly support data at rest and data in motion in a single system and is compatible with the Hadoop ecosystem3	Develop fast reactive machine learning technologies based on distributed parameter servers and fully distributed asynchronous and approximate algorithms for fast results at high input ratesThe impact of developing a European open source tool for analysing data at rest and data in motion in a single system featuring a high level declarative language and a fast reactive machine learning library is much wider than just the recommender ad targeting and customer retention applications that the industrial partners in STREAMLINE will use to demonstrate the business value of our work for the data economy Our open source tools will help Europe in general since they lower the big data analytics skills barrier broaden the reach of data analytics tools and are applicable to diverse market sectors including healthcare manufacturing and transportation Thereby enabling a broad number of European SMEs in other markets to explore and integrate these technologies into their businesses At the same time STREAMLINE will provide a solid foundation for big data leadership in Europe by providing an opensource platform ready to be used by millions of stakeholders in companies households and governmentThe STREAMLINE consortium comprises worldrenowned scientists and innovators in the areas of database systems DFKI distributed systems SICS and machine learning SZTAKI who have won many international awards hold 18 patents collectively and have founded and advised nine startups Complementing the research excellence are four leading European enterprises in the data economy in the areas of global telecommunication services eg Internet IPTV mobile and landline networks PT games and entertainment Rovio media content streaming NMusic and webscale data extraction and business analytics IMR with Petab""",
+          "Rcn" : "199862",
+          "Acronym" : "STREAMLINE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "18238",
+        "_score" : 42.72565,
+        "_source" : {
+          "identifier" : "H2020FETHPC2017",
+          "Text" : "European eXtreme Data and Computing Initiative  2 The project EXDCI2 builds upon the success of EXDCI and will continue the coordination of the HPC ecosystem with important enhancements to better address the convergence of big data cloud and HPC EXDCI2 strategic objectives are a Development and advocacy of a competitive European HPC Exascale Strategy and b Coordination of the stakeholder community for European HPC at the ExascaleEXDCI2 mobilizes the European HPC stakeholders through the joint action of PRACE and ETP4HPC It will promote global community structuring and synchronization in HPC Big Data Cloud and embedded computing for a more competitive related value chain in Europe It will develop a HPC technology roadmap addressing the convergence with HPDA and the emergence of new HPC uses It will deliver application and applied mathematics roadmaps that will pave the road towards exascale simulation in academic and industrial domains It will develop a shared vision for the future of HPC that increases the synergies and prepares for targeted research collaborations EXDCI2 will work to increase the impact of the H2020 HPC research projects by identifying synergies and supporting market acceptance of the resultsAt the international level EXDCI2 will contribute to the international visibility of Europe develop contacts with the world leading HPC ecosystems and increase European impact on HPC standardsEXDCI2 will improve the HPC awareness by developing international event such as the European HPC Summit and by targeting specific audience through dedicated media It will disseminate the achievements of the European HPC ecosystem",
+          "Rcn" : "215826",
+          "Acronym" : "EXDCI-2"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13304",
+        "_score" : 42.48809,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2016",
+          "Text" : "FUTUREPROOF Wide Area Monitoring and Protection Systems for the Future Grid This project seeks to advance the stateoftheart in widearea power system monitoring and protection systems a critical component of future power systems and vital to achieving the EU vision of a European Energy Union that delivers secure affordable and climatefriendly energy  Crucially the fellowship will bring together the complementary expertise of the applicant on power system protection with the host organisations stateoftheart widearea monitoring infrastructure and technical expertise in measurement technology machine learning and big data analysis enabling innovative research at the interface between these domains Outputs will take the form of peerreviewed journal articles and international conference papers setting out algorithms and methodologies for robust and scalable monitoring and protection of future grids and a power industry engagement workshop for knowledge transfer to key stakeholders The complementarity of expertise of the host and the applicant ensures that knowledge transfer will be bidirectional and therefore the fellowship will be mutually beneficial In line with MSCA objectives the applicant who is already an experienced academic and competent researcher will diversify his research skills through mentoring and onetoone technical training from domain specialists within the host team as well as participation in selected advanced masters modules on MSc programmes offered by the host organization In addition the applicant will undertake a tailored professional training programme targeted at enhancing his senior management and leadership skills and well as his future collaboration and knowledge transfer with and mobility within the EU",
+          "Rcn" : "210089",
+          "Acronym" : "FUTURE-PROOF"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10067",
+        "_score" : 42.46898,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Advanced Big Data Value Chain for Public Safety and Personal Security AEGIS brings together the data the network  the technologies to create a curated semantically enhanced interlinked  multilingual repository for public  personal safetyrelated big data It delivers a datadriven innovation that expands over multiple business sectors  takes into consideration structured unstructured  multilingual datasets rejuvenates existing models and facilitates organisations in the Public Safety  Personal Security linked sectors to provide better  personalised services to their users AEGIS will introduce new business models through the breed of an open ecosystem of innovation  data sharing principles From the technology perspective AEGIS targets to revolutionise semantic technologies in big data big data analytics  visualisations as well as security  privacy frameworks by addressing current challenges  requirements of crossdomain  multilingual applications The main benefits derived from AEGIS to data identification collection harmonisation storage  utilisation towards value generation for these sectors will be Unified representation of knowledge Accelerated more effective  valuepacked cycles of intelligence extraction  of services  applications development Introduction of novel business models for the data sharing economy  establishment of AEGIS as a prominent big data hub utilising cryptocurrency algorithms to validate transactions  handle effectively IPRs data quality  data privacy issues though a business brokerage framework Based on an early market analysis the Total Addressable Market of AEGIS is up to 31bn 271bn AEGIS is able not only to capture a portion of the market size but also to expand the pie through creating additional uncaptured value based on small data integration in typical big data repositories  algorithms Based on the same analysis the project will break even  will be viable from its launch 2020  will have a ROI investment of EUcommission in the first years",
+          "Rcn" : "206179",
+          "Acronym" : "AEGIS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "16985",
+        "_score" : 42.40099,
+        "_source" : {
+          "identifier" : "H2020EO2017",
+          "Text" : "Copernicus Access Platform Intermediate Layers Small Scale Demonstrator With the advent of the Copernicus program with its wealth of open data the Earth Observation application and service development domain is increasingly adopting big data technologies This adoption is first related to efficient data storage and processing infrastructures but most importantly data analytics and application development frameworkCANDELA project main objective is to allow the creation of value from Copernicus data through the provisioning of modelling and analytics tools given that the tasks of data collection processing storage and access will be provided by the Copernicus Data and Information Access Service DIAS which the team is fully familiar with The implementation starts by putting in place a set of powerful tools that drastically lowers the cost of getting familiar with the data and creating new services These modules adopt new developments in the domain of machine learning data mining data fusion and web semantics combining the Copernicus data and information with other nonEarth Observation data sources to derive novel applications and servicesCANDELA will demonstrate the breadth of project capabilities with a reallife small demonstrator by means of two reference scenarios a macroeconomics and agriculture scenario to show how remote sensing capacities to extract adequate information from images could be used to feed economical models and a forest health monitoring FHM scenario which aim is to present how Earth Observation satellite data collection can be used for the monitoring of forest health conditionsCANDELA team is a wellbalanced consortium consisting of nine partners from five European countries and with strong participation from the industry as encouraged by the Call being half of the partners well positioned SMEs",
+          "Rcn" : "214372",
+          "Acronym" : "CANDELA"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1133",
+        "_score" : 42.09482,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Modelling the European data economy The Modelling the European Data Economy EuDEco project will assist European science and industry in understanding and exploiting the potentials of data reuse in the context of Big and Open Data big data The aim isto establish a self sustaining data market and thereby increase the competitiveness of Europe To be able to extract the benefits of data reuse it is crucial to know how to understand the underlying economic societal legal and technological framework conditions and challenges to build useful applications and services Despite the amount of activities in this domain an effort is missing to develop use cases and business models that are economic viable legally certain and taking societal needs and concerns into accountEuDEco will accomplish this by leveraging the engagement of other projects conducting pilots on data reuse as well as by the engagement of external experts and stakeholders EuDEco moves beyond the classical approaches by applying the approach of complex adaptive systems to model the data economy in order to indentify value networks use cases and business models for data reuse In the course of the project will develop and refine the data economy model in several steps further by case studies on previous pilots on data reuse by indepth analysis from legal socioeconomic and technological point of view and by extensive tests of use cases and business models with other projects Therefore it will analyse framework conditions relevant and challenges related to data reuse and the emergence of a selfsustaining data marketFinally EuDEco will deliver a model of the data economy including viable use cases and business models as well as suggestions and recommendations addressing the main legal contractual societal and technological concerns and challenges such as contractual framework or data protection Above that EuDEco will develop an observatory for policy makers enabling them to track the development of the data economy",
+          "Rcn" : "194301",
+          "Acronym" : "EuDEco"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9900",
+        "_score" : 42.04439,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Scalable Linking and Integration of Big POI data POIs are the content of any application service and product even remotely related to our physical surroundings From navigation applications to social networks to tourism and logistics we use POIs to search communicate decide and plan our actions The Big Data assets for POIs and the evolved POI value chain introduced opportunities for growth but also complexity intensifying the challenges relating to their qualityassured integration enrichment and data sharing POI data are by nature semantically diverse and spatiotemporally evolving representing different entities and associations depending on their geographical temporal and thematic context Pioneered by the FP7 project GeoKnow linked data technologies have been applied to effectively extract the maximum possible value from open crowdsourced and proprietary Big Data sources Validated in the domains of tourism and logistics these technologies have proven their benefit as a costeffective and scalable foundation for the qualityassured integration enrichment and sharing of genericpurpose geospatial dataIn SLIPO we argue that linked data technologies can address the limitations gaps and challenges of the current landscape in integrating enriching and sharing POI data Our goal is to transfer the research output generated by our work in project GeoKnow to the specific challenge of POI data introducing validated and costeffective innovations across their value chain",
+          "Rcn" : "206003",
+          "Acronym" : "SLIPO"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9143",
+        "_score" : 41.99871,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "DigiSCAN Mobile Devices are becoming the preferred tools for work and communication resulting in the new megatrend of necessity for a mobilefirst strategy Episcans project focuses on the 3 trends dominating the mobile device industry 1 Analytics will take centre stage as the volume of data generated by embedded systems increases and vast pools of structured  unstructured data are analysed 2 The microprocessors embedded in these devices are becoming increasingly powerful and capable of delivering complex functionalities and incorporating new technologies 3 Demand and push for new sensor types to capture and interpret data Episcan has successfully developed scanning technology incorporating sophisticated detection  verification capabilities for the niche market of printpackaging verification aimed at highly regulated industries such as pharma biosciences medical devices where detection of error in labels and packaging is crucial To keep abreast with the digital trends of migration of technologies to mobile device in addition to the inline manufacturing scanning device Episcans strategy is to develop the technology in the context of a handheld mobile device In order to eliminate the need for creation of bespoke hardware possibility of incorporating the technology into a mobile phone was investigated Episcans technological partner  authority in microprocessor development and existing supplier to mobile phone OEMs was that this technology has huge potential for the niche market that Episcan targets but also as a RD platform for a number of spinoff applications which would represent high value for the enduser and manufacturers Hardware elimination and sensoryanalyitcs capability of scanning technology makes it a high value asset that can be commercialized successfully  objective is developing prototype software to validate technological feasibility of migrating this technology to mobile phones",
+          "Rcn" : "205164",
+          "Acronym" : "DigiSCAN"
+        }
+      }
+    ]
+  }
+}

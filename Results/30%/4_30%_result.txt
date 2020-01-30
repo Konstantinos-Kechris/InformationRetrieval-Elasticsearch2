@@ -1,0 +1,256 @@
+{
+  "took" : 11,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 17729,
+    "max_score" : 156.87495,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10066",
+        "_score" : 80.19038,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "European Cloud InMemory Database Appliance with Predictable Performance for Critical Applications The project aims at producing a European Cloud Database Appliance for providing a Database as a Service able to match the predictable performance robustness and trustworthiness of on premise architectures such as those based on mainframes The project will evolve cloud architectures to enable the increase of the uptake of cloud technology by providing the robustness trustworthiness and performance required for applications currently considered too critical to be deployed on existing cloudsCloudDBAppliance will deliver a cloud database appliance featuring1    A scalable operational database able to process high update workloads such as the ones processed by banks or telcos combined with a fast analytical engine able to answer analytical queries in an online manner 2    A Hadoop data lake integrated with the operational database to cover the needs from companies on big data3    A cloud hardware appliance leveraging the next generation of hardware to be produced by Bull the main European hardware provider This hardware is a scaleup hardware similar to the one of mainframes but with a more modern architecture Both the operational database and the inmemory analytics engine will be optimized to fully exploit this hardware and deliver predictable performance Additionally CloudDBAppliance will deal with the need to tolerate catastrophic cloud data centres failures eg a fire or natural disaster providing data redundancy across cloud data centres",
+          "Rcn" : "206178",
+          "Acronym" : "CloudDBAppliance"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11313",
+        "_score" : 73.626114,
+        "_source" : {
+          "identifier" : "ERC2016COG",
+          "Text" : "The Computational Database for Real World Awareness Two major hardware trends have a significant impact on the architecture of database management systems DBMSs First main memory sizes continue to grow significantly Machines with 1TB of main memory and more are readily available at a relatively low price Second the number of cores in a system continues to grow from currently 64 and more to hundreds in the near future This trend offers radically new opportunities for both business and science  It promises to allow for informationatyourfingertips ie large volumes of data can be analyzed and deeply explored online in parallel to regular transaction processing Currently deep data exploration is performed outside of the database system which necessitates huge data transfers This impedes the processing such that realtime interactive exploration is impossible  These new hardware capabilities now allow to build a true computational database system that integrates deep exploration functionality at the source of the data This will lead to a drastic shift in how users interact with data as for the first time interactive data exploration becomes possible at a massive scaleUnfortunately traditional DBMSs are simply not capable to tackle these new challengesTraditional techniques like interpreted code execution for query processing become a severe bottleneck in the presence of such massive parallelism causing poor utilization of the hardware I pursue a radically different approach Instead of adapting the traditional diskbased approaches I am integrating a new justintime compilation framework into the inmemory database that directly exploits the abundant parallel hardware for largescale data processing and exploration By explicitly utilizing cores I will be able to build a powerful computational database engine that scales the entire spectrum of data processing  from transactional to analytical to exploration workflows  far beyond traditional architectures",
+          "Rcn" : "207899",
+          "Acronym" : "CompDB"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10948",
+        "_score" : 69.46196,
+        "_source" : {
+          "identifier" : "ERC2016STG",
+          "Text" : "A Rigorous Approach to Consistency in Cloud Databases Modern Internet services store data in novel cloud databases which partition and replicate the data across a large number of machines and a wide geographical span To achieve high availability and scalability cloud databases need to maximise the parallelism of data processing Unfortunately this leads them to weaken the guarantees they provide about data consistency to applications The resulting programming models are very challenging to use correctly and we currently do not have advanced methods and tools that would help programmers in this taskThe goal of the project is to develop a synergy of novel reasoning methods static analysis tools and database implementation techniques that maximally exploit parallelism inside cloud databases while enabling application programmers to ensure correctness We intend to achieve this by first developing methods for reasoning formally about how weakening the consistency guarantees provided by cloud databases affects application correctness and the parallelism allowed inside the databases This will build on techniques from the areas of programming languages and software verification The resulting theory will then serve as a basis for practical implementation techniques and tools that harness database parallelism but only to the extent such that its side effects do not compromise application correctnessThe proposed project is highrisk because it aims not only to develop a rigorous theory of consistency in cloud databases but also to apply it to practical systems design The project is also highgain since it will push the envelope in availability scalability and costeffectiveness of cloud databases",
+          "Rcn" : "207381",
+          "Acronym" : "RACCOON"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5999",
+        "_score" : 62.249138,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Scalable online machine learning for predictive analytics and realtime interactive visualization PROTEUS mission is to investigate and develop readytouse scalable online machine learning algorithms and interactive visualization techniques for realtime predictive analytics to deal with extremely large data sets and data streams The developed algorithms and techniques will form a library to be integrated into an enhanced version of Apache Flink the EU Big Data platform PROTEUS will contribute to the EU Big Data area by addressing fundamental challenges related to the scalability and responsiveness of analytics capabilities The requirements are defined by a steelmaking industrial use case The techniques developed in PROTEUS are however general flexible and portable to all data streambased domains In particular the project will go beyond the current stateofart technology by making the following specific original contributionsi Realtime scalable machine learning for massive highvelocity and complex data streams analyticsii Realtime hybrid computation batch data and data streamsiii Realtime interactive visual analytics for Big Dataiv Enhancement of Apache Flink the EU Big Data platform andv Realworld industrial validation of the technology developedThe PROTEUS impact is manifold i strategic by reducing the gap and dependency from the US technology empowering the EU Big Data industry through the enrichment of the EU platform Apache Flink ii economic by fostering the development of new skills and new job positions and opportunities towards economic growth iii industrial by considering realworld requirements from industry and by validating the outcome on an operational setting and iv scientific by developing original hybrid and streaming analytic architectures that enable scalable online machine learning strategies and advanced interactive visualisation techniques that are applicable for general data streams in other domains",
+          "Rcn" : "199839",
+          "Acronym" : "PROTEUS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6022",
+        "_score" : 62.064224,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : """STREAMLINE STREAMLINE will address the competitive advantage needs of European online media businesses EOMB by delivering fast reactive analytics suitable in solving a wide array of problems including addressing customer retention personalised recommendation and more broadly targeted services STREAMLINE will develop crosssectorial analytics drawing on multisource data originating from online media consumption online games telecommunications services and multilingual web content STREAMLINE partners face big and fast data challenges They serve over 100 million users offer services that produce billions of events yielding over 10 TB of data daily and possess over a PB of data at rest Their business usecases are representative of EOMB which cannot be handled efficiently  effectively by stateoftheart technologies as a consequence of system and human latencies System latency issues arise due to the lack of appropriate data streamoriented analytics tools and more importantly the added complexity cost and burden associated with jointly supporting analytics for both data at rest and data in motion Human latency results from the heterogeneity of existing tools and the low level programming languages required for development using an inordinate number of boilerplate codes that are system specific eg Hadoop SolR Esper Storm and databases and a plethora of scripts required to glue systems togetherOur research and innovation actions include addressing the challenges brought on by system and human latencies In this regard STREAMLINE will1	Develop a high level declarative language and userinterface and corresponding automatic optimisation parallelisation and system adaptation technologies that reduce the programming expertise required by data scientists thereby enabling them to more freely focus on domain specific matters2	Overcome the complexity of the socalled lambda architecture by delivering simplified operations that jointly support data at rest and data in motion in a single system and is compatible with the Hadoop ecosystem3	Develop fast reactive machine learning technologies based on distributed parameter servers and fully distributed asynchronous and approximate algorithms for fast results at high input ratesThe impact of developing a European open source tool for analysing data at rest and data in motion in a single system featuring a high level declarative language and a fast reactive machine learning library is much wider than just the recommender ad targeting and customer retention applications that the industrial partners in STREAMLINE will use to demonstrate the business value of our work for the data economy Our open source tools will help Europe in general since they lower the big data analytics skills barrier broaden the reach of data analytics tools and are applicable to diverse market sectors including healthcare manufacturing and transportation Thereby enabling a broad number of European SMEs in other markets to explore and integrate these technologies into their businesses At the same time STREAMLINE will provide a solid foundation for big data leadership in Europe by providing an opensource platform ready to be used by millions of stakeholders in companies households and governmentThe STREAMLINE consortium comprises worldrenowned scientists and innovators in the areas of database systems DFKI distributed systems SICS and machine learning SZTAKI who have won many international awards hold 18 patents collectively and have founded and advised nine startups Complementing the research excellence are four leading European enterprises in the data economy in the areas of global telecommunication services eg Internet IPTV mobile and landline networks PT games and entertainment Rovio media content streaming NMusic and webscale data extraction and business analytics IMR with Petab""",
+          "Rcn" : "199862",
+          "Acronym" : "STREAMLINE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5505",
+        "_score" : 60.784195,
+        "_source" : {
+          "identifier" : "H2020EO2015",
+          "Text" : "Platform for wildlife monitoring integrating Copernicus and ARGOS data EO4wildlife main objective is to bring large number of multidisciplinary scientists such as biologists ecologists and ornithologists around the world to collaborate closely together while using European Sentinel Copernicus Earth Observation more heavily and efficientlyIn order to reach such important objective an open service platform and interoperable toolbox will be designed and developed It will offer high level services that can be accessed by scientists to perform their respective research The platform front end will be easytouse access and offer dedicated services that will enable them process their geospatial environmental stimulations using Sentinel Earth Observation data that are intelligently combined with other observation sourcesSpecifically the EO4wildlife platform will enable the integration of Sentinel data ARGOS archive databases and real time thematic databank portals including Wildlifetrackingorg Seabirdtrackingorg and other Earth Observation and MetOcean databases locally or remotely and simultaneouslyEO4wildlife research specialises in the intelligent management big data processing advanced analytics and a Knowledge Base for wildlife migratory behaviour and trends forecast The research will lead to the development of webenabled open services using OGC standards for sensor observation and measurements and data processing of heterogeneous geospatial observation data and uncertaintiesEO4wildlife will design implement and validate various scenarios based on real operational use case requirements in the field of wildlife migrations habitats and behaviour These include 1 Management tools for regulatory authorities to achieve realtime advanced decisionmaking on the protection of protect seabird species 2 Enhancing scientific knowledge of pelagic fish migrations routes reproduction and feeding behaviours for better species management and 3 Setting up tools to assist marine protected areas and management",
+          "Rcn" : "199237",
+          "Acronym" : "EO4wildlife"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11990",
+        "_score" : 60.56074,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2016",
+          "Text" : "Next gEneration Sequence sTORage Sequential data are everywhere from DNA sequences to astronomical light curves and from aircraft engine monitoring data to the prices of stock options Recent advances in various fields such as those of data storage networking and sensing technologies have allowed organizations to gather overwhelming amounts of sequential data at unprecedented speedsThis wealth of information enables analysts to identify patterns find abnormalities and extract knowledge It is noteworthy that common practice in various domains is to use custom data analysis solutions usually built using higher level programming languages such as RPython Such techniques however while commonly acceptable in small data processing scenarios are unfit for larger scale data management and exploration This is because they come in contrast to all previous database research not taking advantage of indexes physical data independence query optimization and data processing methods designed for scalability In these domains database systems are used merely for storing and retrieving data and not as the sophisticated query processing systems they areCurrent relational storage layers cannot handle the access patterns that analysts of sequential data are interested in without scanning large amounts of unnecessary data or without large processing overhead Thus making complex analytics inefficientIn order to exploit this new opportunity we plan to develop specialized data series storage and retrieval systems which will allow analysts  across different fields  to efficiently manipulate the sequences of interestThe proposed research project named NESTOR Next gEneration Sequence sTORage has the potential of great economic and social impact in Europe as multiple scientific and industrial fields are currently in need of the right tools in order to handle their massive collections of data series",
+          "Rcn" : "208656",
+          "Acronym" : "NESTOR"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6582",
+        "_score" : 60.20053,
+        "_source" : {
+          "identifier" : "H2020MSCAITN2015",
+          "Text" : "Methodologies and Data mining techniques for the analysis of Big Data based on Longitudinal Population and Epidemiological Registers European societies face rapid social changes challenges and benefits which can be studied with traditional tools of analysis but with serious limitations This rapid transformation covers changes in family forms fertility the decline of mortality and increase of longevity and periods of economic and social instability Owing to population ageing across Europe countries are now the experiencing the impact of these rapid changes on the sustainability of their welfare systems At the same time the use of the space and residential mobility has become a key topic with migrations within the EU countries and from outside Europe being at the center of the political agenda Over the past decade research teams across Europe have been involved in the development and construction of longitudinal population registers and large research databases while opening up avenues for new linkages between different data sources ie administrative and health data making possible to gain an understanding of these fast societal transformations However in order to work with these types of datasets requires advanced skills in both data management and statistical techniques LONGPOP aims to create network to utilize these different research teams to share experiences construct joint research create a training track for specialist in the field and increase the number of users of these large  possibly underused  databases making more scientists and stakeholders aware of the richness in the databases",
+          "Rcn" : "200475",
+          "Acronym" : "LONGPOP"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13621",
+        "_score" : 58.581615,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "Cloud collaborative open platform for advanced brain analytics Understanding brains anatomy is one of the biggest challenges in science due to the difficulty to observe it in vivo and its enormous complexity Neuroimaging is the only available tool for noninvasive quantification of brain pathology and injury However a single neuroimaging dataset can measure in the terabytes As a result big data analysis in neurology is an epically big challenge Despite the advances in computer infrastructure data transmission and imaging techniques cracking the brain requires a collective effortHowever collaborative research is severely limited due to bureaucracy and privacy issues regarding patients data Additionally existing visualization systems for brain images have serious interoperability issues and lack advanced quantification and image visualization tools that can help researchers better identify disease biomarkers and study large datasets This greatly hinders our understanding of the brain and our capabilities to develop new treatments for brain disorders which is critical considering that 165 million people are affected by brain disorders in the EU with an estimated cost of 798 billion each yearThe objective of Neuromapper is to create a new gold standard for collaborative research on neuroscience by providing an environment for secure data sharing in the cloud as well advanced data management analytics and visualization tools In addition the platform will be open to external researchers so that they can develop new data visualization and image processing tools and share them with the community As the community grows and the database of brain images reaches a critical mass Mint Labs will be able to implement big data and deep learning techniques This will allow the development of a decision support system able to automate the diagnosis process and find new biomarkers of brain disorders leading to earlier diagnosis and the development of new treatments",
+          "Rcn" : "210417",
+          "Acronym" : "Neuromapper"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1079",
+        "_score" : 58.181007,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "A Holistic Data Privacy and Security by Design PlatformasaService Framework Introducing Distributed Encrypted Persistence in Cloudbased Applications The vision of PaaSword is to maximize and fortify the trust of individual professional and corporate customers to Cloud enabled services and applications to safeguard both corporate and personal sensitive data stored on Cloud infrastructures and Cloudbased storage services and to accelerate the adoption of Cloud computing technologies and paradigm shift from the European industry Thus PaaSword will introduce a holistic data privacy and security by design framework enhanced by sophisticated contextaware policy access models and robust policy access decision enforcement and governance mechanisms which will enable the implementation of secure and transparent Cloudbased applications and services that will maintain a fully distributed and totally encrypted data persistence layer and thus will foster customers data protection integrity and confidentiality even in the case wherein there is no control over the underlying thirdparty Cloud resources utilizedIn particular PaaSword intends not only to adopt the CSA Cloud security principles but also to extend them by capitalizing on recent innovations on a distributed encryption and virtual database middleware technologies that introduce a scalable secure Cloud database abstraction layer combined with sophisticated distribution and encryption methods into the processing and querying of data stored in the Cloud b contextaware access control that incorporate the dynamically changing contextual information into novel group policies implementing configurable contextbased access control policies and contextdependent access rights to the stored data at various different levels and c policy governance modelling and annotation techniques that allows application developers to specify an appropriate level of protection for the applications data while the evaluation of whether an incoming request should be granted access to the target data takes dynamically place during application runtime",
+          "Rcn" : "194247",
+          "Acronym" : "PaaSword"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15356",
+        "_score" : 57.52302,
+        "_source" : {
+          "identifier" : "H2020SC6COCREATION2017",
+          "Text" : "MAKing Sustainable development and WELLbeing frameworks work for policy analysis MAKSWELL project proposes to extend and harmonising the indicators able to capture the main characteristics of the beyondGDP approach proposing a new framework that includes them in the evaluation of the public policies The main goals of the project can be summarized in three main objectives In particular the project aims at1building up a database for a wide set of EU countries that select and harmonize the national framework on wellbeing as well as the available SDG indicators2improving the Database both in relation to the timeliness and to the integration with big data measures and the methodologies able to reach these extensions Particularly WP2 will extend the actual set of information available on wellbeing and sustainability to including coherent new data sources eg big data able to derive coherent indicators for local analysis and disaggregation for other domain3using the extended Database for policy evaluation and built up a national pilot studiesMAKSWELL project aims at creating a shared knowledge on the state of the art on relevant dimensions of sustainable development and on vulnerabilities and potentialities of society on the most appropriate traditional and new data collection tools and modern statistical methods to have timely and accurate dataThe analysis and summary of the main features of the piloting process will produce recommendations They will be substantially suggestions and best practices collections to maintain and update the prototype fed by these new and traditional data sources for more focused policy decisions The knowledge will be built up through the contact and reciprocal fertilization of NSIs academics and stakeholders identifying and contacting key practitioners to participate in a virtual Working Group projects results will also path ways for common research under FP9",
+          "Rcn" : "212388",
+          "Acronym" : "MAKSWELL"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9614",
+        "_score" : 56.894405,
+        "_source" : {
+          "identifier" : "H2020EEB2016",
+          "Text" : "ExcEED  European Energy Efficient buildingdistrict Database from data to information to knowledge The European Union is undertaking consistent action to enforce and promote energy efficiency in building sector The new energy efficient constructions expression of the European efforts to decrease CO2 emissions represent a growing share of the building stock Now there is an unavoidable need to learn from what we are doing or have recently done to improve the quality and the performances of the future building sector This proposal plans the creation of European Energy Efficient building  district Database ExcEED ExcEED will be a solid and wellstructured database with measured and qualitative information from beyond the state of the art buildings The key aspects of the database will be A set of tools that allows geoclustered statistical and knowledge analysis of the data A collection of tailored Key Performance Indicators KPIs that will transform data into information The ability to analyse buildingdistrict interaction The existence of the database and associated analyses will be guaranteed beyond the project conclusion thanks to a model of financial selfsupport  The ability to continuously gather new data thanks to specific features eg occupant surveys that increase project visibility among designers with interest in the major rating schemes eg LEED The connection with the major EU financed databases on buildings ie Building Observatory The advanced tools and KPIs associated to the database will allow the analysis of energy performance and environmental quality at the level of single buildingdistrict geocluster of buildings and European new or renovated building stock The analysis will result in knowledge to inform single building managers designers and European policy makers",
+          "Rcn" : "205694",
+          "Acronym" : "ExcEED"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "18245",
+        "_score" : 55.88024,
+        "_source" : {
+          "identifier" : "H2020FETHPC2017",
+          "Text" : "ASPIDE exAScale ProgramIng models for extreme Data procEssing Extreme Data is an incarnation of Big Data concept distinguished by the massive amounts of data that must be queried communicated and analyzed in near realtime by using a very large number of memorystorage elements and Exascale computing systems Immediate examples are the scientific data produced at a rate of hundreds of gigabitspersecond that must be stored filtered and analyzed the millions of images per day that must be mined analyzed in parallel the one billion of social data posts queried in realtime on an inmemory  components database Traditional disks or commercial storage cannot handle nowadays the extreme scale of such application data Following the need of improvement of current concepts and technologies ASPIDEs activities focus on dataintensive applications running on systems composed of up to millions of computing elements Exascale systems Practical results will include the methodology and software prototypes that will be designed and used to implement Exascale applicationsThe ASPIDE project will contribute with the definition of a new programming paradigms APIs runtime tools and methodologies for expressing dataintensive tasks on Exascale systems which can  pave the way for the exploitation of massive parallelism over a simplified model of the system architecture promoting high performance and efficiency and offering powerful operations and mechanisms for processing extreme data sources at high speed andor realtime",
+          "Rcn" : "215834",
+          "Acronym" : "ASPIDE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "12639",
+        "_score" : 55.32236,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2016",
+          "Text" : "A database of experimental biomaterials and their biological effect The advent of material science and manufacturing techniques in the last century has led to the development of thousands of novel biomaterials with potential to revolutionise health care However the vast majority of biomaterial studies do not progress beyond the stages of design and testing and therefore a substantial amount of scientific data is only available in the form of research publications To date there is no database curating the experimental data generated by testing novel biomaterials in vitro and in vivo representing a loss of a valuable big experimental data In here we propose an openaccess database of experimental tissue scaffolds indexing design features cellular and tissue responses thus creating an exhaustive inventory of experimental scaffolds Such a dataset would enable scientists to efficiently search and interpret relevant information from past studies across all tissues and models as well as create computational tools to predict and optimise cellmaterial interaction A comprehensive map of research activity and findings should also make it easier to identify areas where data is missing or lacking A systematic uptodate overview of the field will also be a useful tool for science policy making The novelty of the project lies not only in the concept of curating data from laboratory evaluation of experimental biomaterials rather than just approved medical implants but also in attempting to face the methodological challenge of extracting and structuring information from the heterogeneous and vast field of experimental biomaterials One of the keys of this interdisciplinary project is crowdsourcing biomaterial scientists thus engaging their expertise and understanding their needs in order to create a comprehensive relevant and useful tool to enhance research in the field",
+          "Rcn" : "209352",
+          "Acronym" : "DEBBIE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "7714",
+        "_score" : 55.218037,
+        "_source" : {
+          "identifier" : "ERC2015PoC",
+          "Text" : "European Union Case Law Corpus creating a multilingual and searchable corpus of case law from EU member state courts and the European Court of Justice The idea to be taken to proof of concept is to develop and test an innovative EU Case Law Corpus EUCLCORP EUCLCORP will be a standardised multidimensional and multilingual corpus of the case law of the Court of Justice of the European Union CJEU and of the constitutionalsupreme courts of EU member states Unlike databases in which users can carry out only relatively straightforward searches for the occurrence of specific terms or keywords corpora allow users to search and track how particular linguistic expressions and features are used in context The corpus will be coded linguistically and with metadata to enable stakeholders such as lawyers legal translators lexicographers and linguists as well as academics to compare meanings of terms across languages and legal systems to compare translation options and monitor the consistency of translation in EU case law Furthermore EUCLCORP will allow users to track the migration of terms between legal systems and to create datadriven legal dictionaries and terminological databases No such corpus currently exists  By adding to the big data currently available in legal databases EUCLCORP will contribute to a better understanding of EU law and of the Europeanisation of law as well as improved administration of justice",
+          "Rcn" : "202645",
+          "Acronym" : "EUCLCORP"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14263",
+        "_score" : 54.808163,
+        "_source" : {
+          "identifier" : "H2020JTIIMI2201507twostage",
+          "Text" : """Big Data  Heart Despite remarkable progress in the management of cardiovascular disease CVD major unmet needs remain with regard to mortality hospitalisations quality of life QoL healthcare expenditures and productivity Acute coronary syndrome ACS atrial fibrillation AF and heart failure HF are major and growing components of the global CVD burden Optimal management of these conditions is complicated by their complex aetiology and heterogeneous prognoses Poor definition at the molecular level and co  multimorbidities form major challenges for the development and delivery of targeted treatments This renders response to therapy unpredictable with large interindividual variation and importantly small or undetectable treatment effects in large trials of unselected patientsTodays treatment guidelines still reflect the scientific constraints of an earlier era where clinical markers to guide therapy are limited to conventional risk factors and endorgan damage and where the main endpoint in clinical trials is patient death Hence drug development pipelines from early target validation through to late postmarketing work have proven to be slow expensive and highrisk the chance of eventual approval for a CVD drug candidate in Phase I trials is 7 the lowest of any disease category shared with oncology2 Moreover tolerability of medication and adherence to treatment show wide variations There is thus a need for better definition of these diseases their markers and endpoints including better segmentation of current heterogeneous patient groups acknowledging underlying mechanisms and comorbidities and of their outcomesprognoses including functional capacity and quality of life QoLBigDataHearts ultimate goal is to develop a Big Datadriven translational research platform of unparalleled scale and phenotypic resolution in order to deliver clinically relevant disease phenotypes scalable insights from realworld evidence and insights driving drug development and personalised medicine through advanced analytics  To accomplish this BigDataHeart will	Assemble an unparalleled array of bigdata sets	Create a responsive and agile research framework to address the objectives	Create systems to leverage existing stateoftheart solutions from different sources to enable combination for highpower identification harmonisation access and analysis of distributed data	Develop and expand on this distributed data for further analysis	Create novel frameworks for disease definitions based on uptodate scientific evidence	Leverage unique database access and big data science expertise to validate and tweak the novel frameworks through a number of pilot studies with high and immediate social relevance	Involve all relevant stakeholders including policy makers and insurers to ensure full support for this new framework	Ensure proper wide dissemination of the framework and project results to maximise impact and speed at which the results will be broadly implemented in the EU and so that they may serve as a template or inspiration for the rest of the world	Set new and durable standards for cardiovascular bigdata science for the next decadesBigDataHeart uniquely brings together key players and stakeholders in the CVD field to address the challenges outlined above The clinical researchers involved in BigDataHeart have been instrumental in shaping current treatment and management of HF AF and ACS They will join forces with leading epidemiologists and big data scientists from across Europe and leading European cardiovascular professional and patient organisations This team is complemented with a powerful group of players from the pharmaceutical industry Through its partners BigDataHeart has access to most of the relevant largescale European CVD databases ranging from electronic health records and disease registries through wellphenotyped clinical trials and large e""",
+          "Rcn" : "211210",
+          "Acronym" : "BigData@Heart"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "2893",
+        "_score" : 53.45072,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2014",
+          "Text" : "A Scalable and Elastic Platform for NearRealtime Analytics for The Graph of Everything The SMARTER A Scalable and Elastic Platform for NearRealtime Analytics for The Graph of EveryThing project aims to build a platform that provide the ability to derive actionable information from enormous amount of data generated by the Internet of Everything  to leverage datadriven strategies to innovate compete and capture value from deep web and realtime information The project targets innovative research outcomes by addressing Big Dynamic Data Analytic requirements from three relevant aspects variety and velocity and volume The project introduces the concept Graph of Everything GoT  to deal with the issue of data variety in data analytics for Internet of Things IoT data The Graph of Everything extends Linked Data model RDF  that has been widely used for representing deep web data to connect dynamic data from data streams generated from IoT eg sensor readings with any knowledgebase to create a single graph as an integrated database serving any analytical queries on a set of nodesedges of the graph so called analytical lens of everything The dynamic data represented as Linked Data Model called Linked Stream Data may contain valuable but perishable insights which are only valuable if it can be detected to act on them right at the right time Moreover to derive such insights the dynamic data needs to be correlated with various large datasets Therefore SMARTER has to deal both the velocity  requirements together volume requirements of analysing GoT to make the platform able support nearrealtime analytical operations with the elastically scalability",
+          "Rcn" : "196064",
+          "Acronym" : "SMARTER"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1093",
+        "_score" : 53.232697,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "AEGLE Ancient Greek    An analytics framework for integrated and personalized healthcare services in Europe The data generated in the health domain is coming from heterogeneous multimodal multilingual dynamic and fast evolving medical technologies Today we are found in a big health landscape characterized by large volume versatility and velocity 3Vs which has led to the evolution of the informatics in the big biodata domain AEGLE project will build an innovative ICT solution addressing the whole data value chain for health based on cloud computing enabling dynamic resource allocation HPC infrastructures for computational acceleration and advanced visualization techniques AEGLE will Realize a multiparametric platform using algorithms for analysing big biodata including features such as volume properties communication metrics and bottlenecks estimation of related computational resources needed handling data versatility and managing velocity  Address the systemic health big biodata in terms of the 3V multidimensional space using analytics based on PCA techniques  Demonstrate AEGLEs efficiency through the provision of aggregated services covering the 3V space of big biodata Specifically it will be evaluated in abig biostreams where the decision speed is critical and needs nonlinear and multiparametric estimators for clinical decision support within limited time bbigdata from nonmalignant diseases where the need for NGS and molecular data analytics requires the combination of cloud located resources coupled with local demands for data and visualization and finally cbigdata from chronic diseases including EHRs and medication with needs for quantified estimates of important clinical parameters semantics extraction and regulatory issues for integrated care  Bring together all related stakeholders leading to integration with existing open databases increasing the speed of AEGLE adaptation  Build a business ecosystem for the wider exploitation and targeting on crossborder production of custom multilingual solutions based on AEGLE",
+          "Rcn" : "194261",
+          "Acronym" : "AEGLE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "7995",
+        "_score" : 53.159927,
+        "_source" : {
+          "identifier" : "H2020SESAR20151",
+          "Text" : "Passengercentric Big Data Sources for Socioeconomic and Behavioural Research in ATM The Flightpath 2050 report envisages a passengercentric air transport system thoroughly integrated with other transport modes with the goal of taking travellers from door to door predictably and efficiently However ATM operations have so far lacked a passengeroriented perspective with performance objectives not necessarily taking into account the ultimate consequences for the passenger There is a lack of understanding of the impact of passengers behaviour on ATM and vice versa Research in this area has so far been constrained by the limited availability of behavioural data The pervasive penetration of smart devices in our daily lives and the emergence of big data analytics open new opportunities to overcome this situation for the first time we have largescale dynamic data allowing us to test hypotheses about travellers behaviour The goal of BigData4ATM is to investigate how these data can be analysed and combined with more traditional demographic economic and air transport databases to extract relevant information about passengers behaviour and use this information to inform ATM decision making processes The specific objectives of the project are1 to integrate and analyse multiple sources of passengercentric spatiotemporal data mobile phone records data from geolocation apps credit card records etc with the aim of eliciting passengers behavioural patterns2 to develop new theoretical models translating these behavioural patterns into relevant and actionable indicators for the planning and management of the ATM system3 to evaluate the potential applications of the new data sources data analytics techniques and theoretical models through a number of case studies including the development of passengercentric doortodoor delay metrics the improvement of air traffic forecasting models the analysis of intraairport passenger behaviour and its impact on ATM and the assessment of the socioeconomic impact of ATM disruptions",
+          "Rcn" : "203290",
+          "Acronym" : "BigData4ATM"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "7681",
+        "_score" : 53.120556,
+        "_source" : {
+          "identifier" : "ERC2015CoG",
+          "Text" : "A programming language bridging theory and practice for scientific data curation Science is increasingly datadriven Scientific research funders now routinely mandate open publication of publiclyfunded research data Safely reusing such data currently requires labourintensive curation Provenance recording the history and derivation of the data is critical to reaping the benefits and avoiding the pitfalls of data sharing There are hundreds of curated scientific databases in biomedicine that need finegrained provenance one important example is GtoPdb a pharmacological database developed by colleagues in Edinburgh Currently there are no reusable methodologies or practical tools that support provenance for curated databases forcing each project to start from scratch Research on provenance for scientific databases is still at an early stage and prototypes have so far proven challenging to deploy or evaluate in the field Also most techniques to date focus on provenance within a single database but this is only part of the problem real solutions will have to integrate database provenance with the multiple tiers of web applications and noone has begun to address this challengeI propose research on how to build support for curation into the programming language itself building on my recent research on the Links Web programming language and on data curation Links is a stronglytyped language that provides stateoftheart support for languageintegrated query and Web programming I propose to build on Links and other recent language designs for heterogeneous metaprogramming to develop a new language called Skye that can express modular reusable curation and provenance techniques To keep focus on the real needs of scientific databases Skye will be evaluated in the context of GtoPdb and other scientific database projects Bridging the gap between curation research and the practices of scientific database curators will catalyse a virtuous cycle that will increase the pace of breakthrough results from datadriven science",
+          "Rcn" : "202602",
+          "Acronym" : "Skye"
+        }
+      }
+    ]
+  }
+}

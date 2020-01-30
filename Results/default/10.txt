@@ -1,0 +1,256 @@
+{
+  "took" : 9,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 642,
+    "max_score" : 84.159615,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6009",
+        "_score" : 31.266712,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "A DIY networking toolkit for locationbased collective awareness DoItYourself networking refers to a conceptual approach to the use of lowcost hardware and wireless technology in deploying local communication networks that can operate independently from the Internet owned and controlled by local actors MAZI means together in Greek and MAZI httpmazizoneeu invests in this paradigm of technologysupported networking as a means to bring closer together those living in physical proximity Through an experienced interdisciplinary consortium MAZI delivers a DIY networking toolkit that offers tools and guidelines for the easy deployment and customization of local networks and services MAZI toolkit is designed to take advantage of particular characteristics of DIY networking the de facto physical proximity between those connected the increased privacy and autonomy and the inclusive access Such characteristics are used to promote information exchanges that can develop the locationbased collective awareness as a basis for fostering social cohesion conviviality knowledge sharing and sustainable living To achieve this objective MAZI brings together partners from different disciplines computer networks urban planning and interdisciplinary studies humancomputer interaction community informatics and design research These academic partners will collaborate closely with four community partners to ensure that MAZI toolkit benefits from the grounded experience of citizen engagement MAZI draws from the diverse mix of competencies of its consortium to develop a transdisciplinary research framework which will guide a series of longterm pilot studies in a range of environments and enhanced by crossfertilization events The main goal of this process and measure of success is establishing DIY networking as a mainstream technology for enabling the development of collective awareness between those in physical proximity and the development of surrounding research and theorizing of this approach",
+          "Rcn" : "199849",
+          "Acronym" : "MAZI"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1576",
+        "_score" : 29.876068,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "cAPTor captures Advanced System Threats CAPTOR is a set of tools whose main objective is to characterize identify and detect APTs as well as minimize their impact in the target organization CAPTOR should be able to operate in complex environments like Urban Critical Infrastructures where IT industrial energy and network infrastructures must be protected from security threatsThe most important innovation of CAPTOR is the application of a set of techniques and methodologies known as anomaly detection which will be later explained and an approach more akin to classic intelligence as opposed to the malwaredetectioncentered approach used by the vast majority of proposed commercial solutions S2 s objective is to position CAPTOR as a leading European toolset to protect Critical Infrastructures in general and Urban Soft Targets and Critical Infrastructures in particularAdvances in the integration of ICT technologies in urban areas and their infrastructures have brought undeniable advantages to the cities economic management inhabitability and have helped to reduce their environmental impactUnfortunately together with these advantages many cyber security vulnerabilities have been introduced in infrastructures where these threats have never before been taken into account The threat posed by cyber terrorists and cyber criminals continually grows and organizations are increasing their awareness of the possibility of an incidentAn APT Advanced Persistent Threat is a planned multimodal attack targeted at a specific organization or infrastructure where several types of malware under control of a command center is combined with techniques like social engineering use of insiders or access through third parties with the objective of gaining access to critical physical or virtual assets and exfiltrate information obtain economic advantage or sabotage infrastructures APTs are the most important kind of cyber attacks a critical infrastructure can suffer today",
+          "Rcn" : "194745",
+          "Acronym" : "CAPTOR"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1827",
+        "_score" : 29.748833,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2014",
+          "Text" : "High Capacity Space Division Multiplexing Systems Our information society relies to an unprecedented extent on broadband communication solutions such as highspeed Internet access mobile voice and data services multimedia broadcast systems etc In order to fulfil the steadily growing volume and bandwidth demand of those data services while simultaneously reducing the cost per transported information bit communication systems have been continuously improved in terms of reach and aggregate transport capacity However it is now recognised that communication systems are rapidly approaching the fundamental information capacity of current technology a trend with potential negative impact on the economy and social progress HSPACE project targets the development of advanced space division multiplexing SDM systems to unlock the capacity of future information systems by enabling the transmission of spatial superchannels over a single fibre The proposed concept will be implemented using multicore fibres MCF and fewmode fibres FMFs as underlying technology platform along with novel digital signal processing DSP techniques that minimise the modecore interference and inter modecore nonlinearities keeping the required digital processing at realizable levels HSPACE offers a continued European leadership in RTD photonics from components to systems securing the necessary human resources and knowledge to design and produce a new generation of photonic components that support EUs vision for ubiquitous broadband connectivity to promote European social and economic cohesion and prosperityThe aforementioned challenges require researchers highly trained in a number of relevant disciplines ranging from nonlinear science to highspeed optical communication techniques This fellowship will provide a gifted early career researcher with the opportunity to train at one of the foremost research centres in optical communication the Aston Institute of Photonics Technology AITP",
+          "Rcn" : "194997",
+          "Acronym" : "HSPACE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "16154",
+        "_score" : 27.418526,
+        "_source" : {
+          "identifier" : "H2020INFRAIA20171twostage",
+          "Text" : "Research Infrastructure on Religious Studies ReIReS is a starting community whose aim is to create a unique and groundbreaking research infrastructure RI on religious studies within the European Research Area It joints the major European research institutions working in the domain universities libraries archives academies research institutions and museums to improve the access of scholars from all over the world to the data information and sources concerning the study of the historical and cultural influence of the plural religious heritage in the European history Furthermore it joints research activities of the partners integrating complementary scientific skills and capabilities and it organizes networking activities for fostering a culture of cooperation between national research facilities scientific communities and other stakeholders including policy makers ReIReS creates a synergy between the partners offering a transnational and virtual access to the most significant tools and sources in the field of religious studies This grants to the research communities the use of the major tools joint within a comprehensive infrastructure and gives to the EU a leading role in a domain which is becoming more and more crucial for the understanding of intercultural dynamics and facing conflicts of our time Dealing with the need for an appropriate comprehension of a complex and multicultural society ReIReS consortium works towards the improvement of the integrated services of the partners It aims to establish a distributed RI with a sustainable plan of activities including offering access to a wide range of highlevel data and tools for advancing knowledge and innovation in the understanding of interreligious society",
+          "Rcn" : "213376",
+          "Acronym" : "ReIReS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3636",
+        "_score" : 26.985476,
+        "_source" : {
+          "identifier" : "H2020INFRASUPP20142",
+          "Text" : "Middleware for collaborative Applications and Global vIrtual Communities The MAGIC Project seeks to establish a set of agreements for Europe Latin America and other participating World Regions aiming at consolidating and completing the building blocks of middleware necessary for the establishment of a marketplace of services and realtime applications for international and intercontinental research groups which facilitates mobility and the work of global science communities More specifically the project specific goals areTo foster the deployment of the platforms that enable mobility of people and seamless access to services by promoting the establishment of identity federations interconnected via eduGAIN creating awareness of privacy and security issues and spreading eduroam by sharing experiences carrying out training and making available shared infrastructure to ease the process in the partner world regionsTo develop a model for interoperation between NREN cloud application markets of participating world regions based on cloud provisioning and taking advantage of applications developed and run by NRENs across different continents to create a model for a worldwide application market for collaboration tools and servicesTo seek consensus among participating world regions on the importance of interoperability of realtime applications and work towards the adoption of standards such as those proposed by the Global CEO Forum to promote the creation of a worldwide environment for these applications To foster the collaborative work of Global Science Communities by actively promoting the participation of Latin American and other regions researchers in European Commission Calls and those of other international funding agencies with high impact in the participating regions and other networking activities",
+          "Rcn" : "196897",
+          "Acronym" : "MAGIC"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6549",
+        "_score" : 26.633778,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Understanding Collective Awareness Platforms with the Maker Movement Powerful tools provided by ICT software and hardware have revolutionised and many would claim democratised publishing broadcasting and communications Now the same is happening to manufacturing as tangible objects are created and designed as virtual bits which can be shared globally but then reproduced as things which manifest themselves locally This is the maker movementMAKEIT will study maker communities both through ten different case studies and innovation action research to enhance their use of Collective Awareness Platforms CAPs CAPs support maker communities and networks to innovate design and make physical products based on peer collaboration and sharing MAKEIT in which key maker platforms technology firms and citizen communities participate will focus on three perspectives organisation and governance of the communities their peer and collaborative activities and behaviour and their economic and societal value and impact Together the findings will inform recommendations for the maker movement itself and its implementation through CAPs and be made assessable to many other CAPs uses in areas like health education and transport MAKEIT will also offer strategic advice for industry and give recommendations for nationallevel and European policy makersA better understanding of how CAPs are central to the maker movement will enable more sustainable production and consumption patterns by generating awareness and by leveraging peer pressure for better lifestyles through behavioural and system change It will also contribute directly to constructing a more circular economy by stimulating resource efficiency reusing materials and energy and redesigning production processes to move towards zero waste CAPssupported maker communities can create new types of jobs and new ways of working both bottomup and linking to smart industry which are widely distributed across society both geographically and amongst the population",
+          "Rcn" : "200424",
+          "Acronym" : "MAKE-IT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3519",
+        "_score" : 26.2541,
+        "_source" : {
+          "identifier" : "ERC2014STG",
+          "Text" : "Profiling and targeting news readers  implications for the democratic role of the digital media user rights and public information policy In the digital media environment user attention is scarce and competition for eyeballs is fierce Profiling and targeting readers with customised news and advertisements that match their individual interests is widely seen as a solution The personalization of news media content enables new financing strategies and means to capture the audiences attention But personalisation is also part of a more fundamental paradigm shift in the medias role from public interest intermediary to personal information coach This research will answer critical questions about the implications for individual users and contribute to a new normative theory of the role of personalised media in a democratic societyTo do so this project integrates legal research communication sciences and political sciences undertakes comparative normative and evidencebased research and carries out experiments interviews and a survey Two communication science postdocs will conduct empirical research into user concerns the conditions that affect users acceptance of media personalisation postdoc 1 and how personalisation affects journalistic practices and ethics postdoc 2 Informed by these insights two PhD students will scrutinise the legal framework and answer important questions about the legal protection of the publics trust in editorial integrity PhD 1 and autonomous nondiscriminatory information access PhD 2 The PI will develop a normative framework of personalised media based on the empirical research and political theories about the democratic role of the media This responds to the criticism that existing theories are increasingly disconnected from the realities of digital media and their distinct contribution to democratic and participatory processes The project will explore the potential of personalisation to expose citizens to more relevant or diverse content thus reversing widespread concerns about information overload filter bubbles and selective exposure",
+          "Rcn" : "196780",
+          "Acronym" : "PersoNews"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "4455",
+        "_score" : 26.175688,
+        "_source" : {
+          "identifier" : "ERC2014STG",
+          "Text" : "Data activism The politics of big data according to civil society With the diffusion of big data citizens become increasingly aware of the critical role of information in modern societies This awareness gives rise to new social practices rooted in technology and data which I term data activism While activists see massive data collection by governments and businesses as a challenge to civil rights big data also offer new opportunities for collective actionThis research will investigate civil societys engagement with massive data collection by addressing three research questions How do citizens resist massive data collection by means of technical fixes reactive data activism How do social movements use big data to foster social change proactive data activism How does data activism affect the dynamics of transnational civil society and transnational advocacy networks in particularThe project will develop a multidisciplinary conceptual framework integrating social movement studies science and technology studies and international relations It will analyze organizational forms action repertoires and the enabling role of software in data activism and will identify emerging structures and strategies of transnational advocacy networks Data will be collected via qualitative interviews with activists field observations infrastructure ethnography on software platforms and computational methods such as data mining in online repositories  This research is groundbreaking in four ways 1 by analyzing civil societys engagement with massive data collection it evaluates risks and promises of big data 2 by addressing an uncharted but rapidly growing field of human action it sets the basis for understanding future civic engagement 3 by integrating adjacent disciplines that seldom interact it magnifies their ability to understand the interplay between society information technology and power 4 by developing dedicated data collection tools it adds to methodological innovation in bigdata analytics",
+          "Rcn" : "198013",
+          "Acronym" : "DATACTIVE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5485",
+        "_score" : 26.023726,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Breaking Educational Barriers with Contextualised Pervasive and Gameful Learning BEACONING BEACONING sets a forefront in multifaceted education technologies through largescale piloting of a digital learning platform that blend physical and digital spaces As innovation action strategies pilots combine opportunities for new ICTs in multiple ways that merge learning acquired in formal nonformal and informal means developing the skills for todays abled and disabled learners and workforce The BEACONING platform will be a ubiquitous solution that exploits advances in user experience design mobile communication locationbased and context aware systems procedural content generation pedagogydriven gamification learning analytics and cloud technology though innovative integration towards a blended learning space The BEACONING demonstrator will facilitate assess and author gamified learning activities integrating existing educational tools and services of the participating organisations Focusing on STEM Science Technology Engineering and Mathematics the crosssubject approach embedded in a ProblemBased Learning model will contextualise learning within real world problem solving and applications The role of learners is amplified in the process of filtering and connecting concepts framed under practical investigative and exploratory scenarios  Largescale pilots will validate and inform the development of the BEACONING ecosystem that democratises learning across and among fully abled and those with mild to moderate physical and mental impairments age 15 to 24 undergoing general and vocational training BEACONING anticipates the benefits of making crosssubject matter more understandable fostering the application of subject specialism to other domains The pilot substantiates the technical and economic viability and the impact of the innovative platform to strategise market adoption and replication By integrating experiences in a highly engaging contextualized and personalised manner learning can beyond the barriers of space and time",
+          "Rcn" : "199217",
+          "Acronym" : "BEACONING"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5181",
+        "_score" : 26.011889,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Digital Social Innovation for Europe The DSI4EU project will support grow and scale the current Digital Social Innovation network of projects and organisations bringing together social entrepreneurs hackers communities and academics working on key DSI fields such as the makers movement the collaborative economy open democracy and digital rightsDSI4EU will foster digital innovations for the social good helping communities share data collaborate to solve societal problems and scale their initiatives focusing on open and distributed technologies and new sustainable business models DSI4EU will develop and upgrade the digitalsocialeu platform to promote largescale collaboration and support experiments among the DSI community and activate collective awareness with a large number of citizens across Europe DSI4EU will also provide an engaging programme of training mentoring events policy workshops and experimentationDSI4EU will represent the building blocks for a new participatory innovation model for Europe a more decentralised web and an inclusive and sustainable society including a radical approach to scaling extending and connecting th DSI network in Europe",
+          "Rcn" : "198820",
+          "Acronym" : "DSI4EU"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1026",
+        "_score" : 25.52479,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Digital Do It Yourself Digital do it yourself DiDIY is a new sociotechnological phenomenon in which the widespread availability of digital devices supporting the convergence of physical and informational components and the growing accessibility of knowledge and data through open online communities presage scenarios in which the distinction between users and producers of physical artefacts is fuzzy and new opportunities and threats emerge DiDIYrelated technologies and social practices amplify the creativity and skills of individuals who affordably develop digitally selfmade objects eg uniquebydesign objects designed by 3D modelling software and generated by 3D printers or networked smart objects equipped with microcontrollers dealing with context information via sensors and actuators Two network effects catalyse DiDIY what is custom produced by an individual could be the outcome of contributions from a worldwide community of developers sharing their interest towards open innovation thus operating as knowledge multiplier what is made available here and now by a smart object could be the aggregation of signals from a set of sources in the network thus operating as information extenderIn this presumed industrial revolution the project aims at Setting a conceptual framework to explore the impact of DiDIY Producing information models and guidelines to support education and policy making on DiDIY that while enabled by technology should be driven by social and cultural strategiesThe project will study how DiDIY is Reshaping organization and work education and research Impacting on social and legal systems Changing creative design and ethicsThe development of a systemic interpretation is the challenge for the multidisciplinary project team which will collaboratively explore a complex phenomenon with implications on identity privacy reputation responsibility and safety and will offer a roadmap fostering a DiDIYbased humancentric European development",
+          "Rcn" : "194194",
+          "Acronym" : "DiDIY"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13699",
+        "_score" : 25.4754,
+        "_source" : {
+          "identifier" : "H2020SC52016TwoStage",
+          "Text" : "Oasis Innovation Hub for Catastrophe and Climate Extremes Risk Assessment Globally there is increased concern of the potential impacts of extreme climate events and their impact on loss and damage of people assets and property as a result of these events Therefore natural partners in using climate services to assess risk are the Global Insurance Sector who are key implementers in increasing societies resilience and recovery of extreme events and who are integral codesign partners in this programme This project intends to operationalize a system called the Oasis Loss Modelling Framework that combines climate services with damage and loss information and provides a standardised risk assessment process that can assess potential losses areas at most risk and quantify financial losses of modelled scenarios We intend to prove the Oasis LMF system through undertaking a range of demonstrators linked and codesigned to real situations and enduser communities in the insurance municipalities and business sectors see list of partners  collaborators These demonstrators have already been agreed with our endusers and develop work around hydroclimatic risk in the Danube Region Typhoon Risk African Farmer Risk  through using climate information to support the underwriting of microinsurance climate v health and climate v forest asset risk assessment We also intend to further expand access by all sectors to the models tools and services developed within this programme and the broader climate services sector by operationalizing an open eMarket place and matchmaking facility for catastrophe and climate data and models tools and services and through broadening awareness in the climate modelling and endusers communities to the Framework and the transparent and comparable standard it offers to support evidence based risk assessment and adaptation planning",
+          "Rcn" : "210519",
+          "Acronym" : "H2020_Insurance"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11213",
+        "_score" : 25.27405,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2015",
+          "Text" : "The psychology of inequality Understanding the social cognitive and motivational foundations of peoples attitudes towards the distribution of power and resources in society The annual meeting of the World Economic Forum WEF in Davos 2015 identified deepening inequality as the most pressing challenge facing the world  High inequality is liked to numerous social problems as well as to greater economic instability Concern for these problems is not only restricted to highly educated sociopolitical elites eg the WEF Largescale surveys in several countries have shown that people generally have a preference for greater equality However despite broadly shared egalitarian ideals people often oppose policies aimed at reducing inequality and support policies that would have the opposite effect I will call this the principleimplementation gap in attitudes towards inequality The primary aim of this project is to understand the reasons for this gap by applying knowledge from social psychology to current work on inequality from the disciplines of economics political science and sociology In particular I will test whether similar social constraints cognitive biases and psychological motives that explain other inconsistencies between peoples ideals and their attitudes can also be used to explain this particular principleimplementation gap  I will draw on methods used across the social sciences including longitudinal and multilevel modelling of largescale crossnational survey data and carefully controlled laboratory experiments This multidisciplinary endeavour will provide insights to policy makers advocates and educators about how to communicate the problem of inequality to the general public in a way that maximises awareness and engagement These insights will also be applicable to understanding what drives public opinion on other similarly complex issues of resource distribution that face modern societies eg international trade Thus this project will shed light on how some of the biggest global issues of our time can be addressed through the democratic process",
+          "Rcn" : "207798",
+          "Acronym" : "PINQ"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "4324",
+        "_score" : 25.219276,
+        "_source" : {
+          "identifier" : "H2020INFRAIA20142015",
+          "Text" : "SoBigData Research Infrastructure One of the most pressing and fascinating challenges scientists face today is understanding the complexity of our globally interconnected society The big data arising from the digital breadcrumbs of human activities promise to let us scrutinize the ground truth of individual and collective behaviour at an unprecedented detail and scale There is an urgent need to harness these opportunities for scientific advancement and for the social good  The main obstacle to this accomplishment besides the scarcity of data scientists is the lack of a largescale open infrastructure where big data and social mining research can be carried outTo this end SoBigData proposes to create the Social Mining  Big Data Ecosystem a research infrastructure RI providing an integrated ecosystem for ethicsensitive scientific discoveries and advanced applications of social data mining on the various dimensions of social life as recorded by big data Building on several established national infrastructures SoBigData will open up new research avenues in multiple research fields including mathematics ICT and human social and economic sciences by enabling easy comparison reuse and integration of stateoftheart big social data methods and services into new research It will not only strengthen the existing clusters of excellence in social data mining research but also create a panEuropean interdisciplinary community of social data scientists fostered by extensive training networking and innovation activities In addition as an open research infrastucture SoBigData will promote repeatable and open scienceAlthough SoBigData is primarily aimed at serving the needs of researchers the openly available datasets and open source methods and services provided by the new research infrastructure will also impact industrial and other stakeholders eg government bodies nonprofit organisations funders policy makers",
+          "Rcn" : "197882",
+          "Acronym" : "SoBigData"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1949",
+        "_score" : 25.208364,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2014",
+          "Text" : "Byzantine seals in a digital age new tools for European research The study of the Christian medieval eastern empire Byzantium can not rely on resources in manuscript form as in most ancient and medieval societies documents were authenticated by sealings and unlike those documents today lost seals survived in large quantities largely in museums libraries and private collections The seals contain descriptions of the persons responsible and their chosen iconography they have the potential to fill something of the documentary void if they can be made readily available in searchable form and associated with other relevant sources Over the years scholarly understanding and analysis of Byzantine seals sigillography has been improving but the resultant publications are expensive and not easily accessible recently an international network of scholars has been discussing the possibility of online publication of this material using the subset of TEIXML markup known as EpiDoc developed initially for inscriptions coins and papyri with particular input from Kings College London where this fellowship will be based This proposal is to allow me to become the first expert in SigiDoc  publishing seals in EpiDoc  as a resource for scholars teachers and the curators who need to make their materials comprehensible to a wider public The training will refine my skills in Byzantine sigillography and introduce me to the Digital Humanities the advanced application of information and communication technologies in humanities research and teaching I will learn to use a range of tools in a totally independent way being a crucial asset for the development of my career The outcomes will be 1 a digital corpus of Byzantine seals in a full scholarly edition intended to serve as a pilot and to establish standards 2 a set of tools and protocols for others to use 3 guidelines collecting and explaining those tools the aim is to enable and encourage interoperability between projects in Europe and beyond",
+          "Rcn" : "195119",
+          "Acronym" : "Digiseal"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3094",
+        "_score" : 25.152868,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "hapticom launches the worlds 1st special tablet for over 20 million visually impaired people in the EU enabling them access to barrierfree digital information and communication with all of society Within the EU there live far more than 20 million blind and partially sighted people There are even over 150000 deafblind people who miss out seeing AND hearing at the same time Most of the blind suffer from strongly limited communication and often live in huge social isolation Even the UN and also EU parliament have already stipulated that a specific product solution for particular blind is needed This mobile device ought to offer barrierfree communication and information to assist those people daily livesTherefore the SME hapticom an academic spinoff develops the worlds first smartpad and corresponding ICT infrastructure for visual impaired The device is named haptiPad and similar to a special haptic multifunctional pad or tablet This innovation will change the life of blind people in whole Europe radically and strongly foster integration and inclusion Due to the groundbreaking chances the haptiPad offers it addresses a huge market High social gains employment and commercialisation potential can be expected  Via several governmental fundings and the international investor Wayra Telefonica telecommunications group a convincing working prototype TRL 6 is already developed and successfully testedDue to several international business concept contests the innovative business model of hapticom got very challenged and thus advanced and was rewarded highly many times The competent team intends to prove the adaptability and viability of the projects concept and product solution on a European level with the help of a feasibility study At the end of phase 1 SME instrument hapticom aims for reference customer for the commercial beta version of the haptiPad to finally successfully finance the growth of the venture",
+          "Rcn" : "196265",
+          "Acronym" : "Ph1ProHap2"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "11661",
+        "_score" : 25.137905,
+        "_source" : {
+          "identifier" : "H2020INFRAIA20161",
+          "Text" : "International Network for Terrestrial Research and Monitoring in the Arctic INTERACT aims for a geographically comprehensive and excellent  stateoftheart terrestrial research infrastructure throughout the Arctic and adjoining forest and alpine regions to identify environmental change to facilitate understanding and prediction of future change and to inform decision makers about societallyrelevant impacts INTERACT is the fundamental building block and onestopshop for EU and international projects programmes and organisations requiring access to northern lands data and services and includes a rapid response capability to potential hazards INTERACT is panArctic multidisciplinary and crosses EU call domains by linking to forest coastal marine and atmospheric communities INTERACT uniquely unites 77 research stations in a Station Managers Forum ensuring intercomparability of information and excellent science support A Data Forum improves availability of data by bringing data providers together with data users Physical 7780 days  panArctic Transnational Access is offered by 43 stations and  virtual access is offered by 29 An innovative TA User Community will stimulate new collaborations and improved information flow while new stateoftheart educational resources will encourage young scientists Joint research activities will ensure close cooperation between the Arctic Councils biodiversity monitoring programme and station activities develop new technology in a WP led by Industry to enlarge the research stations environmental observing footprints and produce guidance for local communities to adapt to changeINTERACTs incalculable legacy and societal impact includes aiding people to adapt to local and global environmental changes recruiting the next generation of environmental scientists offering access and opportunities to researchers worldwide and providing data and information to high level regional and global organisations and decisionmakers",
+          "Rcn" : "208313",
+          "Acronym" : "INTERACT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "4610",
+        "_score" : 25.12965,
+        "_source" : {
+          "identifier" : "H2020SEAC20141",
+          "Text" : "Next Generation Science Challenges Using Digital and Social Media to Make Science Education and Careers Attractive for Young People Science education is tremendous in shaping the present and future of modern societies Thus the EU needs all its talents to increase creativity and competitiveness Especially young boys and girls have to be engaged to pursue careers in Science Technology Engineering and Mathematics STEM However statistics still show that enrolment rates in STEMbased degree programs are low and will lead to a workforce problem in industries especially in many of the new member countries The SciChallenge project focuses on developing novel concepts to actively integrate young boys and girls in science education using a contestbased approach to selfproduced digital education materials from young people for young people Driven by inspirational topic sheets guides and toolkits created through this project and distributed by partner schools teachers and other youthoriented institutions contestants individuals or groups between the ages of 10 to 20 will generate creative digital materials videos slides or infographics The initiative will broadcast and distribute content over various social media channels and aggregated on a modern SciChallenge Web Platform wwwscichallengeeu to generate wide reaching awareness and promotion Winning submissions will receive prizes funded by scienceoriented industry and stakeholdersIntelligent crosssectoral positioning of various awareness modules on the SciChallenge Open Information Hub will increase awareness on science careers and open opportunities for youngsters on internships or taster days in STEM through the strong involvement of related organisations and industries Additionally aggregated information on science events slams nights festivals etc is sharedWith this multilevel approach SciChallenge will boost the attractiveness of science education and careers among young girls and boys leading to more public engagement in science economic prosperity and global competitiveness on a panEuropean level",
+          "Rcn" : "198209",
+          "Acronym" : "SciChallenge"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15213",
+        "_score" : 24.932148,
+        "_source" : {
+          "identifier" : "H2020ICT20171",
+          "Text" : "EU Explorations in Next Generation Internet emerging research opportunities technOlogies and methods No other technology has been able to radically reshape and permeate the very fabrics of our societies as rapidly and fundamentally as the internet has But the increased concentration of power on the internet in the hands of just a few ever more dominant players makes that few now reap the true benefits of the digital economy the growing complexity and opacity of the processes and technologies that govern it makes challenging this status quo exceedingly difficult  Serious interventions are needed to make the next generation internet inclusive resilient and competitive again By intervening in the development process of emerging technologies we are able to steer the process of innovation in a humancentric and ethical direction and allow European businesses and civil society organisations to play a leading and pioneering role in their development  But to help direct and shape the future internet we need to know which technologies will underpin it To identify the technologies that will likely be game changers for the internet in 2025 we use cutting edge big data methodologies and novel webscraped data sources to capture early signals about technologies and research topics and develop a rigorous process for evaluating whether a technology will positively contribute to the development of a more desirable internet  The EU Engineroom project approach is centred around the articulation of an ambitious and concrete vision for the future internet and the development of a methodology for identifying those technologies and research topics that will underpin that vision of a more inclusive resilient and competitive internet by 2025 This methodology will form a key pillar for future phases of the NGI initiative as an easilyreproducible and comprehensive tool for continuously identifying and evaluating emerging technologies and trends and helps establish the NGI as a key new flagship programme for internet research beyond Horizon2020",
+          "Rcn" : "212238",
+          "Acronym" : "EU Engineroom"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "4904",
+        "_score" : 24.925291,
+        "_source" : {
+          "identifier" : "H2020INFRADEV120151",
+          "Text" : "ELIXIREXCELERATE Fasttrack ELIXIR implementation and drive early user exploitation across the lifesciences The life sciences are undergoing a transformation Modern experimental tools study the molecules reactions and organisation of life in unprecedented detail The precipitous drop in costs for highthroughput biology has enabled European research laboratories to produce an everincreasing amount of data Life scientists are rapidly generating the most complex and heterogeneous datasets that science can currently imagine with unprecedented volumes of biological data to manageData will only generate longterm value if it is Findable Accessible Interoperable and Reusable FAIR This requires a scalable infrastructure that connects local national and European efforts and provides standards tools and training for data stewardshipFormally established as a legal entity in January 2014 ELIXIR  the European life science Infrastructure for Biological Information  is a distributed organisation comprising national bioinformatics research infrastructures and the European Bioinformatics Institute EMBLEBI This coordinated infrastructure includes data standards exchange interoperability storage security and trainingRecognising the importance of a data foundation for European life sciences the ESFRI and European Council named ELIXIR as one of Europes priority Research Infrastructures In response ELIXIR have developed ELIXIREXCELERATE The project will fasttrack ELIXIRs early implementation phase by i coordinate and enhance existing resources into a worldleading data service for academia and industry ii grow bioinformatics capacity and competence across Europe and iii complete the management processes needed for a large distributed infrastructureELIXIREXCELERATE will deliver a stepchange in the life sciences It will enable costeffective and sustainable management and reuse of data for millions of users across the globe and improve the competitiveness of European life science industries through accessible data and robust standards and tools",
+          "Rcn" : "198519",
+          "Acronym" : "ELIXIR-EXCELERATE"
+        }
+      }
+    ]
+  }
+}

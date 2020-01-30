@@ -1,0 +1,256 @@
+{
+  "took" : 20,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 17677,
+    "max_score" : 188.70045,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "554",
+        "_score" : 93.35234,
+        "_source" : {
+          "identifier" : "H2020MG2014SingleStageA",
+          "Text" : "Mobility Innovations for a New Dawn in Sustainable European Transport Systems The Mindsets project MS will make a major contribution to our understanding of mobility in Europe How to better understand mobility to better influence and change it How to predict the likely future attitudes to and patterns of mobility What forms of mobility policies products and services will best meet these future mobility needsThe project provides a new approach to understanding mobility as part of the overall changing lifestyles of different population groups across Europe A multidisciplinary coordination of intelligence provides a strong platform for the reinterpretation of our understanding of the mobility mindsets of Europeans based on engagement with other leading experts in the field in Europe The approach will be validated against key behavioural issues facing mobility decisionmakers increasing automation door to door seamless smart mobility sustainable and energy efficient fuels and mobility and social inclusion  This enhanced understanding is developed into decision support guidelines to be called Mindsets with a Think Tank of practising mobility stakeholders decisionmakers operators developers and mobility system suppliers to fine tune the guidelines to directly meet market needs In turn this will support decisions create innovation future mobility policy and assist the design and marketing of new products and services The project is strongly supported by an active exploitation and dissemination strategy based on a MindSets Knowledge Centre MindSets applies a new approach that brings mainstream sociologists environmental psychologists health and lifestyle specialists and economists together with sustainable mobility and travel behaviour specialists plus experts in social media  technological and ITC trend analysis a new type of team to assess mobility issues Through successful exploitation the project will also change the Professional mindsets of mobility decisionmakers in Europe",
+          "Rcn" : "193722",
+          "Acronym" : "MIND-SETS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "205",
+        "_score" : 90.09764,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "INFORMATION TECHNOLOGIES FOR SHIFT TO RAIL The ITRAIL Information Technologies for Shift to rail proposal first step towards the long term IP4 IT for an Attractive Railway SHIFTRAIL Innovation Programme aims at providing a new seamless travel experience giving access to a complete multimodal travel offer which connects the first and last mile to long distance journeysThis is achieved through the introduction of a ground breaking Technical Enabler based on two concepts the traveler is placed at the heart of innovative solutions accessing all multimodal travel services shopping ticketing and tracking through its travelcompanion An open published framework is providing full interoperability whilst limiting impacts on existing systems without prerequisites for centralized standardization This Technical Enabler will be completely settled in the context of the SHIFTRAIL IP4 and ITRAIL is proposing a reduced approach to the scale of a specified use case without weakening any of the key concepts of IP4 such as the usage of Semantic Web technologies meta planning on distributed data travel companion with a protected and secured personal wallet stored in the cloud and including the rights to travel The use case will be defined as a specific instantiation of our open concepts and will benefit from a completely scalable architecture fully instantiated in IP4 This approach is addressing all the key challenges of the work program supporting a complete doorto door intermodal travel offer and proposing a seamless integration of the very diverse existing and future services for planning onestopshop ticketing and realtime reaccommodationMoreover thanks to an Interoperability framework which insulates travel applications from the standards fragmentation in multimodal transport ITRAIL liberates businessmodel innovations in the marketplace guaranteeing the economic selfsustainability of these eservices in the longterm",
+          "Rcn" : "193373",
+          "Acronym" : "IT2RAIL"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "188",
+        "_score" : 88.75652,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "Door to Door Information for Airports and Airlines DORA project is aiming at design and establishment of an integrated information system that helps passengers to optimise travel time from an origin of the travel to the airplane at the departing airport as well as from the arrival airport to the final destination With it the DORA integrated information system which will be created within the project together with necessary software platforms and end user applications is aiming at reduction of overall time needed for a typical European air travel including necessary time needed for transport to and from the airportsTo ensure this the DORA system will provide mobile seamless and time optimised route recommendations for the travels to the airport and time optimised routing within the airports leading the passengers through terminals to the right security and departure gates The DORA will integrate all necessary real time information on disruptions in the land transport environments and on incidents in the airport terminals to provide the fastest route alternatives ensuring the accessibility of airport and airplane at any time in accordance with individual passengers requirements The DORA system will be designed in a generic way to ensure that it can be widely adopted independently on passengers and airports locationsIn the project the DORA system will be implemented and tested in realistic environments involving cities of Berlin and Palma di Mallorca as well corresponding airports in both cities with involvement of at least 500 real end users  passengers  in the trials To support the passengers route optimisation the DORA project will investigate and design technologies for recognition of waiting queues and indoor location services in airports which will be integrated into the DORA system and tested within the project trials",
+          "Rcn" : "193356",
+          "Acronym" : "DORA"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "7995",
+        "_score" : 83.46798,
+        "_source" : {
+          "identifier" : "H2020SESAR20151",
+          "Text" : "Passengercentric Big Data Sources for Socioeconomic and Behavioural Research in ATM The Flightpath 2050 report envisages a passengercentric air transport system thoroughly integrated with other transport modes with the goal of taking travellers from door to door predictably and efficiently However ATM operations have so far lacked a passengeroriented perspective with performance objectives not necessarily taking into account the ultimate consequences for the passenger There is a lack of understanding of the impact of passengers behaviour on ATM and vice versa Research in this area has so far been constrained by the limited availability of behavioural data The pervasive penetration of smart devices in our daily lives and the emergence of big data analytics open new opportunities to overcome this situation for the first time we have largescale dynamic data allowing us to test hypotheses about travellers behaviour The goal of BigData4ATM is to investigate how these data can be analysed and combined with more traditional demographic economic and air transport databases to extract relevant information about passengers behaviour and use this information to inform ATM decision making processes The specific objectives of the project are1 to integrate and analyse multiple sources of passengercentric spatiotemporal data mobile phone records data from geolocation apps credit card records etc with the aim of eliciting passengers behavioural patterns2 to develop new theoretical models translating these behavioural patterns into relevant and actionable indicators for the planning and management of the ATM system3 to evaluate the potential applications of the new data sources data analytics techniques and theoretical models through a number of case studies including the development of passengercentric doortodoor delay metrics the improvement of air traffic forecasting models the analysis of intraairport passenger behaviour and its impact on ATM and the assessment of the socioeconomic impact of ATM disruptions",
+          "Rcn" : "203290",
+          "Acronym" : "BigData4ATM"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3875",
+        "_score" : 76.0737,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Delivering next generation Transport Management System to European transport SMEs Stateoftheart Transport Management Systems conceived in modular approaches do not provide an allinone solution to answer SME businessrelated needs more broadly To own a holistic TMS requires a long and expensive integration and customization process which makes TMSs not affordable by SMEs who generally lack resources for it Additionally none of the current solutions are able to gather real time data to support real time optimization decisionsAt Ruptela we are committed to developing a new highly competitive and integrated platform providing all the necessary information to transport SMEs and representing an affordable solution for them INTRANSYSINTRANSYS will use our awardwinning fleet tracking and management platform TrustTrack as a foundation to integrate continuously updated traffic data tracking services rich communication with driver and ecodriving tools into a single cloudbased application This realtime integration will allow transport companies to optimize operations on the go 247As we will offer the system as an allinclusive solution we will drastically reduce the customization and setup process both in terms of time and costs We will achieve this goals by providing a SaaS based pricing model adapted to SME size and usage INTRANSYS ease of use combined with our extremely competitive pricing strategy opens the door for the widespread commercial adoption by SME transport companies who dominates the European transport market Note that we will allow massive savings on European transport SMEs up to 19 of all transportation processes while contributing to the ECs goal of forcing the reduction of CO2 emissions of the transport industry",
+          "Rcn" : "197162",
+          "Acronym" : "INTRANSYS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "8035",
+        "_score" : 75.99345,
+        "_source" : {
+          "identifier" : "H2020SMEINST22015",
+          "Text" : "Delivering next generation Transport Management System to European transport SMEs Stateoftheart Transport Management Systems conceived in modular approaches do not provide an allinone solution to answer SME businessrelated needs more broadly To own a holistic TMS requires a long and expensive integration and customization process which makes TMSs not affordable by SMEs who generally lack resources for it Additionally none of the current solutions are able to gather real time data to support real time optimization decisionsAt Ruptela we are committed to developing a new highly competitive and integrated platform providing all the necessary information to transport SMEs and representing an affordable solution for them INTRANSYSINTRANSYS will use our awardwinning fleet tracking and management platform TrustTrack as a foundation to integrate continuously updated traffic data tracking services rich communication with driver and ecodriving tools into a single cloudbased application This realtime integration will allow transport companies to optimize operations on the go 247As we will offer the system as an allinclusive solution we will drastically reduce the customization and setup process both in terms of time and costs We will achieve this goals by providing a SaaS based pricing model adapted to SME size and usage INTRANSYS ease of use combined with our extremely competitive pricing strategy opens the door for thewidespread commercial adoption by SME transport companies who dominates the European transport market Note that we will allow massive savings on European transport SMEs up to 19 of all transportation processes while contributing to the ECs goal of forcing the reduction of CO2 emissions of the transport industry",
+          "Rcn" : "203334",
+          "Acronym" : "INTRANSYS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "234",
+        "_score" : 75.312546,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "Open social transport network for urban approach to carpooling SocialCar is an Intelligent Transport System based on an innovative approach to transport demand management and more specifically to carpooling in urban and periurban areas SocialCars main objective is devopping a new communication network for intelligent mobility sharing information of carpooling integrated with existing transport and mobility systems It will be achieved by means of powerful planning algorithms and integration in a liveable environment of big data related to public transport carpooling and crowdsourcing in order to provide the final user with a simplified travel experience allowing comparison and choice between multiple optionsservicesSocialCar will take advantage Social Media to communicate share information and  provide the best justintime notifications to the travellersSocialCar will  take advantage of the ever growing connectivity of people and objects and the propagation of Internet services the potential of Future Internet and the availability of GNSS based location and social media to create an integrated mobility service with the potential to sensibly reduce mobility problems of European citizensSocialCar will capitalise on a strong pan European team with a solid background in social psychological and economic sciences the involvement of 10 European urban sites will prove the concepts validity and business case SocialCar General Objectives are to  contribute to the EU2020 targets on energy efficiency and renewable energy sources reducing congestion by improving and maximising connectivity and information in realtime  overcoming the limitations of current carpooling practices moving from long trips to effective urban and periurban use validate green driving support systems active management based on European GNSS identify a suitable big data management architecture for integrating mobility data produce a citybased open integrated mobility repository of public transport and traffic citybased data",
+          "Rcn" : "193402",
+          "Acronym" : "SocialCar"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "210",
+        "_score" : 75.00908,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "Optimodal European Travel Ecosystem EuTravel aims to1 Support the EU agenda towards an open and single market for mobility services by enabling travellers to organise a multimodal trip in accordance with their own criteria including environmental performance providing multimodal travel service providers an effective way to deliver customised services addressing any type of specialised travel needs and facilitating factbased EU policy making2 Promote the creation of content open and linked data for travellers enriching the travelling experience3 Support travel industry players join forces towards realising an EU shared seamless mobility strategy and architectureEuTravel will research and demonstrate Intermodal travel optimised with respect to synchronisation between modes passenger experience and rights and environmental performance Optimodal Travel The project objectives will be realised by1 Developing an open and readily usable Optimodality Framework aimed at integrating processes data and systems in a manner that eliminates interoperability barriers to the marketplace emergence of truly Optimodal travel services from planning through booking and the full range of related travel support solutions2 Delivering Optimodality Ecosystem Enablers offering an open infrastructure that allows organisations to set up costeffective integration of existing systems and to create value added multimodal travel services3 Organising and developing a Living Lab to experiment and evaluate new concepts and prototype solutions in real life multimodal travel scenarios and obtain data to quantify impact4 Taking actions towards sustainable development including a Stakeholder Engagement Strategy and wide disseminationEuTravel unlike other projectsinitiatives will deliver an Ecosystem promoting and supporting Optimodal travel that will have higher chances of success as it will be populated with tools that tap into existing mainstream IT travel reservation systems and sources of data",
+          "Rcn" : "193378",
+          "Acronym" : "EuTravel"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "207",
+        "_score" : 74.933426,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "The European Travellers Club AccountBased Travelling across the European Union The European Travellers Club is a programme by and for European transport ticketing schemes or operators travellers organizations and technology providers to create seamless accountbased traveling across the European Union The programme is travellercentric meaning that the travelers will be in control of their preferences and privacy While it includes innovative technological concepts it is expressly designed to work with existing eticketing infrastructures in member states Calypso VDV ITSO etc as well as new possibilities such as EMVcontactless smart tokens etc The ecosystem will be open for all potential suppliers through an open architecture with clear interfaces and standardized protocols The architecture is such that it allows for a smooth integration with travel planning and booking tools journey information and integration with other uses of eidentity epayment and eticketingThe programme consists of 1 the governance structure of the European Travellers Club and National or Regional Travellers Clubs that ensures interoperability and travellerincontrol privacy while avoiding a suppliers lockin2 the technological development of our solutions for secure and fast identification in transport our authentication and routing functionality between schemes our solutions for privacy using derivedidentities and personal storage options and our integration with smart phones NFC mobile phones and EMVcontactless3 the European Travellers Lab in which our member schemes can develop and test use cases business rules and interoperability across schemes and identifiers4 the standards and interfaces that allow members of one national Travellers Club to consult through their own portal and in their own language the travel planning and booking tools mediated through a Travellers Club in another country",
+          "Rcn" : "193375",
+          "Acronym" : "ETC"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14287",
+        "_score" : 74.92295,
+        "_source" : {
+          "identifier" : "H2020MG2017SingleStageINEA",
+          "Text" : "Leveraging Big Data to Manage Transport Operations Big data has opened a wide spectrum of opportunities in the field of transport research Observing the recent emergent interest in the application of big data within transport as well as the extended scope of its applications it is evident that most of the challenges have yet to be addressedLeveraging Big Data to Manage Transport Operations LeMO project will explore the implications of the utilisation of big data to enhance the economic sustainability and competitiveness of European transport sector The project will study and analyse big data in the European transport domain in particular with respect to five transport dimensions mode sector technology policy and evaluation LeMO will accomplish this by conducting a series of case studies in order to provide recommendations on the prerequisites of effective big data implementation in the transport fieldThrough case studies LeMO will investigate methodological technological governmental and institutional issues which in turn contribute to evidencebased decision making LeMO will supplement these case studies with a horizontal analysis that identifies the barriers and limitations of the transportation system to exploit big data opportunities In collaboration with strong advisory and reference group and expert stakeholders LeMO will devise and develop research and policy roadmap that will provide incremental steps necessary towards data openness and sharing to make transport safer more efficient and more sustainable Notably LeMO will bring crucial issues linked to privacy data security and legal aspects to the forefront paving the way for future legal framework for the collection and exploitation of big data in transportFurthermore LeMO will disseminate project findings to a large population of stakeholders including transport authorities and industries leading to better understanding of travellers and consumers behaviour targeted information and identify policy interventions",
+          "Rcn" : "211234",
+          "Acronym" : "LeMO"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "185",
+        "_score" : 73.59533,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "From Bilbao to Oslo intermodal mobility solutions and interfaces for people and goods supported by an innovative communication network BONVOYAGE will design develop and test a platform optimizing multimodal doortodoor transport of passengers and goods The platform integrates travel information planning and ticketing services by automatically analysing nonrealtime data from heterogeneous databases on road railway and urban transport systems realtime measured data traffic weather forecasts user profiles user feedbackThe platform is supported by an innovative informationcentric communication network that collects and distributes all the data required The highly heterogeneous distributed and mobile nature of data coming from datacenters sensors vehicles goods and people on the move calls for an innovative networking paradigm Current networks eg Internet limit themselves to just providing communication channels between hosts Our paradigm called Internames allows communications among entities identified by names without the constraint of a static binding to a particular locationThe request of a user be it a person or a parcel to travel from source to destination is managed by the platform with several tools Metadata Handler collects and elaborates data related to the request and generates a corresponding Context User Profiler creates a personalized profile conveying requirements including Quality of Experience parameters and special needs MultiObjective Optimizer develops personalized travel instructions optimal for the Context and User Profile The user may give feedback before accepting the travel itinerary If a trip is not available at request time the user is notified if it becomes available later on An Actuator triggers the necessary services A Tariff Scheme Designer exploits platform data to define multipart tariff schemesBONVOYAGE will trial and demonstrate the platform and communication network in integrated largescale real life application scenarios incorporated into the normal business operations of our transport operator partners",
+          "Rcn" : "193353",
+          "Acronym" : "BONVOYAGE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "212",
+        "_score" : 73.400246,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "Multisource Big Data Fusion Driven Proactivity for Intelligent Mobility Transportation sector undergoes a considerable transformation as it enters a new landscape where connectivity is seamless and mobility options and related business models are constantly increasing Modern transportation systems and services have to mitigate problems emerging from complex mobility environments and intensive use of transport networks including excessive CO2 emissions high congestion levels and reduced quality of life Due to the saturation of most urban networks innovative solutions to the above problems need to be underpinned by collecting processing and broadcasting an abundance of data from various sensors systems and service providers Furthermore such novel transport systems have to foresee situations in near real time and provide the means for proactive decisions which in turn will deter problems before they even emerge Our vision is to provide the required interoperability adaptability and dynamicity in modern transport systems for a proactive and problemfree transportation system OPTIMUM will establish a largely scalable distributed architecture for the management and processing of multisource bigdata enabling continuous monitoring of transportation systems needs and proposing proactive decisions and actions in an semi automatic way OPTIMUM follows a cognitive approach based on the Observe Orient Decide Act loop of the big data supply chain for continuous situational awareness OPTIMUMs goals will be achieved by incorporating and advancing state of the art in transport and traffic modeling travel behavior analysis sentiment analysis big data processing predictive analysis and realtime eventbased processing persuasive technologies and proactive recommenders The proposed solution will be deployed in reallife pilots in order to realise challenging use cases in the domains of proactive improvement of transport systems quality and efficiency proactive charging for freight transport and Car2X communication integration",
+          "Rcn" : "193380",
+          "Acronym" : "OPTIMUM"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10118",
+        "_score" : 73.24153,
+        "_source" : {
+          "identifier" : "H2020S2RJUOC2016012",
+          "Text" : "Governance of the Interoperability Framework for Rail and Intermodal Mobility The establishment of good governance will effectively secure the confidence of the industry to use the Interoperability Framework IF semantic technologies that will be established under the IP4 Shift2Rail program The objective of the Governance of the IF for Rail and Intermodal Mobility GoF4R project is to define sustainable governance for the IF that will create the right conditions to introduce seamless mobility services and foster the development of multimodal travel services GoF4R will help to overcome obstacles currently impeding development of market innovation by fostering a large acceptance of the semantic web for transportationThe objectives will be achieved through a partnership of specialist participants including research institutions a major European rail operator industry associations representing the passenger and multimodal transport sectors and public transportation authorities Participants who are also involved in the consortium of designers for the IF will focus on the establishment of sustainable governance that will promote community confidence The governance structure will create the basis for long term stability and controlled future evolution of the IF promoting industry confidence so that it is attractive to invest in future products and servicesThe project encompasses all current and future stakeholders who will exploit the IF as described in the Shift2Rail Multi Annual Action Plan contributing to the realisation of a distributed semantic web of transport integrating the TAPTSI specifications as one of its elementsThe governance models proposed in GoF4R will assure the interests of European travellers by fostering market uptake by mobility service providers It will facilitate new business opportunities for improved mobility and travel related services and improve the incorporation of new stakeholders in the European arena by removing technological administrative and economic boundaries",
+          "Rcn" : "206230",
+          "Acronym" : "GoF4R"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1721",
+        "_score" : 73.22422,
+        "_source" : {
+          "identifier" : "H2020MG2014SingleStageB",
+          "Text" : "Users Safety security and Energy In Transport Infrastructure The transport network across Europe faces challenges relating to carbon reduction targets energy security and depletion of natural resources without sacrificing its efficiency and compromising mobility In addition the road and rail infrastructure in particular are ageing and require renewal Simultaneously advances in sensors mobile communications smart ticketing and big data offer the potential for customers to become an active part of the transport operations system and have the information to make decisions  for transport to enable mode agnostic personal and business travel and  for freight operators to have more resilience and better reliability in their systems The European transport system faces also an unavoidable societal challenge which is achieving new levels of resourceefficiency environmentalfriendliness safe and seamless transport for the benefit of citizens the economy and societyIn order to tackle the challenges and reap the benefits outlined above infrastructure owners and transport operators will be required to work together along with other crucial stakeholders to share knowledge and cooperate in a way that will be beneficial to all parties and this proposal seeks to facilitate thisThe objective of this project is to better understand the common challenges experienced across transport modes bring representatives of transport modes together to share experience and skills and to develop a set of common research objectives The project will draw upon the experience gained from the Joint European Transport platform with the focus on infrastructure operations and will also focus on research objectives presented in the Forever Open Road programme and the work of the FORx4  Forever Open Road Railway Runway and River  A Crossmodal transport initiative for research for which FEHRL produced a Point of View document",
+          "Rcn" : "194890",
+          "Acronym" : "USE-IT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "13340",
+        "_score" : 69.993004,
+        "_source" : {
+          "identifier" : "H2020MG2016TwoStages",
+          "Text" : "EndtoEnd Approach for MobilityasaService tools business models enabling framework and evidence for European seamless mobility With the projected growth in transport demand the current modus operandi in transport supply is deemed unsustainable and generates the need for innovative services that could support seamless mobility and a shift from carownership to usership An emerging trend towards this direction is the integration of ondemand modes in conjunction with public transport leading to the MobilityasaService MaaS concept MaaS is a usercentric intelligent mobility distribution model in which users needs are met via a single platform and are offered by a service provider the mobility operator Although activities in this field are ongoing at present there are no established frameworks and quantifiable evidence about MaaS costs and benefits users needs as well as its influence on travel patterns and car ownership of various user groupsAgainst this background the main goal of MaaS4EU is to provide quantifiable evidence frameworks and tools to remove the barriers and enable a cooperative and interconnected EU single transport market for the MaaS concept by addressing challenges at 4 levels 1 business 2 endusers 3 technology and 4 policy This will be achieved by defining sustainable business models that support the cooperation across transport stakeholders understanding user needs and choices implementing the required technological infrastructure a MaaS mobility hub and identifying the enabling policy and regulatory frameworks The project will provide quantifiable evidence about MaaS costs and benefits in 3 reallife complementary pilot cases demonstrating the concept in urban intercity and crossborder trips at 3 EU areas UK LUXDE HUThe consortium disposes all necessary competences and has been formed to be able to handle all tasks involved in the project consisting of 17 partners from 9 countries among them leading industries renowned research institutions transport authorities and operators consultants and one ministry of transport",
+          "Rcn" : "210133",
+          "Acronym" : "MaaS4EU"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14399",
+        "_score" : 69.73063,
+        "_source" : {
+          "identifier" : "H2020MG2017SingleStageINEA",
+          "Text" : "Shared mobility opporTunities And challenges foR European citieS The goal of STARS is to close the gap between the potential benefits of shared vehicle services with special emphasis on those innovative forms that are enabled by recent technology applications in the transport sector and their real impacts in terms of congestion mitigation environmental footprints and social inclusion that are mediated by both individual preferences and social innovation patterns STARS will achieve this goal by integrating knowledge expertise and research methods from transport engineering environmental psychology and economics thanks to the unique blend of different competences and kinds of organisation within the consortiumThe role of car sharing in improving mobility in European urban areas and providing new business opportunities to the automotive sector will be assessed through an integrated comodality approach where the impact of car sharing on other travel modes public transport active means private cars will be quantified To this effect both business as usual and rupture mobility scenarios will be studied the former referring to future projections of actual trends concerning the diffusion of car sharing in EU countries and the latter to an assessment of its full potential in presence of appropriate policy actions aimed at maximising social benefits These policy actions will be informed by the definition of a decision support toolkit that will allow the identification of the best strategy to implement a car sharing service kind of service to promote rough estimation of the market dimension accompanying measures for competing travel modes business opportunities for different economic actors as a function of the socioeconomic characterisation of the area of the related mobility lifestyles of the policy context and of the related Sustainable Urban Mobility Planning measures and priorities Both guidelines in the form of whatif scenarios and practical examples will be provided",
+          "Rcn" : "211346",
+          "Acronym" : "STARS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10116",
+        "_score" : 69.21703,
+        "_source" : {
+          "identifier" : "H2020S2RJUOC2016012",
+          "Text" : "Semantic Transformations for Rail Transportation The objective of the proposal is research in semantic ontology based automation of transformations between heterogeneous data formats and its application to a complex aftersales process use case in an actual runtime demonstration scenario The technology will leverage Shift2Rail Interoperability Framework IF components developed in the IT2Rail lighthouse project extending it for use in related Shift2Rail projects under the S2RCFMIP4012015 Shopping booking and ticketing of multimodal travel solutions and S2RCFMIP4022015 Travel companion and tracking services calls  The project will additionally provide a case scenario for exercising the Governance and management structure developed under the related S2ROCIP4012016 IF Governance ensuring its market uptake and sustainability callThe objectives will be achieved through a partnership of specialist participants including research institutions a major European rail operator industry associations representing the rail sector and public transportation authorities and industrial providers of mission critical ICT solutions to the rail sector  Participants which are also involved in the original consortium of designers for the IF in IT2Rail will perform work organised in specific work packages focused on fundamental industrial research in semantic web technologies These technologies will comprise ontology engineering and automated semantic transformations in a dedicated work package to provide the actual runtime demonstration scenario of the application of such technology to transformations of existing European TAPTSI specification exchanges executed on an existing industrial platform for such exchangesThe project extends the capabilities of the IF as described in the Shift2Rail Multi Annual Action Plan contributing to the realisation of a distributed semantic web of transport integrating the TAPTSI specification as one of its elements",
+          "Rcn" : "206228",
+          "Acronym" : "ST4RT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1491",
+        "_score" : 69.16961,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Advanced Analytics for Trip OriginDestination Matrices The planning and management of transport systems requires accurate reliable and updated travel demand information including travellers socioeconomic profile origin and destination of the trips trip purpose transport modes and route choice Traditional data collection methods such as household travel surveys are expensive and require months or even years to complete TripOD is an innovative solution developed by Nommon that mines and analyses a variety of ICTbased data sources eg mobile phone records smart cards alone or in combination with traditional data eg census traffic counts to provide frequently updated and rich demographic and travel demand information in a fraction of the time and cost required by traditional methods The targeted users are those stakeholders in need of travel demand data including public authorities and agencies in charge of transport planning and management public and private transport operators and service providers eg toll road concessionaires consultants and researchers Altogether these users constitute a market of significant size which is expected to grow continuously along the coming decades due to the increasing awareness about the importance of sustainable and efficient transport systems and the costefficiency of the TripOD solution which makes it affordable for public bodies and companies of any sizeThe overall goal of the feasibility study is to assess the technological and economic viability of the proposed concept and elaborate a detailed business plan The specific objectives are to evaluate the technical feasibility of the solution in operational conditions to provide an indepth analysis of the market at worldwide level including users and their needs competitors and entry barriers data providers stakeholders and potential alliances to evaluate financial feasibility to design a strategy to protect intellectual property rights to identify risks and opportunities",
+          "Rcn" : "194660",
+          "Acronym" : "TripOD"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14993",
+        "_score" : 69.02233,
+        "_source" : {
+          "identifier" : "H2020S2RJUCFM2017",
+          "Text" : "Connecting and Analysing the Digital Transport Ecosystem CONNECTIVE project will be part of Shift2Rail S2R the first rail joint technology initiative focused on accelerating the integration of new and advanced technologies into innovative rail product solutions CONNECTIVE aims to be the technical backbone of S2Rs Innovation Programme 4 IP4 which addresses the provision of IT solutions for attractive Railway servicesThereby CONNECTIVE will provide other S2RIP4 projects with a technical framework and a set of tools that will foster the digital transformation of the rail and in general all the transport ecosystem allowing to reach unprecedented multimodal travel experiences and to improve the fit between supply and demand CONNECTIVE will provide new levels of interoperability and seamless access to all transport data and services in a multimodal and distributed environment while offering a common business intelligence to extract insights of the ecosystem valuable for both users and service providers",
+          "Rcn" : "211970",
+          "Acronym" : "CONNECTIVE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1479",
+        "_score" : 67.521645,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Off The Rails Off the Rails is a concept to develop a mobile application that intelligently understands user movement patterns not just in terms of location speed and transport mode Utilising smartphone sensors GPS mapping and game mechanics it will give the user the vectored detail of their daily travels  The unique concept is being developed in the context of Mudlarks worldleading digital public transport game Chromaroma which turns all swipes of a players London travel smartcard into gameplays and achievements promoting sustainable transport use by encouraging nonrush hour travelThe advent and increasing accuracy of geolocation data harnessed with the prevalence of powerful personal mobile devices means we use OTR to make the individual traveller a transport integrator  We can build a platform that attracts these solo integrators and retains them by improving their travel experience at the same time capturing individual journey data That platform can then flip the transport integration problem by addressing it from the user level upBy combining and transferring new and existing knowledge into an innovative disruptive and competitive solution we will enhance the profitability and growth performance of Mudlark an SME We need the funding from this grant to help seize the European and global business opportunity As well furthering our understanding the commercial case our project objectives are to Discover and understand the user needs This will culminate in a framework and design scoping document Test initial technical and tracking assumptions with an enduser group Design the user experience and game using screen and paper prototypes  Produce a detailed report game design document and business planning roadmapWe will conduct a variety of analyses to confirm the viability of our game and justify further external investment specifically Phase 2 funding from this programme",
+          "Rcn" : "194648",
+          "Acronym" : "OTR"
+        }
+      }
+    ]
+  }
+}

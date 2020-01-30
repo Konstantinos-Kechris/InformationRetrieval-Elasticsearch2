@@ -1,0 +1,256 @@
+{
+  "took" : 34,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 895,
+    "max_score" : 91.578766,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9440",
+        "_score" : 30.154472,
+        "_source" : {
+          "identifier" : "H2020ICT2016INT",
+          "Text" : "Enhancing FIWARE collaboration between Europe and Mexico FIWARE Mexico aims at enhancing FIWAREdriven collaboration between EU and Mexico based on the adoption deployment and improvement of FIWARE in Mexico as a framework that will open up new horizons for future cooperation in the ICT domain The Mexican FIWARE Lab node operated by INFOTEC is part of the FIWARE infrastructure which facilitates the use of the FIWARE platform for local innovative players However to bring new Mexican players into the FIWARE arena and create a sustainable collaborative environment between Europe and Mexico it is necessary to set and manage the proper conditions needed to support the pillars of FIWARE in Mexico to go beyond the Lab initiative FIWARE Mexico proposes a new approach to actively and strategically engage all relevant stakeholders in supporting the uptake of FIWARE technologies for sustainable collaboration between EU and Mexico The project will establish Working Groups to engage innovators from the industry research communities and end users such as Smart Cities players in the FIWARE ecosystem In parallel dedicated FIWARE technology training programmes will be implemented for developers integrators and contributors embracing the whole open source community which will facilitate the adoption of FIWARE technologies and the development of applications to be commercialized in Mexico and EU Also FIWARE Mexico will focus on key aspects that until now have only partly been addressed in the EUMexico policy dialogue such as the identification of ICT priorities and FIWARE topics of strategic interest for future RI collaborationThe FIWARE Mexico consortium is in a unique position to leverage the required expertise foster engagement with key players ensure a shared vision encourage networking reach a wide range of policymakers industrial and economic leaders throughout EU and Mexico and mobilize resources towards resultoriented actions that will significantly reinforce the EUMexico collaboration in FIWARE",
+          "Rcn" : "205517",
+          "Acronym" : "FIWARE Mexico"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9907",
+        "_score" : 29.94107,
+        "_source" : {
+          "identifier" : "H2020GV2016RTD",
+          "Text" : "ERANET Cofund Electric Mobility Europe In collaboration with the European Commission and the European Green Vehicles Initiative Association European countries and regions will setup an ERANET Cofund to further promote electric mobility in Europe Electric Mobility Europe builds on the experiences networks and results of Electromobility and is designed to take transnational emobility research and policy exchange to the next levelWith a twotrack approach the initiative will link research and policy practice in support of electric mobility at the European levelThe first of two pillars of Electric Mobility Europe will fund innovation projects focussing on the application and demonstration of emobility with the objective of advancing the mainstreaming of the electrification of mobility in Europe The initiative will bring together about 30 million EUR for supporting applied innovation projects including up to 10 million EUR of cofunding provided by the European Commission under Horizon 2020In 2016 the initiative will issue a call for project proposals addressing the key areas of electric mobility1 System integration transport suburban areas2 Integration of urban freight and city logistics in the emobility3 Smart Mobility concepts and ICT applications4 Public transport5 Consumer behaviour and societal trendsIn addition to funding innovation and demonstration projects the ERANET Cofund Electric Mobility Europe will establish a second pillar of activity The network will provide a platform for cooperation and exchange of information and experiences among participating countries and regions In this context knowhow will be shared on setting conducive conditions for the development of electric mobility in Europe eg on charging infrastructure The network will support this by facilitating suitable means of cooperation such as workshops or seminars in order to exchange or coordinate required actions in attunement with the European Green Vehicle Initiative Association",
+          "Rcn" : "206010",
+          "Acronym" : "EMEurope"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15120",
+        "_score" : 28.849625,
+        "_source" : {
+          "identifier" : "H2020IBASC5GEOSS2017",
+          "Text" : "European Direction in GEOSS Common Infrastructure Enhancements As mentioned in the GEO Strategic Plan 20162025 global environmental change is one of the primary challenges of humankind even more so today than in 2003 when governments and international organisations committed to a vision of a future wherein decisions and actions for the benefit of humankind are informed by coordinated comprehensive and sustained Earth observations The establishment in 2005 of the Group on Earth Observations and the creation of the Global Earth Observation System of Systems GEOSS was a first concrete response to this challengeEDGE short for European Directed GCI Enhancements is a EU funded project that will provide a further European key contribution to GEOSS evolving its main common infrastructure elements the GEOSS Portal implemented and operated by the European Space Agency  ESAESRIN and the GEO Discovery and Access Broker implemented and operated by the Italian Research Council  CNRIIA recognizing the user centrality  and as such the challenges these users are facing  as the leitmotiv of these evolutionsEngaging the user communities better understanding their needs improving the user experience delivering solutions in response to the actual user requirements advocating the benefits of GEOSS raising interest and awareness amongst a comprehensive community of users are the main objectives of the project There will be close collaboration with GEO flagships and initiatives as well as with communities identified in ESA initiatives like the Thematic Exploitation Platforms The project will link with major international initiatives like Copernicus and CEOS and will consider the latest Ground Segment operations concept Coordination with the GEO secretariat the relevant foundational tasks and all relevant GEO stakeholders should guarantee the success of the project",
+          "Rcn" : "212138",
+          "Acronym" : "EDGE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "3458",
+        "_score" : 28.74933,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Integrated SOlution to enhance COLD chain and logistic tracking ScenarioTransport  Logistic TL sector has experienced a fast expansion in the last decade the temperature controlled supply chain represents a high value added segment that is experiencing a continuous push for service quality Regulators all over the world are constantly introducing more demanding recommendations eg the recent Good Distribution Practise  EU C34301 2013  for the pharmaceutical products On the other hand the high cost of monitoring tracking information and temperature data during transports and the absence of structured ICT solutions to aggregate operative information efficiently risk frustrating regulators effortInnovationERPlan developed a comprehensive ICT solution able to collect and aggregate information from TL operations including track  trace and temperature data that allow the users to have a complete and updated status of deliveries an historical records depot for regulation compliance and a platform to distribute data to its stakeholders Moreover the solution provide logistic floor and mobile systems equipped with state of art RFID technology to minimize impact of data acquisition procedures on workforce efficiencyTarget MarketTransport and logistic companies working with temperature controlled shipments mainly Pharma  Food sectors are all potential users of the solution as well as their stakeholders Pharma  food producers retailers etc with a focus companies operating in last mile delivery scenario mostly SMEsPhase I Objectives To define the investment and the effort that the company should undertake to penetrate efficiently the European market To validate the ability of the solution to bring economical return to the company into a defined period in order to evaluate sustainability of the business plan To quantify the impact of the solution on standard transport  logistic scenarios to create appropriate selling tools Produce a sustainable marketing strategy to enter the European market",
+          "Rcn" : "196653",
+          "Acronym" : "ISO-COLD"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5283",
+        "_score" : 28.467918,
+        "_source" : {
+          "identifier" : "H2020SMEINST12015",
+          "Text" : "Express Delivery endtoend Management System through collaborative intelligence The logistics and transportation sector which amounted 930 billion in 2010 and represents 5 of EUs GDP has a remarkable problem of inefficiency merely 43 according to Eurostar weakening considerably the competitiveness of EUs economyThis lack of efficiency is even greater in the last stage of the delivery process due to what is known as the last mile problem which accounts for most of the inefficiencies in logistics and 28 of the total cost of transportation And it is expected to increase mostly due to the rapid growth of ecommerce services which will represent up to 30 of global transported goods by 2025COLLOGISTICS aims at developing an innovative endtoend Delivery Management System that could achieve up to 50 efficiency improvements in the last mile delivery COLLOGISTICS is based on three novel concepts a collaborative behaviour among members of the delivery fleet b realtime bidirectional communication between the company and the client and c dynamic pricing that will me achieved through the application of cutting edge ICT conceptsThe final objective is to allow express delivery carriers to make a better use of their resources improving revenue and profit margins as well as providing a better service COLLOGISTICS will be commercialized as a Software as a Service and will leverage the rich array of functionalities of the installed base of smartphones GPS Internet connection etc to dramatically reduce adoption costs aiming to make the technology accessible to a mass market to maximize its impactThe feasibility study financed over phase I will help to validate the initial observations performed in Spain and gain a deeper knowledge of the European express delivery market size competitors key users needs and entry barriers as well as the costs of the project and its financial viability",
+          "Rcn" : "198922",
+          "Acronym" : "COLLOGISTICS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "4512",
+        "_score" : 28.305607,
+        "_source" : {
+          "identifier" : "ECSEL20141",
+          "Text" : "Cyber Physical System based Proactive Collaborative Maintenance The overall concept of MANTIS is to provide a proactive maintenance service platform architecture based on Cyber Physical Systems that allows to estimate future performance to predict and prevent imminent failures and to schedule proactive maintenance Maintenance is no longer a necessary evil that costs what it costs but an important function that creates additional value in the business process as well as new business models with a stronger service orientation Physical systems eg industrial machines vehicles renewable energy assets and the environment they operate in are monitored continuously by a broad and diverse range of intelligent sensors resulting in massive amounts of data that characterise the usage history operational condition location movement and other physical properties of those systems These systems form part of a larger network of heterogeneous and collaborative systems eg vehicle fleets or photovoltaic and windmill parks connected via robust communication mechanisms able to operate in challenging environments MANTIS consists of distributed processing chains that efficiently transform raw data into knowledge while minimising the need for bandwidth Sophisticated distributed sensing and decision making functions are performed at different levels in a collaborative way ranging from local nodes to locally optimise performance bandwidth and maintenance to cloudbased platforms that integrate information from diverse systems and execute distributed processing and analytics algorithms for global decision making The research addressed in MANTIS will contribute to companies assets availability competitiveness growth and sustainability Use cases will be the testing ground for the innovative functionalities of the proactive maintenance service platform architecture and for its future exploitation in the industrial world Results of MANTIS can be utilised directly in several industry areas and different fields of maintenanance",
+          "Rcn" : "198079",
+          "Acronym" : "MANTIS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14701",
+        "_score" : 28.300756,
+        "_source" : {
+          "identifier" : "H2020SC6REVINEQUAL2017",
+          "Text" : "The HUB for boosting the Responsibility and inclusiveness of ICT enabled Research and Innovation through constructive interactions with SSH research The long term strategic objective of HubIT is to contribute to the high level of European research and innovation and ensure that H2020 funded and further ICT related innovation is responsible inclusive and aimed at reversing inequalitiesThe direct objective of HubIT is to build a hub that will activate and improve constructive and cocreating interactions between SSH and ICT disciplines in developing and implementing a shared vision of inclusive HubIT will activate constructive interactions between the stakeholders forming the RRISSH ecosystem via various network and engagement activities embedded intro the WP structure that have the overall goal of developing a tangible European Framework Model for implementing responsible and inclusive ICT research and innovation The Framework Model is a comprehensive set of jointly developed and used definitions guidelines and tools for enforcing RRI and SSH issues in ICT research and innovation The concept of responsible RI Matrix of the key challenges Tool for assessment of RRI and SSH perspectives in ICT within an organisation Guidelines for responsible ICT RI informed by SSH Best Practice Repository Fact Sheets and Policy briefs Key measurable success indicators  Policy Recommendations Virtual Matching Catalogue HubIT exploitation plan The mechanisms for network building engagement and awareness rising embedded in the WP structure are Advisory Board workshops Expert Group workshops Community building and knowledge sharing  national network events thematic workshops policy SSH researchers and ICT industries workshops Practical collaborations and experimentation  Common Ground Camps Interactive ICT Labs Inclusive HackathonsIn total 35 network activities are implemented and in total 1140 participants HubIT online platform will be the interactive environment where the project tools and services can be accessed in modular visually attractive and dynamic way",
+          "Rcn" : "211652",
+          "Acronym" : "HubIT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10719",
+        "_score" : 27.7588,
+        "_source" : {
+          "identifier" : "H2020MSCARISE2016",
+          "Text" : "Industry 40 for SMEs  Smart Manufacturing and Logistics for SMEs in an Xtoorder and Mass Customization Environment Industry 40 refers to the fourth industrial revolution and technological evolution from embedded systems to cyberphysical systems CPS in production The main objectives of Industry 40 can be summarized as the introduction of intelligent systems in production and logistics the development of highly adaptable and modular manufacturing and logistics systems the integration of sustainable and advanced manufacturing technologies as well as the promotion of automation technology and humanmachine interaction In the context of Industry 40 new ICT and web technologies act as booster or enabler of smart autonomous and selflearning factories facing the challenges of even more individualized and customized product portfolioA great challenge for the future lies in the transfer of Industry 40 expertise and technologies in small and medium sized enterprises SME SMEs represent the backbone of the economy and have an enormous importance in the development programs of the European Union for strengthening the competitiveness of European enterprises Although the high potential of Industry 40 in SMEs the main limit lies in a lack of concrete models for its implementation and application in small and medium enterprises Thus this research project titled Industry 40 for SMEs  Smart Manufacturing and Logistics for SMEs in an Xtoorder and Mass Customization Environment aims to close and overcome this gap through the creation of an international and interdisciplinary research network Identifying the needs and enablers for a smart and intelligent SMEFactory creating adapted concepts and design solutions for production and logistics systems in SMEs and developing suitable organisation and business models will be the three main objectives of this research network The applicability of the results is ensured through a close collaboration with a European small and medium sized enterprise nonacademic partner from mass customization industry",
+          "Rcn" : "207061",
+          "Acronym" : "SME 4.0"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "8771",
+        "_score" : 27.592535,
+        "_source" : {
+          "identifier" : "H2020MG2015TwoStages",
+          "Text" : "Architecture for EurOpean Logistics Information eXchange Supply chain visibility supported by easy access to and exchange and use of relevant and abundant logisticsrelated information is an important prerequisite for the deployment of panEuropean logistics solutions that are needed to increase efficiency and productivity and to reduce environmental impact Although there is a proliferative development of logisticsrelated data stores information channels information management systems and data mining facilities with both international and intermodal focus this multitude of solutions exhibits a high degree of fragmentation due to differences in user requirements data models system specification and business models This legacy situation severely hampers the optimal use of logisticsrelated information To overcome this fragmentation and lack of connectivity of ICTbased information systems for logistics decision making AEOLIX will establish a cloudbased collaborative logistics ecosystem for configuring and managing logisticsrelated information pipelines This digital business ecosystem will create visibility across the supply chain enabling more sustainable and efficient transport of goods cross Europe An essential element of the approach is to ensure that for logistics actors connecting to and using the ecosystem in undemanding and has a low level of complexity  We envision the ecosystem enabling the integration of supplychainrelated transport business processes through logistics software solutions for cloudbased connectivity and interaction in order to support more efficient collaboration in the logistics supply chain than exists today By enabling lowcomplexity and low cost connectivity of local ICT platforms and systems and thereby scalable trusted and secure exchange of information AEOLIX will improve the overall competitiveness of goods transport in the supply chain while simultaneously targeting sustainability from environmental economic and social perspectives",
+          "Rcn" : "204772",
+          "Acronym" : "AEOLIX"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5540",
+        "_score" : 27.592346,
+        "_source" : {
+          "identifier" : "H2020EO2015",
+          "Text" : "Operational Network of Individual Observation Nodes Two trends have recently emerged in space systems and could even further strengthen in the future small satellites with the development of key modularisation and miniaturisation technologies and the deployment of constellations and distributed networks of satellites It is of primordial importance for Europe to properly analyse those trends and determine whether or not they could provide a competitive advantage for Earth Observation EO systems To address those challenges Operational Network of Individual Observation Nodes ONION investigates the distribution of spacecraft functionalities into multiple cooperating nodes leveraging on the emerging fractionated and federated satellite system concepts The proposed concept provides augmentation supplementation and possibilities of new mission for future EO Missions for science and commercial applications ONION objectives1 Review the emerging fractionated and federated observation system concepts2 Identify potential benefits to be obtained in light of observation needs in different Earth Observation domains3 Identify key required technology challenges entailed by the emerging fractionated and federated satellite system concepts to be faced in Horizon 202120274 Validate observation needs with the respective user communities to be fit for purpose in terms of scientific and commercial applications5 To propose an overall strategy and technical guidelines to implement such concepts at Horizon 20212027ONION will confirm the feasibility of the first established concepts to respond to the identified needs through usecases The baseline of the concept consists to supplementing current mission profiles with missing observation bands augmenting mission lifetimes and ultimately sharing the capabilities across multiple spacecraft platforms ONION will enable mission designers and implementers to decide which fractionated and federated concepts will provide competitive imaging from space",
+          "Rcn" : "199272",
+          "Acronym" : "ONION"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "234",
+        "_score" : 26.70737,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "Open social transport network for urban approach to carpooling SocialCar is an Intelligent Transport System based on an innovative approach to transport demand management and more specifically to carpooling in urban and periurban areas SocialCars main objective is devopping a new communication network for intelligent mobility sharing information of carpooling integrated with existing transport and mobility systems It will be achieved by means of powerful planning algorithms and integration in a liveable environment of big data related to public transport carpooling and crowdsourcing in order to provide the final user with a simplified travel experience allowing comparison and choice between multiple optionsservicesSocialCar will take advantage Social Media to communicate share information and  provide the best justintime notifications to the travellersSocialCar will  take advantage of the ever growing connectivity of people and objects and the propagation of Internet services the potential of Future Internet and the availability of GNSS based location and social media to create an integrated mobility service with the potential to sensibly reduce mobility problems of European citizensSocialCar will capitalise on a strong pan European team with a solid background in social psychological and economic sciences the involvement of 10 European urban sites will prove the concepts validity and business case SocialCar General Objectives are to  contribute to the EU2020 targets on energy efficiency and renewable energy sources reducing congestion by improving and maximising connectivity and information in realtime  overcoming the limitations of current carpooling practices moving from long trips to effective urban and periurban use validate green driving support systems active management based on European GNSS identify a suitable big data management architecture for integrating mobility data produce a citybased open integrated mobility repository of public transport and traffic citybased data",
+          "Rcn" : "193402",
+          "Acronym" : "SocialCar"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "17190",
+        "_score" : 26.696241,
+        "_source" : {
+          "identifier" : "H2020MG2017TwoStages",
+          "Text" : "New ICT infrastructure and reference architecture to support Operations in future PI Logistics NETworks ICONET will significantly extend state of the art research and development around the PI concept in pursuit of a new networked architecture for interconnected logistics hubs that combine with IoT capabilities and aiming towards commercial exploitation of results ICONET strives to achieve the end commercial goal of allowing shipments to be routed towards final destinations automatically by using collaborative decisions inspired by the information centric networking paradigm and optimizing efficiency and customer service levels across the whole network According to this vision cargo regarded as smart physical packets will flow between hubs based on content of the cargo influencing key commercial imperatives such as cost optimisation routing efficiency and advancing EUs Green agenda  Consequently the consortium are discernibly aimed at three 3 avenues of commercialisation and exploitation from the ICONET innovation specifically targeted in the areas of a Warehousing as a service b Ecommerce fulfillment as a service and c Synchromodality as a servicePI based logistic configurations will be simulated prototyped and validated in the project  Modelling and analysis techniques will be combined with serious game type simulation physical and digital prototyping using living lab LL requirements scenarios and data With analyses and simulations optimal topologies and distribution policies for PI will be determined  The project implementation will be based on a succession of phases of modelling and designprototyping learning and experimentation and feedback and interaction with the wider business community including the ALICE logistics platform as well as members of the partner Associations ESC UIRR and ELUPEG  Through  its Living Labs the project will address under the PI paradigm both Supply Network Collaboration and Supply Network Coordination",
+          "Rcn" : "214637",
+          "Acronym" : "ICONET"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5618",
+        "_score" : 26.58351,
+        "_source" : {
+          "identifier" : "H2020CS2CFP01201401",
+          "Text" : "Automation COncepts and Technologies for Aircraft Assembly Lines in the Aircraft Factory of the Future ACOTAAL project responds to the topic Automation in Final Aircraft Assembly Lines and Enabling Technologies JTICS22014CFP01LPA0204 This topic is in turn linked to LPAIADP WP223  Technologies for Future Aircraft FactoryThe objective of the ACOTAAL project is to develop new automation concepts for the assembly of aircraft sections and final assembly of aircrafts addressing novel fuselage architectures which integrate structure system installation and cabin elements The automation systems proposed will allow conducting aircraft assembly operations at high production rates with reduced recurring costs while providing practical strategies for maximum production flexibility simplified process chains and optimized logistic processesFor achieving this target the automation system concepts developed will smartly integrate and combine key enabling innovative technologies such as lightweight and compact robotics and grippers collaborative robotics moveable robotic platforms and largescale cabledriven robots Moreover the concepts proposed will consider the incorporation of advanced ICT technologies and strategies in order to be able to interact with other automation systems andor humans sharing their same workspace and to fully integrate into the existing plant production planning and control system infrastructureThe automation scenario concept that will be obtained in the ACOTAAL project will mean a leap forward with regard to flexible fluent and lean automation of aeronautics assembly production paving the way for the transformation of aircraft production shops using various advanced manufacturing means methods and technologies The proposed scenario will strongly contribute to the Future Aircraft Factory vision envisaged in the Clean Sky work plan by the aeronautic sector enabling among others intelligent automation ergonomic work environment optimum humanmachine interface zero production defects and flexible manufacturing lines",
+          "Rcn" : "199350",
+          "Acronym" : "ACOTAAL"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6549",
+        "_score" : 26.529186,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Understanding Collective Awareness Platforms with the Maker Movement Powerful tools provided by ICT software and hardware have revolutionised and many would claim democratised publishing broadcasting and communications Now the same is happening to manufacturing as tangible objects are created and designed as virtual bits which can be shared globally but then reproduced as things which manifest themselves locally This is the maker movementMAKEIT will study maker communities both through ten different case studies and innovation action research to enhance their use of Collective Awareness Platforms CAPs CAPs support maker communities and networks to innovate design and make physical products based on peer collaboration and sharing MAKEIT in which key maker platforms technology firms and citizen communities participate will focus on three perspectives organisation and governance of the communities their peer and collaborative activities and behaviour and their economic and societal value and impact Together the findings will inform recommendations for the maker movement itself and its implementation through CAPs and be made assessable to many other CAPs uses in areas like health education and transport MAKEIT will also offer strategic advice for industry and give recommendations for nationallevel and European policy makersA better understanding of how CAPs are central to the maker movement will enable more sustainable production and consumption patterns by generating awareness and by leveraging peer pressure for better lifestyles through behavioural and system change It will also contribute directly to constructing a more circular economy by stimulating resource efficiency reusing materials and energy and redesigning production processes to move towards zero waste CAPssupported maker communities can create new types of jobs and new ways of working both bottomup and linking to smart industry which are widely distributed across society both geographically and amongst the population",
+          "Rcn" : "200424",
+          "Acronym" : "MAKE-IT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "14326",
+        "_score" : 25.799389,
+        "_source" : {
+          "identifier" : "H2020NMBPCSA2017",
+          "Text" : "Next generation Technologies for networked Europe Currently most of EU research activities in the area of supply chain has been supported through programmes specifically focusing on some aspects as for example technologies for handling and transportation in ALICE for internal logistics and production networks in EFFRA Integrated platforms for implementing new communication paradigms in ICT platfomrs for industrial symbiosis in SPIRE  The aim of the project is to put in place a crosssectoral and crosstechnological initiative at European level to increase integration between production and distribution proposing research and innovation priorities for the future of supply chain In particular the project will develop a Strategic Research Agenda where the effort of different communities like EFFRA SPIRE ALICE and other ICT are put together to face important challenges like customization and sustainability Most important steps of the project will be i Creating a European network where most important stakeholders will be involved reaching a critical mass of people from all targeted industries and scientific domains by mean of direct actions along the whole project life ii Identifying future industrial scenarios for 2050 through the analysis of the socioeconomic trends and drivers in the market and their impact on innovation  technology development it will be possible to fix some promising scenarios for the future iii Developing a strategic research agenda and a joint action plan on broader innovation policy issues of common interest NEXTNET will be grounded on the analysis of most important European and national roadmaps status of implementation on identification of the most promising enabling technologies for the future industrial scenarios to develop the research and innovation priorities on workshops focus groups brainstorming sessions  with experts and stakeholders from more that 4 supply chains accross Europe",
+          "Rcn" : "211273",
+          "Acronym" : "NEXT-NET"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15729",
+        "_score" : 25.794733,
+        "_source" : {
+          "identifier" : "H2020MSCAITN2017",
+          "Text" : "Internet of Thing for Smart Water Innovative Networks The IoT4Win will establish a European Industrial Doctorates EID training program and extend the traditional academic research training setting equipping researchers with right combination of researchrelated and transferable competences joint research training programme combines an interdisciplinary expertise of European research group industry partners and user organisations bring together all required knowledge skills and stakeholders to offer a comprehensive set of transferable skills and a training programme on ICT data science and water engineering including industry practice and longerterm benefit in further industrial partner collaborations and further knowledge transfer IoT4Win will respond to well defined and interdisciplinary scientific questions and challenges on IoTs for Smart Water Network SWN technological area cooperating  to recruit 3 ESRs to undertake research in the context of a joint research training on concepts and methodologies of IoT enabled SWN towards the PhD IoT4Win designs 3 individual and personalised research projects covering the core SWN research areas ie smart sensing and trusted communication within energy limited heterogeneous devices in IoT enabled urban water environment  dynamic sensor web and interoperable open platform with Integrated Knowledge Management for smart water networks data security and  intelligence in IoT enabled SWN The interdisciplinary collaborations and cross industrial interactions between ICT and water sector will expose researchers to the academic nonacademic sectors By combining three projects an interoperable secure and intelligent underlying technology leading to an open platform for IoT enabled SWN applications will be developed This platform will then be applied to and evaluated in the real water scenarios with our end user industrial partner leading to a specialised technology platform for SWN and a bestpractice smart water network demonstrator",
+          "Rcn" : "212859",
+          "Acronym" : "IoT4Win"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5008",
+        "_score" : 25.436544,
+        "_source" : {
+          "identifier" : "H2020DRS2014",
+          "Text" : "PLAtform for Climate Adaptation and Risk reDuction Significant challenges exist towards strengthening the Climate Change Adaptation CCA and Disaster Risk Reduction DRR communities for coherent mutually reinforcing and pragmatic planning and action PLACARD seeks to support the coordination of these two communities PLACARD will tackle current challenges by 1 providing a common space where CCA and DRR communities can come together share experiences and create opportunities for collaboration 2 facilitating communication and knowledge exchange between both communities and 3 supporting the coordination and coherence of CCA and DRR research policy and practice PLACARDs approach to achieving these goals is to establish a strong and operational network of networks by connecting to existing networks and boundary organisations to foster dialogue among stakeholders eg researchers research funders policymakers practitioners engaged in CCA and DRR at the international European national and subnational scales This overarching network will enable these communities to share knowledge to discuss challenges and to jointly coproduce options to bridge the gaps they experience It will support the development and implementation of a research and innovation agenda to make better use of research funding as well as to develop guidelines to strengthen relevant institutions in their efforts to mainstream CCA and DRR PLACARD will evolve iteratively learning from the different processes and experiences with the stakeholders and being flexible and responsive to changing needs PLACARD will be supported by an online platform that builds upon and links existing CCA and DRR platforms to streamline the dissemination and communication of CCA and DRR activities PLACARD Consortium is built around the leadership of a number of key European institutions experienced in CCA and DRR policy and practice and UN organizations leading and engaged inpost2015 agendas",
+          "Rcn" : "198647",
+          "Acronym" : "PLACARD"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9467",
+        "_score" : 25.398907,
+        "_source" : {
+          "identifier" : "H2020FOF2016",
+          "Text" : "Mobile dual arm robotic workers with embedded cognition for hybrid and dynamically reconfigurable manufacturing systems The productivity of the serial production model is compromised by the need to perform changes in the production equipment that cannot support multiple operations in dynamic environments Low cost labour is no longer an option for EU manufacturers due to the fast rise of wages and the increasing costs of energy and logistics Manual tasks cannot be fully automated with a good ratio of cost vs robustness using standard robots due to high product variability dedicated process equipment and high cost of maintenance by expert users The answer to this challenge lays in the creation of production concepts that base their operation on the autonomy and collaboration between production resources The vision of THOMAS is to create a dynamically reconfigurable shopfloor utilizing autonomous mobile dual arm robots that are able to perceive their environment and through reasoning cooperate with each other and with other production resources including human operatorsThe objective of THOMAS are to Enable mobility on products and resources Introducing mobile robots able to navigate in the shopfloor and utilize dexterous tooling to perform multiple operations Enabling perception of the task and the environment using a the individual resources and b collaborative perception by combining sensors of multiple resources  Dynamic balancing of workload Allowing the resources to communicate over a common network and automatically adjust their behaviour by sharing or reallocating tasks dynamically Fast programming and automatic execution of new tasks by a automatically generating the robot program for new products and b applying skills over the perceived environment to determine required adaptations Safe human robot collaboration eliminating physical barriers by introducing cognitive abilities that allow the detection of humans and their intentionsTHOMAS will demonstrate and validate its developments in the automotive and the aeronautics industrial sectors",
+          "Rcn" : "205544",
+          "Acronym" : "THOMAS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "7704",
+        "_score" : 25.26793,
+        "_source" : {
+          "identifier" : "H2020PHC2015singlestage",
+          "Text" : "A Federated Collaborative Care  Cure Cloud Architecture for Addressing the Needs of Multimorbidity and Managing Polypharmacy C3Cloud will establish an ICT infrastructure enabling a collaborative care and cure cloud to enable continuous coordination of patientcentred care activities by a multidisciplinary care team and patientsinformal care givers A Personalised Care Plan Development Platform will allow for the first time collaborative creation and execution of personalised care plans for multimorbid patients through systematic and semiautomatic reconciliation of clinical guidelines with the help of Decision Support Modules for risk prediction and stratification recommendation reconciliation polypharmacy management and goal setting Fusion of multimodal patient and provider data will be achieved via C3Cloud Interoperability Middleware for seamless integration with existing information systems An Integrated Terminology Server with advanced semantic functions will enable meaningful analysis of multimodal data and clinical rules Active patient involvement and treatment adherence will be achieved through a Patient Empowerment Platform ensuring patient needs are respected in decision making and taking into account preferences and psychosocial aspects Codesign and 4layered multimethod multistakeholder evaluation will lead to a user friendly solution To demonstrate feasibility pilot studies will focus on diabetes heart failure renal failure depression in different comorbidity combinations Pilots will operate for 15 months in 3 European regions with diverse health and social care systems and ICT landscape which will allow for strengthening the evidence base on health outcomes and efficiency gains C3Cloud adaptive patient pathways and organisational models validated by patient organisations and a clinical reference group change management and training guidelines will be shared with the European community Commercial exploitation of C3Cloud integrated care solutions will be facilitated through an Industry Vendor Forum and commercial EHRPHR products of 3 leading SMEs",
+          "Rcn" : "202635",
+          "Acronym" : "C3-Cloud"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "7755",
+        "_score" : 25.057653,
+        "_source" : {
+          "identifier" : "H2020BES2015",
+          "Text" : "Integrated system for realtime TRACKing and collective intelligence in civilian humanitarian missions The enduring humanitarian crisis in the Middle East the unrelenting high levels of violence in Afghanistan and new outbursts of violence in SouthSudan have made 2014 another recordbreaking year for acts of violence against humanitarian aid workers In 2000 41 significant attacks on aid workers were recorded across the globe By 2014 that number had risen to 190 In this 15year period over 3000 aid workers have been killed injured or kidnapped Despite the increasing availability of tracking and monitoring technologies the number of humanitarian workers that fall victim to attacks continues to rise Clearly a novel and innovative approach to tracking and decisionmaking is needed  Information systems for fleet management GPS for navigation and location or RFID tags for inventory management are just a few of the technologies that have changed the humanitarian operations Until now however there is no integrated decision support system that provides realtime analyses from the data streams that are generated by these technologies  This lack of integrated realtime information prevents an understanding of potentially threatening situations increases response times and creates insecure communications all leading to inadequate protection and hampered efficiency and effectivenessThe aim of better protection and more efficient and effective operations can only be achieved by developing technologies along with the policies for their use GPS for example notwithstanding its capability to provide live tracking of vehicles for recovery cannot prevent an ambush or kidnapping Technologies therefore need to go hand in hand with procedures and policies in order to provide useful early warnings to decisionmakers on the ground as well as decision support for scheduling navigation risk management and coordination Policies in other words provide for the essential guidance on how to use the technologies in the field This project will develop humancentred technologies that take into account actual realworld practices of humanitarian aid workers and provide policies for better protection and a more effective and efficient responseBased on principles of Privacy by Design this project will build the iTRACK system an integrated intelligent realtime tracking and threat identification system to improve protection of responders and assets and provide information management and logistics services such as realtime information updates and analyses as well as navigation routing and scheduling iTRACK will achieve this through an interdisciplinary sociotechnical approach which will draw on the latest advances in sensor development GIS security  privacy artificial intelligence information management risk analysis and humanitarian logistics",
+          "Rcn" : "202695",
+          "Acronym" : "iTRACK"
+        }
+      }
+    ]
+  }
+}

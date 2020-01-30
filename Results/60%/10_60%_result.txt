@@ -1,0 +1,256 @@
+{
+  "took" : 25,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 18286,
+    "max_score" : 222.29474,
+    "hits" : [
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "8557",
+        "_score" : 81.08058,
+        "_source" : {
+          "identifier" : "ERC2015STG",
+          "Text" : "Resolving the Tussle in the Internet Mapping Architecture and Policy Making The Internet has revolutionalized the way people and corporations communicate publish access and search for information As our globallyconnected digital civilization increasingly relies on its smooth operation any disruption has a direct negative impact on both the economy and society However the Internet was not designed to serve its current role nor was foreseen to be a public good On the contrary it was designed to be fully decentralized and thus administrated by the owners of independent networks Today the various Internet players have diverse and often conflicting objectives Indeed the tussle between Internet players or between them and governments hit the news and the negative externalities affect the life of potentially billions of Internet users worldwide and harm innovation in the InternetWe propose a research agenda to resolve the tussle in the Internet First we propose the use of sophisticated techniques to collect and analyze massive network data to unveil the complex interactions among the various Internet players that lead to disputes and to identify the conditions under which conditions a resolution is possible Second we utilize additional degrees of freedom to resolve the tussle in the Internet by enabling coordination of the various Internet players To this end we introduce expressiveness of all the involved parties in existing and emerging protocols and enable agile deployment of thirdparty services and applications inside operational networks Third we contribute to the Internet policy making debate by providing an unbiased view of the state and health of the Internet as well as providing recommendations on how to resolve the Internet tussle This is an interdisciplinary effort to foster a dialogue for Internets future and sustainability in light of its everincreasing growth and competitiveness",
+          "Rcn" : "204439",
+          "Acronym" : "ResolutioNet"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "4370",
+        "_score" : 75.76198,
+        "_source" : {
+          "identifier" : "ERC2014ADG",
+          "Text" : "Smart Device Communication A paradigm for  high PERformance FUture Mobile nEtworking Advances in theory integration techniques and standardization have led to huge progress in wireless technologies Despite successes with past and current 5G research new paradigms leading to greater spectral efficiencies and intelligent network organizations will be in great demand to absorb the continuous growth in mobile data Our ability to respond suitably to this challenge in the next decade will ensure sustained competitiveness in the digital economyWith few exceptions such as adhoc topologies classical wireless design places the radio device under the tight control of the network Promising technologies envisioned in 5G such as i Coordinated MultiPoint CoMP techniques ii Massive MIMO or ii Millimeterwave MMW byandlarge abide by this model Pure networkcentric designs such as optical cloudsupported ones raise cost and security concerns and do not fit all deployment scenarios Also they make the network increasingly dependent on a large amount of signaling and devicecreated measurements Our project envisions a radically new approach to designing the mobile internet which taps into the devices new capabilities Our approach recasts devices as distributed computational nodes solving together multiagent problems allowing to maximize the network performance by exploiting local measurement and information exchange capabilities The success of the project relies on the understanding of new information theory limits for systems with decentralized information the development of novel device communication methods and advanced teambased statistical signal processing algorithms The potential gains associated with exploiting the devices collective network friendly intelligence are huge The project will demonstrate longterm impact of the new paradigm in pushing the frontiers of mobile internet performance as well as short to midterm impact through its adaptation to currently known communications scenarios and techniques",
+          "Rcn" : "197928",
+          "Acronym" : "PERFUME"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1117",
+        "_score" : 74.24558,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Universal mobilecentric and opportunistic communications architecture Cars sensors home appliances every device in the daily life of citizens is becoming a constituent in Future Internet adding to the need to reconsider requirements and assumptions in terms of network availability and affordability to support the ever increasing traffic demand Still the current Internet can only evolve adequately if its infrastructure can be devised to accommodate the emerging services The increased cost of adding new infrastructure and capacity has a drastic effect on rural and remote communities as well as nomadic users as they become marginalized by not gaining access to crucial Internet services Our goal is to make the Future Internet universally pervasive supporting a diverse set of services To achieve this we develop a universal mobilecentric and opportunistic communications architecture which integrates the principles of Delay Tolerant Networking DTN and Information Centric Networking ICN in a common framework We utilize the benefits of both ICN and DTN to enable resource exploitation at minimal bandwidth opportunistic access to information and more localized access to information through novel caching strategies UMOBILE focuses on assisting users in getting access to the content they want or content that may be of shared interest to their trust circles By relying on an instance of the UMOBILE architecture users are able to share information directly with other peers without relying on infrastructure or expensive connectivity services The proposed architecture targets the mobile part of the networks extends Internet connectivity to regions that are not typically covered enhancing network resilience and is fully backward compatible with the current Internet architecture We will validate our architecture in a real world trial as well as participate strategically in carefully planned dissemination standardization and exploitation activities to ensure that our architecture transcends from the lab to real world deployments",
+          "Rcn" : "194285",
+          "Acronym" : "UMOBILE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6009",
+        "_score" : 73.605736,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "A DIY networking toolkit for locationbased collective awareness DoItYourself networking refers to a conceptual approach to the use of lowcost hardware and wireless technology in deploying local communication networks that can operate independently from the Internet owned and controlled by local actors MAZI means together in Greek and MAZI httpmazizoneeu invests in this paradigm of technologysupported networking as a means to bring closer together those living in physical proximity Through an experienced interdisciplinary consortium MAZI delivers a DIY networking toolkit that offers tools and guidelines for the easy deployment and customization of local networks and services MAZI toolkit is designed to take advantage of particular characteristics of DIY networking the de facto physical proximity between those connected the increased privacy and autonomy and the inclusive access Such characteristics are used to promote information exchanges that can develop the locationbased collective awareness as a basis for fostering social cohesion conviviality knowledge sharing and sustainable living To achieve this objective MAZI brings together partners from different disciplines computer networks urban planning and interdisciplinary studies humancomputer interaction community informatics and design research These academic partners will collaborate closely with four community partners to ensure that MAZI toolkit benefits from the grounded experience of citizen engagement MAZI draws from the diverse mix of competencies of its consortium to develop a transdisciplinary research framework which will guide a series of longterm pilot studies in a range of environments and enhanced by crossfertilization events The main goal of this process and measure of success is establishing DIY networking as a mainstream technology for enabling the development of collective awareness between those in physical proximity and the development of surrounding research and theorizing of this approach",
+          "Rcn" : "199849",
+          "Acronym" : "MAZI"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1827",
+        "_score" : 73.03223,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2014",
+          "Text" : "High Capacity Space Division Multiplexing Systems Our information society relies to an unprecedented extent on broadband communication solutions such as highspeed Internet access mobile voice and data services multimedia broadcast systems etc In order to fulfil the steadily growing volume and bandwidth demand of those data services while simultaneously reducing the cost per transported information bit communication systems have been continuously improved in terms of reach and aggregate transport capacity However it is now recognised that communication systems are rapidly approaching the fundamental information capacity of current technology a trend with potential negative impact on the economy and social progress HSPACE project targets the development of advanced space division multiplexing SDM systems to unlock the capacity of future information systems by enabling the transmission of spatial superchannels over a single fibre The proposed concept will be implemented using multicore fibres MCF and fewmode fibres FMFs as underlying technology platform along with novel digital signal processing DSP techniques that minimise the modecore interference and inter modecore nonlinearities keeping the required digital processing at realizable levels HSPACE offers a continued European leadership in RTD photonics from components to systems securing the necessary human resources and knowledge to design and produce a new generation of photonic components that support EUs vision for ubiquitous broadband connectivity to promote European social and economic cohesion and prosperityThe aforementioned challenges require researchers highly trained in a number of relevant disciplines ranging from nonlinear science to highspeed optical communication techniques This fellowship will provide a gifted early career researcher with the opportunity to train at one of the foremost research centres in optical communication the Aston Institute of Photonics Technology AITP",
+          "Rcn" : "194997",
+          "Acronym" : "HSPACE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5181",
+        "_score" : 72.81552,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Digital Social Innovation for Europe The DSI4EU project will support grow and scale the current Digital Social Innovation network of projects and organisations bringing together social entrepreneurs hackers communities and academics working on key DSI fields such as the makers movement the collaborative economy open democracy and digital rightsDSI4EU will foster digital innovations for the social good helping communities share data collaborate to solve societal problems and scale their initiatives focusing on open and distributed technologies and new sustainable business models DSI4EU will develop and upgrade the digitalsocialeu platform to promote largescale collaboration and support experiments among the DSI community and activate collective awareness with a large number of citizens across Europe DSI4EU will also provide an engaging programme of training mentoring events policy workshops and experimentationDSI4EU will represent the building blocks for a new participatory innovation model for Europe a more decentralised web and an inclusive and sustainable society including a radical approach to scaling extending and connecting th DSI network in Europe",
+          "Rcn" : "198820",
+          "Acronym" : "DSI4EU"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "2694",
+        "_score" : 72.73449,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2014",
+          "Text" : "INnovatiVE cohereNt detecTIon Optical access Networks In the called information age digital communications play an essential role on the economy and sustainable growth of the society  Access networks are essential part of the communication infrastructure as bridge between endusers and core networks Their design must make possible the provision of realtime highbandwidth access to Internet essential for advanced communication services as immersive video and ubiquitous cloud computing It is clearly foreseen that the only longterm solution to the problem involves optical fiber as transmission medium the so called optical access networks Passive optical network PON is the most widely employed technology because of the cost reduction it entails but the capacity of actual timedivision multiplexed PONs will be exhausted eventually as more bandwidthhungry applications become available in the near future Telecommunications carriers face the challenge of meeting the unprecedented bandwidth demand by end users at the same time the capital and operating expenditures requirements are reducedINVENTION project targets the development of costeffective and high capacity communication architectures for their employment on optical accessmetro networks The proposed concept will be based on the employment of coherent detection with lowcost and simplified optical receiver architectures making sure that the proposed approaches meet the cost requirements of these optical networks The proposed concepts will be implemented by a suitable combination of optical signal processing techniques and digitalsignalprocessing DSP algorithms keeping the required DSP at realizable levels The final scope of INVENTION is the proposal of midterm and longterm solutions for the achievement of the objectives included in the digital agenda 2020 for the ICT strategy",
+          "Rcn" : "195865",
+          "Acronym" : "INVENTION"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15469",
+        "_score" : 70.39835,
+        "_source" : {
+          "identifier" : "H2020INFRAIA20171twostage",
+          "Text" : "European Infrastructure Powering the Internet of Things EnABLES will integrate key European research infrastructures in powering the Internet of Things IoT 6 research institutes together with 5 knowledge hubs of excellence will address the long term needs of energy management in selfpowered smart sensor systems as required by IoT innovation To enable truly invisible unobtrusive and selfpowered autonomous wireless devices a key challenge is to bridge the gap between capturing energy supply from energy harvesting sources EH integrating new devices for energy storage ES and taking into account the micropower management MPM requirements for the miniaturised system operation Through providing access to unique infrastructure worldleading expertise advanced equipment and stateoftheart technologies EnABLES will empower several hundreds of academic researchers and technologists to advance energy harvesting storage and micropower management solutions for the integrated design and deployment of miniaturised autonomous sensors Access will range from materials  models to devices and systems and the access providers will work with the user community to accelerate adoption and innovation in reallife applications The EnABLES integration offers a paradigm shift in building an infrastructure network that links new scientific knowledge with applicationdriven research Specifically for energy management solutions this will deliver a mindset change for early concurrent and collaborative development of systemoptimised IoT devices This presents a unique opportunity for Europe to uphold global leadership in microsystem energy management and be positioned at a pivotal time at the heart of the IoT innovation",
+          "Rcn" : "212582",
+          "Acronym" : "EnABLES"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5752",
+        "_score" : 69.49438,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Largescale RINA benchmark on FIRE ARCFIRE will bring RINA from labs into the realworld RINA the Recursive InterNetwork Architecture is an innovative backtobasics network architecture that solves current limitations and facilitates full integration between distributed computing and networking RINA addresses the challenges that drive the communications industry in moving from dedicated hardware to almost completely virtualised infrastructure The next shift 5G on the horizon for 2020 will change the communication industry even more significantly Now is the right time for ARCFIRE to provide experimental evidence of RINAs benefits at large scale in compelling and realistic business cases thus motivating RINA adoption ARCFIRE will experimentally demonstrate RINAs key benefits integrating current EC investment in advanced networks IRATI PRISTINE and Future Internet testbeds FIRE focusing on 5 goals 1 Facilitate comparison of converged operator networks using RINA to operators current network designs 2 Produce a robust RINA software suite ready for Europe to engage in largescale deployments and longliving experiments 3 Provide relevant experimental evidence of RINA benefits to network operators their equipment vendors application developers and endusers 4 Build on the current EU Future Internet community and raise the number of organisations involved in RINA development and deployment 5 Enhance the FIRE infrastructure with ready to use RINA software ARCFIRE will have longterm sustainable impact on how we build infrastructure for the Networked Society ARCFIREs deployed software suite will enable equipment vendors to shorten their innovation life cycle network operators to run advanced networks addressing their needs in a futureproof fashion European SMEs to find and exploit specialised markets and application developers to explore unseen opportunities ARCFIREs consortium has the experience and resources to achieve these goals and provide this impact",
+          "Rcn" : "199487",
+          "Acronym" : "ARCFIRE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1306",
+        "_score" : 69.11717,
+        "_source" : {
+          "identifier" : "ERC2014CoG",
+          "Text" : "Learning From Failing and Passing Executions At the Speed of Internet Modern software systems must be extremely flexible and easily adaptable to different user needs and environments However this flexibility also introduces relevant quality issues These problems are so common that is sufficient browsing the Web to find millions of reports about failures observed after updates and incompatibilities caused by the interaction of a newly installed component with the existing components The impact of problems introduced by endusers can be dramatic because endusers can easily modify applications like developers do but endusers have neither the knowledge nor the skill of developers and they cannot debug and fix the problems that they unintentionally introduce It is thus necessary to timely develop novel solutions that can increase the reliability of the moderns systems which can be extended and adapted by endusers with the capability to automatically address problems that are unknown at developmenttimeThe Learn project aims to produce innovative solutions for the development of systems that can work around the problems introduced by endusers when modifying their applications The three key elements introduced by Learn to automatically produce a temporary fix for the software are 1 the definition of the InternetLearn infrastructure which is a network infrastructure that enables communication between every individual instance of a same program running at different endusers sites thus augmenting each application with the capability to access a huge amount of information collected inthefield from other sites 2 the definition of analysis techniques that can learn the characteristics of successful and failed runs by monitoring executions in the field from a number of instances running at many enduser sites and 3 the definition of techniques for the automatic generation and actuation of temporary fixes on an Internet World scale",
+          "Rcn" : "194474",
+          "Acronym" : "Learn"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15212",
+        "_score" : 68.61415,
+        "_source" : {
+          "identifier" : "H2020ICT20171",
+          "Text" : "Ecosystem building blocks for the Next Generation Internet movement We are yet again at a critical stage for Europe With the threat of geopolitical instability coming from several dimensions Europe needs to not just assert its presence on the world stage but moreover needs to assert its digital sovereignty to further its vision of a single digital market The need for a European leadership role for the Next Generation Internet is clearNGI MOVE is to inspire Europe to become a leader in the cocreation of the NGI in a more human centric societal and economic beneficial ecosystem of researchers high tech startups industrial and government leaders as well as grassroots communities and individualsThe vision is to create a NGI that is at the service of people and stimulates business opportunities centred on European values and competing globally Our message is pragmatic cybernetics balancing extreme centralisation and extreme decentralization where data stays with citizensThe main activities of the project are driven by the following activitiesConnecting the Next Generation Internet Ecosystem is the primary activity in that it identifies and engages with the most brilliant researchers entrepreneurs and individualsCocreating the Next Generation Internet Ecosystem is all about creating content that fuels the community and motivates people to engage Three subactivities are to cocreate 1 the organisational model around the NGI flagship initiative 2 the concepts and models that make up the characteristics for the NGI flagship initiative 3 a number of NGI scenarios that can drive a vision and common basis for discussion amongst the many diverse stakeholdersThe final activity is to launch the NGI Ecosystem In essence this is the tangible outcome of the project that provides the basis for the NGI flagship initiative beyond H2020 In essence it delivers a brand a model organisation and set of tools to support the ecosystem as well as the people that are active participants in shaping the NGI",
+          "Rcn" : "212237",
+          "Acronym" : "NGI MOVE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "1787",
+        "_score" : 68.45098,
+        "_source" : {
+          "identifier" : "H2020INFRAIA20142015",
+          "Text" : "European LongTerm Ecosystem and socioecological Research Infrastructure A collective effort is needed to create the environmental research infrastructure for answering pressing questions in a world of rapid social economic and environmental changeThe overall aim of the eLTER project is to advance the European network of LongTerm Ecosystem Research sites and socioecological research platforms to provide highest quality services for multiple use of a distributed research infrastructureeLTERs major objectives and methods are to1 identify user needs for the research infrastructure in relation to major societal challenges through consultations with scientific policy and business stakeholders and horizon scanning 2 streamline the design of a costefficient panEuropean network able to address multiple ecosystem research issues in collaboration with related global and European research infrastructures eg LifeWatch3 develop the organisational framework for data integration and enable virtual access to the LTER data by enabling data publishing through distributed Data Nodes and by providing access to data on key research challenges through a Data Integration Platform 4 foster the societal relevance usability and multiple use of information data and services through new partnerships with the providers of remotely sensed data analytical services and scenario testing models and via the adoption of new measurement technologiesThe LTEREurope network and the European Critical Zone community will collaborate to achieve these goals 162 sites in 22 countries will provide data on longterm trends in environmental change some reaching back 100 years Test cases using these data will address a range of environmental and social issues to push innovation in network level services and steer conceptual developments The envisaged LTER Infrastructure will enable Europeanscale investigation of major ecosystems and socioecological systems and support knowledgebased decision making at multiple levels",
+          "Rcn" : "194957",
+          "Acronym" : "eLTER"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "9619",
+        "_score" : 68.441765,
+        "_source" : {
+          "identifier" : "H2020EUJ20161",
+          "Text" : "ICN2020 Advancing ICN towards realworld deployment through research innovative applications and global scale experimentation Information access on the Internet is exploding Usage is shifting to multimedia applications social networking and IoE Cellular networks are moving to the next generation Networking technology is shifting towards virtualization with SDN and NFV likely to change the infrastructure landscape The cloud concept is transforming the Internet to a network of data centers with a communication model consisting of computertocloudtocomputer interactions Security concerns are leading to an encryption of all traffic wreaking havoc with established network mechanismsIn this scenario with dramatic growth and evolution where abstractions and interfaces become fundamental ICN is just the perfect solution ICN2020 will build on the wealth of studies performed on ICN with six main aims a design and develop a set of innovative applications such as video delivery interactive videos and social networks to exploit ICN b augment ICN with IoT features and cloudCDNvirtualization services c accordingly enhance existing ICN solutionsarchitectures d build local and global testbeds to experiment the applications services and ICN enhancements e contribute to common APIs and standards by continuing the work that project partners are already doing and f Industry POCs of products and services exploiting ICNThe ICN2020 consortium includes leading experts in ICN and contributors to ICN testbeds in EU Japan and USA thus making the goal of federating them a credible one Partners are also coordinators of running projects on 5G and Cloud topics allowing fruitful cooperation with fellow projects of the EUJP1 EUJP2 calls and increasing the overall expected impact of the EUJapan cooperation In a time when 5G networks are being designed with foreseen unprecedented flexibility due to the virtualization and slice concepts the development of compelling demonstrations of ICN for realworld usecases will encourage critical industry investment of resources",
+          "Rcn" : "205699",
+          "Acronym" : "ICN2020"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "7830",
+        "_score" : 68.198204,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2015",
+          "Text" : "Traditional Organised Crime and the Internet The changing organization of illegal gambling  networks Transnational criminal networks utilise Information Communication Technology ICT to commit old and new types of crime  ICT assists in transnational crime ie hacking and also as a way to exchange information or plan new crimes Empirical research has provided ample evidence that social and familial networks play a crucial role in the formation and growth recruitment of criminal networks However ICT now makes it possible for organised crime to form networks without the restrictions of geographic proximity and with the growth in the online gambling sector estimated at 13 billion Euros per annum in the EU worth approximately 15 percent of EU gambling market such sums of revenue attracts unwanted attention from organised cybercriminals This proposal will therefore examine online gambling and extortion networks The reasons for this is that gambling  illegal and legal  has often attracted organised crime and empirical evidence regarding online gambling and extortion in EU is limited The objectives of this research areestablish tools and technique that facilitate management of internalexternal cyberthreats to online gambling sector  validate tools and techniques that will facilitate the management of internalexternal cyberthreats to online gambling sectorset standards of information management set standards of dissemination and flows of information to cybersecurity centres from online gambling sector in EUThis is to be achieved byinterviews with key individuals systems managers at online sites and law enforcementanalyse data for information flows and breaking down volume of information into accessible data for internal and external use analyse current decision making processessystems and processing information analyse exchange of data to improve and implement best practice available in cybersecurity across EU online gambling sites",
+          "Rcn" : "202926",
+          "Acronym" : "OCGN"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "5324",
+        "_score" : 68.18496,
+        "_source" : {
+          "identifier" : "H2020MSCAITN2015",
+          "Text" : "Understanding and controlling complex systems Europe faces major challenges in science society and industry induced by the complexity of our hyperconnected world  Examples are the climate change infectious diseases artificial interconnected systems whose dynamics are beyond our understanding such as the internet the global banking system and the power grid A demand of performance emerges at an unprecedented scale collaborative sensors and robots so to ensure competitiveness of our European production industry better management of our traffic flows designing desynchronization mechanisms applicable in neuroscience are examples illustrating the necessity to understand and control the dynamics of complex networks However this requires a fundamentally new kind of complexity science The traditional way of reducing a system to its components fails when the global dynamics are determined mainly by the interactions Moreover an interdisciplinary approach is necessary as revealing common principles is key in getting grip on the complexityThe objectives of UCoCoS are to create a controloriented framework for complex systems and to define a common language common methods tools and software for the complexity scientist Moreover as the first training network on the theme UCoCoS aims at i creating a closely connected new generation of leading European scientists capable of designing network structures and policies to affect the networks and ii initiating longterm partnerships and collaboration mechanisms leading to sustainable doctoral trainingThe UCoCoS approach builds on recent developments in three domains control computer science mechanical engineering and stems from the identification of a unique combination of expertise within the consortium Every ESR performs a cuttingedge project strongly relying on the complementary expertise of the three academic beneficiaries and benefiting from training by nonacademic partners from three different sectors",
+          "Rcn" : "199022",
+          "Acronym" : "UCoCoS"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "10259",
+        "_score" : 67.678215,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Decentralised Citizens Owned Data Ecosystem Todays Internet is becoming increasingly centralised slowing innovation and challenging its potential to revolutionise society and the economy in a pluralistic manner DECODE will develop practical alternatives through the creation evaluation and demonstration of a distributed and open architecture for managing online identity personal and other data and collective governance in a citizenfriendly and privacyaware fashion Strong digital rights that makes it possible for data subjects to determine access rights to their information through flexible entitlements and open standardbased agreements regarding data governance on the model of Creative Commons licenses will be woven into the technological architectureDECODE will increase digital sovereignty of European citizens by enabling them to produce access and control their data and exchange contextualised information in realtime and in a confidential and scalable manner DECODE will develop a modular privacyaware IoT hub with a free and open source operating system backed by a state of the art blockchain infrastructure supporting smartcontracts and privacy protectionsThe architecture will be demonstrated through four pilots in Barcelona and Amsterdam in the field of digital democracy citizen sensing and collaborative economy The pilots will be run with the active involvement of social entrepreneurs hackers and makers Innovators will be able to build solutions on top of the platform through hackathons and open challenges while ensuring their security resilience and privacy preserving qualities This aims to create a decentralised innovation ecosystem that will attract a critical mass able to shift the current centralised datadriven economy towards a decentralised sustainable and commonsbased economy DECODE puts agency and data control in the hands of citizens to improve citizens wellbeing and society for the collective benefit of all",
+          "Rcn" : "206387",
+          "Acronym" : "DECODE"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15677",
+        "_score" : 67.31647,
+        "_source" : {
+          "identifier" : "ERC2017STG",
+          "Text" : "The Disrupted Society mapping the societal effects of blockchain technology diffusion Recent advances in cryptography yielded the blockchain technology which enables a radically new and decentralized method to maintain authoritative records without the need of trusted intermediaries Bitcoin a cryptocurrency blockchain application has already demonstrated that it is possible to operate a purely cryptographybased global distributed decentralized anonymous financial network independent from central and commercial banks regulators and the stateThe same technology is now being applied to other social domains eg public registries of ownership and deeds voting systems the internet domain name registry But research on the societal impact of blockchain innovation is scant and we cannot properly assess its risks and promises In addition crucial knowledge is missing on how blockchain technologies can and should be regulated by law The BlockchainSociety project focuses on three research questions 1 What internal factors contribute to the success of a blockchain application 2 How does society adopt blockchain  3 How to regulate blockchain It breaks new ground as it 1 maps the most important blockchain projects their governance and assesses their disruptive potential 2 documents and analyses the social diffusion of the technology and builds scenarios about the potential impact of blockchain diffusion and 3 it creates an inventory of emerging policy responses compares and assesses policy tools in terms of efficiency and impact The project will 1 build the conceptual and methodological bridges between information law the study of the selfgovernance of technological systems via Science and Technology Studies and the study of collective control efforts of complex sociotechnological assemblages via Internet Governance studies 2 address the most pressing blockchainspecific regulatory challenges via the analysis of emerging policies and the development of new proposals",
+          "Rcn" : "212798",
+          "Acronym" : "BLOCKCHAINSOCIETY"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "6549",
+        "_score" : 67.20989,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Understanding Collective Awareness Platforms with the Maker Movement Powerful tools provided by ICT software and hardware have revolutionised and many would claim democratised publishing broadcasting and communications Now the same is happening to manufacturing as tangible objects are created and designed as virtual bits which can be shared globally but then reproduced as things which manifest themselves locally This is the maker movementMAKEIT will study maker communities both through ten different case studies and innovation action research to enhance their use of Collective Awareness Platforms CAPs CAPs support maker communities and networks to innovate design and make physical products based on peer collaboration and sharing MAKEIT in which key maker platforms technology firms and citizen communities participate will focus on three perspectives organisation and governance of the communities their peer and collaborative activities and behaviour and their economic and societal value and impact Together the findings will inform recommendations for the maker movement itself and its implementation through CAPs and be made assessable to many other CAPs uses in areas like health education and transport MAKEIT will also offer strategic advice for industry and give recommendations for nationallevel and European policy makersA better understanding of how CAPs are central to the maker movement will enable more sustainable production and consumption patterns by generating awareness and by leveraging peer pressure for better lifestyles through behavioural and system change It will also contribute directly to constructing a more circular economy by stimulating resource efficiency reusing materials and energy and redesigning production processes to move towards zero waste CAPssupported maker communities can create new types of jobs and new ways of working both bottomup and linking to smart industry which are widely distributed across society both geographically and amongst the population",
+          "Rcn" : "200424",
+          "Acronym" : "MAKE-IT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "15920",
+        "_score" : 66.518776,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "Secure and Safe Internet of Things The IoT is coming upon us faster than we think catapulting EU industry homes and society into the huge arena of security risks that accompany an untested yet already universal technology that directly manages our cyberphysical reality on a daily and indeed second by second basis Attacks on content and quality of service of the IoT platforms can have economic energetic and physical security consequences that go way beyond the traditional Internets claimed lack of security and beyond the threats posed by attacks to mobile telephony The secure SerIoT platform is a key step that can be used to implement secure IoT platforms and networks anywhere and everywhere The SerIoT project will develop implement and test a generic IoT framework based on an adaptive smart Software Defined Network with verified software secure routers advanced analytics and user friendly visual analytics SerIoT will optimize the information security in IoT platforms and networks in a holistic crosslayered manner ie IoT platforms  devices honeypots SDN routers and operators controller that will be based both on dynamic and distributed processing of variable complexity by single network components ie IoT platforms devices and honeypots will perform lightweighted processes while SDN routers will be shouldered with more heavy processes as well as on a centrally located servercontroller that will have the main control of the network and will collect aggregate and fuse the relevant information Largescale pilots will test SerIoT technology in various use cases including intelligent transport and surveillance flexible manufacturing within Industrie 40 and other emerging domains such as food chain  logistics mHealth both at Home  in Hospitals business scenarios and energy smart gridThrough these technology developments and testbeds the project will deliver a unique portable softwarebased SerIoT network that can spearhead Europes success in the IoT",
+          "Rcn" : "213102",
+          "Acronym" : "SerIoT"
+        }
+      },
+      {
+        "_index" : "my_index",
+        "_type" : "index",
+        "_id" : "897",
+        "_score" : 66.42727,
+        "_source" : {
+          "identifier" : "H2020HCO2014",
+          "Text" : "Global Research Collaboration for Infectious Disease Preparedness GloPIDR Secretariat GLOPIDRSec is the secretariat to the Global Research Collaboration for Infectious Disease Preparedness GloPIDR The secretariat will be staffed by Fondation Mrieux and the University of Oxford and will provide the following support activities to the GloPIDR member organisations working groups and commitees Organizational financialadministrative and secretarial support activities to the GloPIDR governance structure ensuring efficient information exchange amongst all GloPIDR members and stakeholders Connecting GloPIDR to relevant research networks and mapping of their current scientific and operational status in terms of research preparedness in support of the development of operational readiness towards initiating a rapid coordinated international research response to emerging infectious disease outbreaks This will include mapping of different interrelated barriers scientific infrastructural human resource capacities and skills political ethical regulatory legal societal  ICT financial Assisting GloPIDR in the development of a strategic agenda and a readiness plan that serve as common and central guiding documents for all members and external stakeholders Developing and implementing a comprehensive communication and dissemination plan for information sharing within the GloPIDR community to ensure stakeholders are wellinformed and aligned and to raise public awareness about and engagement in the initiativeFondation Mrieux and the University of Oxford can build on ongoing efforts and the results thereof of high relevance to GloPIDR in their respective lined networks such as AVIESAN and ISARIC Fondation Mrieux will be the coordinator of GloPIDRSec with its office at Lyon France as the central point of contact of the Secretariat",
+          "Rcn" : "194065",
+          "Acronym" : "GlOPID-R-Sec"
+        }
+      }
+    ]
+  }
+}
